@@ -327,7 +327,7 @@ const DILEMAS = [
   "debate": {
    "epoca": "XXe siècle",
    "texto": "« Agis de telle sorte que tu traites l'humanité, aussi bien dans ta personne que dans la personne de tout autre, toujours en même temps comme une fin, et jamais simplement comme un moyen. »",
-   "fuente": "Kant, Fondements de la métaphysique des mœurs (1785). Le dilemme a été formulé par Philippa Foot en 1967 ; la variante du pont est de Judith Jarvis Thomson (1985).",
+   "fuente": "Kant, Fondements de la métaphysique des mœurs (1785). Le dilemme a été formulé par Philippa Foot en 1967 ; la variante du pont a été proposée par Judith Jarvis Thomson en 1976, et en 1985 elle a donné son nom au « problème du tramway ».",
    "unidad": "fil-t5"
   },
   "preguntas": [
@@ -592,5 +592,210 @@ const DILEMAS = [
   ],
   "ysi": "Et si le faussaire avouait avoir peint le tableau par amour du maître, sans intention de tromper, et que c'est un marchand qui y a mis la signature ? L'intention de celui qui l'a fait change-t-elle la valeur de l'œuvre ?",
   "dato": "Quand van Meegeren fut arrêté en 1945, accusé d'avoir vendu un Vermeer à Göring, il dut peindre un autre « Vermeer » en prison, devant témoins, pour prouver que les tableaux étaient faux et échapper à l'accusation de collaboration. Il y parvint."
+ },
+ {
+  "subject": "fil",
+  "grupo": "fil-humano",
+  "id": "fil-fision",
+  "emoji": "👥",
+  "etiqueta": "Identité et survie",
+  "titulo": "Les deux qui se réveillent",
+  "situacion": "Après un accident, ton corps n'est plus réparable, mais ton cerveau, lui, l'est. Les chirurgiens n'ont qu'une façon de te sauver : séparer les deux hémisphères et greffer chacun dans un corps différent. L'opération est imaginaire, même si elle part de quelque chose de réel : il y a des personnes qui vivent avec un seul hémisphère et d'autres chez qui on a coupé la connexion entre les deux. Suppose que chaque moitié conserve toute ta vie mentale. Les deux corps se réveillent. Tous deux se souviennent de ton enfance, reconnaissent ta famille, ont tes manies et tes projets, et tous deux affirment être toi avec la même conviction. Avant de signer l'autorisation, on te demande ce que tu t'attends à voir arriver.",
+  "a": "Je survivrai, même en deux exemplaires : ce qui compte pour moi — mes souvenirs, mon caractère, mes projets — continuera à vivre dans les deux, et c'est tout ce que je demandais à la survie.",
+  "b": "Je ne survivrai pas : une personne ne peut pas être deux ; si les deux ont le même droit d'être moi, aucun ne l'est, et ce qui se réveille, ce sont deux personnes nouvelles qui me ressemblent.",
+  "pregunta": "Qu'est-ce qui fait qu'une personne reste la même au fil du temps ? Et si l'identité peut se briser en deux, est-ce vraiment l'identité qui nous importe quand nous survivons ?",
+  "enjuego": "Les critères de l'identité personnelle (la mémoire, le corps, le récit) poussés à la limite, et la différence entre être le même individu (identité numérique) et être pareil (identité qualitative).",
+  "escuelas": [
+   {
+    "quien": "Locke (empirisme)",
+    "elige": "A",
+    "porque": "Oui, mais avec un problème : l'identité personnelle est la continuité de la conscience et de la mémoire, et les deux corps conservent ta conscience. Son critère dit que les deux sont toi, et une personne ne peut pas être deux : c'est un cas que Locke ne s'était pas posé.",
+    "ilustre": "locke"
+   },
+   {
+    "quien": "Parfit (XXe siècle)",
+    "elige": "A",
+    "porque": "De la fission il a tiré une conclusion surprenante : ce qui nous importe quand nous survivons, ce n'est pas l'identité, mais la continuité psychologique (souvenirs, caractère, projets). Se dédoubler ne ressemble pas à mourir : cela ressemble beaucoup à survivre."
+   },
+   {
+    "quien": "Thomas Reid",
+    "elige": "B",
+    "porque": "Une personne est quelque chose d'indivisible : on ne peut pas être une demi-personne ni deux à la fois. La mémoire montre l'identité, mais ne la crée pas ; que les deux aient tes souvenirs ne les rend pas identiques à toi."
+   },
+   {
+    "quien": "Descartes (rationalisme)",
+    "elige": "B",
+    "porque": "Pour une autre raison : l'esprit, la chose qui pense, est indivisible, à la différence du corps ; on ne peut pas le couper en deux avec les hémisphères. Ce que divise le chirurgien, c'est le corps, pas le moi.",
+    "ilustre": "descartes"
+   }
+  ],
+  "debate": {
+   "epoca": "XVIIe et XXe siècles",
+   "texto": "« Aussi loin que cette conscience peut s'étendre en arrière, à toute action ou pensée passée, jusque-là va l'identité de cette personne. »",
+   "fuente": "Locke, Essai sur l'entendement humain, II, 27, 9 (chapitre ajouté dans la 2e édition, 1694). Le cas de la fission a été rendu célèbre par Derek Parfit (« Personal Identity », 1971 ; Raisons et personnes, 1984).",
+   "unidad": "fil-t2"
+  },
+  "preguntas": [
+   "Si les deux sont toi, à qui appartiennent ta maison, ton portable, ta place au lycée ? Et si l'un commet un délit, punit-on aussi l'autre ?",
+   "Thomas Reid disait que la mémoire ne crée pas l'identité, elle ne fait que la montrer : le bébé que tu as été, c'était toi, même si tu ne t'en souviens pas. Qu'y a-t-il donc, en plus de la mémoire, qui fait que tu es toi ?",
+   "Si l'on te disait que seul l'un des deux va se réveiller, trouverais-tu la nouvelle meilleure ou pire ? Pourquoi est-il étrange qu'« un » sonne mieux que « deux » ?"
+  ],
+  "ysi": "Et si l'un des deux corps ne se réveillait jamais ? Presque tout le monde dirait que tu as survécu dans l'autre. Mais alors, que le second se réveille ne peut pas transformer ta survie en ta mort. Si c'est le cas, ton identité dépend de quelque chose qui ne t'arrive même pas à toi.",
+  "dato": "Les opérations qui inspirent ce cas existent : à certaines personnes atteintes d'épilepsie grave, on a coupé la connexion entre les hémisphères (le corps calleux), et à certains enfants on a retiré ou déconnecté un hémisphère entier ; beaucoup mènent une vie normale. Roger Sperry a reçu le prix Nobel en 1981 pour avoir étudié des patients au cerveau divisé. Ce qui n'existe pas, c'est la greffe : cette partie-là est l'expérience de pensée."
+ },
+ {
+  "subject": "fil",
+  "grupo": "fil-conocer",
+  "id": "fil-jersey",
+  "emoji": "🧶",
+  "etiqueta": "Croyance et raison",
+  "titulo": "Le pull de l'assassin",
+  "situacion": "Dans une friperie, tu trouves un pull en belle laine, propre, à ta taille et à très bon prix. La vendeuse, qui est honnête, te raconte d'où il vient : il a appartenu à un homme condamné pour plusieurs meurtres, qui le portait souvent. Il est passé par une blanchisserie industrielle et personne d'autre ne le sait. Tu sais que la laine ne garde rien et que la méchanceté n'est pas une substance qui s'accroche aux vêtements. Pourtant, tu hésites. Tu dois décider si tu l'emportes ou si tu le laisses sur son cintre.",
+  "a": "Je l'emporte : je sais que le tissu ne garde rien, et une croyance que je ne peux pas défendre ne devrait pas décider à ma place.",
+  "b": "Je le laisse : même si je ne sais pas l'expliquer, ce rejet dit quelque chose de moi, et tout ce que je ressens n'a pas à passer l'examen de la raison pour avoir le droit d'exister.",
+  "pregunta": "Faut-il croire seulement ce que l'on peut justifier ? Que faire des croyances que nous savons sans fondement mais que nous n'arrivons pas à cesser de ressentir ?",
+  "enjuego": "La différence entre savoir et croire, le passage du mythe au logos en miniature (à l'intérieur de chacun) et un soupçon désagréable : combien de tes croyances fonctionnent comme le pull sans que tu le remarques.",
+  "escuelas": [
+   {
+    "quien": "Kant (Lumières)",
+    "elige": "A",
+    "porque": "S'éclairer, c'est oser se servir de son propre entendement. Une peur héritée qui ne résiste pas à l'examen de la raison ne doit pas te guider : la laisser décider, c'est rester dans la minorité.",
+    "ilustre": "kant"
+   },
+   {
+    "quien": "Descartes (rationalisme)",
+    "elige": "A",
+    "porque": "Sa première règle de la méthode : ne jamais admettre comme vrai rien que l'on ne connaisse avec évidence. Un préjugé ne gagne pas en autorité parce qu'il est très enraciné.",
+    "ilustre": "descartes"
+   },
+   {
+    "quien": "Épicure",
+    "elige": "A",
+    "porque": "Connaître le fonctionnement de la nature sert à se libérer des peurs sans fondement. Le tissu, ce sont des atomes, comme tout le reste ; le craindre, c'est laisser une peur vide t'enlever la sérénité.",
+    "ilustre": "epicuro"
+   },
+   {
+    "quien": "Hume (empirisme)",
+    "elige": "B",
+    "porque": "Avec des nuances : la raison seule ne pousse pas à agir ; les sentiments et l'habitude décident presque tout ce que nous faisons, et un rejet sans argument n'est pas une folie, c'est quelque chose d'humain. Ce qu'il ne doit pas faire, c'est devenir une croyance sur la laine.",
+    "ilustre": "hume"
+   }
+  ],
+  "debate": {
+   "epoca": "XVIIIe siècle (les Lumières)",
+   "texto": "« Aie le courage de te servir de ton propre entendement ! Voilà la devise des Lumières. »",
+   "fuente": "Kant, Réponse à la question : Qu'est-ce que les Lumières ? (1784). La règle de ne rien accepter sans évidence est la première du Discours de la méthode de Descartes (1637).",
+   "unidad": "fil-t3"
+  },
+  "preguntas": [
+   "Essaie d'écrire la raison pour laquelle tu ne le mettrais pas. Est-ce une raison ou un sentiment qui a pris la forme d'une raison ?",
+   "Mettrais-tu un sweat qu'a porté ton chanteur préféré lors d'un concert ? Si oui, ne crois-tu pas la même chose, mais à l'envers ?",
+   "Comment distingues-tu, de l'intérieur, une croyance que tu pourrais défendre d'une croyance que tu ne pourrais pas défendre ? Se ressentent-elles différemment ?"
+  ],
+  "ysi": "Et si personne ne t'avait dit à qui il appartenait ? Tu le mettrais sans y penser. La seule chose qui a changé, c'est une phrase que tu as entendue : qu'est-ce qui te touche la peau, la laine ou l'histoire ?",
+  "dato": "Le psychologue Paul Rozin et ses collaborateurs étudient depuis les années 1980 cette « contagion magique » : la croyance que les choses gardent quelque chose de celui qui les a touchées. Beaucoup de gens refusent de mettre un pull propre qu'a porté une personne malfaisante ou malade, même s'ils reconnaissent qu'il n'y a aucun risque."
+ },
+ {
+  "subject": "fil",
+  "grupo": "fil-conocer",
+  "id": "fil-existir",
+  "emoji": "🕸️",
+  "etiqueta": "Être et exister",
+  "titulo": "Le village et le super-héros",
+  "situacion": "Pense à un village d'Ouganda : environ trois cents personnes qui cultivent, élèvent du bétail, se connaissent et s'entraident ; chacune a un nom, un visage et une histoire, et se réveille chaque matin comme toi. Il y a un instant, tu ne savais pas qu'elles existaient, et dans un moment tu les auras oubliées. Pense maintenant à Spider-Man : tu sais qui se cache sous le masque, pourquoi son oncle est mort et tu pourrais discuter tout un après-midi pour savoir s'il a eu raison ou non dans une décision. Spider-Man n'existe pas ; les trois cents personnes, si. Un ami te demande lequel des deux est le plus réel pour toi.",
+  "a": "Le village : exister ne dépend pas de ce que je le sache ni de ce qu'il m'importe ; ces personnes sont réelles même si personne ne pense à elles, et Spider-Man ne l'est pas, même si la moitié du monde pense à lui.",
+  "b": "En un certain sens, Spider-Man : il agit dans mes idées, dans mes décisions et dans mes conversations ; ce qui existe mais ne me touche en rien est, pour moi, presque comme s'il n'existait pas.",
+  "pregunta": "Qu'est-ce qu'être réel ? Exister, est-ce la même chose qu'être présent dans la vie de quelqu'un ? De quelle manière « sont » les choses qui n'existent que dans l'imagination ?",
+  "enjuego": "La distinction entre essence et existence (savoir ce qu'est une chose ne garantit pas qu'elle existe), les différents modes d'être et la vieille question de la métaphysique : qu'y a-t-il vraiment, indépendamment de la façon dont cela nous affecte.",
+  "escuelas": [
+   {
+    "quien": "Aristote",
+    "elige": "A",
+    "porque": "Ce qui est réel en premier lieu, ce sont les substances concrètes, qui existent par elles-mêmes : ces personnes. Spider-Man n'existe que dans autre chose, dans les bandes dessinées et dans les esprits : il est, mais d'une manière dérivée. L'être se dit en plusieurs sens.",
+    "ilustre": "aristoteles"
+   },
+   {
+    "quien": "Thomas d'Aquin",
+    "elige": "A",
+    "porque": "Tu peux très bien savoir ce qu'est Spider-Man, son essence, sans qu'il existe. Connaître l'essence d'une chose ne lui donne pas l'existence, et le village a justement ce qui manque à Spider-Man : il existe.",
+    "ilustre": "tomas"
+   },
+   {
+    "quien": "Berkeley (idéalisme)",
+    "elige": "A",
+    "porque": "Être, c'est être perçu, mais tout ce qui est perçu n'a pas la même valeur : les idées des sens, vives et ordonnées, qui ne dépendent pas de ma volonté, sont les choses réelles ; celles que fabrique l'imagination, comme Spider-Man, sont plus faibles et dépendent de moi.",
+    "ilustre": "berkeley"
+   },
+   {
+    "quien": "Nietzsche",
+    "elige": "B",
+    "porque": "Il se méfie de celui qui sépare un « monde vrai » du monde que nous vivons : dans Le Crépuscule des idoles, il raconte comment ce « monde vrai » a fini par devenir une fable. Ce qui compte, c'est ce qui agit dans une vie, et ce que Spider-Man fait dans la tienne est réel.",
+    "ilustre": "nietzsche"
+   }
+  ],
+  "debate": {
+   "epoca": "IVe siècle av. J.-C. et XIIIe siècle",
+   "texto": "« L'être se dit en plusieurs sens, mais par rapport à une seule chose et à une seule nature. »",
+   "fuente": "Aristote, Métaphysique, IV, 2, 1003a33. Des siècles plus tard, Thomas d'Aquin a distingué l'essence d'une chose et son existence dans De l'être et de l'essence (vers 1252-1256).",
+   "unidad": "fil-metafisica"
+  },
+  "preguntas": [
+   "Que fait aujourd'hui dans ta vie l'existence de ces trois cents personnes que ne fait pas Spider-Man ? Si la réponse est « rien », cela signifie-t-il qu'exister n'a pas d'importance ?",
+   "Les nombres, les lois ou les promesses ne se touchent pas non plus. Existent-ils comme le village, comme Spider-Man ou d'une troisième manière ?",
+   "Si un jour tu voyageais jusqu'à ce village et rencontrais ses habitants, qu'est-ce qui changerait : eux ou ta relation avec eux ?"
+  ],
+  "ysi": "Et si tu apprenais que dans ce village il y a une petite fille qui peut mourir d'une maladie qui se soigne avec très peu d'argent, et que tu pourrais le payer ? Spider-Man pèserait-il encore plus lourd ? Si ta réponse change, ce qui t'importait n'était pas le réel, mais ce qui peut te demander quelque chose.",
+  "dato": "« Exister » vient du latin exsistere, « sortir, apparaître, se dresser » : existe ce qui est là dehors, pas seulement dans un esprit. La distinction entre savoir ce qu'est une chose et savoir qu'elle existe a été développée par Avicenne et Thomas d'Aquin : tu peux parfaitement savoir ce qu'est un dragon sans qu'il en existe un seul."
+ },
+ {
+  "subject": "fil",
+  "grupo": "fil-etica",
+  "id": "fil-medicamento",
+  "emoji": "🧪",
+  "etiqueta": "Motifs et raisons",
+  "titulo": "Le médicament volé",
+  "situacion": "Ta grand-mère a une maladie grave et il existe un nouveau médicament qui pourrait la sauver. Il a été découvert par un petit laboratoire de ta ville : fabriquer chaque dose lui coûte deux cents euros et il la vend deux mille. La santé publique ne le prend pas encore en charge. À toute la famille, vous avez réuni mille euros. Tu demandes au propriétaire de vous le céder à moitié prix ou de vous laisser payer le reste plus tard, et il refuse : c'est lui qui l'a découvert et il veut gagner de l'argent avec. Ce soir-là, tu sais comment entrer dans le laboratoire sans être vu.",
+  "a": "Entrer et l'emporter : une vie vaut plus que le profit d'un laboratoire, et cette raison vaudrait tout autant si la malade était une inconnue.",
+  "b": "Ne pas le voler : si chacun enfreint la loi quand il croit avoir un bon motif, la loi ne protège plus personne ; il faut chercher d'autres issues, même plus lentes.",
+  "pregunta": "Qu'est-ce qui rend une action juste : ses conséquences, le devoir, le caractère de celui qui agit ou le soin de ceux qui dépendent de nous ? Et quelle différence y a-t-il entre un motif (« c'est ma grand-mère ») et une raison qui vaille pour n'importe qui ?",
+  "enjuego": "La vie face à la propriété et à la loi, la différence entre motif et raison, et l'universalité de l'éthique : une raison morale doit aussi valoir quand le malade n'est pas l'un des tiens.",
+  "escuelas": [
+   {
+    "quien": "Thomas d'Aquin",
+    "elige": "A",
+    "porque": "En cas de nécessité extrême, toutes les choses sont communes : prendre le bien d'autrui pour sauver une vie, la sienne ou celle d'un autre, ce n'est pas proprement voler. La propriété existe pour servir la vie, et non l'inverse.",
+    "ilustre": "tomas"
+   },
+   {
+    "quien": "Mill (utilitarisme)",
+    "elige": "A",
+    "porque": "Il compte les conséquences : une vie sauvée pèse beaucoup plus que le préjudice causé à un laboratoire qui continuera à gagner de l'argent. Il ajouterait cependant un avertissement : une habitude générale de voler quand on se croit dans son droit aurait de mauvaises conséquences pour tous.",
+    "ilustre": "mill"
+   },
+   {
+    "quien": "Kant (éthique du devoir)",
+    "elige": "B",
+    "porque": "Mets ta maxime à l'épreuve : « je volerai quand je croirai en avoir besoin » ; érigée en loi universelle, elle détruit la propriété et la confiance. Le devoir d'aider existe, mais il n'autorise pas à violer le droit d'autrui ; Kant est allé jusqu'à dire que, dans un cas de nécessité, l'acte peut rester impuni, mais qu'il n'en est pas pour autant juste.",
+    "ilustre": "kant"
+   },
+   {
+    "quien": "Gilligan (éthique du care)",
+    "elige": "B",
+    "porque": "Comme Amy, la petite fille de son étude : voler peut rompre les relations dont dépend la malade (si tu te fais arrêter, qui s'occupera d'elle ?). Il faut continuer à parler avec le pharmacien et chercher de l'aide ; le problème n'est pas mathématique, c'est un problème de liens."
+   }
+  ],
+  "debate": {
+   "epoca": "XVIIIe et XXe siècles",
+   "texto": "« Agis seulement d'après la maxime grâce à laquelle tu peux vouloir en même temps qu'elle devienne une loi universelle. »",
+   "fuente": "Kant, Fondements de la métaphysique des mœurs (1785). Lawrence Kohlberg a utilisé un cas comme celui-ci, le dilemme de Heinz, depuis sa thèse de doctorat (1958) pour étudier la façon dont nous raisonnons ; Carol Gilligan lui a répondu dans Une si grande différence (In a Different Voice, 1982).",
+   "unidad": "fil-t5"
+  },
+  "preguntas": [
+   "Écris ta raison sans utiliser « parce que c'est ma grand-mère ». Vaut-elle encore si la malade est une inconnue ? Et si c'est quelqu'un que tu n'aimes pas ?",
+   "Le propriétaire du laboratoire a-t-il fait quelque chose de mal, ou seulement quelque chose de légal ? Une chose peut-elle être légale et injuste à la fois ?",
+   "Kohlberg disait que le pourquoi compte plus que le oui ou le non. Regarde ta raison : est-ce la peur de la punition, ce que penseraient les autres, la loi ou un principe qui vaille pour tous ?"
+  ],
+  "ysi": "Et si c'était l'unique dose et que le laboratoire l'avait réservée à un autre malade qui l'avait déjà payée ? Maintenant, voler n'enlève plus de l'argent à un entrepreneur : cela enlève la vie à une autre personne. Si tu changes de réponse, ta raison n'était pas « la vie vaut plus que la propriété ». Quelle était-elle ?",
+  "dato": "Le cas a des versions réelles : il existe des médicaments qui coûtent peu à fabriquer et se vendent très cher parce que le brevet donne à une entreprise le droit exclusif de les vendre pendant une vingtaine d'années. C'est pourquoi les règles de l'Organisation mondiale du commerce permettent aux pays, en cas d'urgence sanitaire, d'autoriser des copies sans la permission du titulaire du brevet (les « licences obligatoires »)."
  }
 ];
