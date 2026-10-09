@@ -67,6 +67,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
+   "fil-metafisica",
    "fil-presocraticos"
   ]
  },
@@ -106,6 +107,7 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-metafisica",
    "fil-presocraticos"
   ]
  },
@@ -155,6 +157,29 @@ const ILUSTRES = {
    "fil-presocraticos"
   ]
  },
+ "heraclito": {
+  "name": "Héraclite d'Éphèse",
+  "dates": "v. 540 – v. 480 av. J.-C.",
+  "born": -540,
+  "died": -480,
+  "place": "Éphèse (Ionie, actuelle Turquie)",
+  "role": "philosophe présocratique",
+  "idea": "Tout coule et rien ne demeure : la réalité est un changement incessant, né de la lutte des contraires mais régi par un logos ou loi rationnelle commune.",
+  "bio": "<p>Héraclite naquit à Éphèse, cité ionienne voisine de Milet, vers 540 av. J.-C., dans une famille aristocratique. Selon la tradition, il renonça à ses privilèges en faveur de son frère et vécut à l'écart, avec mépris pour la foule et pour les poètes. Il écrivit un livre, dont se conservent plus d'une centaine de brefs fragments sous forme d'aphorismes. En raison de son style énigmatique, les Anciens l'appelèrent l'Obscur.</p>\n<p>Sa thèse centrale est que <strong>tout coule</strong> (panta rei) : la réalité est <strong>devenir</strong>, changement incessant, comme un fleuve où l'on ne peut se baigner deux fois parce que ses eaux sont déjà autres. Le changement naît de la <strong>lutte des contraires</strong> (jour et nuit, vie et mort), qui ont mutuellement besoin l'un de l'autre. Le feu, toujours changeant, est le principe et le symbole de ce cosmos. Mais le changement n'est pas chaotique : il est régi par un <strong>logos</strong>, une loi rationnelle commune à tout, qui maintient la mesure et l'harmonie de l'ensemble, même si la plupart des humains ne la comprennent pas.</p>\n<p>Héraclite et Parménide représentent les deux grandes réponses au problème du changement. <strong>Platon</strong> reprit d'Héraclite l'idée que le monde sensible est en changement permanent, et qu'il ne peut donc être objet de science. Sa notion de logos influença les stoïciens, et des siècles plus tard Hegel et Nietzsche le revendiquèrent comme penseur du devenir.</p>",
+  "obras": [
+   "Sur la nature (fragments)"
+  ],
+  "anecdota": "<p>Aristote raconte que des visiteurs arrivèrent chez Héraclite, désireux de connaître le célèbre sage. Ils le trouvèrent en train de se chauffer près du four de la cuisine et restèrent plantés sur le seuil, surpris par un lieu si humble. Héraclite les invita à entrer : « Entrez, ici aussi il y a des dieux. » Aristote se sert de l'anecdote pour défendre l'étude des animaux les plus modestes, car dans toutes les choses naturelles il y a quelque chose d'admirable. Elle s'accorde avec la pensée d'Héraclite : le feu et le logos divin sont présents en toute chose, même dans ce qu'il y a de plus quotidien.</p>",
+  "fuente": "Aristote, Parties des animaux I",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
  "parmenides": {
   "name": "Parménide d'Élée",
   "dates": "v. 515 – v. 450 av. J.-C.",
@@ -175,7 +200,50 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-metafisica",
    "fil-presocraticos"
+  ]
+ },
+ "empedocles": {
+  "name": "Empédocle d'Agrigente",
+  "dates": "v. 495 – v. 435 av. J.-C.",
+  "born": -495,
+  "died": -435,
+  "place": "Agrigente (Sicile)",
+  "role": "philosophe présocratique",
+  "idea": "Tout se compose de quatre racines éternelles, terre, eau, air et feu, que l'Amour unit et que la Haine sépare dans un cycle cosmique sans fin.",
+  "bio": "<p>Empédocle naquit à Agrigente, en Sicile, vers 495 av. J.-C., dans une famille riche et influente. Il fut à la fois philosophe, poète, médecin et homme politique, et selon la tradition il défendit la démocratie dans sa cité. Il se présentait comme un sage aux pouvoirs presque divins. Une légende raconte qu'il mourut en se jetant dans le volcan Etna pour qu'on le crût un dieu, mais c'est un récit sans fondement fiable. Il écrivit en vers deux poèmes, <em>Sur la nature</em> et <em>Purifications</em>, dont il reste de nombreux fragments.</p>\n<p>Il accepte que rien ne naît du néant ni ne périt tout à fait, mais rejette que la réalité soit un être unique et immobile. Il propose quatre <strong>racines</strong> éternelles : terre, eau, air et feu. Les choses naissent quand ces racines se mêlent et meurent quand elles se séparent. Deux forces meuvent tout : l'<strong>Amour</strong>, qui unit, et la <strong>Haine</strong>, qui sépare. Leur alternance produit un <strong>cycle cosmique</strong> dans lequel l'une ou l'autre prédomine, et dans les phases intermédiaires surgit le monde que nous connaissons. Dans les <em>Purifications</em>, il défend, comme les pythagoriciens, la transmigration des âmes.</p>\n<p>Empédocle est l'un des <strong>pluralistes</strong> : il tente de concilier l'être de Parménide avec le changement que montrent les sens. Sa théorie des quatre éléments, reprise par Aristote, domina la science et la médecine jusqu'à l'époque moderne. Il expliqua aussi la perception par les effluves que dégagent les choses et qui entrent par les pores des organes des sens.</p>",
+  "obras": [
+   "Sur la nature (fragments)",
+   "Purifications (fragments)"
+  ],
+  "anecdota": "<p>Diogène Laërce raconte qu'à Agrigente soufflaient des vents si forts qu'ils ruinaient les récoltes. Empédocle fit écorcher des ânes et fabriquer avec leur peau des outres qu'il plaça sur les collines et dans les défilés pour piéger le vent. Quand le vent se calma, ses concitoyens se mirent à l'appeler « celui qui arrête les vents ». L'histoire, recueillie auprès d'historiens anciens, mêle technique et magie, comme la figure même d'Empédocle, qui promettait dans ses vers d'apprendre à ses disciples à calmer les tempêtes et à maîtriser les forces de la nature.</p>",
+  "fuente": "Diogène Laërce, Vies VIII",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
+ "zenon_elea": {
+  "name": "Zénon d'Élée",
+  "dates": "v. 490 – v. 430 av. J.-C.",
+  "born": -490,
+  "died": -430,
+  "place": "Élée (Grande-Grèce)",
+  "role": "philosophe éléate",
+  "idea": "Si l'on admet qu'il y a beaucoup de choses et qu'il y a du mouvement, on tombe dans des contradictions ; c'est pourquoi Parménide a raison : l'être est un et immobile.",
+  "bio": "<p>Zénon fut le disciple de <strong>Parménide</strong> à Élée, dans le sud de l'Italie. Dans le dialogue <em>Parménide</em>, Platon raconte que les deux hommes se rendirent à Athènes et qu'ils y conversèrent avec un Socrate encore très jeune. Il ne faut pas le confondre avec Zénon de Kition, le fondateur du stoïcisme, qui vécut un siècle et demi plus tard.</p>\n<p>Zénon ne défendit pas son maître par des preuves directes, mais en attaquant ses critiques : il montrait que, si l'on accepte la pluralité ou le mouvement, on aboutit à des conclusions absurdes. Ce sont ses célèbres <strong>paradoxes</strong>. Dans celui d'Achille et de la tortue, le coureur le plus rapide ne rattrape jamais la tortue, car chaque fois qu'il arrive là où elle se trouvait, elle a déjà avancé un peu. Dans celui de la flèche, une flèche en vol est immobile à chaque instant, donc elle ne bouge jamais. À cause de cette manière de raisonner, Aristote le considéra comme l'inventeur de la <strong>dialectique</strong>. Ses paradoxes sur l'infini ont occupé les mathématiciens pendant plus de deux mille ans.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
   ]
  },
  "protagoras": {
@@ -201,6 +269,31 @@ const ILUSTRES = {
   "temas": [
    "fil-t2",
    "fil-t3"
+  ]
+ },
+ "gorgias": {
+  "name": "Gorgias de Léontinoi",
+  "dates": "v. 485 – v. 380 av. J.-C.",
+  "born": -485,
+  "died": -380,
+  "place": "Léontinoi (Sicile)",
+  "role": "sophiste et maître de rhétorique",
+  "idea": "Rien n'existe, et si quelque chose existait, il serait impossible de le connaître et de le communiquer ; c'est pourquoi le langage n'exprime pas ce que sont les choses, mais est un puissant instrument de persuasion.",
+  "bio": "<p>Gorgias naquit à Léontinoi, en Sicile, vers 485 av. J.-C. En 427 av. J.-C., il se rendit à Athènes comme ambassadeur de sa cité pour demander de l'aide contre Syracuse, et sa manière de parler fit sensation. À partir de là, il enseigna la rhétorique dans toute la Grèce et devint très riche. Selon la tradition, il vécut plus de cent ans. Nous conservons deux discours complets, l'<em>Éloge d'Hélène</em> et la <em>Défense de Palamède</em>, ainsi que des résumés de son traité <em>Sur le non-être</em>.</p>\n<p>Dans <em>Sur le non-être</em>, il pousse le <strong>scepticisme</strong> à l'extrême avec trois thèses : rien n'existe ; si quelque chose existait, on ne pourrait pas le connaître ; et si on pouvait le connaître, on ne pourrait pas le communiquer, car les mots ne sont pas les choses. S'il n'y a pas de vérité à transmettre, le <strong>langage</strong> ne sert pas à exprimer ce que sont les choses, mais à émouvoir les esprits. D'où sa défense de la <strong>rhétorique</strong>, l'art de persuader : dans l'<em>Éloge d'Hélène</em>, il compare le pouvoir de la parole sur l'âme à celui des drogues sur le corps.</p>\n<p>Gorgias est, avec Protagoras, le sophiste le plus influent. Platon en fit un personnage du <em>Gorgias</em>, où Socrate oppose la rhétorique qui recherche le succès à la philosophie qui recherche la vérité et le bien. La tradition l'associe aussi à l'<strong>éristique</strong>, l'art de disputer pour disputer. Ses réflexions sur le pouvoir persuasif du langage restent d'actualité dans l'analyse de la propagande et de la publicité.</p>",
+  "obras": [
+   "Sur le non-être (résumés)",
+   "Éloge d'Hélène",
+   "Défense de Palamède"
+  ],
+  "anecdota": "<p>Gorgias était célèbre pour sa capacité d'improviser. Selon Philostrate, il entrait dans le théâtre d'Athènes et lançait un défi au public : « Proposez un sujet », puis il en parlait aussitôt, sans préparation. Platon fait allusion à cette habitude au début de son <em>Gorgias</em>, où le sophiste se vante de pouvoir répondre à n'importe quelle question. Son succès le rendit si riche qu'il consacra dans le sanctuaire de Delphes une statue de lui-même en or. Pour Platon, cet éclat résumait le danger de la rhétorique : éblouir le public sans se soucier de la vérité.</p>",
+  "fuente": "Philostrate, Vies des sophistes I ; Platon, Gorgias ; Pausanias, Description de la Grèce X",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
   ]
  },
  "policleto": {
@@ -247,9 +340,12 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
+   "fil-metafisica",
+   "fil-t4",
    "fil-t5",
    "fil-t7",
-   "fil-presocraticos"
+   "fil-presocraticos",
+   "fil-helenismo"
   ]
  },
  "democrito": {
@@ -270,7 +366,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t2"
+   "fil-t2",
+   "fil-metafisica"
   ]
  },
  "aristipo": {
@@ -340,9 +437,13 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t3",
+   "fil-metafisica",
+   "fil-t4",
+   "fil-t5",
    "fil-t6",
    "fil-t7",
-   "fil-presocraticos"
+   "fil-presocraticos",
+   "fil-helenismo"
   ]
  },
  "diogenes": {
@@ -363,6 +464,7 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-t1",
    "fil-helenismo"
   ]
  },
@@ -412,6 +514,7 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t3",
+   "fil-metafisica",
    "fil-t4",
    "fil-t5",
    "fil-t6",
@@ -462,6 +565,7 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-metafisica",
    "fil-t5",
    "fil-helenismo"
   ]
@@ -586,6 +690,7 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
+   "fil-metafisica",
    "fil-t7"
   ]
  },
@@ -608,6 +713,55 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t3"
+  ]
+ },
+ "avicena": {
+  "name": "Avicenne",
+  "dates": "980 – 1037",
+  "born": 980,
+  "died": 1037,
+  "place": "Afshana, près de Boukhara (actuel Ouzbékistan)",
+  "role": "philosophe et médecin persan",
+  "idea": "Dans toutes les choses créées, on distingue ce qu'elles sont (essence) de leur existence (existence) ; en Dieu seulement elles coïncident : Il est l'être nécessaire.",
+  "bio": "<p>Ibn Sina, connu en Occident sous le nom d'Avicenne, fut un enfant prodige : selon son autobiographie, à dix-huit ans il maîtrisait déjà la logique, les mathématiques et la médecine, et il guérit l'émir de Boukhara, qui lui ouvrit sa grande bibliothèque. Il vécut ensuite dans différentes cours de Perse, comme médecin et parfois comme vizir, au milieu de guerres et de changements de gouvernants. Son <em>Canon de la médecine</em> fut étudié dans les universités européennes pendant plus de cinq cents ans.</p>\n<p>Son œuvre philosophique la plus vaste, le <em>Livre de la guérison</em>, reprend et retravaille Aristote et les néoplatoniciens. Avicenne distingua entre l'<strong>essence</strong> d'une chose (ce qu'elle est) et son <strong>existence</strong> (le fait qu'elle soit) : chez les créatures, elles sont distinctes, car elles pourraient ne pas exister ; en Dieu seulement, elles sont identiques, et c'est pourquoi Il est l'<strong>être nécessaire</strong>. Il proposa aussi l'expérience de pensée de « l'homme volant » : quelqu'un créé d'un seul coup, flottant dans l'air et privé de toute sensation, continuerait à savoir qu'il existe ; donc l'âme se connaît elle-même sans le corps. Thomas d'Aquin lui emprunta beaucoup.</p>",
+  "obras": [
+   "Canon de la médecine",
+   "Livre de la guérison"
+  ],
+  "anecdota": "<p>Dans son autobiographie, Avicenne raconte qu'il lut quarante fois la <em>Métaphysique</em> d'Aristote sans la comprendre, jusqu'à la savoir par cœur. Un jour, il acheta par hasard, à un libraire qui la lui proposait à bas prix, une petite œuvre d'al-Fârâbî qui en expliquait le propos, et d'un coup il comprit tout. Ce même soir, dit-il, il distribua des aumônes pour remercier Dieu.</p>",
+  "fuente": "Avicenne, Autobiographie",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
+ "anselmo": {
+  "name": "Anselme de Cantorbéry",
+  "dates": "1033 – 1109",
+  "born": 1033,
+  "died": 1109,
+  "place": "Aoste (Italie)",
+  "role": "philosophe et théologien scolastique",
+  "idea": "Dieu est ce dont rien de plus grand ne peut être pensé ; c'est pourquoi il ne peut exister seulement dans l'esprit, mais doit exister aussi dans la réalité.",
+  "bio": "<p>Anselme naquit à Aoste, dans le nord de l'Italie, en 1033. Il entra comme moine à l'abbaye bénédictine du Bec, en Normandie, dont il devint abbé. En 1093, il fut nommé archevêque de Cantorbéry, charge dans laquelle il subit plusieurs exils à cause de ses conflits avec les rois d'Angleterre. Il mourut en 1109 et est considéré comme l'un des initiateurs de la <strong>scolastique</strong>. Sa devise fut « la foi qui cherche à comprendre ».</p>\n<p>Dans le <em>Proslogion</em>, il formula l'<strong>argument ontologique</strong>, une preuve de l'existence de Dieu à partir de sa propre définition : si Dieu est l'être le plus parfait que l'on puisse penser, il doit exister aussi dans la réalité. Il figure au programme parce que Descartes l'a reformulé au XVIIe siècle. Thomas d'Aquin le rejeta et Kant le critiqua à fond.</p>",
+  "obras": [
+   "Monologion (1076)",
+   "Proslogion (1077-1078)",
+   "Pourquoi Dieu s'est fait homme"
+  ],
+  "anecdota": "<p>Selon son biographe et secrétaire Eadmer, Anselme cherchait un argument unique qui suffise à prouver l'existence de Dieu. L'idée l'obsédait tant qu'elle lui ôtait l'appétit, le sommeil et même la concentration dans les prières, et il en vint à penser que c'était une tentation. Une nuit, pendant les matines, il la trouva enfin. Il l'écrivit sur des tablettes de cire, qui s'égarèrent ; il la copia sur d'autres, qui furent retrouvées brisées sur le sol. Finalement, il la fit mettre sur parchemin : ainsi naquit le <em>Proslogion</em>.</p>",
+  "fuente": "Eadmer, Vie de saint Anselme",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
   ]
  },
  "tomas": {
@@ -646,7 +800,68 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
+   "fil-metafisica",
    "fil-t7"
+  ]
+ },
+ "ockham": {
+  "name": "Guillaume d'Ockham",
+  "dates": "v. 1287 – 1347",
+  "born": 1287,
+  "died": 1347,
+  "place": "Ockham (Surrey, Angleterre)",
+  "role": "philosophe et théologien franciscain",
+  "idea": "Seuls existent les individus et il ne faut pas multiplier les êtres sans nécessité ; la raison ne peut pas démontrer les vérités de la foi.",
+  "bio": "<p>Guillaume naquit vers 1287 à Ockham, un village anglais du comté de Surrey. Il entra dans l'ordre franciscain et étudia la théologie à Oxford. En 1324, il fut appelé à Avignon, alors siège de la papauté, pour répondre d'un soupçon d'hérésie. En 1328, il s'en enfuit avec d'autres franciscains en conflit avec le pape Jean XXII sur la question de la pauvreté, et se réfugia à la cour de l'empereur Louis de Bavière, à Munich. Il mourut à Munich vers 1347, probablement de la peste noire.</p>\n<p>Ockham est le principal représentant du <strong>nominalisme</strong> : seuls existent les individus concrets, et les universaux sont de simples noms, des signes que nous utilisons pour désigner plusieurs choses à la fois. Il applique un principe d'économie connu sous le nom de <strong>rasoir d'Ockham</strong> : il ne faut pas multiplier les êtres sans nécessité. La formule habituelle n'est pas littéralement de lui, mais elle résume sa méthode. Sur le rapport entre foi et raison, il soutient que la raison ne peut pas démontrer les vérités de la foi : foi et raison se <strong>séparent</strong> et la théologie cesse d'être une science rationnelle.</p>\n<p>Sa pensée marque la fin de la synthèse de Thomas d'Aquin et ouvre ce qu'on appelle la <strong>via moderna</strong>. Son attention à l'individuel et à l'expérience annonce l'empirisme de Locke et de Hume, et sa séparation entre foi et raison prépare le terrain pour la science moderne.</p>",
+  "obras": [
+   "Somme de logique (v. 1323)",
+   "Commentaire sur les Sentences",
+   "Quodlibets",
+   "Dialogue"
+  ],
+  "anecdota": "<p>Selon la tradition, lorsqu'Ockham s'enfuit d'Avignon et se plaça sous la protection de l'empereur Louis de Bavière, il lui proposa un marché : « Défends-moi avec l'épée, et moi je te défendrai avec la plume. » La phrase n'apparaît pas dans ses œuvres et est probablement postérieure, mais elle résume bien ce qui se passa : à Munich, Ockham consacra ses dernières années à écrire des traités politiques contre le pouvoir temporel du pape et en faveur de l'indépendance de l'empereur. Le logicien devint ainsi polémiste politique.</p>",
+  "fuente": "Phrase attribuée par la tradition postérieure ; elle ne figure pas dans ses écrits",
+  "tradicion": true,
+  "vida": [
+   {
+    "a": 1324,
+    "t": "Appelé à Avignon pour soupçon d'hérésie"
+   },
+   {
+    "a": 1328,
+    "t": "Il s'enfuit à Munich, auprès de l'empereur Louis de Bavière"
+   }
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4",
+   "fil-t5"
+  ]
+ },
+ "tomas_moro": {
+  "name": "Thomas More",
+  "dates": "1478 – 1535",
+  "born": 1478,
+  "died": 1535,
+  "place": "Londres (Angleterre)",
+  "role": "humaniste, juriste et homme politique",
+  "idea": "Une société juste exige de mettre fin à la propriété privée et d'organiser le travail de tous pour que personne ne manque du nécessaire.",
+  "bio": "<p>Thomas More fut avocat, humaniste et grand ami d'<strong>Érasme de Rotterdam</strong>, qui lui dédia son <em>Éloge de la folie</em>. Il devint lord chancelier, la plus haute charge du royaume après le roi Henri VIII. Mais lorsque le roi rompit avec Rome pour pouvoir divorcer et se proclama chef de l'Église d'Angleterre, More refusa de lui prêter serment. Il fut emprisonné à la Tour de Londres et décapité en 1535.</p>\n<p>En 1516, il publia <em>Utopie</em>, un mot qu'il inventa lui-même et qui signifie « en aucun lieu ». Il y décrit une île imaginaire où la propriété privée n'existe pas, où tout le monde travaille environ six heures par jour, où les gouvernants sont élus et où les différentes religions sont respectées. En la comparant à l'Angleterre de son temps, où les paysans étaient chassés de leurs terres et les pauvres pendus pour avoir volé, More formule une dure critique sociale. Le livre a donné son nom à tout un genre : celui des <strong>utopies</strong>, ou sociétés idéales.</p>",
+  "obras": [
+   "Utopie"
+  ],
+  "anecdota": "<p>Selon ses premiers biographes, More garda son sens de l'humour jusqu'au bout. En montant sur l'échafaud, qui vacillait, il dit à l'officier : « Aidez-moi à monter ; pour descendre, je me débrouillerai bien seul. » Et avant de recevoir le coup, il écarta sa barbe du billot, car, dit-il, elle n'avait commis aucune trahison.</p>",
+  "fuente": "William Roper, Vie de sir Thomas More ; Edward Hall, Chronique",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "galileo": {
@@ -697,6 +912,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-t2",
+   "fil-metafisica",
    "fil-t6"
   ]
  },
@@ -771,7 +988,65 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
-   "fil-t3"
+   "fil-t3",
+   "fil-metafisica",
+   "fil-spinoza-sistema"
+  ]
+ },
+ "isabel": {
+  "name": "Élisabeth de Bohême",
+  "dates": "1618 – 1680",
+  "born": 1618,
+  "died": 1680,
+  "place": "Heidelberg (Allemagne)",
+  "role": "princesse et philosophe",
+  "idea": "Si l'âme est immatérielle et le corps pure étendue, on ne comprend pas comment l'âme peut mouvoir le corps : le dualisme cartésien a besoin d'une explication.",
+  "bio": "<p>Élisabeth de Bohême, fille de l'électeur palatin et roi de Bohême Frédéric V, grandit en exil aux Pays-Bas après la défaite de sa famille dans la guerre de Trente Ans. Elle reçut une excellente formation en langues, en mathématiques et en philosophie. À l'âge mûr, elle fut abbesse d'un couvent protestant à Herford (Allemagne).</p>\n<p>Entre 1643 et 1649, elle entretint avec Descartes une célèbre <strong>correspondance</strong>. Elle lui y posa l'objection la plus aiguë contre son dualisme : comment une substance pensante, sans étendue, peut-elle mouvoir un corps ? Descartes ne parvint pas à lui donner de réponse satisfaisante, et c'est le <strong>problème de l'interaction de l'âme et du corps</strong>. Les lettres portèrent aussi sur les passions et le bonheur, et donnèrent naissance à <em>Les Passions de l'âme</em>. Elle n'écrivit pas de traités propres : sa pensée se conserve dans ces lettres.</p>",
+  "obras": [
+   "Correspondance avec Descartes (1643–1649)"
+  ],
+  "anecdota": "<p>En 1644, Descartes publia ses <em>Principes de la philosophie</em>, son œuvre la plus systématique, et la dédia à Élisabeth, qui avait alors vingt-cinq ans. Dans la dédicace, il affirmait n'avoir connu personne qui comprenne aussi bien qu'elle tous ses écrits : beaucoup dominaient la métaphysique et d'autres les mathématiques, mais elle seule comprenait également les deux parties. Venant d'un auteur aussi exigeant, c'était une reconnaissance extraordinaire pour la jeune princesse qui avait osé signaler les points faibles de son dualisme.</p>",
+  "fuente": "Descartes, dédicace des Principes de la philosophie (1644)",
+  "tradicion": false,
+  "block": "mod",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
+ "spinoza": {
+  "name": "Baruch Spinoza",
+  "dates": "1632 – 1677",
+  "born": 1632,
+  "died": 1677,
+  "place": "Amsterdam (Pays-Bas)",
+  "role": "philosophe rationaliste",
+  "idea": "Il n'existe qu'une seule substance, Dieu ou la Nature, dont la pensée et l'étendue sont deux attributs ; la liberté consiste à comprendre la nécessité.",
+  "bio": "<p>Baruch Spinoza naquit à Amsterdam dans une famille de juifs séfarades d'origine portugaise qui avaient fui l'Inquisition. À cause de ses idées religieuses, jugées hérétiques, il fut exclu de la communauté juive en 1656. Il vécut modestement, en partie en polissant des lentilles pour instruments d'optique, et refusa une chaire à Heidelberg pour conserver sa liberté de pensée. Son œuvre principale, l'<em>Éthique</em>, fut publiée après sa mort.</p>\n<p>Spinoza mène le rationalisme cartésien jusqu'à ses ultimes conséquences. Il expose sa philosophie selon l'<strong>ordre géométrique</strong>, avec des définitions, des axiomes et des démonstrations, comme Euclide. Si la substance est ce qui n'a besoin d'aucune autre chose pour exister, il ne peut y en avoir qu'une : <strong>Dieu ou la Nature</strong> (<em>Deus sive Natura</em>). La pensée et l'étendue ne sont pas deux substances, mais deux attributs de cette unique réalité. Avec ce <strong>monisme</strong> disparaît le problème cartésien de la relation entre l'âme et le corps. Tout arrive par nécessité, et la liberté humaine consiste à comprendre cette nécessité et à cesser d'être esclave des passions.</p>\n<p>Spinoza fut très critiqué en son temps et accusé d'athéisme, mais il exerça une grande influence sur l'idéalisme allemand et sur des auteurs comme Nietzsche. Sa défense de la liberté de pensée et de la tolérance fait aussi de lui un précurseur des Lumières.</p>",
+  "obras": [
+   "Traité théologico-politique (1670)",
+   "Éthique démontrée selon l'ordre géométrique (1677)",
+   "Traité de la réforme de l'entendement (1677)"
+  ],
+  "anecdota": "<p>En août 1672, une foule déchaînée assassina à La Haye les frères De Witt, dirigeants de la république néerlandaise que Spinoza admirait. Indigné, le philosophe, pourtant toujours si serein, voulut sortir afficher près du lieu un écriteau portant les mots latins <em>ultimi barbarorum</em>, « les pires des barbares ». Son logeur, craignant qu'on ne le tue lui aussi, ferma la porte à clé et ne le laissa pas sortir. Spinoza le raconta des années plus tard à Leibniz, qui le nota.</p>",
+  "fuente": "Leibniz, notes de sa conversation avec Spinoza (1676)",
+  "tradicion": false,
+  "vida": [
+   {
+    "a": 1677,
+    "t": "Publication de l'Éthique, à titre posthume"
+   }
+  ],
+  "block": "mod",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3",
+   "fil-metafisica",
+   "fil-spinoza-sistema"
   ]
  },
  "locke": {
@@ -802,6 +1077,28 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "malebranche": {
+  "name": "Nicolas Malebranche",
+  "dates": "1638 – 1715",
+  "born": 1638,
+  "died": 1715,
+  "place": "Paris (France)",
+  "role": "philosophe et prêtre rationaliste",
+  "idea": "Les créatures ne causent rien par elles-mêmes : Dieu est la seule cause véritable et il agit à chaque occasion pour coordonner l'âme et le corps.",
+  "bio": "<p>Nicolas Malebranche naquit à Paris et était de santé fragile, c'est pourquoi il fut éduqué à la maison durant ses premières années. Il étudia la philosophie et la théologie, et entra en 1660 dans la congrégation religieuse de l'Oratoire, où il fut ordonné prêtre. Selon son propre récit, la lecture du <em>Traité de l'homme</em> de Descartes lui fit une impression si forte qu'il décida de se consacrer à la philosophie. Il passa le reste de sa vie à l'Oratoire, à écrire et à polémiquer avec d'autres penseurs.</p>\n<p>Malebranche tente de concilier la philosophie de Descartes avec la théologie chrétienne de saint Augustin. Son apport le plus connu est l'<strong>occasionnalisme</strong>, une réponse au problème du dualisme cartésien. Si l'âme et le corps sont des substances totalement distinctes, elles ne peuvent agir l'une sur l'autre. En réalité, aucune créature n'est cause de quoi que ce soit : <strong>Dieu est la seule cause</strong> véritable. Quand je veux bouger le bras, ma volonté n'est que l'occasion pour laquelle Dieu produit ce mouvement. En outre, il soutint que nous connaissons les choses par les idées qui sont en Dieu, ce qu'on appelle la <strong>vision en Dieu</strong>.</p>\n<p>Malebranche fut très lu en son temps et polémiqua avec Arnauld et Leibniz. Sa critique de la causalité, qu'on ne peut observer entre les créatures, influença l'analyse que fera Hume de la relation de cause à effet.</p>",
+  "obras": [
+   "De la recherche de la vérité (1674–1675)",
+   "Traité de la nature et de la grâce (1680)",
+   "Entretiens sur la métaphysique et sur la religion (1688)"
+  ],
+  "block": "mod",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "newton": {
   "name": "Isaac Newton",
   "dates": "1642 – 1727",
@@ -824,7 +1121,35 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t3"
+   "fil-t3",
+   "fil-metafisica"
+  ]
+ },
+ "leibniz": {
+  "name": "Gottfried Wilhelm Leibniz",
+  "dates": "1646 – 1716",
+  "born": 1646,
+  "died": 1716,
+  "place": "Leipzig (Allemagne)",
+  "role": "philosophe et mathématicien rationaliste",
+  "idea": "La réalité est formée d'une infinité de monades, substances simples qui n'interagissent pas, dont Dieu a synchronisé l'ordre dès le début dans le meilleur des mondes possibles.",
+  "bio": "<p>Gottfried Wilhelm Leibniz naquit à Leipzig et étudia le droit et la philosophie. Il fut diplomate, juriste, historien et bibliothécaire au service des ducs de Hanovre, et voyagea à Paris et à Londres, où il rencontra les grands savants de son temps. Il inventa le calcul infinitésimal en même temps que Newton, ce qui provoqua une dure dispute sur la priorité de la découverte, et fonda l'Académie des sciences de Berlin.</p>\n<p>Leibniz propose une solution originale au problème cartésien de la substance. La réalité est composée d'une infinité de <strong>monades</strong> : substances simples, actives et indivisibles, semblables à des points de force ou d'énergie. Les monades n'ont pas de fenêtres, c'est-à-dire qu'elles ne reçoivent aucune influence de l'extérieur. L'ordre du monde, et en particulier la correspondance entre l'âme et le corps, s'explique par l'<strong>harmonie préétablie</strong> : Dieu les a synchronisées dès le début, comme un horloger qui fabrique deux horloges marquant toujours la même heure. Selon le <strong>principe de raison suffisante</strong>, rien n'arrive sans raison, et c'est pourquoi Dieu a créé le <strong>meilleur des mondes possibles</strong>.</p>\n<p>Leibniz fut l'un des esprits les plus universels de l'époque moderne et un précurseur de la logique symbolique. Son optimisme fut tourné en dérision par Voltaire dans <em>Candide</em>, et son rationalisme, systématisé par Wolff, fut la philosophie que Kant apprit puis critiqua.</p>",
+  "obras": [
+   "Discours de métaphysique (1686)",
+   "Nouveaux essais sur l'entendement humain (écrits en 1704)",
+   "Essais de théodicée (1710)",
+   "Monadologie (1714)"
+  ],
+  "anecdota": "<p>Le père de Leibniz, professeur à Leipzig, mourut quand il avait six ans. Vers huit ans, l'enfant obtint qu'on le laisse entrer dans la bibliothèque paternelle, jusque-là fermée pour lui. Il y trouva un Tite-Live illustré et, s'aidant des gravures et du contexte, apprit le latin pratiquement seul. Bientôt, il dévorait les classiques, les Pères de l'Église et les scolastiques. Lui-même s'en souviendrait dans ses notes autobiographiques : ce fut l'origine d'une curiosité universelle qui embrassa presque toutes les sciences.</p>",
+  "fuente": "Notes autobiographiques de Leibniz",
+  "tradicion": false,
+  "block": "mod",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3",
+   "fil-metafisica"
   ]
  },
  "berkeley": {
@@ -849,7 +1174,53 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-metafisica"
+  ]
+ },
+ "montesquieu": {
+  "name": "Montesquieu",
+  "dates": "1689 – 1755",
+  "born": 1689,
+  "died": 1755,
+  "place": "La Brède, près de Bordeaux (France)",
+  "role": "penseur politique des Lumières",
+  "idea": "Pour éviter le despotisme et garantir la liberté, le pouvoir doit être divisé en législatif, exécutif et judiciaire, de sorte que chaque pouvoir freine les autres.",
+  "bio": "<p>Charles-Louis de Secondat, baron de Montesquieu, naquit dans une famille de la noblesse de robe près de Bordeaux. Il étudia le droit et hérita de la charge de président du Parlement de Bordeaux, un tribunal de justice. Il devint célèbre avec les <em>Lettres persanes</em>, une satire de la société française, et voyagea en Europe, avec un long séjour en Angleterre, dont il admirait le système politique.</p>\n<p>Dans <em>De l'esprit des lois</em>, il étudie comment les lois dépendent du climat, des mœurs et de la forme de gouvernement de chaque peuple. Son apport le plus influent est la <strong>séparation des pouvoirs</strong> : le législatif, l'exécutif et le judiciaire doivent être entre des mains différentes, pour que le pouvoir arrête le pouvoir et que l'on évite le <strong>despotisme</strong>. Il figure au programme comme l'un des penseurs des Lumières qui fondent l'État de droit et les constitutions modernes.</p>",
+  "obras": [
+   "Lettres persanes (1721)",
+   "De l'esprit des lois (1748)"
+  ],
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "lamettrie": {
+  "name": "Julien Offray de La Mettrie",
+  "dates": "1709 – 1751",
+  "born": 1709,
+  "died": 1751,
+  "place": "Saint-Malo (France)",
+  "role": "médecin et philosophe matérialiste",
+  "idea": "L'être humain est une machine complexe : l'âme n'est pas une substance spirituelle, mais le résultat du fonctionnement des organes, surtout du cerveau.",
+  "bio": "<p>Julien Offray de La Mettrie naquit à Saint-Malo, en Bretagne, en 1709. Il étudia la médecine et se forma à Leyde auprès du célèbre médecin Herman Boerhaave. Il servit comme médecin militaire et, selon son propre récit, une fièvre lui fit remarquer comment le corps altérait sa pensée. Ses écrits scandalisèrent tant qu'il dut fuir la France, puis la Hollande. Il termina ses jours à Berlin, protégé par le roi Frédéric II de Prusse, où il mourut en 1751.</p>\n<p>La Mettrie est l'un des défenseurs les plus radicaux du <strong>matérialisme</strong> : l'idée que seule la matière existe. Descartes avait expliqué les animaux comme des machines, mais réservait à l'être humain une âme immatérielle. La Mettrie fait le pas suivant dans <em>L'Homme-machine</em> : l'être humain est un <strong>automate</strong> très complexe, et ce que nous appelons l'âme n'est que le résultat du fonctionnement des organes, en particulier du <strong>cerveau</strong>. Pensée, volonté et sentiments dépendraient ainsi de causes corporelles.</p>\n<p>C'est pourquoi il figure au programme comme exemple de matérialisme face au <strong>dualisme</strong> cartésien, dans la ligne qu'avait ouverte Hobbes. Ses idées influencèrent d'autres matérialistes des Lumières, comme Diderot ou le baron d'Holbach, et anticipent en partie la vision de l'esprit que défendent aujourd'hui de nombreuses neurosciences.</p>",
+  "obras": [
+   "Histoire naturelle de l'âme (1745)",
+   "L'Homme-machine (1748)"
+  ],
+  "anecdota": "<p>En novembre 1751, La Mettrie se rendit à un banquet chez l'ambassadeur de France à Berlin, lord Tyrconnell, qu'il avait soigné comme médecin. Peu après, il tomba malade et mourut en quelques jours ; Voltaire et d'autres témoins attribuèrent le mal à un pâté de truffes qu'il aurait mangé en excès. Ses ennemis se moquèrent de cette fin si peu philosophique, mais Frédéric II lui-même écrivit son éloge funèbre et le fit lire à l'Académie de Berlin. C'était un geste insolite : un roi défendait publiquement la mémoire de l'auteur le plus scandaleux de son temps.</p>",
+  "fuente": "Lettres de Voltaire depuis Berlin ; Frédéric II, Éloge de La Mettrie",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2"
   ]
  },
  "hume": {
@@ -885,6 +1256,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t3",
+   "fil-metafisica",
+   "fil-t4",
    "fil-t5",
    "fil-t6",
    "fil-t7"
@@ -937,6 +1310,27 @@ const ILUSTRES = {
    "fil-t7"
   ]
  },
+ "holbach": {
+  "name": "Baron d'Holbach",
+  "dates": "1723 – 1789",
+  "born": 1723,
+  "died": 1789,
+  "place": "Edesheim (Palatinat, Allemagne)",
+  "role": "philosophe matérialiste et encyclopédiste",
+  "idea": "Seule existe la matière en mouvement ; l'être humain fait partie de la nature, et la religion naît de la peur et de l'ignorance.",
+  "bio": "<p>Paul-Henri Thiry, baron d'Holbach, naquit en Allemagne, mais vécut à Paris, où il hérita d'une grande fortune. Sa maison devint le salon le plus audacieux des <strong>Lumières</strong> : s'y réunissaient chaque semaine Diderot, Helvétius, D'Alembert et des visiteurs comme Hume, pour discuter avec une liberté qui n'existait nulle part ailleurs. Il écrivit des centaines d'articles de science pour l'<em>Encyclopédie</em>.</p>\n<p>Dans le <em>Système de la nature</em> (1770), publié sous un faux nom pour éviter la persécution, il défendit un <strong>matérialisme</strong> complet : tout, y compris la pensée, s'explique par la matière et ses lois, et il n'y a ni âme immortelle ni Dieu. Il fut l'un des premiers auteurs à se déclarer ouvertement <strong>athée</strong>. Il pensait que la religion profite de la peur et de l'ignorance, et qu'une morale fondée sur la raison et sur la recherche du bonheur commun rendrait les gens meilleurs et plus libres.</p>",
+  "obras": [
+   "Système de la nature",
+   "Le Christianisme dévoilé"
+  ],
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
  "kant": {
   "name": "Emmanuel Kant",
   "dates": "1724 – 1804",
@@ -963,6 +1357,7 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t3",
+   "fil-metafisica",
    "fil-t5",
    "fil-t6",
    "fil-t7"
@@ -1018,6 +1413,80 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "gouges": {
+  "name": "Olympe de Gouges",
+  "dates": "1748 – 1793",
+  "born": 1748,
+  "died": 1793,
+  "place": "Montauban (France)",
+  "role": "écrivaine et militante politique",
+  "idea": "Les droits proclamés par la Révolution française doivent valoir aussi pour les femmes, qui sont des citoyennes ayant les mêmes droits que les hommes.",
+  "bio": "<p>Olympe de Gouges, de son vrai nom Marie Gouze, naquit à Montauban, dans le sud de la France, en 1748. Elle se maria très jeune et fut vite veuve ; elle s'installa ensuite à Paris, où elle se consacra à écrire des pièces de théâtre et des pamphlets politiques. Dans l'une de ses pièces, elle dénonça l'esclavage des Noirs dans les colonies. Elle participa activement aux débats de la Révolution française.</p>\n<p>En 1791, elle publia la <em>Déclaration des droits de la femme et de la citoyenne</em>. Elle y réécrit la <strong>Déclaration des droits de l'homme et du citoyen</strong> de 1789 pour y inclure expressément les femmes. Elle dénonce ainsi la contradiction d'une Révolution qui proclamait l'<strong>égalité</strong> universelle, mais laissait de côté la moitié de la population. Elle réclame pour les femmes les mêmes droits politiques, l'accès aux charges publiques, la liberté d'expression et la protection des mères et des enfants nés hors mariage. Si la femme peut monter à l'échafaud, argumente-t-elle, elle doit pouvoir monter aussi à la tribune.</p>\n<p>Elle s'opposa à Robespierre et aux jacobins, et fut guillotinée à Paris en 1793. On la considère aujourd'hui comme l'une des pionnières de la <strong>première vague du féminisme</strong>. Au programme, elle figure avec Mary Wollstonecraft comme réponse aux penseurs des Lumières, tels que Rousseau ou Kant, qui excluaient les femmes de la citoyenneté.</p>",
+  "obras": [
+   "Déclaration des droits de la femme et de la citoyenne (1791)"
+  ],
+  "anecdota": "<p>En décembre 1792, quand la Convention s'apprêtait à juger Louis XVI, Olympe de Gouges écrivit aux députés pour s'offrir comme défenseur du roi, aux côtés de l'avocat Malesherbes. Elle n'était pas monarchiste : elle défendait que le roi soit jugé, mais pas exécuté, et pensait qu'une république forte n'avait pas besoin de verser son sang. La Convention rejeta son offre en alléguant, entre autres, qu'elle était une femme. L'épisode montre son indépendance de jugement et son courage, qui finirent par l'opposer aux jacobins.</p>",
+  "fuente": "Lettre d'Olympe de Gouges à la Convention (décembre 1792)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "wollstonecraft": {
+  "name": "Mary Wollstonecraft",
+  "dates": "1759 – 1797",
+  "born": 1759,
+  "died": 1797,
+  "place": "Londres",
+  "role": "philosophe et écrivaine",
+  "idea": "La prétendue infériorité intellectuelle des femmes n'est pas naturelle, mais le fruit de leur éducation ; avec la même formation, elles développeraient la même raison que les hommes.",
+  "bio": "<p>Mary Wollstonecraft naquit à Londres en 1759, dans une famille en difficulté financière. Elle dut gagner sa vie très jeune comme dame de compagnie, maîtresse d'école et gouvernante, puis comme écrivaine et traductrice pour un éditeur londonien. Elle se rendit à Paris pendant la Révolution française. Elle épousa le philosophe William Godwin et mourut en 1797, quelques jours après avoir donné naissance à sa fille, la future romancière Mary Shelley.</p>\n<p>En 1792, elle publia la <em>Défense des droits de la femme</em>. Elle y critique Rousseau, qui, dans l'<em>Émile</em>, proposait d'éduquer les femmes uniquement pour plaire aux hommes et s'occuper du foyer. Pour Wollstonecraft, la prétendue faiblesse de la raison féminine n'est pas naturelle, mais <strong>culturelle</strong> : elle est le résultat d'une éducation qui les maintient dans l'ignorance. Sa thèse est que la <strong>raison n'a pas de sexe</strong>. C'est pourquoi elle défend la même <strong>éducation</strong> pour les filles et les garçons, ainsi que l'indépendance économique des femmes, afin qu'elles puissent être des personnes autonomes et des citoyennes.</p>\n<p>Son œuvre est l'un des textes fondateurs du féminisme moderne. Au programme, elle figure, avec Olympe de Gouges, comme représentante de la première vague du féminisme, qui dénonça la contradiction des Lumières proclamant l'égalité universelle mais excluant les femmes. Sa critique anticipe des idées que développeraient ensuite John Stuart Mill et Simone de Beauvoir.</p>",
+  "obras": [
+   "Pensées sur l'éducation des filles (1787)",
+   "Défense des droits de l'homme (1790)",
+   "Défense des droits de la femme (1792)"
+  ],
+  "anecdota": "<p>En 1795, Mary Wollstonecraft entreprit un voyage peu commun pour une femme de son temps : elle parcourut la Suède, la Norvège et le Danemark pour régler une affaire commerciale de son compagnon, accompagnée seulement de sa petite fille et d'une nourrice. De cette expérience naquirent ses <em>Lettres écrites en Suède, en Norvège et au Danemark</em>, où elle mêle la description de paysages à des réflexions sur la société et la condition des femmes. Le livre eut beaucoup de succès, et William Godwin avoua plus tard qu'en le lisant il était tombé amoureux de son autrice.</p>",
+  "fuente": "Wollstonecraft, Lettres écrites en Suède, en Norvège et au Danemark ; William Godwin, Mémoires de l'autrice de la « Défense des droits de la femme »",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "schiller": {
+  "name": "Friedrich Schiller",
+  "dates": "1759 – 1805",
+  "born": 1759,
+  "died": 1805,
+  "place": "Marbach am Neckar (Allemagne)",
+  "role": "dramaturge, poète et historien",
+  "idea": "L'être humain n'est pleinement libre que lorsque raison et sensibilité cessent de lutter, et la beauté est le chemin pour l'éduquer à cette harmonie.",
+  "bio": "<p>Friedrich Schiller naquit en 1759 à Marbach, dans le duché de Wurtemberg. Sur ordre du duc Charles-Eugène, il dut entrer dans son académie militaire, où il étudia le droit puis la médecine. Il fut médecin d'un régiment, mais triompha comme dramaturge avec <em>Les Brigands</em> (1781) et, en 1782, s'enfuit du duché pour pouvoir écrire. En 1789, il fut professeur d'histoire à Iéna ; en 1794 commença son amitié avec Goethe et en 1799 il s'installa à Weimar. Il y écrivit ses grands drames, comme <em>Guillaume Tell</em>, jusqu'à sa mort en 1805.</p>\n<p>Schiller est le poète qui devint philosophe en lisant Kant. Il accepta la <strong>liberté</strong> et la dignité humaines, mais discuta l'éthique kantienne du devoir : dans <em>De la grâce et de la dignité</em>, il proposa l'idéal de la <strong>belle âme</strong>, dans laquelle devoir et inclination ne luttent plus. Dans les <em>Lettres sur l'éducation esthétique de l'homme</em>, écrites après la Terreur de la Révolution française, il soutint que la beauté éduque à la liberté politique. Beethoven mit en musique son ode <em>À la joie</em> (1785) dans la Neuvième symphonie, et cette mélodie est aujourd'hui l'hymne de l'Union européenne.</p>",
+  "obras": [
+   "Les Brigands (1781)",
+   "De la grâce et de la dignité (1793)",
+   "Lettres sur l'éducation esthétique de l'homme (1795)",
+   "Guillaume Tell (1804)"
+  ],
+  "anecdota": "<p>Le 26 août 1792, l'Assemblée législative française nomma citoyens d'honneur plusieurs étrangers qu'elle considérait comme des amis de la liberté. Parmi eux se trouvait Schiller, connu à Paris pour <em>Les Brigands</em>. Mais le document s'égara : il était adressé à un certain « Monsieur Gille », et personne ne savait qui c'était. Le diplôme n'arriva à Weimar qu'en mars 1798, près de six ans plus tard. Entre-temps, plusieurs des révolutionnaires qui l'avaient signé, comme Danton ou Roland, étaient morts pendant la Terreur. Schiller, qui avait déjà critiqué la dérive violente de la Révolution, reçut ainsi un titre de citoyenneté signé par des hommes que la Révolution elle-même avait dévorés.</p>",
+  "fuente": "Décret de l'Assemblée législative française (26 août 1792) ; le diplôme arriva à Weimar en mars 1798",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t7"
+  ]
+ },
  "hegel": {
   "name": "Georg Wilhelm Friedrich Hegel",
   "dates": "1770 – 1831",
@@ -1042,6 +1511,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
+   "fil-t3",
    "fil-t7"
   ]
  },
@@ -1068,7 +1538,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t5"
+   "fil-t5",
+   "fil-t6"
   ]
  },
  "darwin": {
@@ -1093,7 +1564,9 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t2"
+   "fil-t2",
+   "fil-metafisica",
+   "fil-t4"
   ]
  },
  "boole": {
@@ -1144,7 +1617,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t2"
+   "fil-t2",
+   "fil-t5"
   ]
  },
  "mendel": {
@@ -1269,7 +1743,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t2"
+   "fil-t2",
+   "fil-t5"
   ]
  },
  "frege": {
@@ -1296,6 +1771,33 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t4"
+  ]
+ },
+ "freud": {
+  "name": "Sigmund Freud",
+  "dates": "1856 – 1939",
+  "born": 1856,
+  "died": 1939,
+  "place": "Freiberg (Moravie, aujourd'hui République tchèque)",
+  "role": "médecin neurologue, créateur de la psychanalyse",
+  "idea": "La plus grande partie de la vie psychique est inconsciente : des désirs refoulés que nous ne contrôlons pas gouvernent ce que nous pensons et faisons, et leur refoulement produit des névroses.",
+  "bio": "<p>Sigmund Freud naquit à Freiberg, dans une famille juive qui s'installa bientôt à Vienne. Il y étudia la médecine et se spécialisa en neurologie. Après avoir travaillé à Paris avec Charcot sur l'étude de l'hystérie, il développa une méthode propre pour traiter les maladies nerveuses : la <strong>psychanalyse</strong>. Il vécut et travailla à Vienne presque toute sa vie, jusqu'à ce qu'en 1938, après l'annexion de l'Autriche par l'Allemagne nazie, il s'exile à Londres, où il mourut l'année suivante.</p>\n<p>Pour Freud, la conscience n'est que la pointe de l'iceberg : la plus grande partie du psychisme est <strong>inconsciente</strong> et gouvernée par des désirs refoulés, qui se manifestent dans les rêves, les lapsus et les symptômes. Il distingue trois instances : le <strong>ça</strong> (les instincts, régi par le principe de plaisir), le moi (qui fait médiation avec la réalité) et le <strong>surmoi</strong> (les normes morales intériorisées). Les pulsions fondamentales sont Éros (vie) et Thanatos (mort). La vie en société exige de refouler des désirs, et ce refoulement engendre des <strong>névroses</strong>, ce qui rend le bonheur plein impossible dans la civilisation.</p>\n<p>Il est le troisième des maîtres du soupçon, avec Marx et Nietzsche. Il présenta sa théorie comme la troisième grande humiliation de l'être humain, après celles de Copernic et de Darwin. Son influence s'étend à la psychologie, à la littérature, à l'art et à la philosophie du XXe siècle, en particulier à l'École de Francfort.</p>",
+  "obras": [
+   "L'Interprétation des rêves (1900)",
+   "Trois essais sur la théorie sexuelle (1905)",
+   "Le Moi et le Ça (1923)",
+   "Malaise dans la civilisation (1930)"
+  ],
+  "anecdota": "<p>En mai 1933, les nazis brûlèrent à Berlin et dans d'autres villes allemandes les livres d'auteurs qu'ils considéraient comme des ennemis, dont ceux de Freud. Selon son biographe Ernest Jones, Freud commenta avec une amère ironie : « Quels progrès nous avons faits ! Au Moyen Âge, ils m'auraient brûlé, moi ; aujourd'hui, ils se contentent de brûler mes livres. » Il ne pouvait alors imaginer que le nazisme irait bien plus loin. Cinq ans plus tard, l'annexion de l'Autriche l'obligea à quitter Vienne. La phrase montre sa lucidité et son humour face à la barbarie.</p>",
+  "fuente": "Ernest Jones, La Vie et l'œuvre de Sigmund Freud",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t5"
   ]
  },
  "whitehead": {
@@ -1394,6 +1896,7 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-t3",
    "fil-t4"
   ]
  },
@@ -1440,7 +1943,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-metafisica"
   ]
  },
  "ortega": {
@@ -1614,7 +2118,9 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-t4",
+   "fil-t6"
   ]
  },
  "adorno": {
@@ -1693,7 +2199,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t2"
+   "fil-t2",
+   "fil-metafisica"
   ]
  },
  "arendt": {
@@ -1748,7 +2255,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t2"
+   "fil-t2",
+   "fil-t6"
+  ]
+ },
+ "turing": {
+  "name": "Alan Turing",
+  "dates": "1912 – 1954",
+  "born": 1912,
+  "died": 1954,
+  "place": "Londres",
+  "role": "mathématicien et pionnier de l'informatique",
+  "idea": "Si une machine peut converser de telle sorte que nous ne la distinguions pas d'un être humain, nous avons des raisons de dire qu'elle pense : c'est l'idée du test de Turing.",
+  "bio": "<p>Alan Turing naquit à Londres en 1912. Il étudia les mathématiques à Cambridge et, en 1936, décrivit une machine théorique capable d'effectuer n'importe quel calcul en suivant des règles, la <strong>machine de Turing</strong>, base conceptuelle de l'informatique. Pendant la Seconde Guerre mondiale, il travailla à Bletchley Park au déchiffrement des messages allemands codés avec la machine Enigma. En 1952, il fut condamné pour son homosexualité, alors délit au Royaume-Uni, et en 1954 il mourut empoisonné au cyanure ; l'enquête officielle conclut à un suicide.</p>\n<p>Dans l'article <em>Les machines à calculer et l'intelligence</em> (1950), il se demanda si les machines peuvent penser et proposa de remplacer cette question par une épreuve : le jeu de l'imitation, aujourd'hui appelé <strong>test de Turing</strong>. Il figure au programme parce qu'il rouvre le débat avec Descartes, qui avait nié qu'une machine puisse utiliser le langage comme nous.</p>",
+  "obras": [
+   "Sur les nombres calculables (1936)",
+   "Computing Machinery and Intelligence (1950)"
+  ],
+  "anecdota": "<p>En mai 1926, alors que Turing allait commencer sa première année à l'internat de Sherborne, une grève générale paralysa les trains en Grande-Bretagne. Plutôt que d'attendre, le garçon de treize ans prit sa bicyclette et parcourut une centaine de kilomètres depuis Southampton, s'arrêtant pour dormir dans une auberge en chemin. L'exploit fit tant parler de lui que la presse locale le relata. Il annonce des traits qui l'accompagneront toujours : indépendance, ténacité et goût des longues distances, car adulte, il fut un coureur de fond de niveau presque olympique.</p>",
+  "fuente": "Andrew Hodges, Alan Turing: The Enigma ; presse locale de 1926",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
   ]
  },
  "camus": {
@@ -1775,6 +2307,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2"
+  ]
+ },
+ "ricoeur": {
+  "name": "Paul Ricœur",
+  "dates": "1913 – 2005",
+  "born": 1913,
+  "died": 2005,
+  "place": "Valence (France)",
+  "role": "philosophe français, herméneute",
+  "idea": "Comprendre l'être humain exige d'interpréter ses symboles, ses textes et ses récits, car nous ne nous connaissons nous-mêmes que par le détour de l'interprétation.",
+  "bio": "<p>Paul Ricoeur naquit à Valence et devint orphelin très tôt. Pendant la Seconde Guerre mondiale, il passa cinq ans comme prisonnier en Allemagne. Il fut ensuite professeur à Strasbourg, à la Sorbonne, à Nanterre et à l'Université de Chicago. C'est l'une des grandes figures de l'<strong>herméneutique</strong>, la philosophie de l'interprétation.</p>\n<p>Dans son livre sur Freud (1965), il appela Marx, Nietzsche et Freud les <strong>maîtres du soupçon</strong> : tous trois enseignent à se méfier de ce que la conscience croit savoir d'elle-même et à chercher ce qui se cache derrière. C'est pourquoi le programme emploie son expression pour présenter ces auteurs. Ricoeur, cependant, ne s'en tint pas au soupçon : il proposa de le compléter par une écoute attentive du sens des symboles et des récits.</p>",
+  "obras": [
+   "De l'interprétation. Essai sur Freud (1965)",
+   "La Métaphore vive (1975)",
+   "Temps et Récit (1983-1985)",
+   "Soi-même comme un autre (1990)"
+  ],
+  "anecdota": "<p>Pendant ses cinq années de prisonnier de guerre en Allemagne, Ricoeur ne cessa pas de faire de la philosophie. Dans le camp, avec d'autres officiers comme Mikel Dufrenne, il organisa des cours et des lectures pour ses compagnons, une sorte d'université improvisée. C'est là qu'il traduisit en français les <em>Ideen</em> de Husserl, en écrivant au crayon dans les marges de l'unique exemplaire dont il disposait, faute de papier. Cette traduction, publiée après la guerre, le fit connaître comme l'un des grands spécialistes français de la phénoménologie.</p>",
+  "fuente": "Ricoeur, Autobiographie intellectuelle (Réflexion faite)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t5"
   ]
  },
  "shannon": {
@@ -1948,7 +2506,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t3"
+   "fil-t3",
+   "fil-t6"
   ]
  },
  "baudrillard": {
@@ -2002,6 +2561,32 @@ const ILUSTRES = {
    "fil-t7"
   ]
  },
+ "butler": {
+  "name": "Judith Butler",
+  "dates": "née en 1956",
+  "born": 1956,
+  "died": null,
+  "place": "Cleveland (Ohio, États-Unis)",
+  "role": "figure de référence de la théorie queer",
+  "idea": "Le genre n'est pas une essence biologique, mais une performance : il se produit en répétant des gestes et des normes, et c'est pourquoi il peut être transformé et subverti.",
+  "bio": "<p>Judith Butler naquit à Cleveland (États-Unis) en 1956. Elle obtint son doctorat de philosophie à l'Université Yale avec une étude sur Hegel et la philosophie française. Pendant des décennies, elle a enseigné la littérature comparée à l'Université de Californie à Berkeley. Son livre <em>Trouble dans le genre</em> (1990) lui donna une renommée internationale et c'est l'un des textes fondateurs de la <strong>théorie queer</strong>.</p>\n<p>Butler soutient que le genre n'est pas quelque chose que l'on est, mais quelque chose que l'on fait. C'est une <strong>performance</strong> ou, plus exactement, un acte performatif : il se produit en répétant des gestes, des façons de s'habiller et de parler selon les normes sociales. Cette répétition crée l'apparence d'une identité naturelle et fixe. Butler va au-delà de la distinction classique entre sexe biologique et genre culturel, car elle considère que notre manière de comprendre le sexe est elle aussi traversée par des normes. Si le genre est un scénario que l'on répète, il peut se répéter autrement : il est possible de le <strong>subvertir</strong>. Dans des œuvres ultérieures, elle a réfléchi sur la <strong>vulnérabilité</strong>, le deuil et la non-violence.</p>\n<p>Sa pensée part de Simone de Beauvoir, qu'elle réinterprète, et s'appuie sur Foucault, Derrida et la psychanalyse. Elle a influencé le féminisme, les mouvements LGBT et des penseurs comme Paul B. Preciado. Elle a aussi reçu des critiques venant d'autres courants féministes.</p>",
+  "obras": [
+   "Trouble dans le genre (1990)",
+   "Ces corps qui comptent (1993)",
+   "Vie précaire (2004)",
+   "La Force de la non-violence (2020)"
+  ],
+  "anecdota": "<p>Butler a raconté que, vers quatorze ans, elle parlait tant pendant les cours de l'école hébraïque de sa synagogue à Cleveland que le rabbin décida de lui imposer comme punition des tutorats individuels. La prétendue punition se révéla un cadeau : lors de ces séances d'éthique juive, le rabbin lui proposa de lire et de discuter des philosophes comme Spinoza et d'autres penseurs de la tradition. C'est là que commença son intérêt pour la philosophie et pour des questions qu'elle n'a jamais abandonnées, comme la relation entre l'éthique, la violence et la communauté.</p>",
+  "fuente": "Témoignage de Judith Butler dans des entretiens",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "chalmers": {
   "name": "David Chalmers",
   "dates": "né en 1966",
@@ -2023,7 +2608,29 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t2"
+   "fil-t2",
+   "fil-metafisica"
+  ]
+ },
+ "bostrom": {
+  "name": "Nick Bostrom",
+  "dates": "né en 1973",
+  "born": 1973,
+  "died": null,
+  "place": "Helsingborg (Suède)",
+  "role": "philosophe suédois",
+  "idea": "Si des civilisations avancées peuvent simuler des mondes peuplés d'êtres conscients et décident de le faire, il est probable que nous vivions nous-mêmes dans une simulation informatique.",
+  "bio": "<p>Nick Bostrom naquit à Helsingborg (Suède) en 1973. Il étudia la philosophie, la physique et les neurosciences computationnelles, et obtint son doctorat à la London School of Economics. Il fut professeur à l'Université d'Oxford, où il dirigea le Future of Humanity Institute, consacré aux risques qui menacent l'espèce humaine.</p>\n<p>En 2003, il formula l'<strong>argument de la simulation</strong>. Selon lui, au moins l'une de ces trois possibilités est vraie : presque aucune civilisation n'atteint une technologie capable de simuler des esprits conscients ; celles qui y parviennent ne veulent pas le faire ; ou nous vivons presque certainement dans une <strong>simulation</strong>. Il figure au programme parce que son hypothèse rappelle le <strong>malin génie</strong> de Descartes. Il est aussi connu pour ses études sur les risques de l'intelligence artificielle.</p>",
+  "obras": [
+   "Vivez-vous dans une simulation informatique ? (2003)",
+   "Superintelligence (2014)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
   ]
  }
 };

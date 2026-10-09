@@ -447,6 +447,14 @@ const CITAS = [
   "img": "media/retratos/museo2/hobbes.jpg"
  },
  {
+  "c": "Il dépend de nous de ne pas rendre la terre encore plus malheureuse qu'elle ne l'est déjà.",
+  "a": "Voltaire",
+  "o": "attribuée ; non localisée dans son œuvre",
+  "e": "moderne",
+  "id": "voltaire",
+  "img": "media/retratos/museo2/voltaire.jpg"
+ },
+ {
   "c": "Les Lumières sont totalitaires.",
   "a": "Adorno & Horkheimer",
   "o": "La Dialectique de la Raison (1944), « Le concept de Lumières »",
@@ -828,19 +836,25 @@ const CITAS = [
   "c": "On m'opposera cet axiome reçu parmi les philosophes : qu'il n'y a rien dans l'âme qui ne vienne des sens. Mais il faut excepter l'âme même et ses affections.",
   "a": "Leibniz",
   "o": "Nouveaux essais sur l'entendement humain (1704 ; publ. 1765) II, 1, § 2",
-  "e": "moderne"
+  "e": "moderne",
+  "id": "leibniz",
+  "img": "media/retratos/museo2/leibniz.jpg"
  },
  {
   "c": "Leur être consiste à être perçues, et il n'est pas possible qu'elles aient une existence quelconque en dehors des esprits ou choses pensantes qui les perçoivent.",
   "a": "Berkeley",
   "o": "Traité sur les principes de la connaissance humaine (1710) I, § 3",
-  "e": "moderne"
+  "e": "moderne",
+  "id": "berkeley",
+  "img": "media/retratos/museo2/berkeley.jpg"
  },
  {
   "c": "De même que la lumière se manifeste elle-même et manifeste les ténèbres, de même la vérité est la norme d'elle-même et du faux.",
   "a": "Spinoza",
   "o": "Éthique (1677) II, proposition 43, scolie",
-  "e": "moderne"
+  "e": "moderne",
+  "id": "spinoza",
+  "img": "media/retratos/museo/spinoza.jpg"
  },
  {
   "c": "Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, c'est faux ; dire de ce qui est qu'il est et de ce qui n'est pas qu'il n'est pas, c'est vrai.",
@@ -926,13 +940,17 @@ const CITAS = [
   "c": "Par convention le doux et par convention l'amer ; par convention le chaud, par convention le froid, par convention la couleur ; mais en réalité, des atomes et du vide.",
   "a": "Démocrite",
   "o": "fragment DK 68 B9 (chez Sextus Empiricus, Contre les mathématiciens VII, 135)",
-  "e": "antique"
+  "e": "antique",
+  "id": "democrito",
+  "img": "media/retratos/museo2/democrito.jpg"
  },
  {
   "c": "Le discours est un souverain puissant qui, avec un corps très petit et tout à fait invisible, accomplit les œuvres les plus divines : il peut arrêter la peur, ôter la peine, produire la joie et accroître la compassion.",
   "a": "Gorgias",
   "o": "Éloge d'Hélène, 8 (DK 82 B11)",
-  "e": "antique"
+  "e": "antique",
+  "id": "gorgias",
+  "img": "media/retratos/museo2/gorgias.jpg"
  },
  {
   "c": "Que personne, étant jeune, ne diffère le moment de philosopher ; ni, étant vieux, ne se lasse de philosopher. Pour la santé de l'âme, nul n'arrive ni trop tôt ni trop tard.",
@@ -953,13 +971,16 @@ const CITAS = [
   "c": "La philosophie n'est pas un métier populaire ni faite pour la parade ; elle ne réside pas dans les mots, mais dans les actes. […] Elle forme et façonne l'âme, ordonne la vie, règle les actions.",
   "a": "Sénèque",
   "o": "Lettres à Lucilius 16, 3",
-  "e": "antique"
+  "e": "antique",
+  "id": "seneca",
+  "img": "media/retratos/museo/seneca.jpg"
  },
  {
   "c": "Ce qui n'est pas utile à l'essaim ne l'est pas non plus à l'abeille.",
   "a": "Marc Aurèle",
   "o": "Pensées VI, 54",
-  "e": "antique"
+  "e": "antique",
+  "img": "media/retratos/museo/marco-aurelio.jpg"
  },
  {
   "c": "Ce n'est pas toi qui es mortel, mais ce corps ; tu n'es pas non plus celui que cette forme qui est la tienne montre : l'esprit de chacun, voilà chacun, et non cette figure que l'on peut désigner du doigt.",
@@ -1027,13 +1048,15 @@ const CITAS = [
   "c": "Nous sommes tous de lopins, et d'une contexture si informe et diverse, que chaque pièce, chaque moment, fait son jeu. Et se trouve autant de différence de nous à nous-mêmes, que de nous à autrui.",
   "a": "Montaigne",
   "o": "Essais (1580) II, 1",
-  "e": "moderne"
+  "e": "moderne",
+  "img": "media/retratos/museo2/montaigne.jpg"
  },
  {
   "c": "Rien de juste ni d'injuste qui ne change de qualité en changeant de climat. […] Plaisante justice qu'une rivière borne ! Vérité au-deçà des Pyrénées, erreur au-delà.",
   "a": "Blaise Pascal",
   "o": "Pensées, fr. 60 (éd. Lafuma) / 294 (éd. Brunschvicg)",
-  "e": "moderne"
+  "e": "moderne",
+  "img": "media/retratos/museo2/pascal.jpg"
  },
  {
   "c": "Les idées de la classe dominante sont, à chaque époque, les idées dominantes ; c'est-à-dire que la classe qui est la puissance matérielle dominante de la société est, en même temps, sa puissance spirituelle dominante.",
@@ -1047,13 +1070,16 @@ const CITAS = [
   "c": "La conscience de Dieu est la conscience de soi de l'homme ; la connaissance de Dieu, la connaissance que l'homme a de lui-même.",
   "a": "Feuerbach",
   "o": "L'Essence du christianisme (1841), Introduction, 2",
-  "e": "contemporaine"
+  "e": "contemporaine",
+  "id": "feuerbach",
+  "img": "media/retratos/museo2/feuerbach.jpg"
  },
  {
   "c": "La compassion est le fondement réel de toute justice libre et de tout amour authentique du prochain.",
   "a": "Schopenhauer",
   "o": "Sur le fondement de la morale (1840), § 16",
-  "e": "contemporaine"
+  "e": "contemporaine",
+  "img": "media/retratos/museo/schopenhauer.jpg"
  },
  {
   "c": "Sur lui-même, sur son propre corps et son propre esprit, l'individu est souverain.",
@@ -1123,13 +1149,16 @@ const CITAS = [
   "c": "Dans la poésie, nous rencontrons directement l'homme concret, individuel. Dans la philosophie, l'homme dans son histoire universelle.",
   "a": "María Zambrano",
   "o": "Philosophie et poésie (1939)",
-  "e": "contemporaine"
+  "e": "contemporaine",
+  "id": "zambrano",
+  "img": "media/retratos/museo/zambrano.jpg"
  },
  {
   "c": "Les malheureux n'ont pas besoin en ce monde d'autre chose que d'hommes capables de leur prêter attention. […] La plénitude de l'amour du prochain consiste simplement à être capable de lui demander : « Quel est ton tourment ? »",
   "a": "Simone Weil",
   "o": "« Réflexions sur le bon usage des études scolaires en vue de l'amour de Dieu » (1942), dans Attente de Dieu",
-  "e": "contemporaine"
+  "e": "contemporaine",
+  "img": "media/retratos/museo2/weil.jpg"
  },
  {
   "c": "Si tous les hommes naissent libres, comment se fait-il que toutes les femmes naissent esclaves ?",
