@@ -379,7 +379,7 @@ const DILEMAS = [
   "debate": {
    "epoca": "IVe-Ve et XVIIIe siècles",
    "texto": "« Le mensonge est un dire faux avec la volonté de tromper. […] Celui qui pense qu'il existe un mensonge qui n'est pas un péché se trompe lui-même de la pire manière. »",
-   "fuente": "Augustin d'Hippone, Sur le mensonge (395). Kant reprend cette thèse dans « D'un prétendu droit de mentir par humanité » (1797).",
+   "fuente": "Augustin d'Hippone, Sur le mensonge (395). Kant reprend cette thèse dans « D'un prétendu droit de mentir par humanité » (1797).",
    "unidad": "fil-t5"
   },
   "preguntas": [
