@@ -14,7 +14,11 @@ const GLOSARIO = [
   "et": "Les Grecs l'appelaient θαυμάζειν (*thaumázein*), « s'émerveiller » : pour Platon et Aristote, c'est là que commence la philosophie. En espagnol, *asombrar* vient de *sombra* (« ombre ») : au départ, « faire de l'ombre, effrayer ».",
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
-  "def": "La capacité de s'étonner devant ce qui semble évident aux autres. Pour Platon et Aristote, c'est l'origine de la philosophie."
+  "def": "La capacité de s'étonner devant ce qui semble évident aux autres. Pour Platon et Aristote, c'est l'origine de la philosophie.",
+  "ilustre": [
+   "platon",
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -46,7 +50,10 @@ const GLOSARIO = [
   "et": "Du grec ἀρχή (*arkhé*), « principe, origine » et aussi « commandement ». De là *archéologie* et *monarchie*.",
   "area": "Métaphysique",
   "tema": "Philosophie · Thème 1",
-  "def": "Le principe ou élément originel dont tout procède. Thalès de Milet l'a identifié à l'eau."
+  "def": "Le principe ou élément originel dont tout procède. Thalès de Milet l'a identifié à l'eau.",
+  "ilustre": [
+   "tales"
+  ]
  },
  {
   "subject": "fil",
@@ -157,7 +164,10 @@ const GLOSARIO = [
   "et": "Du latin : « ose savoir ». C'est un vers d'Horace que Kant a fait devenir la devise des Lumières.",
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
-  "def": "« Ose savoir » : mot d'ordre de Kant ; aie le courage de te servir de ta propre raison."
+  "def": "« Ose savoir » : mot d'ordre de Kant ; aie le courage de te servir de ta propre raison.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -165,7 +175,10 @@ const GLOSARIO = [
   "et": "Du latin *evolvere*, « dérouler », comme on déroulait un livre en forme de rouleau.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
-  "def": "Le processus par lequel les espèces changent avec le temps ; Darwin l'a expliqué par la sélection naturelle et l'origine commune."
+  "def": "Le processus par lequel les espèces changent avec le temps ; Darwin l'a expliqué par la sélection naturelle et l'origine commune.",
+  "ilustre": [
+   "darwin"
+  ]
  },
  {
   "subject": "fil",
@@ -197,7 +210,10 @@ const GLOSARIO = [
   "et": "Du latin *cultura*, de *colere*, « cultiver » : Cicéron appelait la philosophie *cultura animi*, « culture de l'âme ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
-  "def": "Ensemble de connaissances, de croyances, d'art, de morale, de droit, de coutumes et d'habitudes qu'on acquiert en tant que membre d'une société (Tylor)."
+  "def": "Ensemble de connaissances, de croyances, d'art, de morale, de droit, de coutumes et d'habitudes qu'on acquiert en tant que membre d'une société (Tylor).",
+  "ilustre": [
+   "tylor"
+  ]
  },
  {
   "subject": "fil",
@@ -269,7 +285,10 @@ const GLOSARIO = [
   "et": "Du latin : « chose qui pense » et « chose étendue », qui occupe de l'espace.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
-  "def": "Chez Descartes : la « chose pensante » (l'esprit) et la « chose étendue » (le corps, la matière)."
+  "def": "Chez Descartes : la « chose pensante » (l'esprit) et la « chose étendue » (le corps, la matière).",
+  "ilustre": [
+   "descartes"
+  ]
  },
  {
   "subject": "fil",
@@ -293,7 +312,10 @@ const GLOSARIO = [
   "et": "Il traduit le grec ζῷον πολιτικόν (*zôon politikón*), « animal de la pólis », d'Aristote.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
-  "def": "Trait qu'Aristote ajoute : nous avons besoin de vivre en communauté pour nous développer et être pleinement humains."
+  "def": "Trait qu'Aristote ajoute : nous avons besoin de vivre en communauté pour nous développer et être pleinement humains.",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -309,7 +331,10 @@ const GLOSARIO = [
   "et": "Du latin *dignitas*, de *dignus*, « qui mérite ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 2",
-  "def": "La valeur absolue de la personne, qui fait d'elle une fin en soi et jamais un simple moyen (Kant)."
+  "def": "La valeur absolue de la personne, qui fait d'elle une fin en soi et jamais un simple moyen (Kant).",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -357,7 +382,10 @@ const GLOSARIO = [
   "et": "Du latin *circumstantia* : *circum* « autour » + *stare* « se tenir » : ce qui est autour de moi.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
-  "def": "L'environnement concret (époque, corps, société) avec lequel le moi se construit : « je suis moi et ma circonstance » (Ortega)."
+  "def": "L'environnement concret (époque, corps, société) avec lequel le moi se construit : « je suis moi et ma circonstance » (Ortega).",
+  "ilustre": [
+   "ortega"
+  ]
  },
  {
   "subject": "fil",
@@ -421,7 +449,11 @@ const GLOSARIO = [
   "et": "Du grec ἐμπειρία (*empeiría*), « expérience », de πεῖρα (*peîra*), « épreuve, tentative ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
-  "def": "Courant qui affirme que toute connaissance procède de l'expérience sensible (Locke, Hume)."
+  "def": "Courant qui affirme que toute connaissance procède de l'expérience sensible (Locke, Hume).",
+  "ilustre": [
+   "locke",
+   "hume"
+  ]
  },
  {
   "subject": "fil",
@@ -429,7 +461,10 @@ const GLOSARIO = [
   "et": "Du latin *ratio*, « raison », qui a d'abord signifié « calcul, compte ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
-  "def": "Courant qui fait avant tout confiance à la raison comme source de connaissance (Descartes)."
+  "def": "Courant qui fait avant tout confiance à la raison comme source de connaissance (Descartes).",
+  "ilustre": [
+   "descartes"
+  ]
  },
  {
   "subject": "fil",
@@ -437,7 +472,10 @@ const GLOSARIO = [
   "et": "Du grec κρίνειν (*krínein*), « séparer, juger, décider ». La critique sépare ce que la raison peut connaître de ce qu'elle ne peut pas connaître.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
-  "def": "Synthèse de Kant (apriorisme) : la connaissance naît de l'expérience, mais l'ordonne avec des structures a priori du sujet."
+  "def": "Synthèse de Kant (apriorisme) : la connaissance naît de l'expérience, mais l'ordonne avec des structures a priori du sujet.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -453,7 +491,10 @@ const GLOSARIO = [
   "et": "Du grec φαινόμενον (*phainómenon*), « ce qui apparaît », et νοούμενον (*nooúmenon*), « ce qui est pensé ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
-  "def": "Chez Kant : le phénomène est ce qui nous apparaît (le connaissable) ; le noumène, la chose en soi (inconnaissable)."
+  "def": "Chez Kant : le phénomène est ce qui nous apparaît (le connaissable) ; le noumène, la chose en soi (inconnaissable).",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -517,7 +558,10 @@ const GLOSARIO = [
   "et": "Du latin *evidentia*, de *videre*, « voir » : ce qu'on voit clairement.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
-  "def": "L'état dans lequel une vérité se présente avec clarté et distinction, sans doute possible (Descartes)."
+  "def": "L'état dans lequel une vérité se présente avec clarté et distinction, sans doute possible (Descartes).",
+  "ilustre": [
+   "descartes"
+  ]
  },
  {
   "subject": "fil",
@@ -627,7 +671,10 @@ const GLOSARIO = [
   "et": "Du grec εὐδαιμονία (*eudaimonía*) : εὖ (*eû*) « bien » + δαίμων (*daímon*) « esprit, divinité » : « avoir un bon esprit », être heureux.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
-  "def": "Éthique qui identifie le bien au bonheur (Aristote)."
+  "def": "Éthique qui identifie le bien au bonheur (Aristote).",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -643,7 +690,10 @@ const GLOSARIO = [
   "et": "Du latin *virtus*, « courage, force », de *vir*, « homme ». Il traduit le grec ἀρετή (*areté*).",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
-  "def": "Chez Aristote, l'habitude de choisir le juste milieu entre deux extrêmes ; l'excellence du caractère."
+  "def": "Chez Aristote, l'habitude de choisir le juste milieu entre deux extrêmes ; l'excellence du caractère.",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -651,7 +701,10 @@ const GLOSARIO = [
   "et": "*Devoir*, du latin *debere* (*de-* + *habere*, « avoir ») : avoir quelque chose reçu d'un autre et être obligé de le rendre.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
-  "def": "Éthique (déontologie) qui juge l'action par sa conformité au devoir, et non par ses conséquences (Kant)."
+  "def": "Éthique (déontologie) qui juge l'action par sa conformité au devoir, et non par ses conséquences (Kant).",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -659,7 +712,10 @@ const GLOSARIO = [
   "et": "*Impératif*, du latin *imperare*, « commander ». *Catégorique*, du grec κατηγορικός (*kategorikós*), « qui affirme sans conditions ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
-  "def": "Le commandement inconditionné de Kant : agis seulement selon la maxime dont tu peux vouloir qu'elle devienne loi universelle."
+  "def": "Le commandement inconditionné de Kant : agis seulement selon la maxime dont tu peux vouloir qu'elle devienne loi universelle.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -722,7 +778,10 @@ const GLOSARIO = [
   "et": "*Esthétique*, du grec αἴσθησις (*aísthesis*), « sensation, perception ».",
   "area": "Esthétique",
   "tema": "Philosophie · Thème 7",
-  "def": "Le jugement par lequel nous estimons quelque chose beau ou laid ; pour Kant, il est subjectif mais prétend à une validité universelle."
+  "def": "Le jugement par lequel nous estimons quelque chose beau ou laid ; pour Kant, il est subjectif mais prétend à une validité universelle.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -890,7 +949,10 @@ const GLOSARIO = [
   "et": "Du latin *apparere*, « se montrer, apparaître ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
-  "def": "Ce que les choses paraissent être, par opposition à ce qu'elles sont réellement. Pour Parménide, le changement et la multiplicité que nous voyons ne sont que pure apparence."
+  "def": "Ce que les choses paraissent être, par opposition à ce qu'elles sont réellement. Pour Parménide, le changement et la multiplicité que nous voyons ne sont que pure apparence.",
+  "ilustre": [
+   "parmenides"
+  ]
  },
  {
   "subject": "fil",
@@ -906,7 +968,10 @@ const GLOSARIO = [
   "et": "Du latin *accidere* (*ad-* + *cadere* « tomber ») : « ce qui tombe dessus » à quelque chose, ce qui lui arrive sans être essentiel.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
-  "def": "Pour Aristote, qualité qui n'existe que dans une substance et peut changer, comme la couleur, la taille ou le lieu."
+  "def": "Pour Aristote, qualité qui n'existe que dans une substance et peut changer, comme la couleur, la taille ou le lieu.",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -937,7 +1002,10 @@ const GLOSARIO = [
   "t": "Test de Turing",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
-  "def": "Test proposé par Alan Turing en 1950 : si, en conversant par écrit, nous ne distinguons pas une machine d'une personne, nous n'aurions aucune raison de lui refuser l'intelligence."
+  "def": "Test proposé par Alan Turing en 1950 : si, en conversant par écrit, nous ne distinguons pas une machine d'une personne, nous n'aurions aucune raison de lui refuser l'intelligence.",
+  "ilustre": [
+   "turing"
+  ]
  },
  {
   "subject": "fil",
@@ -952,7 +1020,10 @@ const GLOSARIO = [
   "et": "*Problème*, du grec πρόβλημα (*próblema*), « ce qu'on met devant, obstacle ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
-  "def": "Expression de David Chalmers (1995) : expliquer pourquoi existe l'expérience subjective, ce que l'on ressent en voyant du rouge."
+  "def": "Expression de David Chalmers (1995) : expliquer pourquoi existe l'expérience subjective, ce que l'on ressent en voyant du rouge.",
+  "ilustre": [
+   "chalmers"
+  ]
  },
  {
   "subject": "fil",
@@ -984,7 +1055,11 @@ const GLOSARIO = [
   "et": "*Compatible*, du latin *compati*, « souffrir ensemble » : ce qui peut coexister avec autre chose.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
-  "def": "Position de Hobbes et de Hume : liberté et déterminisme peuvent coexister, car être libre n'est pas agir sans causes, mais agir selon ses propres désirs et raisons, sans contrainte."
+  "def": "Position de Hobbes et de Hume : liberté et déterminisme peuvent coexister, car être libre n'est pas agir sans causes, mais agir selon ses propres désirs et raisons, sans contrainte.",
+  "ilustre": [
+   "hobbes",
+   "hume"
+  ]
  },
  {
   "subject": "fil",
@@ -992,7 +1067,10 @@ const GLOSARIO = [
   "et": "*Cosmologique*, du grec κόσμος (*kósmos*), « ordre, monde ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
-  "def": "Raisonnement qui part du monde : la chaîne des moteurs et des causes ne peut se prolonger indéfiniment, elle exige donc un premier moteur, une première cause, un être nécessaire (cinq voies de Thomas d'Aquin)."
+  "def": "Raisonnement qui part du monde : la chaîne des moteurs et des causes ne peut se prolonger indéfiniment, elle exige donc un premier moteur, une première cause, un être nécessaire (cinq voies de Thomas d'Aquin).",
+  "ilustre": [
+   "tomas"
+  ]
  },
  {
   "subject": "fil",
@@ -1000,7 +1078,11 @@ const GLOSARIO = [
   "et": "*Dessein*, de l'italien *disegno*, « dessin, plan », du latin *designare*, « marquer, tracer ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
-  "def": "Raisonnement téléologique : l'ordre de la nature, comme celui d'une horloge, exige un concepteur (Paley). Il a été critiqué par Hume et, avec la sélection naturelle, par Darwin."
+  "def": "Raisonnement téléologique : l'ordre de la nature, comme celui d'une horloge, exige un concepteur (Paley). Il a été critiqué par Hume et, avec la sélection naturelle, par Darwin.",
+  "ilustre": [
+   "hume",
+   "darwin"
+  ]
  },
  {
   "subject": "fil",
@@ -1016,7 +1098,10 @@ const GLOSARIO = [
   "et": "Du grec θεός (*theós*) « dieu » + δίκη (*díke*) « justice » : le mot a été inventé par Leibniz, comme titre de son livre de 1710.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
-  "def": "Nom que Leibniz (1710) a donné aux réponses du croyant au problème du mal ; l'une des plus connues soutient que le mal est le prix de la liberté humaine."
+  "def": "Nom que Leibniz (1710) a donné aux réponses du croyant au problème du mal ; l'une des plus connues soutient que le mal est le prix de la liberté humaine.",
+  "ilustre": [
+   "leibniz"
+  ]
  },
  {
   "subject": "fil",
