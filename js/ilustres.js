@@ -180,6 +180,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-metafisica",
+   "fil-presocraticos",
    "fil-grandes-preguntas"
   ]
  },
@@ -208,6 +209,29 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "anaxagoras": {
+  "name": "Anaxagore de Clazomènes",
+  "dates": "v. 500 – 428 av. J.-C.",
+  "born": -500,
+  "died": -428,
+  "place": "Clazomènes (Ionie, actuelle Turquie)",
+  "role": "philosophe présocratique",
+  "idea": "Tout est formé d'une infinité de semences mêlées, et une intelligence, le Nous, mit en marche le tourbillon qui sépara et ordonna le cosmos.",
+  "bio": "<p>Anaxagore naquit à Clazomènes, en Ionie, vers 500 av. J.-C. Vers le milieu du Ve siècle, il s'installa à Athènes, où il apporta la philosophie ionienne, et fut l'ami et le conseiller de Périclès. Il soutenait que le Soleil était une pierre incandescente, et fut pour cela accusé d'impiété ; il dut quitter Athènes et mourut à Lampsaque vers 428 av. J.-C. De son livre <em>Sur la nature</em> se conservent quelques fragments.</p>\n<p>Il accepta le principe de Parménide selon lequel rien ne naît du néant ni ne disparaît dans le néant. C'est pourquoi il expliqua le changement comme mélange et séparation d'une infinité de <strong>semences</strong> (spérmata), appelées plus tard <strong>homéoméries</strong> : de minuscules particules de toutes les qualités. En chaque chose il y a des parties de toutes les autres, et chacune paraît ce qu'elle est par la portion qui prédomine. Ainsi, le pain peut se changer en chair et en os parce qu'il les contient déjà. Ce qui met en marche ce processus est le <strong>Nous</strong>, un esprit ou intelligence qui ne se mêle à rien et qui imprima à l'ensemble un mouvement de tourbillon qui l'ordonna.</p>\n<p>Anaxagore est l'un des <strong>pluralistes</strong>, avec Empédocle et Démocrite. Avec le Nous, un principe intelligent apparaît pour la première fois comme cause de l'ordre du cosmos. Selon ce que raconte Platon dans le <em>Phédon</em>, Socrate s'enthousiasma pour cette idée, mais il fut déçu de voir qu'Anaxagore l'utilisait à peine et expliquait presque tout par des causes mécaniques.</p>",
+  "obras": [
+   "Sur la nature (fragments)"
+  ],
+  "anecdota": "<p>On raconte qu'Anaxagore négligea la fortune de sa famille pour se consacrer à l'étude de la nature, et laissa ses terres devenir un pâturage pour les moutons. Quand quelqu'un lui reprocha de ne pas se soucier de sa patrie, il montra le ciel et répondit : « Je me soucie énormément de ma patrie. » En une autre occasion, on lui demanda pour quoi cela valait la peine d'être né, et il répondit : « Pour contempler le ciel et l'ordre de l'univers entier. » Aristote rapporte cette dernière réponse comme exemple d'une vie vouée à la connaissance.</p>",
+  "fuente": "Diogène Laërce, Vies II ; Aristote, Éthique à Eudème I",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-presocraticos"
+  ]
+ },
  "empedocles": {
   "name": "Empédocle d'Agrigente",
   "dates": "v. 495 – v. 435 av. J.-C.",
@@ -229,7 +253,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-presocraticos"
   ]
  },
  "zenon_elea": {
@@ -247,7 +272,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-presocraticos"
   ]
  },
  "protagoras": {
@@ -299,6 +325,27 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t4"
+  ]
+ },
+ "leucipo": {
+  "name": "Leucippe",
+  "dates": "fl. v. 440 av. J.-C.",
+  "born": -480,
+  "died": null,
+  "place": "Milet ou Abdère (on ne le sait pas avec certitude)",
+  "role": "philosophe atomiste",
+  "idea": "Tout est fait d'atomes indivisibles qui se meuvent dans le vide, et rien n'arrive au hasard : tout se produit pour une raison et par nécessité.",
+  "bio": "<p>Leucippe est le fondateur de l'<strong>atomisme</strong> et le maître de <strong>Démocrite</strong>, mais c'est une figure si obscure que, dès l'Antiquité, Épicure en vint à douter qu'il ait existé. Nous ne savons avec certitude ni où il naquit ni quand il mourut ; seulement qu'il était actif vers le milieu du Ve siècle av. J.-C. Ses œuvres furent vite confondues avec celles de Démocrite.</p>\n<p>Leucippe répondit aux éléates, qui niaient le mouvement : il accepta que l'être ne naît ni ne se détruit, mais il le divisa en une infinité de minuscules particules indivisibles, les <strong>atomes</strong>, et admit qu'il existe un <strong>vide</strong> dans lequel ils se meuvent. Tout ce que nous voyons naît de la façon dont ils s'assemblent et se séparent. Il ne nous reste de lui qu'une seule phrase sûre : « rien n'arrive au hasard, mais tout se produit pour une raison et par nécessité », l'une des premières affirmations du <strong>déterminisme</strong>.</p>",
+  "obras": [
+   "La grande cosmologie (attribuée)",
+   "Sur l'intellect"
+  ],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-presocraticos"
   ]
  },
  "policleto": {
@@ -375,6 +422,7 @@ const ILUSTRES = {
   "temas": [
    "fil-t2",
    "fil-metafisica",
+   "fil-presocraticos",
    "fil-grandes-preguntas"
   ]
  },
@@ -474,6 +522,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
+   "fil-presocraticos",
    "fil-helenismo"
   ]
  },
@@ -528,6 +577,7 @@ const ILUSTRES = {
    "fil-t5",
    "fil-t6",
    "fil-t7",
+   "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas"
   ]
@@ -577,6 +627,7 @@ const ILUSTRES = {
   "temas": [
    "fil-metafisica",
    "fil-t5",
+   "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas"
   ]
