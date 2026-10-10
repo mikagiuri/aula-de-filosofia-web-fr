@@ -6977,6 +6977,155 @@ const QUIZZES = {
    }
   ]
  },
+ "fil-venn-q": {
+  "name": "Propositions, classes et diagrammes d'Euler et de Venn (Philosophie 1re Bach. · T4)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Laquelle de ces phrases exprime une proposition ?",
+    "o": [
+     "Ferme la porte !",
+     "Quelle heure est-il ?",
+     "Pourvu qu'il pleuve demain.",
+     "Aujourd'hui, il pleut à Bilbao."
+    ],
+    "a": 3,
+    "fb": "Seule la dernière affirme quelque chose qui peut être vrai ou faux. Un ordre, une question ou un souhait ne sont pas des propositions."
+   },
+   {
+    "q": "« Quelque sportif n'est pas gaucher » est une proposition de type…",
+    "o": [
+     "A",
+     "E",
+     "I",
+     "O"
+    ],
+    "a": 3,
+    "fb": "Particulière (quelque) et négative (ne… pas) : O. Les voyelles viennent de affIrmo (A, I) et nEgO (E, O)."
+   },
+   {
+    "q": "« Tout ce qui brille n'est pas or » équivaut à…",
+    "o": [
+     "Rien de ce qui brille n'est or (E).",
+     "Quelque chose qui brille n'est pas or (O).",
+     "Tout ce qui brille est or (A).",
+     "Quelque chose qui brille est or (I)."
+    ],
+    "a": 1,
+    "fb": "Nier une universelle affirmative (A), c'est affirmer sa contradictoire, la O : il suffit d'un cas qui brille et qui ne soit pas de l'or."
+   },
+   {
+    "q": "Si « tous les examens du cours sont écrits » est fausse, que sait-on avec certitude ?",
+    "o": [
+     "Qu'aucun examen n'est écrit.",
+     "Que quelque examen n'est pas écrit.",
+     "Que quelque examen est écrit.",
+     "Rien du tout."
+    ],
+    "a": 1,
+    "fb": "A et O sont contradictoires : si l'une est fausse, l'autre est vraie. De la E, on ne sait rien, car les contraires peuvent être fausses toutes les deux."
+   },
+   {
+    "q": "Cas piège : « Quelques élèves ont réussi ». S'ensuit-il logiquement que quelques élèves n'ont pas réussi ?",
+    "o": [
+     "Oui : « quelques-uns » signifie « pas tous ».",
+     "Non : la I est compatible avec le fait que tous aient réussi.",
+     "Oui, par la loi des contraires.",
+     "Seulement s'il y a des élèves."
+    ],
+    "a": 1,
+    "fb": "Dans la conversation, « quelques-uns » suggère « pas tous », mais la logique ne le dit pas : I et O (subcontraires) peuvent être vraies toutes les deux, et la I est vraie aussi si tous réussissent."
+   },
+   {
+    "q": "Quelle différence y a-t-il entre « Socrate ∈ humains » et « humains ⊆ mortels » ?",
+    "o": [
+     "Aucune : les deux disent « est ».",
+     "La première est l'appartenance d'un individu à une classe ; la seconde, l'inclusion d'une classe dans une autre.",
+     "La première est une inclusion et la seconde une appartenance.",
+     "Les deux sont des appartenances."
+    ],
+    "a": 1,
+    "fb": "L'inclusion s'enchaîne (humains ⊆ mortels ⊆ êtres vivants) ; l'appartenance, non : Socrate est membre des humains, mais il n'est pas une espèce."
+   },
+   {
+    "q": "La réunion de deux classes (A ∪ B) correspond au connecteur…",
+    "o": [
+     "« et » (∧)",
+     "« non » (¬)",
+     "« ou » (∨)",
+     "« si…, alors » (→)"
+    ],
+    "a": 2,
+    "fb": "x ∈ A ∪ B veut dire x ∈ A ou x ∈ B. L'intersection correspond à « et », et le complémentaire à « non »."
+   },
+   {
+    "q": "Selon les lois de De Morgan, (A ∪ B)ᶜ est égal à…",
+    "o": [
+     "Aᶜ ∪ Bᶜ",
+     "Aᶜ ∩ Bᶜ",
+     "A ∩ B",
+     "(A ∩ B)ᶜ"
+    ],
+    "a": 1,
+    "fb": "Être en dehors de la réunion, c'est être en dehors de A et, en même temps, en dehors de B. Le confondre avec Aᶜ ∪ Bᶜ est l'erreur la plus fréquente : vérifie-le dans « Lois des ensembles » du Coin de logique."
+   },
+   {
+    "q": "Dans un diagramme de Venn de propositions, une région grise signifie…",
+    "o": [
+     "Qu'il y a au moins un élément.",
+     "Qu'on ne sait rien.",
+     "Qu'elle est vide.",
+     "Que c'est la conclusion."
+    ],
+    "a": 2,
+    "fb": "Gris = vide ; ✕ = il y a au moins un élément ; blanc = on ne sait pas. (Dans les dessins d'opérations, en revanche, la couleur marque la région qui en résulte.)"
+   },
+   {
+    "q": "Quel inconvénient des diagrammes d'Euler Venn a-t-il résolu ?",
+    "o": [
+     "Euler ne pouvait pas dessiner plus de deux classes.",
+     "Avec Euler, il faut savoir comment les classes sont placées ; si on ne le sait pas, il faut plusieurs dessins.",
+     "Euler utilisait des carrés au lieu de cercles.",
+     "Ceux d'Euler ne servaient pas pour le syllogisme."
+    ],
+    "a": 1,
+    "fb": "Entre deux classes, il y a cinq situations possibles (Gergonne), et « quelque S est P » est compatible avec quatre d'entre elles. Venn dessine toujours toutes les régions et indique ce que l'on sait de chacune."
+   },
+   {
+    "q": "Cas piège : « Toutes les licornes ont une corne ». Pour la logique actuelle, s'il n'existe aucune licorne, cette proposition est…",
+    "o": [
+     "Fausse, parce qu'il n'y a pas de licornes.",
+     "Vraie, parce qu'il n'y a aucune licorne qui la rende fausse.",
+     "Ni vraie ni fausse.",
+     "Contradictoire."
+    ],
+    "a": 1,
+    "fb": "La A se lit « pour n'importe quelle chose, si c'est une licorne, elle a une corne » : elle n'affirme pas qu'il existe des licornes. Aristote, en revanche, supposait que les affirmatives parlent de quelque chose qui existe."
+   },
+   {
+    "q": "Le syllogisme Darapti (tout M est P ; tout M est S ; donc quelque S est P)…",
+    "o": [
+     "Est valide dans n'importe quelle logique.",
+     "N'est valide dans aucune.",
+     "Est valide pour Aristote, mais pas pour la logique actuelle s'il n'y a aucun M.",
+     "N'est valide que s'il n'y a aucun M."
+    ],
+    "a": 2,
+    "fb": "Les deux prémisses universelles ne mettent aucune ✕ dans le diagramme de Venn. Il faut ajouter qu'il existe au moins un M pour que la conclusion apparaisse."
+   },
+   {
+    "q": "Qu'a montré le paradoxe de Russell (1901-1902) ?",
+    "o": [
+     "Que la logique d'Aristote est incohérente.",
+     "Que toute propriété ne peut pas définir une classe.",
+     "Que les diagrammes de Venn ne servent pas pour trois classes.",
+     "Que la classe vide n'existe pas."
+    ],
+    "a": 1,
+    "fb": "La classe de toutes les classes qui ne se contiennent pas elles-mêmes se contient elle-même si et seulement si elle ne se contient pas. Russell l'a écrit à Frege en 1902 ; la solution a été de fixer par des axiomes quelles collections sont des ensembles."
+   }
+  ]
+ },
  "fil-t4-repaso": {
   "name": "Logique et argumentation (Philosophie 1re année · T4 · révision)",
   "subject": "fil",

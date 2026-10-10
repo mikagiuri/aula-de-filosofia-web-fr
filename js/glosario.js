@@ -937,6 +937,114 @@ const GLOSARIO = [
  },
  {
   "subject": "fil",
+  "t": "Proposition",
+  "et": "Du latin *propositio*, de *proponere*, « placer devant ».",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "Ce que dit une phrase qui affirme ou nie quelque chose, et qui peut donc être vrai ou faux. « Il pleut » et « Euria ari du » sont des phrases différentes qui expriment la même proposition. Un ordre ou une question ne sont pas des propositions."
+ },
+ {
+  "subject": "fil",
+  "t": "Jugement",
+  "et": "Du latin *iudicium*, « décision, sentence », de *iudex*, « juge ».",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "Dans la logique traditionnelle, l'acte de l'esprit qui affirme ou nie quelque chose de quelque chose. La proposition est ce qui reste pensé dans cet acte : le jugement, c'est quelqu'un qui le fait à un moment donné ; la proposition reste la même, quel que soit celui qui la pense."
+ },
+ {
+  "subject": "fil",
+  "t": "Proposition catégorique",
+  "et": "*Catégorique*, du grec κατηγορικός (*kategorikós*), de κατηγορεῖν (*kategoreîn*), « affirmer quelque chose de quelque chose ».",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "Celle qui met en relation deux classes, un sujet (S) et un prédicat (P). Selon la quantité (universelle ou particulière) et la qualité (affirmative ou négative), il y en a quatre types : A « tout S est P », E « aucun S n'est P », I « quelque S est P » et O « quelque S n'est pas P »."
+ },
+ {
+  "subject": "fil",
+  "t": "Carré logique",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "Schéma traditionnel qui place les propositions A, E, I et O aux coins d'un carré et montre leurs relations : contradictoires (A-O, E-I : valeurs toujours opposées), contraires (A-E : elles ne peuvent pas être vraies toutes les deux), subcontraires (I-O : elles ne peuvent pas être fausses toutes les deux) et subalternes (de A découle I, et de E découle O). Dans la logique actuelle, seules les contradictoires sont conservées."
+ },
+ {
+  "subject": "fil",
+  "t": "Portée existentielle",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "Le fait qu'une proposition présuppose l'existence de ce dont elle parle. Pour Aristote, les affirmatives la présupposent ; pour la logique actuelle, les universelles non : « toutes les licornes ont une corne » est vraie même s'il n'y a pas de licornes. C'est pourquoi des syllogismes comme Darapti cessent d'être valides.",
+  "ilustre": [
+   "aristoteles"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Classe",
+  "et": "Du latin *classis*, « groupe, division » (à l'origine, chacun des groupes entre lesquels on répartissait les citoyens romains).",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "Ensemble de toutes les choses qui ont une propriété : la classe des mammifères, celle des nombres pairs. Elle peut être donnée en extension, en énumérant ses membres, ou en compréhension, en disant quelle propriété ils partagent. La classe sans membres est la classe vide (∅)."
+ },
+ {
+  "subject": "fil",
+  "t": "Appartenance et inclusion",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "Deux relations qui, en français, se disent avec « est ». L'appartenance (∈) relie un individu à une classe : « Socrate ∈ humains ». L'inclusion (⊆) relie deux classes : « humains ⊆ mortels ». L'inclusion s'enchaîne ; l'appartenance, non.",
+  "ilustre": [
+   "socrates"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Réunion, intersection et complémentaire",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "Les opérations de base sur les classes. La réunion (A ∪ B) rassemble ce qui est dans A ou dans B ; l'intersection (A ∩ B), ce qui est dans les deux ; le complémentaire (Aᶜ), tout ce qui n'est pas dans A. Elles correspondent aux connecteurs « ou », « et » et « non »."
+ },
+ {
+  "subject": "fil",
+  "t": "Lois de De Morgan",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "Nier une disjonction équivaut à nier ses deux parties : ¬(p ∨ q) = ¬p ∧ ¬q (« ni l'un ni l'autre »). Nier une conjonction équivaut à nier au moins une partie : ¬(p ∧ q) = ¬p ∨ ¬q. Avec les classes : (A ∪ B)ᶜ = Aᶜ ∩ Bᶜ et (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ. Augustus De Morgan les a formulées au XIXe siècle.",
+  "ilustre": [
+   "de_morgan"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Diagramme d'Euler",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "Dessin qui représente chaque classe par un cercle placé selon la relation affirmée : l'un à l'intérieur de l'autre (tout), séparés (aucun) ou qui se croisent (quelques). Leonhard Euler l'a fait connaître dans ses lettres de 1761. Si l'on ne sait pas comment les classes sont placées, il faut dessiner plusieurs situations.",
+  "ilustre": [
+   "euler"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Diagramme de Venn",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "Dessin qui représente les classes par des cercles qui se croisent toujours, de façon à faire apparaître toutes les régions possibles. On ombre les régions vides et on marque d'une ✕ celle où il y a au moins un élément. John Venn l'a proposé en 1880 ; avec trois cercles, il permet de vérifier si un syllogisme est valide.",
+  "ilustre": [
+   "venn"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Paradoxe de Russell",
+  "et": "*Paradoxe*, du grec παράδοξος (*parádoxos*) : παρά (*pará*) « contre » + δόξα (*dóxa*) « opinion ».",
+  "area": "Logique",
+  "tema": "Philosophie · Thème 4",
+  "def": "La classe de toutes les classes qui ne sont pas membres d'elles-mêmes est-elle membre d'elle-même ? Si elle l'est, elle ne l'est pas ; si elle ne l'est pas, elle l'est. Bertrand Russell l'a communiqué à Frege en 1902 et a montré que toute propriété ne peut pas définir une classe.",
+  "ilustre": [
+   "frege",
+   "russell"
+  ]
+ },
+ {
+  "subject": "fil",
   "t": "Ontologie",
   "et": "Du grec ὄν, ὄντος (*on, óntos*), « ce qui est », et λόγος (*lógos*), « étude ».",
   "area": "Métaphysique",

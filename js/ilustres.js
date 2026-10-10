@@ -1438,6 +1438,28 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "euler": {
+  "name": "Leonhard Euler",
+  "dates": "1707 – 1783",
+  "born": 1707,
+  "died": 1783,
+  "place": "Bâle (Suisse)",
+  "role": "mathématicien suisse",
+  "idea": "Les relations entre classes peuvent se voir comme des relations entre cercles : l'un à l'intérieur de l'autre, séparés ou qui se croisent.",
+  "bio": "<p>Leonhard Euler est né à Bâle et a étudié avec le mathématicien Johann Bernoulli. Il a passé presque toute sa vie au service de deux académies des sciences : celle de Saint-Pétersbourg (1727-1741 et, de nouveau, de 1766 jusqu'à sa mort) et celle de Berlin (1741-1766). C'est l'un des mathématiciens les plus productifs de l'histoire : il a écrit sur l'analyse, les nombres, la mécanique, l'optique et l'astronomie. Il a perdu la vue d'un œil vers 1740 et, après son retour à Saint-Pétersbourg, il est devenu presque aveugle ; il a continué à travailler en dictant ses calculs.</p>\n<p>Pour la philosophie, il compte surtout pour ses <em>Lettres à une princesse d'Allemagne</em>, écrites à Berlin pour expliquer la science de son temps à une jeune élève et publiées en trois volumes (1768-1772). Dans les lettres consacrées à la logique (de la 102e à la 108e, de 1761), il a représenté les propositions par des <strong>cercles</strong> : un cercle à l'intérieur d'un autre pour « tout », séparés pour « aucun », qui se croisent pour « quelques ».</p>\n<p>Ces dessins, les <strong>diagrammes d'Euler</strong>, sont devenus si populaires qu'on les utilise encore pour enseigner le syllogisme. Un siècle plus tard, John Venn les a transformés pour qu'ils servent aussi quand on ne sait pas comment les classes sont placées.</p>",
+  "obras": [
+   "Introduction à l'analyse infinitésimale (1748)",
+   "Lettres à une princesse d'Allemagne (1768-1772)"
+  ],
+  "fuente": "J. J. O'Connor et E. F. Robertson, « Leonhard Euler », MacTutor History of Mathematics",
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
+  ]
+ },
  "lamettrie": {
   "name": "Julien Offray de La Mettrie",
   "dates": "1709 – 1751",
@@ -1840,6 +1862,28 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "de_morgan": {
+  "name": "Augustus De Morgan",
+  "dates": "1806 – 1871",
+  "born": 1806,
+  "died": 1871,
+  "place": "Madurai (Inde)",
+  "role": "mathématicien et logicien britannique",
+  "idea": "Nier « A ou B », c'est affirmer « ni A ni B », et nier « A et B », c'est affirmer « non A, ou non B » : les lois qui portent son nom.",
+  "bio": "<p>Augustus De Morgan est né à Madurai, en Inde, où son père servait dans l'armée britannique. Il a étudié au Trinity College de Cambridge et a obtenu son diplôme en 1827 avec l'un des meilleurs résultats de sa promotion, mais il n'a pas pu rester à l'université : pour obtenir le grade supérieur, il fallait passer une épreuve religieuse, et il a refusé de s'y soumettre par principe. En 1828, il est devenu le premier professeur de mathématiques du nouvel University College de Londres, qui n'exigeait pas ces épreuves. Il a démissionné deux fois pour défendre ce qu'il jugeait juste.</p>\n<p>Il a été l'un des grands rénovateurs de la logique au XIXe siècle, en même temps que son ami George Boole. Dans <em>Formal Logic</em> (1847), il a étudié des raisonnements que le syllogisme classique ne pouvait pas traiter et il a formulé les lois qui portent aujourd'hui son nom : la négation d'une disjonction équivaut à la conjonction des négations, et inversement.</p>\n<p>Les <strong>lois de De Morgan</strong> valent aussi bien pour les propositions que pour les classes et pour les circuits électroniques. Il a aussi été cofondateur et premier président de la Société mathématique de Londres (1865-1866).</p>",
+  "obras": [
+   "Formal Logic (1847)",
+   "A Budget of Paradoxes (1872, posthume)"
+  ],
+  "fuente": "J. J. O'Connor et E. F. Robertson, « Augustus De Morgan », MacTutor History of Mathematics",
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
+  ]
+ },
  "darwin": {
   "name": "Charles Darwin",
   "dates": "1809 – 1882",
@@ -1993,6 +2037,31 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2"
+  ]
+ },
+ "venn": {
+  "name": "John Venn",
+  "dates": "1834 – 1923",
+  "born": 1834,
+  "died": 1923,
+  "place": "Hull (Angleterre)",
+  "role": "logicien et philosophe britannique",
+  "idea": "Pour vérifier un raisonnement, il faut dessiner toutes les régions possibles et marquer celles qui sont vides.",
+  "bio": "<p>John Venn est né à Hull, dans une famille de clercs anglicans, et il a étudié au Gonville and Caius College de Cambridge, où il a enseigné le reste de sa vie. Il a été ordonné prêtre vers 1859, mais en 1883 il a quitté le sacerdoce parce que ses idées ne s'accordaient plus avec la doctrine de l'Église.</p>\n<p>Dans <em>The Logic of Chance</em> (1866), il a soutenu que la probabilité d'un événement est la fréquence avec laquelle il se produit dans une longue série de cas, une idée encore débattue aujourd'hui. En 1880, il a publié dans la revue <em>Philosophical Magazine</em> un article sur la représentation des propositions par des diagrammes, et en 1881 sa <em>Symbolic Logic</em>.</p>\n<p>Les <strong>diagrammes de Venn</strong> ont amélioré ceux d'Euler : les cercles se dessinent toujours en se croisant, de façon à faire apparaître toutes les régions possibles, et l'on ombre celles qui sont vides. Ainsi, un seul dessin suffit pour vérifier si un syllogisme est valide. Aujourd'hui, on les utilise en mathématiques, en statistique et dans toute matière qui compare des groupes.</p>",
+  "obras": [
+   "The Logic of Chance (1866)",
+   "Symbolic Logic (1881)",
+   "The Principles of Empirical or Inductive Logic (1889)"
+  ],
+  "anecdota": "<p>Venn aimait construire des machines. L'une d'elles lançait des balles de cricket, et quand l'équipe d'Australie est venue à Cambridge en 1909, la machine a éliminé quatre fois l'une de ses grandes vedettes. Avec son fils John Archibald, il a en outre dressé une liste de tous les étudiants connus de l'université de Cambridge, qui réunit dans sa première partie quelque 76 000 noms.</p>",
+  "fuente": "J. J. O'Connor et E. F. Robertson, « John Venn », MacTutor History of Mathematics",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
   ]
  },
  "james": {
