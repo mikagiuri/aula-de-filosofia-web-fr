@@ -68,7 +68,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-metafisica",
-   "fil-presocraticos"
+   "fil-presocraticos",
+   "fil-grandes-preguntas"
   ]
  },
  "anaximandro": {
@@ -154,7 +155,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-presocraticos"
+   "fil-presocraticos",
+   "fil-grandes-preguntas"
   ]
  },
  "heraclito": {
@@ -177,7 +179,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "parmenides": {
@@ -201,7 +204,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-metafisica",
-   "fil-presocraticos"
+   "fil-presocraticos",
+   "fil-grandes-preguntas"
   ]
  },
  "empedocles": {
@@ -268,7 +272,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2",
-   "fil-t3"
+   "fil-t3",
+   "fil-grandes-preguntas"
   ]
  },
  "gorgias": {
@@ -317,7 +322,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "socrates": {
@@ -345,7 +351,8 @@ const ILUSTRES = {
    "fil-t5",
    "fil-t7",
    "fil-presocraticos",
-   "fil-helenismo"
+   "fil-helenismo",
+   "fil-grandes-preguntas"
   ]
  },
  "democrito": {
@@ -367,7 +374,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "aristipo": {
@@ -443,7 +451,8 @@ const ILUSTRES = {
    "fil-t6",
    "fil-t7",
    "fil-presocraticos",
-   "fil-helenismo"
+   "fil-helenismo",
+   "fil-grandes-preguntas"
   ]
  },
  "diogenes": {
@@ -519,7 +528,8 @@ const ILUSTRES = {
    "fil-t5",
    "fil-t6",
    "fil-t7",
-   "fil-helenismo"
+   "fil-helenismo",
+   "fil-grandes-preguntas"
   ]
  },
  "pirron": {
@@ -567,7 +577,8 @@ const ILUSTRES = {
   "temas": [
    "fil-metafisica",
    "fil-t5",
-   "fil-helenismo"
+   "fil-helenismo",
+   "fil-grandes-preguntas"
   ]
  },
  "zenon": {
@@ -691,7 +702,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-metafisica",
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "hipatia": {
@@ -761,7 +773,98 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
+  ]
+ },
+ "hildegarda": {
+  "name": "Hildegarde de Bingen",
+  "dates": "1098 – 1179",
+  "born": 1098,
+  "died": 1179,
+  "place": "Bermersheim (Rhénanie, Allemagne)",
+  "role": "abbesse, mystique et compositrice",
+  "idea": "L'être humain est un microcosme qui reflète l'ordre de l'univers créé par Dieu, de sorte que foi, science naturelle et art forment un seul et même savoir.",
+  "bio": "<p>Hildegarde naquit en 1098 à Bermersheim, en Rhénanie, dans une famille noble. Enfant, elle fut confiée à la vie religieuse au monastère de Disibodenberg. En 1136, elle en devint l'abbesse et fonda plus tard son propre couvent à Rupertsberg, près de Bingen. Dès l'enfance, elle affirma avoir des visions, que le pape Eugène III autorisa à diffuser. Elle entretint une correspondance avec des papes, des empereurs et des figures comme Bernard de Clairvaux, et prêcha en public, chose exceptionnelle pour une femme de son temps. Elle mourut en 1179 et fut canonisée et proclamée docteur de l'Église en 2012.</p>\n<p>Ce fut une personnalité <strong>aux multiples facettes</strong> : mystique, théologienne, médecin, naturaliste et compositrice. Dans le <em>Scivias</em>, elle décrivit et interpréta ses visions. Dans ses œuvres de médecine et de sciences naturelles, elle rassembla des connaissances sur les plantes, les animaux, les minéraux et les maladies. Elle concevait l'être humain comme un <strong>microcosme</strong>, un « petit monde » qui reflète le <strong>macrocosme</strong>, l'univers ordonné et créé par Dieu. Elle composa en outre de nombreux chants liturgiques et l'<em>Ordo Virtutum</em>, un drame musical, l'une des œuvres musicales les plus importantes de l'époque.</p>\n<p>Sa figure montre que la philosophie médiévale ne fut pas seulement l'affaire des hommes ni des clercs, et que le savoir pouvait <strong>unir la foi, la science et l'art</strong>. Aujourd'hui, elle est une référence dans la redécouverte des penseuses oubliées, aux côtés d'Hypatie d'Alexandrie, et sa musique continue d'être interprétée et enregistrée.</p>",
+  "obras": [
+   "Scivias (1141-1151)",
+   "Physique (Physica)",
+   "Causes et remèdes",
+   "Ordo Virtutum"
+  ],
+  "anecdota": "<p>En 1178, déjà octogénaire, Hildegarde permit d'enterrer dans son monastère un jeune noble qui avait été excommunié, car, selon elle, il s'était réconcilié avec l'Église avant de mourir. Les autorités de Mayence lui ordonnèrent de l'exhumer et elle refusa. En guise de punition, le couvent fut frappé d'interdit et les moniales ne purent chanter l'office divin. Hildegarde protesta dans une lettre aux prélats où elle défendait la musique comme écho de l'harmonie du paradis. La sanction fut levée peu avant sa mort.</p>",
+  "fuente": "Lettre d'Hildegarde aux prélats de Mayence ; Vie de sainte Hildegarde",
+  "tradicion": false,
+  "vida": [
+   {
+    "a": 1141,
+    "b": 1151,
+    "t": "Écrit le Scivias"
+   },
+   {
+    "a": 1158,
+    "b": 1163,
+    "t": "Écrit le Liber vitae meritorum"
+   },
+   {
+    "a": 1163,
+    "b": 1174,
+    "t": "Écrit le Liber divinorum operum"
+   }
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
+  ]
+ },
+ "averroes": {
+  "name": "Averroès",
+  "dates": "1126 – 1198",
+  "born": 1126,
+  "died": 1198,
+  "place": "Cordoue (al-Andalus)",
+  "role": "philosophe, juriste et médecin andalou",
+  "idea": "La vérité ne peut contredire la vérité : la démonstration philosophique et la révélation coïncident, même si chacune s'adresse à un type de personnes différent.",
+  "bio": "<p>Abu-l-Walid Muhammad ibn Rushd, connu en Occident sous le nom d'Averroès, naquit à Cordoue en 1126. Il fut cadi (juge) de Séville et de Cordoue et médecin de la cour almohade. À la demande du calife, il commenta les œuvres d'Aristote, ce qui lui valut le surnom de <strong>le Commentateur</strong>. Vers 1195, il tomba en disgrâce et fut exilé à Lucena ; bien qu'il ait été réhabilité par la suite, il mourut à Marrakech en 1198.</p>\n<p>Averroès voulut retrouver l'Aristote authentique et défendit la philosophie face à ceux qui l'accusaient d'être contraire à l'islam, comme al-Ghazali. Dans son <em>Discours décisif</em>, il soutint que la raison et la révélation ne peuvent se contredire, car la vérité ne s'oppose pas à la vérité. Quand un texte sacré semble heurter une démonstration, il doit être interprété de façon allégorique. Il distinguait en outre ceux qui se laissent convaincre par des démonstrations (les philosophes) et ceux qui le sont par des arguments rhétoriques ou dialectiques. De là naquit la théorie de la <strong>double vérité</strong>, l'une pour la foi et l'autre pour la raison. Pourtant, cette formulation est due surtout à ses disciples latins, les <strong>averroïstes</strong>, plus qu'à Averroès lui-même.</p>\n<p>Ses commentaires, traduits en latin, furent décisifs pour que l'Occident chrétien connaisse Aristote au XIIIe siècle. Thomas d'Aquin le lut avec attention, tout en rejetant certaines de ses thèses, comme celle d'un intellect unique pour toute l'humanité.</p>",
+  "obras": [
+   "Discours décisif",
+   "L'incohérence de l'incohérence",
+   "Commentaires à Aristote",
+   "Livre des généralités de la médecine"
+  ],
+  "anecdota": "<p>Averroès raconta à un disciple comment il avait connu le calife almohade Abu Yaqub Yusuf, grâce au philosophe Ibn Tufayl. Dès qu'il l'eut salué, le calife lui demanda ce que pensaient les philosophes du ciel : était-il éternel ou avait-il été créé ? Averroès, effrayé, feignit de ne rien savoir de philosophie. Alors le calife se mit à discuter la question avec Ibn Tufayl, en citant Platon et Aristote, jusqu'à ce que le jeune homme se rassure et parle. Il repartit de là avec des cadeaux et, peu après, avec la mission d'expliquer Aristote.</p>",
+  "fuente": "Al-Marrakushi, Histoire des Almohades (Kitab al-Mu'jib)",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
+  ]
+ },
+ "maimonides": {
+  "name": "Maïmonide",
+  "dates": "1138 – 1204",
+  "born": 1138,
+  "died": 1204,
+  "place": "Cordoue (al-Andalus)",
+  "role": "philosophe, médecin et rabbin",
+  "idea": "La foi et la raison ne se contredisent pas ; la Bible doit se lire à la lumière de la raison, et de Dieu nous ne pouvons dire que ce qu'Il n'est pas.",
+  "bio": "<p>Moïse ben Maïmon, Maïmonide, naquit dans une famille juive de Cordoue. Lorsque les Almohades conquirent la ville et persécutèrent juifs et chrétiens, sa famille dut partir ; après des années de voyage en al-Andalus et en Afrique du Nord, il s'établit en Égypte. Il y fut médecin de la cour du sultan Saladin et le guide de la communauté juive. Il écrivit en hébreu un grand recueil de la loi juive, la <em>Michné Torah</em>, qui est encore étudié.</p>\n<p>Son œuvre philosophique principale, écrite en arabe, est le <em>Guide des égarés</em>, pensé pour les croyants qui se sentaient perdus entre ce que dit la Bible et ce qu'enseigne Aristote. Maïmonide soutient qu'il n'y a pas de contradiction : quand un texte sacré semble aller contre la raison, il faut l'interpréter de façon non littérale. Sur Dieu, il défendit la <strong>théologie négative</strong> : comme Dieu dépasse tout ce que nous pouvons penser, nous ne pouvons dire avec vérité que ce qu'Il n'est <em>pas</em>. Il influença beaucoup Thomas d'Aquin et Spinoza.</p>",
+  "obras": [
+   "Guide des égarés",
+   "Michné Torah"
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
   ]
  },
  "tomas": {
@@ -801,7 +904,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-metafisica",
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "ockham": {
@@ -838,7 +942,34 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t4",
-   "fil-t5"
+   "fil-t5",
+   "fil-grandes-preguntas"
+  ]
+ },
+ "erasmo": {
+  "name": "Érasme de Rotterdam",
+  "dates": "v. 1466 – 1536",
+  "born": 1466,
+  "died": 1536,
+  "place": "Rotterdam (Pays-Bas)",
+  "role": "humaniste et théologien",
+  "idea": "La vraie religion consiste à vivre avec bonté et en paix en suivant l'Évangile, et non les cérémonies ni les disputes des théologiens ; et pour cela il faut bien lire les textes et éduquer.",
+  "bio": "<p>Érasme fut le fils illégitime d'un prêtre et resta orphelin très jeune. Il entra dans un couvent de chanoines augustins et fut ordonné prêtre, mais quitta vite la vie conventuelle pour étudier et voyager : Paris, l'Angleterre, où il fut un grand ami de <strong>Thomas More</strong>, l'Italie et Bâle. Il fut l'intellectuel le plus célèbre d'Europe, le « prince des humanistes », et publia en 1516 la première édition imprimée du Nouveau Testament en grec, avec sa propre traduction latine.</p>\n<p>Dans l'<em>Éloge de la folie</em> (1511), dédié à More, la Folie en personne se moque des théologiens qui discutent de questions inutiles, des moines ignorants et des rois et des papes qui font la guerre. Érasme défendait une religion simple, intérieure et fondée sur l'Évangile, et fut un ferme <strong>pacifiste</strong>. Il critiqua les abus de l'Église, mais ne voulut pas rompre avec elle : quand Luther nia le libre arbitre, Érasme écrivit pour le défendre, et les deux hommes finirent par s'opposer. Le programme européen d'échanges universitaires Erasmus porte aujourd'hui son nom.</p>",
+  "obras": [
+   "Éloge de la folie",
+   "Manuel du soldat chrétien",
+   "Du libre arbitre",
+   "Plainte de la paix"
+  ],
+  "anecdota": "<p>À son époque circulait un dicton : « Érasme a pondu l'œuf et Luther l'a couvé », c'est-à-dire que ses critiques de l'Église avaient préparé la Réforme. Érasme répondit avec ironie, dans une lettre, qu'il avait pondu un œuf de poule et que Luther en avait tiré un oiseau très différent.</p>",
+  "fuente": "Érasme, lettre à Johannes Caesarius (1524)",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
   ]
  },
  "tomas_moro": {
@@ -862,6 +993,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t6"
+  ]
+ },
+ "lutero": {
+  "name": "Martin Luther",
+  "dates": "1483 – 1546",
+  "born": 1483,
+  "died": 1546,
+  "place": "Eisleben (Saxe, Allemagne)",
+  "role": "théologien et réformateur religieux",
+  "idea": "L'être humain n'est sauvé que par la foi, et chaque croyant peut lire et interpréter directement la Bible sans dépendre de l'autorité de l'Église.",
+  "bio": "<p>Martin Luther naquit à Eisleben, en Saxe, en 1483. Il étudia le droit, mais entra en 1505 dans l'ordre des augustins. Il fut professeur de théologie à l'université de Wittenberg. En 1517, il rendit publiques ses <strong>95 thèses</strong> contre la vente des indulgences, date considérée comme le début de la <strong>Réforme protestante</strong>. Excommunié par le pape en 1521, il refusa de se rétracter devant l'empereur Charles Quint à la diète de Worms. Protégé par le prince de Saxe, il traduisit la Bible en allemand. Il mourut dans sa ville natale en 1546.</p>\n<p>Luther remit en cause l'autorité de l'Église et du pape. Il défendit que le salut s'obtient uniquement par la foi et la grâce de Dieu, et non par les œuvres. Il soutint que l'Écriture est la seule autorité en matière de foi et que chaque croyant peut l'interpréter : c'est le principe du <strong>libre examen</strong>. Il proposa en outre une relation directe du croyant avec Dieu, sans besoin d'intermédiaires. Ce faisant, il souligna l'importance de la <strong>conscience individuelle</strong>.</p>\n<p>La Réforme brisa l'unité religieuse et intellectuelle de l'Europe et provoqua de longues guerres de religion. En donnant plus d'autonomie à l'individu, elle favorisa la sécularisation de la culture européenne et fait partie du contexte dont émerge la philosophie moderne de Descartes. Sa pensée s'inspira d'Augustin d'Hippone, et Jean Calvin développa ensuite une autre branche de la Réforme.</p>",
+  "obras": [
+   "Les 95 thèses (1517)",
+   "De la liberté du chrétien (1520)",
+   "À la noblesse chrétienne de la nation allemande (1520)",
+   "Du serf arbitre (1525)"
+  ],
+  "anecdota": "<p>En juillet 1505, le jeune étudiant en droit Martin Luther rentrait à Erfurt lorsque, près du village de Stotternheim, un orage le surprit et la foudre tomba tout près de lui. Terrifié, il cria : « Aide-moi, sainte Anne, et je me ferai moine ! » Il tint sa promesse quelques semaines plus tard, contre la volonté de son père, et entra au couvent des augustins d'Erfurt. Luther lui-même se rappela souvent cette scène, qui marqua le début de sa quête religieuse.</p>",
+  "fuente": "Témoignages de Luther lui-même (Propos de table)",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
   ]
  },
  "galileo": {
@@ -914,7 +1071,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t2",
    "fil-metafisica",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "descartes": {
@@ -990,7 +1148,8 @@ const ILUSTRES = {
    "fil-t2",
    "fil-t3",
    "fil-metafisica",
-   "fil-spinoza-sistema"
+   "fil-spinoza-sistema",
+   "fil-grandes-preguntas"
   ]
  },
  "isabel": {
@@ -1013,7 +1172,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "spinoza": {
@@ -1046,7 +1206,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t3",
    "fil-metafisica",
-   "fil-spinoza-sistema"
+   "fil-spinoza-sistema",
+   "fil-grandes-preguntas"
   ]
  },
  "locke": {
@@ -1074,7 +1235,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t3",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "malebranche": {
@@ -1175,7 +1337,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t3",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "montesquieu": {
@@ -1260,7 +1423,8 @@ const ILUSTRES = {
    "fil-t4",
    "fil-t5",
    "fil-t6",
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "rousseau": {
@@ -1285,7 +1449,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "baumgarten": {
@@ -1328,7 +1493,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "kant": {
@@ -1360,7 +1526,8 @@ const ILUSTRES = {
    "fil-metafisica",
    "fil-t5",
    "fil-t6",
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "lamarck": {
@@ -1410,7 +1577,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t5",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "gouges": {
@@ -1433,7 +1601,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "wollstonecraft": {
@@ -1458,7 +1627,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "schiller": {
@@ -1512,7 +1682,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "mill": {
@@ -1618,7 +1789,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
-   "fil-t5"
+   "fil-t5",
+   "fil-grandes-preguntas"
   ]
  },
  "mendel": {
@@ -1744,7 +1916,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
-   "fil-t5"
+   "fil-t5",
+   "fil-grandes-preguntas"
   ]
  },
  "frege": {
@@ -1995,7 +2168,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "wittgenstein": {
@@ -2095,6 +2269,27 @@ const ILUSTRES = {
    "fil-t7"
   ]
  },
+ "ryle": {
+  "name": "Gilbert Ryle",
+  "dates": "1900 – 1976",
+  "born": 1900,
+  "died": 1976,
+  "place": "Brighton (Angleterre)",
+  "role": "philosophe analytique britannique",
+  "idea": "Le dualisme cartésien est une erreur de catégorie : l'esprit n'est pas un fantôme dans la machine du corps, mais un ensemble de capacités et de dispositions à agir.",
+  "bio": "<p>Gilbert Ryle naquit à Brighton (Angleterre) en 1900. Il étudia et enseigna à l'université d'Oxford, où il fut professeur de philosophie et, pendant plus de vingt ans, directeur de la revue <em>Mind</em>, l'une des plus influentes de la philosophie anglo-saxonne. Il fut l'une des figures centrales de ce qu'on appelle la philosophie du langage ordinaire, qui analyse comment nous utilisons réellement les mots. Il mourut en 1976.</p>\n<p>Dans <em>La Notion d'esprit</em> (1949), il critiqua le dualisme de Descartes, qui conçoit l'esprit comme une substance distincte du corps, et l'appela ironiquement le <strong>fantôme dans la machine</strong>. Selon Ryle, ce dualisme commet une <strong>erreur de catégorie</strong> : il traite l'esprit comme s'il était une chose de plus, alors que parler du mental, c'est parler de capacités et de dispositions à agir. Il figure au programme comme critique classique du dualisme cartésien.</p>",
+  "obras": [
+   "La Notion d'esprit (1949)",
+   "Dilemmes (1954)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
+  ]
+ },
  "popper": {
   "name": "Karl Popper",
   "dates": "1902 – 1994",
@@ -2120,7 +2315,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t3",
    "fil-t4",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "adorno": {
@@ -2200,7 +2396,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "arendt": {
@@ -2228,7 +2425,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "beauvoir": {
@@ -2256,7 +2454,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "turing": {
@@ -2406,7 +2605,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "kuhn": {
@@ -2431,7 +2631,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-grandes-preguntas"
   ]
  },
  "danto": {
@@ -2457,7 +2658,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "dickie": {
@@ -2479,7 +2681,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "habermas": {
@@ -2587,6 +2790,32 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "han": {
+  "name": "Byung-Chul Han",
+  "dates": "né en 1959",
+  "born": 1959,
+  "died": null,
+  "place": "Séoul (Corée du Sud)",
+  "role": "philosophe sud-coréen et allemand",
+  "idea": "Dans la société de la performance, plus aucun maître extérieur ne nous exploite : nous nous autoexploitons en nous croyant libres, et le résultat est la fatigue et la dépression.",
+  "bio": "<p>Byung-Chul Han naquit à Séoul en 1959. Il étudia la métallurgie en Corée, mais dans les années quatre-vingt il partit en Allemagne pour étudier la philosophie, la littérature et la théologie à Fribourg et à Munich. Il obtint son doctorat avec une thèse sur Heidegger et a été professeur à Karlsruhe et à l'Université des arts de Berlin. Il écrit en allemand des essais brefs qui ont été traduits dans de nombreuses langues.</p>\n<p>Dans <em>La Société de la fatigue</em> (2010), il soutient que nous sommes passés de la <strong>société disciplinaire</strong>, décrite par Foucault, fondée sur les interdits et le contrôle externe, à la <strong>société de la performance</strong>. Dans celle-ci, personne ne nous contraint de l'extérieur : nous nous exigeons nous-mêmes, sous le mot d'ordre que tout est possible. Le sujet devient l'entrepreneur de lui-même et s'<strong>autoexploite</strong> en croyant être libre. Quand il n'atteint pas ses objectifs, il ne se rebelle pas contre le système, mais se culpabilise lui-même. D'où l'épidémie d'épuisement, d'anxiété et de dépression. Han a aussi analysé la <strong>transparence</strong> et le contrôle par les données numériques.</p>\n<p>Son œuvre dialogue avec Foucault, Heidegger et la tradition critique de l'École de Francfort. Il est considéré comme l'un des penseurs les plus lus sur le monde numérique et le capitalisme actuel.</p>",
+  "obras": [
+   "La Société de la fatigue (2010)",
+   "La Société de la transparence (2012)",
+   "Psychopolitique (2014)",
+   "L'Expulsion de l'autre (2016)"
+  ],
+  "anecdota": "<p>Le critique de la vie numérique préfère la terre aux écrans. Pendant trois printemps et trois étés, Han cultiva un jardin à Berlin et en fit un livre : <em>Éloge de la terre</em> (2018). Il raconte qu'il apprit les noms des fleurs, qu'il plantait même en hiver et que le jardin lui apprit à attendre, à soigner et à accepter des rythmes qu'on ne peut pas accélérer. Face à la hâte et à l'autoexploitation qu'il décrit dans ses essais, travailler la terre de ses mains lui semble une manière de retrouver le temps.</p>",
+  "fuente": "Byung-Chul Han, Éloge de la terre. Un voyage au jardin (2018)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
+  ]
+ },
  "chalmers": {
   "name": "David Chalmers",
   "dates": "né en 1966",
@@ -2609,7 +2838,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "bostrom": {

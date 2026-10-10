@@ -168,6 +168,22 @@ const CITAS = [
   "img": "media/retratos/museo2/ockham.jpg"
  },
  {
+  "c": "Et je vis comme un miroir de la lumière vivante, dans lequel une clarté resplendissante coulait sur toute créature.",
+  "a": "Hildegarde de Bingen",
+  "o": "paraphrase non localisée dans le Scivias ; la « lumière vivante » provient de sa lettre à Guibert de Gembloux (1175)",
+  "e": "médiévale",
+  "id": "hildegarda",
+  "img": "media/retratos/ilustres/hildegarda.jpg"
+ },
+ {
+  "c": "La révélation doit se comprendre selon la capacité humaine, en recourant à des métaphores et à des symboles pour exprimer l'ineffable.",
+  "a": "Maïmonide",
+  "o": "paraphrase du principe « la Torah parle le langage des hommes », Guide des égarés I, 26",
+  "e": "médiévale",
+  "id": "maimonides",
+  "img": "media/retratos/museo2/maimonides.jpg"
+ },
+ {
   "c": "Qu'est-ce donc que le temps ? Si personne ne me le demande, je le sais ; si je veux l'expliquer à qui me le demande, je ne le sais pas.",
   "a": "Saint Augustin",
   "o": "Confessions XI, 14, 17",
