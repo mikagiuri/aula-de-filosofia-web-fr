@@ -50,9 +50,15 @@
           <button data-view="reto">Défi</button>
           <button data-view="parejas">Paires</button>
           <button data-view="glosario">Glossaire</button>
-          <button data-view="ilustres">Illustres</button>
           <button data-view="citas">Phrases</button>
           <button data-view="adagios">Adages</button>
+        </div>
+      </div>
+      <div class="navsec">
+        <span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Histoire</span>
+        <div class="navmenu">
+          <button data-view="ilustres">Illustres</button>
+          <button data-view="epocas">Époques</button>
           <button data-view="polemicas">Polémiques</button>
           <button data-view="perseguidos">Persécutés</button>
           <button data-view="comunidades">Communautés</button>
@@ -251,7 +257,7 @@
 
   <!-- ILUSTRES -->
   <section class="view" id="ilustres">
-    <p class="eyebrow">Référence</p>
+    <p class="eyebrow">Histoire</p>
     <h1 class="title">Illustres</h1>
     <p class="lead">Les biographies des penseurs qui apparaissent dans la théorie, des présocratiques à aujourd’hui : qui ils étaient, ce qu’ils pensaient et dans quels thèmes nous les étudions. Filtre par <strong>époque</strong> ou cherche par nom, œuvre ou idée.</p>
     <div class="filterbar" id="ilufilter" role="group" aria-label="Filtrer les illustres"></div>
@@ -277,10 +283,18 @@
     <div id="duelobox"></div>
   </section>
 
+  <section class="view" id="epocas">
+    <!-- (12-10) Índice de las fichas de época (epocas_fichas.js), que antes solo se abrían desde Ilustres; cada tarjeta lleva el cosmos de su época. -->
+    <p class="eyebrow">Histoire</p>
+    <h1 class="title">Époques</h1>
+    <p class="lead">Sept fiches, de la Grèce antique à nos jours : ce qui a changé à chaque époque dans la société, la politique, la science, l'art et la pensée, et comment on se représentait le cosmos.</p>
+    <div id="epocasbox"></div>
+  </section>
+
   <section class="view" id="polemicas">
     <!-- (11-10) Polémicas: pensadores coetáneos que se enfrentaron cara a cara, por cartas, con libros o desde escuelas rivales
          (polemicas.js + polemicasview.js). Solo Bachillerato: la web de ESO no la lleva (build_eso.js). -->
-    <p class="eyebrow">Étudier</p>
+    <p class="eyebrow">Histoire</p>
     <h1 class="title">Polémiques : face à face</h1>
     <p class="lead">Des philosophes qui ont vécu à la même époque et se sont réellement affrontés. Choisis avec qui tu es, donne ta raison et regarde le meilleur argument de l’autre camp.</p>
     <div class="filterbar" id="polemicasfilter" role="group" aria-label="Filtrer les polémiques"></div>
@@ -290,7 +304,7 @@
   <section class="view" id="perseguidos">
     <!-- (11-10) Perseguidos por sus ideas y Comunidades de filósofos: fichas (perseguidos.js, comunidades.js + casosview.js, casos.css).
          Solo Bachillerato: la web de ESO no las lleva (build_eso.js). -->
-    <p class="eyebrow">Étudier</p>
+    <p class="eyebrow">Histoire</p>
     <h1 class="title">Persécutés pour leurs idées</h1>
     <p class="lead">Des philosophes et des scientifiques à qui leur manière de penser a coûté la vie, la liberté ou leur patrie.</p>
     <div class="filterbar" id="perseguidosfilter" role="group" aria-label="Filtrer les persécutés"></div>
@@ -298,7 +312,7 @@
   </section>
 
   <section class="view" id="comunidades">
-    <p class="eyebrow">Étudier</p>
+    <p class="eyebrow">Histoire</p>
     <h1 class="title">Communautés de philosophes</h1>
     <p class="lead">Écoles, cercles et groupes de penseurs, et les lieux où ils se réunissaient : jardins, gymnases, maisons et salles de cours.</p>
     <div class="filterbar" id="comunidadesfilter" role="group" aria-label="Filtrer les communautés"></div>
