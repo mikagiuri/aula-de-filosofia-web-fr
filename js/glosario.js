@@ -1225,7 +1225,10 @@ const GLOSARIO = [
   "et": "Du latin *fides*, « foi, confiance ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
-  "def": "Position selon laquelle on parvient à Dieu par la foi et non par la raison, de sorte que les arguments ne sont pas le chemin ; on cite souvent Kierkegaard."
+  "def": "Position selon laquelle on parvient à Dieu par la foi et non par la raison, de sorte que les arguments ne sont pas le chemin ; on cite souvent Kierkegaard.",
+  "ilustre": [
+   "kierkegaard"
+  ]
  }
 ];
 const GLOSARIO_TRAMPAS = {
