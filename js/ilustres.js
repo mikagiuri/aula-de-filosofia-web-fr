@@ -2680,6 +2680,33 @@ const ILUSTRES = {
    "fil-marxismos"
   ]
  },
+ "marcuse": {
+  "name": "Herbert Marcuse",
+  "dates": "1898 – 1979",
+  "born": 1898,
+  "died": 1979,
+  "place": "Berlin (Allemagne)",
+  "role": "philosophe de l'École de Francfort",
+  "idea": "La société industrielle avancée crée de faux besoins et nous fait nous sentir libres tout en nous intégrant au système, si bien que l'on perd la capacité d'imaginer une autre façon de vivre.",
+  "bio": "<p>Herbert Marcuse naquit dans une famille juive de Berlin. Il étudia avec Husserl et Heidegger à Fribourg et rejoignit l'Institut de recherche sociale de Francfort. Avec l'arrivée des nazis, il s'exila en 1934 aux États-Unis, où, pendant la guerre, il travailla pour les services de renseignement américains en analysant l'Allemagne nazie. Il fut ensuite professeur dans plusieurs universités, la dernière en Californie.</p>\n<p>Dans <em>Éros et civilisation</em> (1955), il réunit Marx et Freud : la société réprime les désirs plus que nécessaire pour maintenir le travail et l'ordre. Dans <em>L'Homme unidimensionnel</em> (1964), il soutient que la société de consommation crée de <strong>faux besoins</strong> et absorbe même la contestation, si bien que les gens n'imaginent plus d'alternatives. Son essai sur la <strong>tolérance répressive</strong> (1965) soutenait que, dans des sociétés inégalitaires, une tolérance qui traite toutes les idées de la même façon favorise les puissants. Ses idées inspirèrent une partie du mouvement étudiant de 1968, mais elles reçurent aussi des critiques sérieuses : beaucoup de libéraux virent dans cette thèse une justification pour refuser la parole à ceux qui pensent autrement, et d'autres penseurs de gauche lui reprochèrent d'être trop pessimiste ou trop abstrait. C'est un débat encore ouvert sur les limites de la tolérance.</p>",
+  "obras": [
+   "Raison et révolution (1941)",
+   "Éros et civilisation (1955)",
+   "L'Homme unidimensionnel (1964)",
+   "« La tolérance répressive » (1965)"
+  ],
+  "anecdota": "<p>Lors des manifestations étudiantes de 1968, en Europe et aux États-Unis, certains manifestants scandaient et peignaient sur les murs les « trois M » : Marx, Mao et Marcuse. Le professeur de 70 ans fut surpris de se voir transformé en symbole, et il ne se reconnut pas toujours dans ce qui se disait en son nom. Parmi ses étudiants en Californie figura Angela Davis, qui allait devenir une militante connue.</p>",
+  "fuente": "Presse de 1968 ; entretiens avec Marcuse",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6",
+   "fil-marxismos"
+  ]
+ },
  "gadamer": {
   "name": "Hans-Georg Gadamer",
   "dates": "1900 – 2002",
