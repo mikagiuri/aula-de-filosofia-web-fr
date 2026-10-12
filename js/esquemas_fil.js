@@ -885,7 +885,7 @@ const ESQUEMAS_FIL = {
  "FIL-TA-01": {
   "subject": "fil",
   "block": "F1",
-  "tema": "Philosophie · Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "title": "L'argument : validité et vérité",
   "mermaid": "flowchart TD\n  arg[\"L'ARGUMENT\"]:::axis\n  prem[\"prémisses\"]:::key\n  conc[\"conclusion\"]:::key\n  tipos[\"types\"]:::key\n  ded[\"déductif : la conclusion suit avec nécessité\"]\n  ind[\"inductif : la conclusion est seulement probable\"]\n  eval[\"évaluation\"]:::key\n  val[\"validité : la forme est correcte\"]\n  ver[\"vérité : les prémisses sont vraies\"]\n  sol[\"solide : valide + prémisses vraies\"]:::key\n  arg --> prem\n  prem -->|\"soutiennent la\"| conc\n  arg --> tipos\n  tipos --> ded\n  tipos --> ind\n  arg --> eval\n  eval --> val\n  eval --> ver\n  val -->|\"ensemble, elles donnent\"| sol\n  ver -->|\"ensemble, elles donnent\"| sol\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a ;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;",
   "v2": {
@@ -972,7 +972,7 @@ const ESQUEMAS_FIL = {
  "FIL-TA-02": {
   "subject": "fil",
   "block": "F1",
-  "tema": "Philosophie · Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "title": "Les sophismes",
   "mermaid": "flowchart TD\n  fal[\"LES SOPHISMES\"]:::axis\n  def[\"arguments qui semblent valides mais ne le sont pas\"]\n  formal[\"formels : défaut dans la structure logique\"]:::key\n  inf[\"informels : défaut dans le contenu ou le langage\"]:::key\n  ah[\"ad hominem : attaquer la personne\"]\n  ap[\"ad populum : en appeler à la majorité\"]\n  aver[\"ad verecundiam : en appeler à l'autorité\"]\n  fc[\"fausse cause : confondre corrélation et cause\"]\n  hp[\"homme de paille : déformer la thèse adverse\"]\n  fal --> def\n  fal --> formal\n  fal --> inf\n  inf --> ah\n  inf --> ap\n  inf --> aver\n  inf --> fc\n  inf --> hp\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a ;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;",
   "v2": {
