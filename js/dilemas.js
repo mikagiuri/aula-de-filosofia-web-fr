@@ -70,7 +70,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVIIe siècle",
+   "epoca": "Siglo XVII",
    "texto": "« Je supposerai donc qu'il y a, non point un vrai Dieu, qui est la souveraine source de vérité, mais un certain mauvais génie, non moins rusé et trompeur que puissant, qui a employé toute son industrie à me tromper. »",
    "fuente": "Descartes, Méditations métaphysiques, I (1641). Le cas moderne du « cerveau dans une cuve » a été formulé par Hilary Putnam en 1981.",
    "unidad": "fil-t3"
@@ -120,7 +120,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVIIe siècle",
+   "epoca": "Siglo XVII",
    "texto": "« L'entendement humain, par sa propre nature, est enclin à supposer dans les choses plus d'ordre et de régularité qu'il n'en trouve. »",
    "fuente": "Francis Bacon, Novum Organum, aphorisme 45 (1620).",
    "unidad": "fil-t3"
@@ -170,7 +170,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "Antiquité et XVIIe siècle",
+   "epoca": "Antigüedad y siglo XVII",
    "texto": "« Plutarque raconte que les Athéniens conservèrent le bateau de Thésée en remplaçant les planches pourries par des neuves, de sorte que le bateau devint un exemple pour les philosophes : les uns disaient qu'il restait le même, les autres que non. »",
    "fuente": "Plutarque, Vie de Thésée, 23. Locke reformule le problème dans l'Essai sur l'entendement humain, II, 27 (1690).",
    "unidad": "fil-t2"
@@ -221,7 +221,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVIIIe siècle (les Lumières)",
+   "epoca": "Siglo XVIII (Ilustración)",
    "texto": "« L'homme ne peut devenir homme que par l'éducation. Il n'est que ce que l'éducation fait de lui. »",
    "fuente": "Kant, Traité de pédagogie (1803). Le cas réel est celui de Victor de l'Aveyron, éduqué par le docteur Itard à partir de 1800 ; Truffaut l'a porté à l'écran dans L'Enfant sauvage (1970).",
    "unidad": "fil-t2"
@@ -273,7 +273,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XXe siècle",
+   "epoca": "Siglo XX",
    "texto": "« Qu'est-ce qui peut d'autre nous importer, en dehors de la manière dont nos vies se sentent de l'intérieur ? » La réponse de Nozick : nous tenons à faire certaines choses, à être d'une certaine manière et à être en contact avec une réalité plus profonde que celle que nous fabriquons.",
    "fuente": "Robert Nozick, Anarchie, État et utopie (1974), contre l'hédonisme et l'utilitarisme.",
    "unidad": "fil-t5"
@@ -325,7 +325,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XXe siècle",
+   "epoca": "Siglo XX",
    "texto": "« Agis de telle sorte que tu traites l'humanité, aussi bien dans ta personne que dans la personne de tout autre, toujours en même temps comme une fin, et jamais simplement comme un moyen. »",
    "fuente": "Kant, Fondements de la métaphysique des mœurs (1785). Le dilemme a été formulé par Philippa Foot en 1967 ; la variante du pont a été proposée par Judith Jarvis Thomson en 1976, et en 1985 elle a donné son nom au « problème du tramway ».",
    "unidad": "fil-t5"
@@ -377,7 +377,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "IVe-Ve et XVIIIe siècles",
+   "epoca": "Siglos IV-V y XVIII",
    "texto": "« Le mensonge est un dire faux avec la volonté de tromper. […] Celui qui pense qu'il existe un mensonge qui n'est pas un péché se trompe lui-même de la pire manière. »",
    "fuente": "Augustin d'Hippone, Sur le mensonge (395). Kant reprend cette thèse dans « D'un prétendu droit de mentir par humanité » (1797).",
    "unidad": "fil-t5"
@@ -428,7 +428,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "IVe siècle av. J.-C.",
+   "epoca": "Siglo IV a. C.",
    "texto": "« S'il y avait deux anneaux comme celui-là et que le juste en mît un et l'injuste l'autre, personne ne serait assez de fer pour persévérer dans la justice. […] Nul n'est juste volontairement, mais par contrainte. »",
    "fuente": "Platon, La République, II, 359d-360d.",
    "unidad": "fil-t5"
@@ -478,7 +478,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XXe siècle",
+   "epoca": "Siglo XX",
    "texto": "« Les principes de la justice sont choisis derrière un voile d'ignorance. Cela garantit que personne n'est avantagé ou désavantagé dans le choix des principes par le hasard naturel ou par les contingences sociales. »",
    "fuente": "John Rawls, Théorie de la justice (1971), §3. Nozick lui répond dans Anarchie, État et utopie (1974).",
    "unidad": "fil-t6"
@@ -530,7 +530,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "IVe siècle av. J.-C.",
+   "epoca": "Siglo IV a. C.",
    "texto": "« Imagine un navire dont le propriétaire est plus grand et plus fort que tout l'équipage, mais un peu sourd, un peu myope et de connaissances nautiques assez courtes, et des matelots qui se disputent le gouvernail sans avoir jamais appris l'art de naviguer. »",
    "fuente": "Platon, La République, VI, 488a-489a (l'allégorie du navire). Aristote répond dans la Politique, III, 11.",
    "unidad": "fil-t6"
@@ -580,7 +580,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XXe siècle",
+   "epoca": "Siglo XX",
    "texto": "« Même dans la reproduction la plus parfaite, un élément fait défaut : l'ici et maintenant de l'œuvre d'art, son existence unique au lieu où elle se trouve. »",
    "fuente": "Walter Benjamin, L'œuvre d'art à l'époque de sa reproductibilité technique (1936). Le cas réel le plus célèbre est celui de Han van Meegeren, qui vendit de faux « Vermeer » entre 1937 et 1945.",
    "unidad": "fil-t7"
@@ -630,7 +630,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVIIe et XXe siècles",
+   "epoca": "Siglos XVII y XX",
    "texto": "« Aussi loin que cette conscience peut s'étendre en arrière, à toute action ou pensée passée, jusque-là va l'identité de cette personne. »",
    "fuente": "Locke, Essai sur l'entendement humain, II, 27, 9 (chapitre ajouté dans la 2e édition, 1694). Le cas de la fission a été rendu célèbre par Derek Parfit (« Personal Identity », 1971 ; Raisons et personnes, 1984).",
    "unidad": "fil-t2"
@@ -682,7 +682,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVIIIe siècle (les Lumières)",
+   "epoca": "Siglo XVIII (Ilustración)",
    "texto": "« Aie le courage de te servir de ton propre entendement ! Voilà la devise des Lumières. »",
    "fuente": "Kant, Réponse à la question : Qu'est-ce que les Lumières ? (1784). La règle de ne rien accepter sans évidence est la première du Discours de la méthode de Descartes (1637).",
    "unidad": "fil-t3"
@@ -734,7 +734,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "IVe siècle av. J.-C. et XIIIe siècle",
+   "epoca": "Siglo IV a. C. y siglo XIII",
    "texto": "« L'être se dit en plusieurs sens, mais par rapport à une seule chose et à une seule nature. »",
    "fuente": "Aristote, Métaphysique, IV, 2, 1003a33. Des siècles plus tard, Thomas d'Aquin a distingué l'essence d'une chose et son existence dans De l'être et de l'essence (vers 1252-1256).",
    "unidad": "fil-metafisica"
@@ -785,7 +785,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVIIIe et XXe siècles",
+   "epoca": "Siglo XVIII y siglo XX",
    "texto": "« Agis seulement d'après la maxime grâce à laquelle tu peux vouloir en même temps qu'elle devienne une loi universelle. »",
    "fuente": "Kant, Fondements de la métaphysique des mœurs (1785). Lawrence Kohlberg a utilisé un cas comme celui-ci, le dilemme de Heinz, depuis sa thèse de doctorat (1958) pour étudier la façon dont nous raisonnons ; Carol Gilligan lui a répondu dans Une si grande différence (In a Different Voice, 1982).",
    "unidad": "fil-t5"
