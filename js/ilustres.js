@@ -206,7 +206,8 @@ const ILUSTRES = {
   "temas": [
    "fil-metafisica",
    "fil-presocraticos",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "anaxagoras": {
@@ -400,7 +401,8 @@ const ILUSTRES = {
    "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "democrito": {
@@ -502,7 +504,8 @@ const ILUSTRES = {
    "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "diogenes": {
@@ -583,7 +586,8 @@ const ILUSTRES = {
    "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "pirron": {
@@ -604,7 +608,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-montaigne-ensayos"
   ]
  },
  "epicuro": {
@@ -634,7 +639,8 @@ const ILUSTRES = {
    "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "zenon": {
@@ -656,6 +662,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-helenismo"
+  ]
+ },
+ "ciceron": {
+  "name": "Marcus Tullius Cicéron",
+  "dates": "106 – 43 av. J.-C.",
+  "born": -106,
+  "died": -43,
+  "place": "Arpinum (Latium, Italie)",
+  "role": "orateur, homme politique et philosophe romain",
+  "idea": "La philosophie grecque peut se penser en latin : Cicéron l'a traduite pour les Romains et a exposé les écoles comme un débat dans lequel c'est le lecteur qui doit trancher.",
+  "bio": "<p>Marcus Tullius Cicéron naquit en 106 av. J.-C. à Arpinum, à une centaine de kilomètres de Rome, dans une famille aisée mais sans tradition politique. Il étudia le droit et la rhétorique à Rome et la philosophie à Athènes et à Rhodes, où il suivit les leçons du stoïcien <strong>Posidonios</strong>. Il fut le meilleur orateur de son temps et devint consul en 63 av. J.-C., année où il démantela la conjuration de <strong>Catilina</strong>. Pour avoir fait exécuter les conjurés sans jugement, il dut s'exiler pendant un an et demi.</p>\n<p>Sous la dictature de César, il perdit son poids politique, et après la mort de sa fille Tullia, en 45 av. J.-C., il se réfugia dans la philosophie. En moins de deux ans, il écrivit presque toute son œuvre philosophique : <em>Tusculanes</em>, <em>De la nature des dieux</em>, <em>De la divination</em>, <em>Des devoirs</em>… Il se déclarait disciple de l'<strong>Académie sceptique</strong>, l'école platonicienne qui pensait qu'on n'atteint que le probable : il expose les raisons des épicuriens, des stoïciens et des académiciens et laisse le lecteur juger. Pour cela, il dut créer en latin des mots qui n'existaient pas, comme <em>qualitas</em> (« qualité »). Dans <em>De la nature des dieux</em>, il met dans la bouche d'un stoïcien l'argument de l'ordre du monde : si un cadran solaire ou une sphère qui imite le ciel ont un auteur, l'univers aussi. Son <em>Hortensius</em>, aujourd'hui perdu, amena le jeune Augustin d'Hippone à la philosophie.</p>",
+  "obras": [
+   "De la république",
+   "Tusculanes",
+   "De la nature des dieux",
+   "Des devoirs"
+  ],
+  "anecdota": "<p>Après la mort de César, Cicéron attaqua Marc Antoine dans une série de discours, les <em>Philippiques</em>. Quand Antoine, Octave et Lépide se partagèrent le pouvoir, Antoine exigea sa mort. Les soldats le rattrapèrent en 43 av. J.-C. près de sa villa de Formies, alors qu'il tentait de fuir en litière. Selon Plutarque, Antoine fit exposer sa tête et ses mains sur la tribune des orateurs du Forum, l'endroit d'où il avait parlé tant de fois.</p>",
+  "fuente": "Plutarque, Vie de Cicéron 47-49",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1"
   ]
  },
  "seneca": {
@@ -681,7 +713,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-helenismo"
+   "fil-helenismo",
+   "fil-montaigne-ensayos"
   ]
  },
  "plotino": {
@@ -760,7 +793,8 @@ const ILUSTRES = {
    "fil-metafisica",
    "fil-t6",
    "fil-t7",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "hipatia": {
@@ -783,6 +817,32 @@ const ILUSTRES = {
   "temas": [
    "fil-t3",
    "fil-t1-filosofia-mujer",
+   "fil-comunidades-perseguidos"
+  ]
+ },
+ "boecio": {
+  "name": "Boèce",
+  "dates": "v. 480 – 524",
+  "born": 480,
+  "died": 524,
+  "place": "Rome",
+  "role": "philosophe et homme politique romain",
+  "idea": "Le vrai bonheur n'est pas dans les biens de la fortune, qui vont et viennent, mais dans le bien parfait, qui est Dieu : s'il y a des biens imparfaits, il doit y en avoir un parfait.",
+  "bio": "<p>Anicius Manlius Severinus Boèce naquit vers 480 dans l'une des familles les plus nobles de Rome, alors que l'Italie était déjà gouvernée par des rois germaniques. Il fut consul en 510 et, plus tard, <em>magister officiorum</em>, l'une des plus hautes charges de la cour du roi ostrogoth <strong>Théodoric</strong>, à Ravenne. Il se proposa de traduire en latin toutes les œuvres de Platon et d'Aristote et de montrer qu'elles étaient en accord. Il ne put achever ce projet, mais il traduisit et commenta la logique d'Aristote et l'<em>Introduction</em> de Porphyre. Pendant six siècles, l'Europe latine étudia la logique dans ses livres, et c'est à travers son commentaire de Porphyre que le <strong>problème des universaux</strong> parvint au Moyen Âge.</p>\n<p>Vers 523, il fut accusé de trahison pour avoir défendu un sénateur soupçonné de conspirer avec l'empereur de Constantinople. On l'emprisonna près de Pavie et on l'exécuta. En prison, il écrivit la <em>Consolation de la philosophie</em>, l'un des livres les plus lus du Moyen Âge : la Philosophie lui rend visite et lui enseigne que la fortune est une roue qui tourne et que le souverain bien est Dieu. Au livre III, il raisonne que, s'il y a des biens imparfaits, il doit exister un bien parfait, un raisonnement semblable à celui qu'utiliseront Anselme et la quatrième voie de Thomas.</p>",
+  "obras": [
+   "Consolation de la philosophie (vers 524)",
+   "Traductions et commentaires de la logique d'Aristote",
+   "Commentaires de l'Introduction de Porphyre"
+  ],
+  "anecdota": "<p>La <em>Consolation</em> commence par une scène. Boèce, en prison, écrit des vers tristes en compagnie des Muses de la poésie. Apparaît alors une femme majestueuse, à la taille changeante : tantôt elle semble de stature ordinaire, tantôt sa tête touche le ciel. Elle porte une robe déchirée, parce que chaque école en a emporté un lambeau. C'est la Philosophie, qui chasse les Muses et se met à soigner le prisonnier par des raisons.</p>",
+  "fuente": "Boèce, Consolation de la philosophie I, proses 1 et 3",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
    "fil-comunidades-perseguidos"
   ]
  },
@@ -903,7 +963,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "maimonides": {
@@ -987,7 +1048,8 @@ const ILUSTRES = {
    "fil-t2",
    "fil-metafisica",
    "fil-t7",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "ockham": {
@@ -1175,6 +1237,30 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-comunidades-perseguidos"
+  ]
+ },
+ "montaigne": {
+  "name": "Michel de Montaigne",
+  "dates": "1533 – 1592",
+  "born": 1533,
+  "died": 1592,
+  "place": "Château de Montaigne (Périgord, France)",
+  "role": "humaniste et essayiste français",
+  "idea": "Le meilleur sujet d'étude, c'est soi-même : en examinant honnêtement sa propre vie, changeante et contradictoire, on apprend ce qu'est être humain et combien peu de choses nous savons avec certitude.",
+  "bio": "<p>Michel Eyquem de Montaigne naquit dans une famille de marchands enrichis de Bordeaux. Son père l'éduqua d'une manière singulière : jusqu'à six ans, on ne lui parla qu'en latin, qui fut ainsi sa première langue. Il étudia le droit et fut conseiller au Parlement de Bordeaux, où il se lia avec l'écrivain Étienne de La Boétie d'une amitié qui le marqua pour toujours. En 1571, à 38 ans, il se retira dans la tour de son château pour lire et écrire, même s'il revint à la vie publique comme maire de Bordeaux (1581-1585) et comme médiateur dans les guerres de religion entre catholiques et protestants.</p>\n<p>Dans sa retraite, il inventa un genre nouveau, l'<strong>essai</strong> : des textes brefs et libres dans lesquels il « met à l'épreuve » son jugement sur n'importe quel sujet, de l'amitié et de la mort aux cannibales, à l'éducation ou à l'expérience. Montaigne se prend lui-même comme objet d'étude et découvre un être changeant et plein de contradictions. Son attitude est <strong>sceptique</strong> : il prit pour devise la question « Que sais-je ? », avec une balance en équilibre. De ce scepticisme naissent sa tolérance et sa critique de la cruauté : dans « Des cannibales », il soutient que nous appelons barbarie ce qui n'est pas de notre usage. Il influença Descartes, Pascal et toute la littérature moderne.</p>",
+  "obras": [
+   "Essais (1580 ; augmentés en 1588 ; édition posthume de 1595)",
+   "Journal de voyage en Italie (écrit en 1580-1581, publié en 1774)"
+  ],
+  "anecdota": "<p>Quand il se retira dans sa tour, Montaigne fit peindre sur les poutres du plafond de sa bibliothèque plus de cinquante sentences en grec et en latin, tirées de la Bible, des sceptiques, de Lucrèce ou de Sextus Empiricus, pour les avoir toujours sous les yeux quand il lisait et écrivait. On peut encore les voir aujourd'hui dans la tour, conservée à côté du château. À côté, il fit graver une inscription en latin : le jour de son 38e anniversaire, il se retirait, « las depuis longtemps de la servitude de la cour et des charges publiques », dans le sein des doctes Muses.</p>",
+  "fuente": "Inscriptions de la tour de Montaigne (1571)",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-montaigne-ensayos"
   ]
  },
  "giordano_bruno": {
@@ -1401,7 +1487,8 @@ const ILUSTRES = {
    "fil-t3",
    "fil-metafisica",
    "fil-spinoza-sistema",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "isabel": {
@@ -1450,7 +1537,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-montaigne-ensayos"
   ]
  },
  "spinoza": {
@@ -1485,7 +1573,8 @@ const ILUSTRES = {
    "fil-metafisica",
    "fil-spinoza-sistema",
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "locke": {
@@ -1750,7 +1839,8 @@ const ILUSTRES = {
    "fil-t5",
    "fil-t6",
    "fil-t7",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "rousseau": {
@@ -1776,7 +1866,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t6",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "baumgarten": {
@@ -1853,7 +1944,61 @@ const ILUSTRES = {
    "fil-t5",
    "fil-t6",
    "fil-t7",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
+  ]
+ },
+ "paley": {
+  "name": "William Paley",
+  "dates": "1743 – 1805",
+  "born": 1743,
+  "died": 1805,
+  "place": "Peterborough (Angleterre)",
+  "role": "ecclésiastique et philosophe anglais",
+  "idea": "Si, en trouvant une montre, nous en déduisons que quelqu'un l'a fabriquée, l'œil et les autres organes des êtres vivants, bien plus complexes, exigent un concepteur intelligent.",
+  "bio": "<p>William Paley naquit en 1743 à Peterborough, fils d'un ecclésiastique qui dirigeait une école. Il étudia les mathématiques au Christ's College de Cambridge, où il obtint la meilleure note de sa promotion aux examens de mathématiques (1763), puis il y fut professeur. Ordonné prêtre de l'Église d'Angleterre, il devint archidiacre de Carlisle. Ses livres furent des manuels de Cambridge pendant des décennies. Les <em>Principes de philosophie morale et politique</em> (1785) défendent une morale de l'utilité et critiquent la traite des esclaves.</p>\n<p>Son œuvre la plus célèbre est la <em>Théologie naturelle</em> (1802). Elle commence par une image : si, en traversant une lande, je bute contre une pierre, je peux penser qu'elle a toujours été là ; mais si je trouve une montre, ses pièces, ajustées pour mesurer le temps, m'obligent à penser à un horloger. Paley passe ensuite en revue l'œil, les articulations ou les ailes des oiseaux pour conclure que la nature montre un dessein. Un demi-siècle plus tard, Darwin, qui l'avait étudié dans le même collège de Cambridge, expliqua cette adaptation par la sélection naturelle.</p>",
+  "obras": [
+   "Principes de philosophie morale et politique (1785)",
+   "Un aperçu des preuves du christianisme (1794)",
+   "Théologie naturelle (1802)"
+  ],
+  "anecdota": "<p>Le scientifique qui a privé l'argument de Paley de son appui fut aussi l'un de ses plus grands admirateurs. En 1859, l'année même de <em>De l'origine des espèces</em>, Charles Darwin écrivit à un ami qu'il n'avait presque jamais autant admiré un livre que la <em>Théologie naturelle</em>, et que, jeune, il aurait presque pu le réciter par cœur.</p>",
+  "fuente": "Lettre de Charles Darwin à John Lubbock, 22 novembre 1859 (Darwin Correspondence Project)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica",
+   "fil-t4"
+  ]
+ },
+ "condorcet": {
+  "name": "Nicolas de Condorcet",
+  "dates": "1743 – 1794",
+  "born": 1743,
+  "died": 1794,
+  "place": "Ribemont (Picardie, France)",
+  "role": "mathématicien, philosophe des Lumières et homme politique de la Révolution française",
+  "idea": "L’humanité peut progresser sans limite fixée d’avance grâce à la raison, à la science et à l’éducation, et ce progrès exige les mêmes droits pour tous : pour les femmes et pour les esclaves aussi.",
+  "bio": "<p>Marie Jean Antoine Nicolas de Caritat, marquis de Condorcet, naît en 1743 à Ribemont, dans le nord de la France. Son père, officier de cavalerie, meurt quand il n’est encore qu’un bébé. Il étudie chez les jésuites à Reims puis au collège de Navarre à Paris, et se consacre aux mathématiques : en 1769, à vingt-cinq ans seulement, il entre à l’Académie des sciences, dont il est secrétaire perpétuel à partir de 1776. Ami de d’Alembert et de Turgot, il rédige des articles de mathématiques pour le <em>Supplément</em> de l’<em>Encyclopédie</em> et il est élu à l’Académie française en 1782. Dans son <em>Essai sur l’application de l’analyse à la probabilité des décisions rendues à la pluralité des voix</em> (1785), il étudie les votes avec les mathématiques et découvre qu’avec trois options ou plus, les préférences de la majorité peuvent former un cercle : la majorité préfère A à B, B à C et pourtant C à A. C’est le « paradoxe de Condorcet ».</p>\n<p>Condorcet met sa science au service des droits. En 1781, il publie sous le pseudonyme de « M. Schwartz » des <em>Réflexions sur l’esclavage des nègres</em>, où il la condamne et propose de l’abolir progressivement ; il est l’un des premiers membres de la Société des amis des Noirs (1788), qu’il finit par présider. En 1790, il défend dans un article l’admission des femmes comme citoyennes, avec les mêmes droits politiques que les hommes, ce que presque personne ne soutenait alors. Député pendant la Révolution, il présente en 1792 un plan d’instruction publique gratuite à tous les degrés et sans enseignement religieux, qui ne sera jamais appliqué ; il avait déjà défendu que filles et garçons reçoivent la même instruction. Il s’oppose aussi à la peine de mort, y compris lors du procès de Louis XVI. Parce qu’il a critiqué la constitution des jacobins, la Convention ordonne son arrestation en juillet 1793. Caché à Paris, il écrit l’<em>Esquisse d’un tableau historique des progrès de l’esprit humain</em>. En mars 1794, il est arrêté et meurt quelques jours plus tard dans la prison de Bourg-la-Reine.</p>",
+  "obras": [
+   "Réflexions sur l’esclavage des nègres (1781)",
+   "Essai sur l’application de l’analyse à la probabilité des décisions rendues à la pluralité des voix (1785)",
+   "Sur l’admission des femmes au droit de cité (1790)",
+   "Cinq mémoires sur l’instruction publique (1791)",
+   "Esquisse d’un tableau historique des progrès de l’esprit humain (1795, posthume)"
+  ],
+  "anecdota": "<p>Quand il quitte sa cachette, le 25 mars 1794, Condorcet passe deux jours à errer aux environs de Paris, épuisé et affamé. Selon ses biographes, il entre dans une auberge de Clamart et demande une omelette. Quand on lui demande combien d’œufs il veut, il répond « une douzaine ». Selon le récit, cette réponse trahit quelqu’un qui n’avait jamais cuisiné, un monsieur et non l’ouvrier qu’il prétendait être. Comme il n’avait pas non plus de papiers, il éveille les soupçons et on l’arrête. C’est une scène répétée depuis le XIXe siècle et peut-être embellie, mais elle peint bien le savant perdu hors de ses livres.</p>",
+  "fuente": "Récit traditionnel répété par ses biographes depuis le XIXe siècle ; les détails de l’arrestation ne sont pas documentés avec certitude",
+  "tradicion": true,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-comunidades-perseguidos"
   ]
  },
  "lamarck": {
@@ -2012,7 +2157,8 @@ const ILUSTRES = {
    "fil-t3",
    "fil-t6",
    "fil-t7",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "thompson": {
@@ -2373,7 +2519,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t5",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "frege": {
@@ -2752,7 +2899,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t1"
+   "fil-t1",
+   "fil-montaigne-ensayos"
   ]
  },
  "heidegger": {
@@ -3007,7 +3155,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t7",
-   "fil-marxismos"
+   "fil-marxismos",
+   "fil-montaigne-ensayos"
   ]
  },
  "zambrano": {
