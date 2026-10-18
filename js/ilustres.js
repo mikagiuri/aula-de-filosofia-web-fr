@@ -1590,6 +1590,30 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "voltaire": {
+  "name": "Voltaire",
+  "dates": "1694 – 1778",
+  "born": 1694,
+  "died": 1778,
+  "place": "Paris (France)",
+  "role": "écrivain et philosophe des Lumières",
+  "idea": "La raison doit combattre le fanatisme et la superstition ; la tolérance religieuse et la liberté d'expression sont des conditions d'une société civilisée.",
+  "bio": "<p>François-Marie Arouet, connu sous le nom de Voltaire, naquit à Paris dans une famille bourgeoise et fut éduqué chez les jésuites. Ses écrits satiriques lui valurent deux fois la Bastille et l'exil en Angleterre, où il admira la liberté politique, la physique de Newton et la philosophie de Locke. Il passa ses dernières années à Ferney, près de Genève, et fut l'écrivain le plus célèbre des Lumières.</p>\n<p>Voltaire figure au programme comme défenseur de la <strong>tolérance religieuse</strong> face au <strong>fanatisme</strong>. Il intervint dans des affaires d'injustice comme celle du marchand protestant Jean Calas, exécuté en 1762, et critiqua avec ironie l'intolérance de l'Église. Dans <em>Candide</em>, il se moqua de l'optimisme de Leibniz. Pourtant, comme la plupart des penseurs des Lumières, il n'étendit pas l'égalité aux femmes.</p>",
+  "obras": [
+   "Lettres philosophiques (1734)",
+   "Candide (1759)",
+   "Traité sur la tolérance (1763)",
+   "Dictionnaire philosophique (1764)"
+  ],
+  "anecdota": "<p>En 1729, le mathématicien La Condamine découvrit une faille dans une loterie organisée par le gouvernement français : les gains dépassaient le coût d'achat de tous les billets. Voltaire se joignit à lui et à d'autres associés, ils achetèrent des billets en masse pendant des mois et gagnèrent une fortune. Avec cet argent, bien placé ensuite, Voltaire devint riche et indépendant. Il n'eut besoin ni de protecteurs ni de pensions, et cette indépendance économique lui permit d'écrire avec une liberté que peu d'auteurs de son temps pouvaient se permettre.</p>",
+  "fuente": "Biographies de Voltaire, d'après des témoignages de l'époque",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": []
+ },
  "euler": {
   "name": "Leonhard Euler",
   "dates": "1707 – 1783",
