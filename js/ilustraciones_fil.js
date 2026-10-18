@@ -123,7 +123,7 @@ const ILUSTRACIONES = [
   "pie": "La beauté classique : proportion et harmonie comme idéal esthétique.",
   "tema": "fil-t7",
   "license": "Public domain",
-  "artist": "Unknown artistUnknown artist",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Venus_de_Milo_Louvre_Ma399_n4.jpg"
  },
  {
@@ -240,7 +240,7 @@ const ILUSTRACIONES = [
   "pie": "L'algèbre de la logique : le vrai et le faux comme 1 et 0.",
   "tema": "fil-t4",
   "license": "Public domain",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_George_Boole.png"
  },
  {
@@ -258,7 +258,7 @@ const ILUSTRACIONES = [
   "pie": "L'Organon : la première théorie de la déduction valide.",
   "tema": "fil-t4",
   "license": "Public domain",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Aristotle,_set_on_a_restored_bust,_Colosseum.jpg"
  },
  {
@@ -276,7 +276,7 @@ const ILUSTRACIONES = [
   "pie": "Le bonheur comme plaisir serein et absence de douleur.",
   "tema": "fil-t5",
   "license": "Public domain",
-  "artist": "Unknown artistUnknown artist",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Epikouros_BM_1843.jpg"
  },
  {
@@ -312,7 +312,7 @@ const ILUSTRACIONES = [
   "pie": "Le premier philosophe : l'eau comme principe de toutes choses.",
   "tema": "fil-presocraticos",
   "license": "Public domain",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Thales_in_Thomas_Stanley_History_of_Philosophy.jpg"
  },
  {
@@ -393,7 +393,7 @@ const ILUSTRACIONES = [
   "pie": "Le nombre comme clé et ordre de la réalité.",
   "tema": "fil-presocraticos",
   "license": "Public domain",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Pythagoras_in_the_Roman_Forum,_Colosseum.jpg"
  },
  {
@@ -447,7 +447,7 @@ const ILUSTRACIONES = [
   "pie": "La théorie de l'évolution a bouleversé l'idée de ce qu'est l'être humain.",
   "tema": "fil-t2",
   "license": "Public domain",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Editorial_cartoon_depicting_Charles_Darwin_as_an_ape_(1871).jpg"
  },
  {
@@ -465,7 +465,7 @@ const ILUSTRACIONES = [
   "pie": "Se pencher au-delà de ce que nous croyons savoir du monde.",
   "tema": "fil-t3",
   "license": "Public domain",
-  "artist": "AnonymousUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Flammarion.jpg"
  },
  {
@@ -627,7 +627,7 @@ const ILUSTRACIONES = [
   "pie": "Le couple cynique qui vécut selon la nature, sans conventions.",
   "tema": "fil-helenismo",
   "license": "Public domain",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Crates_and_Hipparchia_Villa_Farnesina.jpg"
  },
  {
