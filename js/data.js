@@ -1038,6 +1038,67 @@ const DECKS = {
    ]
   ]
  },
+ "fil-t5-cuidado-cortina": {
+  "name": "Philosophie 1re · Le jugement moral, l'éthique du care et Cortina (T5)",
+  "subject": "fil",
+  "cards": [
+   [
+    "🪜",
+    "Kohlberg : trois niveaux",
+    "Le jugement moral mûrit en trois niveaux (préconventionnel, conventionnel et postconventionnel) ; ce qui compte n'est pas le « oui » ou le « non », mais la raison que l'on donne."
+   ],
+   [
+    "💊",
+    "Dilemme de Heinz",
+    "Doit-il voler le médicament qui sauve sa femme ? Kohlberg ne note pas la réponse, mais le type de raisons qui la justifient."
+   ],
+   [
+    "🗣️",
+    "Gilligan : une autre voix",
+    "Face à Kohlberg, Gilligan décrit une voix morale tout aussi mûre qui raisonne depuis les relations, la responsabilité et le care, non seulement depuis la justice."
+   ],
+   [
+    "🤲",
+    "Éthique du care",
+    "Nel Noddings et Joan Tronto : nous partons de personnes vulnérables et interdépendantes ; la morale commence par répondre aux besoins de qui dépend de nous."
+   ],
+   [
+    "🩺",
+    "Bioéthique",
+    "Beauchamp et Childress : quatre principes pour les cas médicaux —autonomie, bienfaisance, non-malfaisance et justice."
+   ],
+   [
+    "🐄",
+    "Éthique animale",
+    "Pour Bentham, la question n'est pas si les animaux raisonnent, mais s'ils peuvent souffrir ; le « spécisme » (terme de Richard Ryder, 1970, que Singer a popularisé) consiste à discriminer selon l'espèce."
+   ],
+   [
+    "🤖",
+    "Éthique de l'IA",
+    "Les algorithmes peuvent hériter des biais de leurs données ; le dilemme du tramway réapparaît dans les voitures autonomes, avec la question de qui est responsable."
+   ],
+   [
+    "⚖️",
+    "Minima et maxima (Cortina)",
+    "Minima : ce qui est exigible de tous par justice. Maxima : les projets de vie heureuse qui se proposent, mais ne s'imposent pas."
+   ],
+   [
+    "🏛️",
+    "Éthique civique",
+    "La morale commune d'une société plurielle : des valeurs partagées (liberté, égalité, solidarité, respect, dialogue) et les droits humains, sans obliger à croire la même chose."
+   ],
+   [
+    "💬",
+    "Éthique dialogique",
+    "Avec Apel et Habermas : une norme est juste si tous ceux qu'elle affecte pouvaient l'accepter au terme d'un dialogue à égalité, sans tromperie ni contrainte."
+   ],
+   [
+    "🙅",
+    "Aporophobie",
+    "Terme que Cortina a forgé dans les années quatre-vingt-dix (ABC Cultural, 1995) et diffusé dans son livre de 2017 : rejet ou peur du pauvre et du démuni ; souvent, ce qui paraît de la xénophobie est, au fond, un rejet de qui « n'apporte rien »."
+   ]
+  ]
+ },
  "fil-arte": {
   "name": "Philosophie 1re Bach. · La beauté et l'art (T7)",
   "subject": "fil",
@@ -7520,6 +7581,122 @@ const QUIZZES = {
     ],
     "a": 3,
     "fb": "Le courage est le milieu entre la lâcheté (défaut) et la témérité (excès)."
+   }
+  ]
+ },
+ "fil-t5-cuidado-cortina": {
+  "name": "Le jugement moral, l'éthique du care et Cortina (Philosophie 1re · T5 · révision)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Dans le dilemme de Heinz, qu'est-ce qui intéresse surtout Kohlberg ?",
+    "o": [
+     "Le type de raisons par lesquelles la personne justifie sa réponse",
+     "Si la personne répond finalement oui ou non",
+     "Si la conduite a de bonnes conséquences pour la majorité",
+     "Quel sentiment d'approbation ou de rejet elle exprime"
+    ],
+    "a": 0,
+    "fb": "Pour Kohlberg, ce n'est pas le « oui » ou le « non » qui importe, mais le type de raisons : elles révèlent le stade de développement moral."
+   },
+   {
+    "q": "Qu'est-ce qui caractérise le niveau postconventionnel de Kohlberg ?",
+    "o": [
+     "Obéir par peur du châtiment",
+     "Chercher son propre intérêt dans chaque échange",
+     "Satisfaire les attentes du groupe et les lois en vigueur",
+     "Raisonner avec des principes et des droits au-dessus des lois concrètes"
+    ],
+    "a": 3,
+    "fb": "Au niveau postconventionnel, on raisonne avec le contrat social, les droits et des principes universels, qui peuvent être au-dessus d'une loi concrète."
+   },
+   {
+    "q": "En quoi consista l'objection de Carol Gilligan à Kohlberg ?",
+    "o": [
+     "En ce que Kohlberg mesurait la maturité seulement à l'aune de la justice et laissait de côté la voix du care",
+     "En ce que les stades ne se parcourent pas dans l'ordre",
+     "En ce que le dilemme de Heinz était trop facile",
+     "En ce que la morale ne peut pas s'étudier scientifiquement"
+    ],
+    "a": 0,
+    "fb": "Gilligan soutint qu'il existe une voix morale tout aussi mûre qui raisonne depuis les relations, la responsabilité et le care, non seulement depuis la justice."
+   },
+   {
+    "q": "Selon l'éthique du care (Noddings, Tronto), de quoi part-on pour penser la morale ?",
+    "o": [
+     "D'individus isolés qui signent un contrat",
+     "De personnes vulnérables et interdépendantes, en relation",
+     "Du calcul du plus grand bonheur pour le plus grand nombre",
+     "D'un impératif que la raison se donne à elle-même"
+    ],
+    "a": 1,
+    "fb": "L'éthique du care part du fait que nous sommes tous vulnérables et interdépendants : la morale commence par s'occuper de qui dépend de nous."
+   },
+   {
+    "q": "Quels sont les quatre principes de la bioéthique de Beauchamp et Childress ?",
+    "o": [
+     "Liberté, égalité, fraternité et solidarité",
+     "Intensité, durée, certitude et étendue",
+     "Autonomie, bienfaisance, non-malfaisance et justice",
+     "Vertu, devoir, conséquences et care"
+    ],
+    "a": 2,
+    "fb": "Ce sont l'autonomie, la bienfaisance, la non-malfaisance et la justice : des principes intermédiaires acceptables depuis des positions différentes."
+   },
+   {
+    "q": "Peter Singer appelle « spécisme »…",
+    "o": [
+     "Nier que les animaux ressentent la douleur",
+     "Discriminer un être selon l'espèce à laquelle il appartient",
+     "Traiter les animaux comme les plantes",
+     "Défendre que seul compte le bonheur humain parce que les animaux ne raisonnent pas"
+    ],
+    "a": 1,
+    "fb": "Le spécisme, c'est discriminer selon l'espèce, comme le racisme discrimine selon la race ; Richard Ryder l'a forgé (1970) et Singer l'a popularisé. Bentham disait déjà que la clé est de savoir s'ils peuvent souffrir."
+   },
+   {
+    "q": "Une camarade dit : « l'éthique de minima de Cortina est une morale molle, de peu d'effort, pour se contenter de peu ». Qu'a-t-elle mal compris ?",
+    "o": [
+     "Que les minima sont en réalité facultatifs",
+     "Que « minima » renvoie à l'étendue (ce qui est partagé par tous), non à un faible niveau d'exigence",
+     "Que les minima sont proposés par chaque personne pour son compte",
+     "Que les minima et les maxima sont la même chose"
+    ],
+    "a": 1,
+    "fb": "Les minima sont exigeants (dignité, non-discrimination, droits) ; « minima » désigne le peu sur lequel, tout en étant différents, il faut s'accorder pour vivre ensemble, non une morale facile."
+   },
+   {
+    "q": "Qu'est-ce que, pour Cortina, une éthique civique ?",
+    "o": [
+     "La morale d'une religion imposée à toute la société",
+     "Un code qui oblige tous à partager la même idée du bonheur",
+     "La morale commune d'une société plurielle : des valeurs partagées et des droits, sans imposer de croyances",
+     "Le renoncement à toute valeur pour ne déranger personne"
+    ],
+    "a": 2,
+    "fb": "L'éthique civique est le sol partagé d'une société plurielle (liberté, égalité, solidarité, respect, dialogue et droits), qui n'oblige pas à croire la même chose."
+   },
+   {
+    "q": "Selon l'éthique dialogique (Apel et Habermas), quand une norme est-elle juste ?",
+    "o": [
+     "Quand la majorité la dicte, même si certains de ceux qu'elle affecte ne l'acceptent pas",
+     "Quand tous ceux qu'elle affecte pourraient l'accepter au terme d'un dialogue à égalité, sans tromperie ni contrainte",
+     "Quand elle produit le plus grand plaisir pour le plus grand nombre",
+     "Quand chaque personne décide pour son compte ce qui lui semble bien"
+    ],
+    "a": 1,
+    "fb": "L'éthique de la discussion cherche la validité de la norme dans l'accord possible de tous ceux qu'elle affecte, en argumentant dans des conditions d'égalité."
+   },
+   {
+    "q": "Que désigne le terme « aporophobie », forgé par Adela Cortina ?",
+    "o": [
+     "La peur des étrangers en général",
+     "Le rejet, la peur ou l'aversion envers le pauvre et le démuni",
+     "Le rejet de toute autorité politique",
+     "La peur de parler en public"
+    ],
+    "a": 1,
+    "fb": "L'aporophobie est le rejet du pauvre (gr. áporos, pauvre), terme que Cortina a forgé dans les années quatre-vingt-dix et diffusé avec son livre de 2017 ; elle soutient que souvent, ce qui paraît de la xénophobie est, au fond, un rejet de qui manque de ressources."
    }
   ]
  },

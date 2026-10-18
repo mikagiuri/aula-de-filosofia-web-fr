@@ -524,6 +524,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
+   "fil-utilidad",
    "fil-presocraticos",
    "fil-helenismo"
   ]
@@ -781,6 +782,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t3",
+   "fil-t1-filosofia-mujer",
    "fil-comunidades-perseguidos"
   ]
  },
@@ -1027,6 +1029,32 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "pizan": {
+  "name": "Christine de Pizan",
+  "dates": "1364 – v. 1430",
+  "born": 1364,
+  "died": 1430,
+  "place": "Venise ; vécut à la cour de France",
+  "role": "écrivaine et penseuse",
+  "idea": "Première femme d'Europe à avoir vécu de sa plume ; dans *La Cité des dames* elle réfuta par des arguments la misogynie de son époque et défendit la dignité et la capacité intellectuelle des femmes.",
+  "bio": "<p>D'origine vénitienne, Christine de Pizan passa son enfance à la cour de Charles V de France, où son père était médecin et astrologue. Grâce à lui, elle reçut une formation peu habituelle pour les femmes. Devenue veuve à 25 ans avec des enfants à charge, au lieu de se remarier ou d'entrer au couvent, elle choisit une voie presque inédite : vivre comme <strong>écrivaine professionnelle</strong>.</p>\n<p>Son œuvre la plus connue, <em>La Cité des dames</em> (1405), est une allégorie où trois figures —la Raison, la Droiture et la Justice— aident l'autrice à bâtir une cité symbolique peuplée de femmes illustres de l'histoire, à l'abri des calomnies. Elle y répond, point par point et par des arguments, aux textes qui présentaient la femme comme un être inférieur. Elle avait auparavant été au cœur de la fameuse <strong>querelle de la Rose</strong>, une polémique littéraire contre la misogynie du <em>Roman de la Rose</em>.</p>\n<p>On la considère comme une devancière de la « querelle des femmes » et, pour beaucoup, du féminisme. Elle apparaît liée à la fin du Moyen Âge et à la tradition des utopies écrites par des femmes.</p>",
+  "obras": [
+   "La Cité des dames",
+   "Le Livre des trois vertus",
+   "L'Épître au dieu d'Amour",
+   "Chant en l'honneur de Jeanne d'Arc (Ditié de Jehanne d'Arc)"
+  ],
+  "anecdota": "<p>Simone de Beauvoir, dans <em>Le Deuxième Sexe</em>, souligne qu'avec l'<em>Épître au dieu d'Amour</em> de Christine de Pizan « c'est la première fois que nous voyons une femme prendre la plume pour défendre son sexe » (paraphrase). Des siècles après sa mort, un groupe d'hommes alla jusqu'à fonder un « Ordre de la Rose » pour défendre sa cause dans cette polémique.</p>",
+  "fuente": "Christine de Pizan, *La Cité des dames* ; Simone de Beauvoir, *Le Deuxième Sexe* (introduction) ; adapté de Lola Cabrera Trigo, *El pensamiento en femenino plural* (Erein, collection « En diálogo con… » ; CC BY-NC-SA 4.0)",
+  "tradicion": true,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1-filosofia-mujer"
+  ]
+ },
  "erasmo": {
   "name": "Érasme de Rotterdam",
   "dates": "v. 1466 – 1536",
@@ -1116,6 +1144,30 @@ const ILUSTRES = {
   ],
   "anecdota": "<p>En 1536, Calvin ne pensait passer qu'une nuit à Genève, en route vers Strasbourg, où il voulait se consacrer tranquillement à l'étude. Mais le prédicateur Guillaume Farel, qui essayait d'y implanter la Réforme, l'apprit et alla le trouver. Quand Calvin refusa de rester, Farel l'avertit solennellement que Dieu maudirait sa retraite et ses études s'il abandonnait cette tâche. Calvin, selon son propre récit, fut tellement bouleversé qu'il renonça à son voyage. Genève ne se séparerait plus de son nom.</p>",
   "fuente": "Calvin, préface au Commentaire des Psaumes",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-comunidades-perseguidos"
+  ]
+ },
+ "servet": {
+  "name": "Michel Servet",
+  "dates": "1511 – 1553",
+  "born": 1511,
+  "died": 1553,
+  "place": "Villanueva de Sijena (Aragon)",
+  "role": "médecin et théologien aragonais",
+  "idea": "Il soutint qu'il n'y a aucun fondement au dogme de la Trinité et réclama la liberté de penser en matière de religion ; il décrivit aussi comment le sang passe par les poumons.",
+  "bio": "<p>Michel Servet naquit en 1511 à Villanueva de Sijena, en Aragon. Ce fut un esprit inquiet et universel : il étudia le droit, la médecine, la géographie et la théologie. Comme médecin, dans son ouvrage <em>La Restitution du christianisme</em>, il décrivit la <strong>circulation pulmonaire</strong> ou « petite » circulation du sang : il expliqua que le sang passe du cœur aux poumons, s'y mêle à l'air et revient au cœur. Ce fut l'une des premières descriptions de ce parcours en Europe, bien qu'elle soit restée enfouie dans un livre de théologie que presque personne ne lut.</p>\n<p>Ce qui lui valut la gloire et ce qui lui coûta la vie, ce furent ses idées religieuses. Servet nia le dogme de la <strong>Trinité</strong> (que Dieu est Père, Fils et Saint-Esprit en une seule essence) et demanda de revenir à un christianisme qui, selon lui, était l'originel. Cela en fit l'ennemi aussi bien de l'Église catholique que des réformateurs protestants. Poursuivi par l'Inquisition française, il s'enfuit et se retrouva à Genève, où régnait le réformateur <strong>Jean Calvin</strong>. Il y fut jugé et <strong>brûlé sur le bûcher</strong> en 1553. Sa mort provoqua un débat qui importe encore : un pouvoir, religieux ou politique, peut-il tuer quelqu'un pour ce qu'il pense ? Peu après, Sébastien Castellion écrivit que contraindre à croire par la force et tuer pour une idée ne peut se défendre, dans l'un des premiers grands appels à la <strong>tolérance</strong>.</p>",
+  "obras": [
+   "Des erreurs sur la Trinité (De Trinitatis erroribus, 1531)",
+   "La Restitution du christianisme (Christianismi restitutio, 1553)"
+  ],
+  "anecdota": "<p>La description de la circulation du sang par les poumons n'apparaît pas dans un traité de médecine, mais cachée au milieu d'un livre de théologie, la <em>Restitution du christianisme</em>. Presque tous les exemplaires furent brûlés avec leur auteur, et seuls quelques-uns furent sauvés ; longtemps on douta que Servet eût vraiment écrit cela, jusqu'à ce que l'on retrouve ces rares exemplaires. C'est pourquoi la découverte scientifique passa presque inaperçue à son époque : la médecine dut redécouvrir plus tard ce même parcours du sang, par d'autres chemins.</p>",
+  "fuente": "Michel Servet, Christianismi restitutio (1553), où est décrite la circulation pulmonaire ; parmi les rares exemplaires qui échappèrent à l'autodafé",
   "tradicion": false,
   "block": "ren",
   "subjects": [
@@ -1876,6 +1928,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t6",
+   "fil-t1-filosofia-mujer",
    "fil-grandes-preguntas"
   ]
  },
@@ -1902,6 +1955,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t6",
+   "fil-t1-filosofia-mujer",
    "fil-grandes-preguntas"
   ]
  },
@@ -2301,7 +2355,7 @@ const ILUSTRES = {
   "place": "Röcken (Saxe, Prusse)",
   "role": "philosophe et philologue allemand",
   "idea": "Après la mort de Dieu et la chute des valeurs traditionnelles, l'être humain doit surmonter le nihilisme en affirmant la vie et en créant ses propres valeurs.",
-  "bio": "<p>Friedrich Nietzsche naquit à Röcken, fils d'un pasteur protestant. Il étudia la philologie classique et, à seulement 24 ans, fut nommé professeur à l'Université de Bâle (Suisse). Sa mauvaise santé l'obligea à quitter sa chaire en 1879 ; depuis lors, il vécut en errant entre la Suisse, l'Italie et le sud de la France, écrivant sans relâche. En 1889, il subit à Turin un effondrement mental dont il ne se remit pas. Il mourut à Weimar.</p>\n<p>Sa philosophie est un <strong>vitalisme</strong> : la vie (instinct, corps, passion) est la valeur suprême. Il distingue le dionysiaque et l'apollinien, et accuse Platon et le christianisme d'avoir inventé un « monde vrai » contre la vie. Avec sa méthode <strong>généalogique</strong>, il montre que la morale traditionnelle naît du ressentiment des faibles : c'est une morale d'esclaves. La mort de Dieu ouvre le <strong>nihilisme</strong>, que le <strong>surhomme</strong> doit surmonter en créant ses propres valeurs par la <strong>volonté de puissance</strong> et en acceptant l'éternel retour.</p>\n<p>Il est l'un des trois maîtres du soupçon, avec Marx et Freud. Il a souvent écrit sous forme d'aphorismes et dans un style littéraire. Après sa mort, sa sœur a publié comme s'il s'agissait de son grand livre un recueil de ses notes (<em>La Volonté de puissance</em>), mais elle n'a guère altéré ses écrits ; les lectures déformées de sa philosophie sont avant tout l'œuvre de la réception ultérieure. Son perspectivisme et sa critique de la vérité ont influencé l'existentialisme et les penseurs postmodernes, comme Foucault.</p>",
+  "bio": "<p>Friedrich Nietzsche naquit à Röcken, fils d'un pasteur protestant. Il étudia la philologie classique et, à seulement 24 ans, fut nommé professeur à l'Université de Bâle (Suisse). Sa mauvaise santé l'obligea à quitter sa chaire en 1879 ; depuis lors, il vécut en errant entre la Suisse, l'Italie et le sud de la France, écrivant sans relâche. En 1889, il subit à Turin un effondrement mental dont il ne se remit pas. Il mourut à Weimar.</p>\n<p>Sa philosophie est un <strong>vitalisme</strong> : la vie (instinct, corps, passion) est la valeur suprême. Il distingue le dionysiaque et l'apollinien, et accuse Platon et le christianisme d'avoir inventé un « monde vrai » contre la vie. Avec sa méthode <strong>généalogique</strong>, il montre que la morale traditionnelle naît du ressentiment des faibles : c'est une morale d'esclaves. La mort de Dieu ouvre le <strong>nihilisme</strong>, que le <strong>surhomme</strong> doit surmonter en créant ses propres valeurs par la <strong>volonté de puissance</strong> et en acceptant l'éternel retour.</p>\n<p>Il est l'un des trois maîtres du soupçon, avec Marx et Freud. Il a souvent écrit sous forme d'aphorismes et dans un style littéraire. Après sa mort, sa sœur a publié comme s'il s'agissait de son grand livre un recueil de ses notes (<em>La Volonté de puissance</em>), mais elle n'a guère altéré ses écrits ; les lectures déformées de sa philosophie sont avant tout l'œuvre de la réception ultérieure. Son perspectivisme et sa critique de la vérité ont influencé l'existentialisme et les penseurs postmodernes, comme Foucault.</p>",
   "obras": [
    "La Naissance de la tragédie (1872)",
    "Le Gai Savoir (1882)",
@@ -2483,10 +2537,10 @@ const ILUSTRES = {
   "died": 1919,
   "place": "Zamość (Pologne)",
   "role": "penseuse et révolutionnaire marxiste",
-  "idea": "Le socialisme et la démocratie sont inséparables : elle critiqua aussi bien le réformisme qui renonce à transformer la société que le pouvoir d'un parti unique, et plaça sa confiance dans l'initiative spontanée des travailleurs.",
-  "bio": "<p>Rosa Luxemburg naquit en 1871 à Zamość, une ville de la partie de la Pologne qui appartenait alors à l'Empire russe, dans une famille juive. Elle partit étudier en Suisse et obtint un doctorat en sciences de l'État (droit et économie) à l'université de Zurich en 1897, avec une thèse sur le développement industriel de la Pologne. Elle s'installa ensuite en Allemagne, où elle rejoignit le Parti social-démocrate (SPD) et devint l'une de ses théoriciennes les plus en vue. Elle s'opposa fermement à la Première Guerre mondiale et en passa une bonne partie en prison pour son agitation contre la guerre. Avec Karl Liebknecht, elle fonda la Ligue spartakiste et, dans les derniers jours de 1918, le Parti communiste d'Allemagne. En janvier 1919, pendant le soulèvement spartakiste de Berlin, elle fut arrêtée et assassinée par des soldats des Freikorps.</p>\n<p>Luxemburg fut une penseuse <strong>marxiste</strong>, mais elle ne conçut jamais le marxisme comme un système clos. Dans <em>Réforme sociale ou révolution ?</em> (1899), elle polémiqua avec Eduard Bernstein, qui proposait d'améliorer le capitalisme peu à peu au lieu de le transformer ; elle défendit que les réformes ne suffisent pas, sans renoncer pour autant à l'action quotidienne. Elle avait davantage confiance dans la <strong>grève de masse</strong>, l'action collective et spontanée des travailleurs, que dans le contrôle d'un parti dirigé d'en haut. C'est pourquoi, bien qu'elle ait salué la Révolution russe de 1917, elle critiqua très tôt le fait que Lénine et Trotski suppriment l'assemblée élue et les autres partis : pour elle, <strong>socialisme et démocratie</strong> ne pouvaient être séparés. Elle figure au programme d'Histoire de la philosophie, dans la critique du capitalisme postérieure à Marx, aux côtés de Lénine et de Clara Zetkin, comme preuve qu'il y eut au sein du marxisme un débat ouvert sur le rapport entre révolution, liberté et démocratie.</p>",
+  "idea": "Le socialisme et la démocratie sont inséparables : elle critiqua aussi bien le réformisme qui renonce à transformer la société que le pouvoir d'un parti unique, et plaça sa confiance dans l'initiative spontanée des travailleurs.",
+  "bio": "<p>Rosa Luxemburg naquit en 1871 à Zamość, une ville de la partie de la Pologne qui appartenait alors à l'Empire russe, dans une famille juive. Elle partit étudier en Suisse et obtint un doctorat en sciences de l'État (droit et économie) à l'université de Zurich en 1897, avec une thèse sur le développement industriel de la Pologne. Elle s'installa ensuite en Allemagne, où elle rejoignit le Parti social-démocrate (SPD) et devint l'une de ses théoriciennes les plus en vue. Elle s'opposa fermement à la Première Guerre mondiale et en passa une bonne partie en prison pour son agitation contre la guerre. Avec Karl Liebknecht, elle fonda la Ligue spartakiste et, dans les derniers jours de 1918, le Parti communiste d'Allemagne. En janvier 1919, pendant le soulèvement spartakiste de Berlin, elle fut arrêtée et assassinée par des soldats des Freikorps.</p>\n<p>Luxemburg fut une penseuse <strong>marxiste</strong>, mais elle ne conçut jamais le marxisme comme un système clos. Dans <em>Réforme sociale ou révolution ?</em> (1899), elle polémiqua avec Eduard Bernstein, qui proposait d'améliorer le capitalisme peu à peu au lieu de le transformer ; elle défendit que les réformes ne suffisent pas, sans renoncer pour autant à l'action quotidienne. Elle avait davantage confiance dans la <strong>grève de masse</strong>, l'action collective et spontanée des travailleurs, que dans le contrôle d'un parti dirigé d'en haut. C'est pourquoi, bien qu'elle ait salué la Révolution russe de 1917, elle critiqua très tôt le fait que Lénine et Trotski suppriment l'assemblée élue et les autres partis : pour elle, <strong>socialisme et démocratie</strong> ne pouvaient être séparés. Elle figure au programme d'Histoire de la philosophie, dans la critique du capitalisme postérieure à Marx, aux côtés de Lénine et de Clara Zetkin, comme preuve qu'il y eut au sein du marxisme un débat ouvert sur le rapport entre révolution, liberté et démocratie.</p>",
   "obras": [
-   "Réforme sociale ou révolution ? (1899)",
+   "Réforme sociale ou révolution ? (1899)",
    "Grève de masse, parti et syndicats (1906)",
    "L'Accumulation du capital (1913)",
    "La Révolution russe (écrite en 1918)"
@@ -2536,15 +2590,15 @@ const ILUSTRES = {
   "died": 1952,
   "place": "Saint-Pétersbourg (Empire russe)",
   "role": "révolutionnaire et diplomate soviétique",
-  "idea": "Elle unit le socialisme et l'émancipation de la femme : l'égalité légale ne suffit pas si ne changent pas le travail domestique, la famille et les relations amoureuses.",
-  "bio": "<p>Alexandra Mikhaïlovna Kollontaï naquit en 1872 à Saint-Pétersbourg, dans une famille aristocratique russe, mais elle rompit tôt avec ce milieu pour se consacrer au militantisme socialiste. Elle étudia l'économie à Zurich et, après des années d'exil à travers l'Europe, rejoignit les bolcheviks. Après la révolution de 1917, elle fut nommée commissaire du peuple à l'Assistance sociale, dans l'un des premiers gouvernements au monde à compter une femme. Dans les décennies suivantes, elle fut en outre l'une des premières femmes à représenter son pays comme cheffe d'une mission diplomatique, en Norvège, au Mexique et en Suède. Elle mourut à Moscou en 1952.</p>\n<p>Kollontaï unit le <strong>socialisme</strong> et l'<strong>émancipation de la femme</strong> : elle soutenait que le droit de vote et l'égalité devant la loi ne suffisent pas si ne changent pas le travail domestique, la famille et les relations amoureuses. Elle défendit la socialisation des tâches ménagères et de la garde des enfants, et réfléchit à une <strong>nouvelle morale</strong> de l'amour, libéré de la dépendance économique. Au sein même du parti, elle dirigea l'<strong>Opposition ouvrière</strong>, qui critiquait la bureaucratisation du pouvoir soviétique. Elle figure au programme parmi ceux qui prolongèrent et discutèrent le marxisme, et son œuvre reste une référence pour les féminismes socialistes, dans un débat encore ouvert sur le rapport entre l'égalité économique et la liberté personnelle.</p>",
+  "idea": "Elle unit le socialisme et l'émancipation de la femme : l'égalité légale ne suffit pas si ne changent pas le travail domestique, la famille et les relations amoureuses.",
+  "bio": "<p>Alexandra Mikhaïlovna Kollontaï naquit en 1872 à Saint-Pétersbourg, dans une famille aristocratique russe, mais elle rompit tôt avec ce milieu pour se consacrer au militantisme socialiste. Elle étudia l'économie à Zurich et, après des années d'exil à travers l'Europe, rejoignit les bolcheviks. Après la révolution de 1917, elle fut nommée commissaire du peuple à l'Assistance sociale, dans l'un des premiers gouvernements au monde à compter une femme. Dans les décennies suivantes, elle fut en outre l'une des premières femmes à représenter son pays comme cheffe d'une mission diplomatique, en Norvège, au Mexique et en Suède. Elle mourut à Moscou en 1952.</p>\n<p>Kollontaï unit le <strong>socialisme</strong> et l'<strong>émancipation de la femme</strong> : elle soutenait que le droit de vote et l'égalité devant la loi ne suffisent pas si ne changent pas le travail domestique, la famille et les relations amoureuses. Elle défendit la socialisation des tâches ménagères et de la garde des enfants, et réfléchit à une <strong>nouvelle morale</strong> de l'amour, libéré de la dépendance économique. Au sein même du parti, elle dirigea l'<strong>Opposition ouvrière</strong>, qui critiquait la bureaucratisation du pouvoir soviétique. Elle figure au programme parmi ceux qui prolongèrent et discutèrent le marxisme, et son œuvre reste une référence pour les féminismes socialistes, dans un débat encore ouvert sur le rapport entre l'égalité économique et la liberté personnelle.</p>",
   "obras": [
    "Les Fondements sociaux de la question féminine (1909)",
    "La Nouvelle Morale et la classe ouvrière (1918)",
    "L'Opposition ouvrière (1921)",
-   "Place à l'Éros ailé ! (1923)"
+   "Place à l'Éros ailé ! (1923)"
   ],
-  "anecdota": "<p>En 1923, le gouvernement soviétique l'envoya en Norvège à la tête de sa mission diplomatique, et peu après elle fut officiellement accréditée : elle fut l'une des premières femmes au monde à représenter son pays comme cheffe d'une légation. Elle resta dans le service diplomatique pendant près de vingt ans, surtout en Suède. Là, la santé déjà très affaiblie après un accident vasculaire cérébral qui l'obligea à utiliser un fauteuil roulant, elle participa en 1944 aux contacts qui aidèrent à mettre fin à la guerre entre la Finlande et l'Union soviétique.</p>",
+  "anecdota": "<p>En 1923, le gouvernement soviétique l'envoya en Norvège à la tête de sa mission diplomatique, et peu après elle fut officiellement accréditée : elle fut l'une des premières femmes au monde à représenter son pays comme cheffe d'une légation. Elle resta dans le service diplomatique pendant près de vingt ans, surtout en Suède. Là, la santé déjà très affaiblie après un accident vasculaire cérébral qui l'obligea à utiliser un fauteuil roulant, elle participa en 1944 aux contacts qui aidèrent à mettre fin à la guerre entre la Finlande et l'Union soviétique.</p>",
   "fuente": "Cathy Porter, Alexandra Kollontai. A Biography (Virago, 1980)",
   "tradicion": false,
   "block": "con",
@@ -2602,6 +2656,27 @@ const ILUSTRES = {
    "fil-metafisica"
   ]
  },
+ "maeztu": {
+  "name": "María de Maeztu",
+  "dates": "1881 – 1948",
+  "born": 1881,
+  "died": 1948,
+  "place": "Vitoria-Gasteiz",
+  "role": "pédagogue",
+  "idea": "Elle mit en pratique l'égalité des femmes devant l'éducation : depuis la Residencia de Señoritas, elle ouvrit aux jeunes filles l'accès à l'université et à la vie intellectuelle de l'Espagne de son temps.",
+  "bio": "<p>María de Maeztu y Whitney naquit à Vitoria en 1881. Elle se forma comme institutrice puis étudia la philosophie, comme disciple d'<strong>Unamuno</strong> et d'<strong>Ortega y Gasset</strong>, et poursuivit ses études en Allemagne et aux États-Unis. Elle maîtrisait plusieurs langues et compta bientôt parmi les figures les plus respectées de l'éducation espagnole.</p>\n<p>Dans l'entourage de l'<strong>Institución Libre de Enseñanza</strong>, elle dirigea, de 1915 à 1936, la <strong>Residencia de Señoritas</strong>, son projet le plus important : un lieu où toute jeune fille pouvait étudier, se loger et se préparer à l'université, à une époque où les Espagnoles avaient encore besoin d'autorisations spéciales pour y accéder. Y passèrent des intellectuelles comme Gabriela Mistral ou Maria Montessori. Elle impulsa aussi l'Instituto-Escuela et présida le Liceo Club Femenino.</p>\n<p>Sa pédagogie prônait des élèves actifs, loin de l'apprentissage par cœur, avec l'éducation comme moteur de réforme sociale. Au déclenchement de la guerre civile, et après l'exécution de son frère Ramiro, elle s'exila en Argentine, où elle continua d'enseigner jusqu'à sa mort, à Mar del Plata, en 1948. Elle apparaît liée à la pensée espagnole du premier tiers du XXe siècle, aux côtés d'Ortega et de María Zambrano.</p>",
+  "obras": [],
+  "anecdota": "<p>La Residencia de Señoritas fut bien plus qu'un logement : elle devint le point de rencontre des femmes intellectuelles de Madrid. Son caractère laïque lui valut les attaques des secteurs les plus conservateurs, qui allèrent jusqu'à qualifier ses membres de « femmes sans vertu ni piété ». Sous le franquisme, le bâtiment même du Liceo finit occupé par la Sección Femenina, aux idéaux opposés aux siens.</p>",
+  "fuente": "Adapté de Lola Cabrera Trigo, *El pensamiento en femenino plural* (Erein, collection « En diálogo con… » ; CC BY-NC-SA 4.0) ; dates d'après le Diccionario biográfico Auñamendi (Eusko Ikaskuntza) et EcuRed (morte le 7-1-1948 à Mar del Plata ; le livre indique à tort 1952)",
+  "tradicion": true,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "ortega": {
   "name": "José Ortega y Gasset",
   "dates": "1883 – 1955",
@@ -2625,6 +2700,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2",
+   "fil-t3",
    "fil-t6"
   ]
  },
@@ -2712,15 +2788,15 @@ const ILUSTRES = {
   "died": 1937,
   "place": "Ales (Italie)",
   "role": "penseur marxiste et homme politique italien",
-  "idea": "Une classe ne domine pas seulement par la force, mais par l'hégémonie : le consentement qu'elle obtient à travers la culture (l'école, la presse, la religion). C'est pourquoi la politique se joue aussi sur le terrain des idées et du sens commun.",
-  "bio": "<p>Antonio Gramsci naquit en 1891 à Ales, un village de Sardaigne (Italie), dans une famille modeste et nombreuse. De santé fragile depuis l'enfance, il obtint une bourse et étudia la linguistique à l'université de Turin, même s'il abandonna ses études pour se consacrer au journalisme et à la politique. À Turin, une ville de grandes usines, il se rapprocha du mouvement ouvrier, écrivit dans la presse socialiste et fonda en 1919 la revue <em>L'Ordre nouveau</em> (<em>L'Ordine Nuovo</em>). En 1921, il fut l'un des fondateurs du Parti communiste d'Italie et, en 1924, il fut élu député. Le régime fasciste de Mussolini l'arrêta en 1926, malgré son immunité parlementaire, et le condamna à plus de vingt ans de prison. Malade et jamais rétabli, il mourut à Rome en 1937, quelques jours après avoir été formellement remis en liberté.</p>\n<p>En prison, il écrivit ses <em>Cahiers de prison</em>, des milliers de pages de notes qu'il ne put publier de son vivant. Son idée la plus connue est celle d'<strong>hégémonie</strong> : une classe sociale ne se maintient pas au pouvoir seulement par la coercition, mais aussi par le consentement qu'elle obtient lorsqu'elle parvient à faire passer sa vision du monde pour le <strong>sens commun</strong> de toute la société, à travers l'école, la presse, la religion ou la culture. Pour expliquer ce travail culturel, il parla des <strong>intellectuels organiques</strong>, des personnes que chaque groupe social produit pour donner forme à ses idées. Gramsci est une figure centrale de ce qu'on appelle le marxisme occidental, qui déplaça l'attention de l'économie vers la culture et la conscience. Il figure au programme dans ce bloc, et son concept d'hégémonie est utilisé aujourd'hui dans des débats de bords politiques très divers, ce qui le maintient vivant et discuté.</p>",
+  "idea": "Une classe ne domine pas seulement par la force, mais par l'hégémonie : le consentement qu'elle obtient à travers la culture (l'école, la presse, la religion). C'est pourquoi la politique se joue aussi sur le terrain des idées et du sens commun.",
+  "bio": "<p>Antonio Gramsci naquit en 1891 à Ales, un village de Sardaigne (Italie), dans une famille modeste et nombreuse. De santé fragile depuis l'enfance, il obtint une bourse et étudia la linguistique à l'université de Turin, même s'il abandonna ses études pour se consacrer au journalisme et à la politique. À Turin, une ville de grandes usines, il se rapprocha du mouvement ouvrier, écrivit dans la presse socialiste et fonda en 1919 la revue <em>L'Ordre nouveau</em> (<em>L'Ordine Nuovo</em>). En 1921, il fut l'un des fondateurs du Parti communiste d'Italie et, en 1924, il fut élu député. Le régime fasciste de Mussolini l'arrêta en 1926, malgré son immunité parlementaire, et le condamna à plus de vingt ans de prison. Malade et jamais rétabli, il mourut à Rome en 1937, quelques jours après avoir été formellement remis en liberté.</p>\n<p>En prison, il écrivit ses <em>Cahiers de prison</em>, des milliers de pages de notes qu'il ne put publier de son vivant. Son idée la plus connue est celle d'<strong>hégémonie</strong> : une classe sociale ne se maintient pas au pouvoir seulement par la coercition, mais aussi par le consentement qu'elle obtient lorsqu'elle parvient à faire passer sa vision du monde pour le <strong>sens commun</strong> de toute la société, à travers l'école, la presse, la religion ou la culture. Pour expliquer ce travail culturel, il parla des <strong>intellectuels organiques</strong>, des personnes que chaque groupe social produit pour donner forme à ses idées. Gramsci est une figure centrale de ce qu'on appelle le marxisme occidental, qui déplaça l'attention de l'économie vers la culture et la conscience. Il figure au programme dans ce bloc, et son concept d'hégémonie est utilisé aujourd'hui dans des débats de bords politiques très divers, ce qui le maintient vivant et discuté.</p>",
   "obras": [
    "La Question méridionale (1926)",
    "Lettres de prison (écrites 1926-1937)",
    "Cahiers de prison (écrits 1929-1935)"
   ],
-  "anecdota": "<p>Lors du procès tenu à Rome en 1928, le procureur réclama une condamnation très dure avec une phrase devenue célèbre : il fallait empêcher ce cerveau de fonctionner pendant vingt ans. Le tribunal condamna Gramsci à vingt ans, quatre mois et cinq jours de prison. Le régime voulait réduire ses idées au silence, mais ce fut précisément en prison qu'il écrivit les <em>Cahiers</em> qui le feraient connaître dans le monde entier.</p>",
-  "fuente": "Giuseppe Fiori, Vie d'Antonio Gramsci (1966) ; actes du procès de 1928",
+  "anecdota": "<p>Lors du procès tenu à Rome en 1928, le procureur réclama une condamnation très dure avec une phrase devenue célèbre : il fallait empêcher ce cerveau de fonctionner pendant vingt ans. Le tribunal condamna Gramsci à vingt ans, quatre mois et cinq jours de prison. Le régime voulait réduire ses idées au silence, mais ce fut précisément en prison qu'il écrivit les <em>Cahiers</em> qui le feraient connaître dans le monde entier.</p>",
+  "fuente": "Giuseppe Fiori, Vie d'Antonio Gramsci (1966) ; actes du procès de 1928",
   "tradicion": false,
   "block": "con",
   "subjects": [
@@ -2850,6 +2926,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-grandes-preguntas"
+  ]
+ },
+ "gaos": {
+  "name": "José Gaos",
+  "dates": "1900 – 1969",
+  "born": 1900,
+  "died": 1969,
+  "place": "Gijón (Asturies)",
+  "role": "philosophe et traducteur de l'exil espagnol au Mexique",
+  "idea": "Les exilés espagnols en Amérique n'étaient pas de simples « bannis » (desterrados), mais des « transterrés » (transterrados) : ils avaient changé de terre, tout en restant sur une terre qui leur était propre par la langue et la culture partagées.",
+  "bio": "<p>José Gaos naquit à Gijón en 1900 et fut disciple d'<strong>Ortega y Gasset</strong> à Madrid. Professeur titulaire de philosophie, il devint recteur de l'université de Madrid dans les années de la Seconde République et de la guerre civile. À la fin de la guerre, il partit en exil et s'installa en 1938 au Mexique, où il enseigna à l'Université nationale (UNAM) et au Colegio de México jusqu'à sa mort, en 1969.</p>\n<p>Au Mexique, il forgea le mot qui lui reste attaché : pour les intellectuels espagnols qui, comme lui, refaisaient leur vie de l'autre côté de l'Atlantique, il préféra <strong>« transterrés »</strong> (transterrados) à « bannis » (desterrados), car ils n'avaient pas perdu leur terre, mais l'avaient transportée dans un pays qui parlait leur langue. Il fut en outre un traducteur décisif : sa version d'<em>Être et Temps</em>, de Heidegger (1951), fut pendant un demi-siècle la porte d'entrée de ce livre dans le monde hispanophone. Il forma toute une génération de philosophes mexicains et laissa une œuvre sur l'histoire des idées et sur ce qu'est la philosophie elle-même.</p>",
+  "obras": [
+   "De la philosophie",
+   "Confessions professionnelles (1958)",
+   "Histoire de notre idée du monde",
+   "traduction de « L'Être et le Temps » de Heidegger (1951)"
+  ],
+  "anecdota": "<p>Lorsque Gaos traduisit <em>Être et Temps</em>, de Heidegger, il dut inventer en castillan des mots pour des idées que l'allemand exprimait par des termes très difficiles. Sa version du <em>Dasein</em> heideggérien —l'être humain entendu comme « être-là »— fut discutée pendant des décennies. La traduction, publiée au Mexique en 1951, fut la seule disponible en espagnol durant un demi-siècle et marqua la façon dont plusieurs générations lurent Heidegger dans notre langue.</p>",
+  "fuente": "M. Heidegger, El ser y el tiempo, trad. de José Gaos, Fondo de Cultura Económica, Mexico, 1951 (préface du traducteur)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "popper": {
@@ -3020,6 +3122,7 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t6",
+   "fil-t1-filosofia-mujer",
    "fil-grandes-preguntas"
   ]
  },
@@ -3275,6 +3378,7 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
+   "fil-t5",
    "fil-t6",
    "fil-marxismos"
   ]
@@ -3328,6 +3432,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t7"
+  ]
+ },
+ "nussbaum": {
+  "name": "Martha Nussbaum",
+  "dates": "née en 1947",
+  "born": 1947,
+  "died": null,
+  "place": "New York (États-Unis)",
+  "role": "philosophe américaine",
+  "idea": "La justice ne se mesure pas à la richesse d'un pays, mais aux capacités réelles dont chaque personne dispose pour mener une vie digne.",
+  "bio": "<p>Martha Nussbaum naquit à New York en 1947. Elle obtint son doctorat à l'Université Harvard avec une thèse sur Aristote et a enseigné à Harvard, à Brown et, depuis les années quatre-vingt-dix, à l'Université de Chicago, où elle unit philosophie et droit. Spécialiste de la philosophie grecque, elle a écrit sur l'éthique, les émotions, l'éducation et la justice. En 2012, elle reçut le prix Princesse des Asturies de sciences sociales.</p>\n<p>Avec l'économiste Amartya Sen, elle développa l'<strong>approche par les capacités</strong>. Face à l'habitude de mesurer le progrès par le PIB, elle soutient qu'il faut se demander ce que chaque personne peut réellement faire et être. Elle propose une liste de <strong>capacités centrales</strong> : vie, santé, intégrité physique, sens et imagination, émotions, raison pratique, affiliation, relation avec les autres espèces, jeu et contrôle sur son propre environnement. Une société est juste si elle garantit à tous un minimum de ces capacités. Elle prête une attention particulière aux femmes des pays pauvres, aux personnes handicapées et aux animaux. Elle défend aussi la valeur des <strong>humanités</strong> pour former des citoyens critiques.</p>\n<p>Sa pensée combine l'éthique d'Aristote, centrée sur la vie bonne, avec la tradition libérale. Elle dialogue de manière critique avec la théorie de la justice de John Rawls, à laquelle elle reproche de laisser de côté ceux qui ne peuvent pas participer au contrat social. C'est une référence dans les débats sur le développement humain.</p>",
+  "obras": [
+   "La Fragilité du bien (1986)",
+   "Les femmes et le développement humain (2000)",
+   "Sans but lucratif (2010)",
+   "Capabilités : comment créer les conditions d'un monde plus juste (2011)"
+  ],
+  "anecdota": "<p>Avant de se consacrer à la philosophie, la jeune Martha voulut être actrice. Elle abandonna ses études universitaires pour travailler un temps dans une compagnie de théâtre de répertoire qui parcourait le pays en jouant des pièces classiques. Puis elle retourna à l'université et se concentra sur la langue et la littérature grecques, à l'Université de New York. Cette passion pour la tragédie ne disparut pas : dans <em>La Fragilité du bien</em>, elle étudie Sophocle et Euripide pour montrer que la littérature enseigne aussi à penser la vie morale.</p>",
+  "fuente": "Portrait de R. Aviv dans The New Yorker (2016) et entretiens",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-utilidad"
   ]
  },
  "butler": {
