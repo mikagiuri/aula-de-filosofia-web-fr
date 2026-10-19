@@ -65,7 +65,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Savoir commun",
-  "et": "*Savoir*, du latin *sapere*, « avoir de la saveur » et aussi « avoir du jugement ».",
+  "et": "*Savoir*, du latin *sapere*, « avoir de la saveur » et aussi « avoir du jugement ». Son antécédent grec, ce sont τὰ ἔνδοξα (*tà éndoxa*), « les opinions admises » par tous, par la majorité ou par les sages, dont part Aristote.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 1",
   "def": "Connaissance spontanée de la vie quotidienne (bon sens) : utile, mais non réflexive et pleine de préjugés."
@@ -73,7 +73,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Savoir scientifique",
-  "et": "*Science*, du latin *scientia*, de *scire*, « savoir ».",
+  "et": "*Science*, du latin *scientia*, de *scire*, « savoir ». Il traduit le grec ἐπιστήμη (*epistéme*), le savoir ferme que Platon oppose à l'opinion (δόξα).",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 1",
   "def": "Il recherche les causes prochaines des faits par l'observation et l'expérimentation ; il est partiel (chaque science étudie une parcelle de la réalité)."
@@ -207,7 +207,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Culture",
-  "et": "Du latin *cultura*, de *colere*, « cultiver » : Cicéron appelait la philosophie *cultura animi*, « culture de l'âme ».",
+  "et": "Du latin *cultura*, de *colere*, « cultiver » : Cicéron appelait la philosophie *cultura animi*, « culture de l'âme ». La *cultura animi* de Cicéron correspond au grec παιδεία (*paideía*), « éducation, formation ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
   "def": "Ensemble de connaissances, de croyances, d'art, de morale, de droit, de coutumes et d'habitudes qu'on acquiert en tant que membre d'une société (Tylor).",
@@ -250,7 +250,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Relativisme culturel",
-  "et": "*Relatif*, du latin *relativus*, de *referre*, « mettre en relation ».",
+  "et": "*Relatif*, du latin *relativus*, de *referre*, « mettre en relation ». Son antécédent grec est la phrase de Protagoras πάντων χρημάτων μέτρον ἐστὶν ἄνθρωπος (*pánton khremáton métron estìn ánthropos*), « l'être humain est la mesure de toutes choses » ; Hérodote (III 38) racontait déjà que chaque peuple tient ses coutumes pour les meilleures.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
   "def": "Soutenir que chaque culture ne peut être évaluée que selon ses propres critères et qu'aucune n'est meilleure qu'une autre."
@@ -320,7 +320,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Personne",
-  "et": "Du latin *persona*, le masque que portait l'acteur au théâtre, et de là, le rôle que chacun joue.",
+  "et": "Du latin *persona*, le masque que portait l'acteur au théâtre, et de là, le rôle que chacun joue. *Persona* correspond au grec πρόσωπον (*prósopon*), « visage, masque » ; les Pères grecs employèrent aussi ὑπόστασις (*hypóstasis*) pour parler des personnes de la Trinité.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
   "def": "Sujet libre, rationnel et responsable, porteur d'une dignité qui n'a pas de prix."
@@ -339,7 +339,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Conscience",
-  "et": "Du latin *conscientia* : *cum* « avec » + *scire* « savoir » : « savoir avec », se rendre compte de ce que l'on sait.",
+  "et": "Du latin *conscientia* : *cum* « avec » + *scire* « savoir » : « savoir avec », se rendre compte de ce que l'on sait. Son antécédent grec est la συναίσθησις (*synaísthesis*), « se percevoir soi-même », des stoïciens (Hiéroclès).",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
   "def": "Non seulement percevoir le monde, mais savoir que nous le percevons."
@@ -414,7 +414,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Croyance",
-  "et": "Du latin *credere*, « faire confiance, accorder crédit ».",
+  "et": "Du latin *credere*, « faire confiance, accorder crédit ». En grec, δόξα (*dóxa*), « opinion », et πίστις (*pístis*), « confiance, foi » : c'est ainsi que Platon les appelle par opposition à la science (ἐπιστήμη).",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "Ce qu'on accepte comme vrai sans garantie qu'il corresponde à la réalité (opinion, doxa)."
@@ -422,7 +422,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Justification",
-  "et": "Du latin *iustificare* : *iustus* « juste » + *facere* « faire ».",
+  "et": "Du latin *iustificare* : *iustus* « juste » + *facere* « faire ». Son antécédent grec est la définition discutée dans le *Théétète* (201c-d) : savoir serait δόξα ἀληθὴς μετὰ λόγου (*dóxa alethès metà lógou*), « opinion vraie accompagnée de raisons ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "Les raisons qui appuient une croyance et en font une connaissance."
@@ -507,7 +507,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Relativisme",
-  "et": "Du latin *relativus*, de *referre*, « mettre en relation ».",
+  "et": "Du latin *relativus*, de *referre*, « mettre en relation ». Son antécédent grec est la phrase de Protagoras πάντων χρημάτων μέτρον ἐστὶν ἄνθρωπος (*pánton khremáton métron estìn ánthropos*), « l'être humain est la mesure de toutes choses ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "Position qui affirme que la vérité dépend du sujet, de la culture ou de l'époque."
@@ -515,7 +515,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Perception",
-  "et": "Du latin *perceptio*, de *percipere* (*per-* + *capere* « prendre ») : « saisir ».",
+  "et": "Du latin *perceptio*, de *percipere* (*per-* + *capere* « prendre ») : « saisir ». Son antécédent grec est l'αἴσθησις (*aísthesis*), « sensation, perception » : d'où *esthétique*.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "La connaissance immédiate que nous donnent les sens."
@@ -523,7 +523,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Raison",
-  "et": "Du latin *ratio*, « calcul, compte », de *reri*, « calculer, penser ».",
+  "et": "Du latin *ratio*, « calcul, compte », de *reri*, « calculer, penser ». Il traduit le grec λόγος (*lógos*) ; pour la faculté qui saisit les principes, les Grecs disaient aussi νοῦς (*noûs*), « intellect ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "La faculté qui élabore des concepts et des arguments à partir des données sensibles."
@@ -531,7 +531,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Concept",
-  "et": "Du latin *conceptus*, de *concipere*, « concevoir, recueillir en soi ».",
+  "et": "Du latin *conceptus*, de *concipere*, « concevoir, recueillir en soi ». Aristote appelle ὅρος (*hóros*), « terme », chacun des concepts qu'unit un syllogisme ; les stoïciens parlent d'ἔννοια (*énnoia*), « notion ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "La représentation générale et abstraite d'une classe d'objets."
@@ -539,7 +539,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Déduction",
-  "et": "Du latin *deducere*, « conduire depuis, tirer de ».",
+  "et": "Du latin *deducere*, « conduire depuis, tirer de ». Son antécédent grec est l'ἀπόδειξις (*apódeixis*), « démonstration », faite par συλλογισμός (*syllogismós*), chez Aristote.",
   "area": "Logique",
   "tema": "Philosophie · Thème 3",
   "def": "Raisonnement qui va du général au particulier ; si les prémisses sont vraies, la conclusion est nécessaire."
@@ -555,7 +555,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Évidence",
-  "et": "Du latin *evidentia*, de *videre*, « voir » : ce qu'on voit clairement.",
+  "et": "Du latin *evidentia*, de *videre*, « voir » : ce qu'on voit clairement. Il traduit le grec ἐνάργεια (*enárgeia*), « clarté », terme des épicuriens et des stoïciens.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "L'état dans lequel une vérité se présente avec clarté et distinction, sans doute possible (Descartes).",
@@ -582,7 +582,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Morale",
-  "et": "Du latin *mos, moris*, « coutume ».",
+  "et": "Du latin *mos, moris*, « coutume ». Cicéron a formé *moralis* pour traduire le grec ἠθικός (*ethikós*), de ἦθος (*êthos*), « caractère, coutume ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "L'ensemble des normes, valeurs et coutumes qu'une personne ou une société considère comme correctes."
@@ -606,7 +606,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Conscience morale",
-  "et": "Du latin *conscientia* : *cum* « avec » + *scire* « savoir » : « savoir avec », se rendre compte de ce que l'on sait.",
+  "et": "Du latin *conscientia* : *cum* « avec » + *scire* « savoir » : « savoir avec », se rendre compte de ce que l'on sait. En grec, συνείδησις (*syneídesis*), « savoir avec soi-même », que le latin *conscientia* calque mot à mot.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "La capacité de juger si nos actes sont bons ou mauvais."
@@ -621,7 +621,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Délibération",
-  "et": "Du latin *deliberare*, que l'on rattache habituellement à *libra*, « balance » : peser les raisons.",
+  "et": "Du latin *deliberare*, que l'on rattache habituellement à *libra*, « balance » : peser les raisons. Elle correspond au grec βούλευσις (*boúleusis*) : selon Aristote, nous délibérons sur ce qui dépend de nous.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "Peser les raisons et les conséquences avant de décider comment agir."
@@ -636,7 +636,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Valeur",
-  "et": "Du latin *valere*, « être en bonne santé, avoir de la force, valoir ».",
+  "et": "Du latin *valere*, « être en bonne santé, avoir de la force, valoir ». Son antécédent grec est l'ἀξία (*axía*), « valeur », des stoïciens : d'où *axiologie*.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "Qualité que nous apprécions et qui oriente notre conduite (justice, liberté, solidarité…)."
@@ -644,7 +644,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Norme",
-  "et": "Du latin *norma*, « équerre », l'outil du charpentier pour tracer des angles droits.",
+  "et": "Du latin *norma*, « équerre », l'outil du charpentier pour tracer des angles droits. En grec, νόμος (*nómos*), « loi, coutume », et κανών (*kanón*), « règle », un autre outil du charpentier.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "Règle qui prescrit comment nous devons agir."
@@ -652,7 +652,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Liberté",
-  "et": "Du latin *libertas*, de *liber*, « libre ».",
+  "et": "Du latin *libertas*, de *liber*, « libre ». Elle traduit le grec ἐλευθερία (*eleuthería*) ; pour la liberté de choisir, les Grecs parlaient de τὸ ἐφ᾽ ἡμῖν (*tò eph’ hemîn*), « ce qui dépend de nous ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "La capacité de choisir et d'agir par soi-même ; condition de la responsabilité morale."
@@ -660,7 +660,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Responsabilité",
-  "et": "Du latin *respondere*, « répondre » : avoir à rendre compte de ce qu'on fait.",
+  "et": "Du latin *respondere*, « répondre » : avoir à rendre compte de ce qu'on fait. Son antécédent grec est τὸ ἐφ᾽ ἡμῖν (*tò eph’ hemîn*), « ce qui dépend de nous » : Aristote ne loue ou ne blâme que ce qui est fait volontairement.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "Répondre des conséquences de ses propres actes."
@@ -698,7 +698,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Éthique du devoir",
-  "et": "*Devoir*, du latin *debere* (*de-* + *habere*, « avoir ») : avoir quelque chose reçu d'un autre et être obligé de le rendre.",
+  "et": "*Devoir*, du latin *debere* (*de-* + *habere*, « avoir ») : avoir quelque chose reçu d'un autre et être obligé de le rendre. Son antécédent grec est τὸ καθῆκον (*tò kathêkon*), « ce qui convient », des stoïciens, que Cicéron a traduit *officium*.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "Éthique (déontologie) qui juge l'action par sa conformité au devoir, et non par ses conséquences (Kant).",
@@ -736,7 +736,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Justice",
-  "et": "Du latin *iustitia*, de *ius*, « droit ».",
+  "et": "Du latin *iustitia*, de *ius*, « droit ». Il traduit le grec δικαιοσύνη (*dikaiosýne*).",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "Donner à chacun ce qui lui revient ; traitement équitable entre les personnes."
@@ -786,7 +786,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Sublime",
-  "et": "Du latin *sublimis*, « élevé, qui se trouve en hauteur ».",
+  "et": "Du latin *sublimis*, « élevé, qui se trouve en hauteur ». Il traduit le grec ὕψος (*hýpsos*), « hauteur », du traité *Du sublime* attribué à Longin.",
   "area": "Esthétique",
   "tema": "Philosophie · Thème 7",
   "def": "L'expérience de ce qui dépasse notre mesure (l'immense, le puissant), qui éveille l'admiration et le respect."
@@ -794,7 +794,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Argument",
-  "et": "Du latin *argumentum*, de *arguere*, « éclaircir, démontrer ».",
+  "et": "Du latin *argumentum*, de *arguere*, « éclaircir, démontrer ». En grec, λόγος (*lógos*) ; l'argument dialectique s'appelait ἐπιχείρημα (*epikheírema*).",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
   "def": "Un ensemble de raisons (prémisses) avancées pour appuyer une conclusion."
@@ -802,7 +802,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Prémisse",
-  "et": "Du latin *praemissa*, « mise devant » (*prae* + *mittere*, « envoyer, mettre »).",
+  "et": "Du latin *praemissa*, « mise devant » (*prae* + *mittere*, « envoyer, mettre »). Elle correspond au grec πρότασις (*prótasis*), « ce qui se propose devant », terme d'Aristote.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
   "def": "Chacune des raisons ou affirmations dont part un argument."
@@ -810,7 +810,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Conclusion",
-  "et": "Du latin *concludere*, « fermer ».",
+  "et": "Du latin *concludere*, « fermer ». Il traduit le grec συμπέρασμα (*sympérasma*), « ce qui se clôt », terme d'Aristote.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
   "def": "L'affirmation qu'on prétend soutenir avec les prémisses."
@@ -818,7 +818,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Argument déductif",
-  "et": "*Déduction*, du latin *deducere*, « conduire depuis, tirer de ».",
+  "et": "*Déduction*, du latin *deducere*, « conduire depuis, tirer de ». Son antécédent grec est le συλλογισμός (*syllogismós*) d'Aristote.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
   "def": "Celui qui, si les prémisses sont vraies, garantit la vérité de la conclusion."
@@ -826,7 +826,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Argument inductif",
-  "et": "*Induction*, du latin *inducere*, « conduire vers » : des cas à la règle.",
+  "et": "*Induction*, du latin *inducere*, « conduire vers » : des cas à la règle. *Induction* traduit le grec ἐπαγωγή (*epagogé*).",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
   "def": "Celui qui appuie la conclusion avec une certaine probabilité, sans la garantir."
@@ -834,7 +834,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Validité",
-  "et": "Du latin *validus*, « fort », de *valere*, « avoir de la force ».",
+  "et": "Du latin *validus*, « fort », de *valere*, « avoir de la force ». Les stoïciens appelaient συνακτικός (*synaktikós*), « qui conclut », l'argument valide, et ἀσύνακτος (*asýnaktos*) celui qui ne l'est pas.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
   "def": "Propriété formelle de l'argument déductif : si les prémisses sont vraies, la conclusion ne peut pas être fausse."
@@ -842,7 +842,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Sophisme",
-  "et": "Du latin *fallacia*, « tromperie », de *fallere*, « tromper ».",
+  "et": "Du latin *fallacia*, « tromperie », de *fallere*, « tromper ». En grec, σόφισμα (*sóphisma*) ou παραλογισμός (*paralogismós*), dans les *Réfutations sophistiques* d'Aristote.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
   "def": "Un raisonnement qui semble valide mais ne l'est pas ; une erreur d'argumentation qui peut tromper."
@@ -850,7 +850,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Ad hominem",
-  "et": "Du latin : « contre l'homme », c'est-à-dire contre la personne et non contre ce qu'elle dit.",
+  "et": "Du latin : « contre l'homme », c'est-à-dire contre la personne et non contre ce qu'elle dit. Aristote distingue déjà entre répondre πρὸς τὸν λόγον (*pròs tòn lógon*), « à l'argument », et πρὸς τὸν ἄνθρωπον (*pròs tòn ánthropon*), « à la personne » (*Réfutations sophistiques* 22), bien qu'il s'agisse là de s'adresser à l'interlocuteur, et non de l'attaquer.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
   "def": "Attaquer la personne qui argumente au lieu de réfuter ses raisons."
@@ -890,7 +890,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Généralisation hâtive",
-  "et": "*Généraliser*, du latin *genus, generis*, « classe, espèce ».",
+  "et": "*Généraliser*, du latin *genus, generis*, « classe, espèce ». On l'apparente habituellement au sophisme qu'Aristote appelle παρὰ τὸ ἁπλῶς ἢ μὴ ἁπλῶς (*parà tò haplôs è mè haplôs*) : prendre pour dit tout court ce qui est dit dans un cas.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
   "def": "Conclure à une règle générale à partir de très peu de cas."
@@ -898,7 +898,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Fausse cause",
-  "et": "En latin, *non causa pro causa*, « prendre pour cause ce qui n'en est pas une » ; une variante est *post hoc, ergo propter hoc*, « après cela, donc à cause de cela ».",
+  "et": "En latin, *non causa pro causa*, « prendre pour cause ce qui n'en est pas une » ; une variante est *post hoc, ergo propter hoc*, « après cela, donc à cause de cela ». En grec, Aristote l'appelle τὸ μὴ αἴτιον ὡς αἴτιον (*tò mè aítion hos aítion*), « ce qui n'est pas cause, comme cause », et dans la *Rhétorique* (II 24) il donne l'exemple de prendre ce qui vient « après cela » pour une cause.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
   "def": "Prendre la succession temporelle pour de la causalité (post hoc) : « après cela, donc à cause de cela »."
@@ -922,7 +922,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Pétition de principe",
-  "et": "Il traduit le latin *petitio principii* : « demander qu'on t'accorde le point de départ », qui est précisément ce qu'on voulait démontrer.",
+  "et": "Il traduit le latin *petitio principii* : « demander qu'on t'accorde le point de départ », qui est précisément ce qu'on voulait démontrer. *Petitio principii* traduit à son tour le grec τὸ ἐν ἀρχῇ αἰτεῖσθαι (*tò en arkhêi aiteîsthai*), d'Aristote.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
   "def": "Supposer dans les prémisses la conclusion même qu'on veut démontrer (circularité)."
@@ -938,7 +938,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Proposition",
-  "et": "Du latin *propositio*, de *proponere*, « placer devant ».",
+  "et": "Du latin *propositio*, de *proponere*, « placer devant ». Son antécédent grec est le λόγος ἀποφαντικός (*lógos apophantikós*) d'Aristote : l'énoncé dans lequel il y a vérité ou fausseté.",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Ce que dit une phrase qui affirme ou nie quelque chose, et qui peut donc être vrai ou faux. « Il pleut » et « Euria ari du » sont des phrases différentes qui expriment la même proposition. Un ordre ou une question ne sont pas des propositions."
@@ -946,7 +946,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Jugement",
-  "et": "Du latin *iudicium*, « décision, sentence », de *iudex*, « juge ».",
+  "et": "Du latin *iudicium*, « décision, sentence », de *iudex*, « juge ». Il correspond au grec κρίσις (*krísis*), « décision, discernement », de κρίνειν (*krínein*), « séparer, juger » : de la même famille sont *critique* et *critère*.",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Dans la logique traditionnelle, l'acte de l'esprit qui affirme ou nie quelque chose de quelque chose. La proposition est ce qui reste pensé dans cet acte : le jugement, c'est quelqu'un qui le fait à un moment donné ; la proposition reste la même, quel que soit celui qui la pense."
@@ -1054,7 +1054,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Apparence",
-  "et": "Du latin *apparere*, « se montrer, apparaître ».",
+  "et": "Du latin *apparere*, « se montrer, apparaître ». En grec, τὸ φαινόμενον (*tò phainómenon*), « ce qui se montre » : d'où *phénomène*.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Ce que les choses paraissent être, par opposition à ce qu'elles sont réellement. Pour Parménide, le changement et la multiplicité que nous voyons ne sont que pure apparence.",
@@ -1073,7 +1073,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Accident",
-  "et": "Du latin *accidere* (*ad-* + *cadere* « tomber ») : « ce qui tombe dessus » à quelque chose, ce qui lui arrive sans être essentiel.",
+  "et": "Du latin *accidere* (*ad-* + *cadere* « tomber ») : « ce qui tombe dessus » à quelque chose, ce qui lui arrive sans être essentiel. Il traduit le grec τὸ συμβεβηκός (*tò symbebekós*), « ce qui lui survient », terme d'Aristote.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Pour Aristote, qualité qui n'existe que dans une substance et peut changer, comme la couleur, la taille ou le lieu.",
@@ -1084,7 +1084,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Essence",
-  "et": "Du latin *essentia*, de *esse*, « être » : ce qu'une chose est.",
+  "et": "Du latin *essentia*, de *esse*, « être » : ce qu'une chose est. Il fut forgé pour traduire le grec οὐσία (*ousía*) ; Aristote dit aussi τὸ τί ἦν εἶναι (*tò tí ên eînai*), « ce que c'était qu'être » pour chaque chose.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Ce qu'une chose est, ce qui répond à la question « qu'est-ce que c'est ? » : ce qu'elle ne peut perdre sans cesser d'être ce qu'elle est."
@@ -1136,7 +1136,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Déterminisme",
-  "et": "Du latin *determinare*, « fixer les limites », de *terminus*, « borne, limite ».",
+  "et": "Du latin *determinare*, « fixer les limites », de *terminus*, « borne, limite ». Son antécédent grec est l'εἱμαρμένη (*heimarméne*) des stoïciens : la chaîne nécessaire des causes.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Thèse selon laquelle tout ce qui arrive est le résultat nécessaire de ce qui précède et des lois de la nature : étant donné l'état du monde à un moment, un seul avenir est possible."
@@ -1144,7 +1144,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Indéterminisme",
-  "et": "Du latin *in-* « non » + *determinare*, « fixer les limites », de *terminus*, « borne ».",
+  "et": "Du latin *in-* « non » + *determinare*, « fixer les limites », de *terminus*, « borne ». Son antécédent grec est la παρέγκλισις (*parénklisis*), le *clinamen* de Lucrèce : la « déviation » des atomes avec laquelle Épicure rompt la nécessité.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Thèse selon laquelle certains événements ne découlent pas nécessairement des précédents. Que quelque chose arrive par hasard ne le rend pas libre."
