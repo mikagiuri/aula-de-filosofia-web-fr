@@ -322,6 +322,12 @@ const DILEMAS = [
     "elige": "B",
     "porque": "La personne vertueuse ne décide pas avec une formule mais avec son caractère : il y a des actions qu'un homme bon n'accomplit pas, et pousser un innocent en fait partie, même si le résultat est meilleur.",
     "ilustre": "aristoteles"
+   },
+   {
+    "quien": "Spinoza",
+    "elige": "—",
+    "porque": "Avant de choisir, trois questions : que sais-je vraiment, qui a construit la situation et sous l'effet de quel affect j'agis. La raison choisit le moindre de deux maux (Éthique, IV, 65), mais sans connaître les personnes ni les circonstances, « cinq contre un » est un calcul de l'imagination. Les deux issues peuvent être choisies par peur ou par ambition, ou bien par fermeté et générosité : ce qui rend l'action libre, ce n'est pas le résultat, mais le fait de comprendre pourquoi on agit.",
+    "ilustre": "spinoza"
    }
   ],
   "debate": {
