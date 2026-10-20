@@ -1501,6 +1501,14 @@ const CITAS = [
   "uso": "Pour présenter la raison poétique de María Zambrano, ou dans une dissertation sur la relation entre philosophie et littérature."
  },
  {
+  "c": "Si l'injustice est de telle nature qu'elle exige de toi que tu sois l'agent de l'injustice envers autrui, alors je te dis : enfreins la loi.",
+  "a": "Thoreau",
+  "o": "La Désobéissance civile (1849)",
+  "e": "contemporaine",
+  "sen": "Pour Thoreau, la conscience est au-dessus de la loi : si lui obéir t'oblige à commettre une injustice envers autrui, comme l'esclavage ou une guerre injuste, tu dois lui désobéir et en accepter les conséquences.",
+  "uso": "Pour expliquer la désobéissance civile, ou dans une dissertation sur la relation entre loi et justice ou sur le devoir d'obéir."
+ },
+ {
   "c": "Les malheureux n'ont pas besoin en ce monde d'autre chose que d'hommes capables de leur prêter attention. […] La plénitude de l'amour du prochain consiste simplement à être capable de lui demander : « Quel est ton tourment ? »",
   "a": "Simone Weil",
   "o": "« Réflexions sur le bon usage des études scolaires en vue de l'amour de Dieu » (1942), dans Attente de Dieu",

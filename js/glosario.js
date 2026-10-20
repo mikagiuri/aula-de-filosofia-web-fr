@@ -3,6 +3,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Philosophie",
+  "id": "g-fil-filosofia",
   "et": "Du grec φιλοσοφία (*philosophía*) : φίλος (*phílos*) « ami » + σοφία (*sophía*) « sagesse ».",
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
@@ -11,6 +12,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Étonnement",
+  "id": "g-fil-asombro",
   "et": "Les Grecs l'appelaient θαυμάζειν (*thaumázein*), « s'émerveiller » : pour Platon et Aristote, c'est là que commence la philosophie. En espagnol, *asombrar* vient de *sombra* (« ombre ») : au départ, « faire de l'ombre, effrayer ».",
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
@@ -23,6 +25,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Mythe",
+  "id": "g-fil-mito",
   "et": "Du grec μῦθος (*mýthos*), « récit, narration ».",
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
@@ -31,6 +34,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Logos",
+  "id": "g-fil-logos",
   "et": "Du grec λόγος (*lógos*), « parole, raison, discours » et aussi « compte, calcul », de λέγειν (*légein*), « dire, rassembler ». De là *logique* et tous les mots en *-logie*.",
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
@@ -39,6 +43,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Passage du mythe au logos",
+  "id": "g-fil-paso-del-mito-al-logos",
   "et": "Du grec μῦθος (*mýthos*), « récit », et λόγος (*lógos*), « parole, raison ».",
   "area": "Histoire",
   "tema": "Philosophie · Thème 1",
@@ -47,6 +52,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Arkhé",
+  "id": "g-fil-arche",
   "et": "Du grec ἀρχή (*arkhé*), « principe, origine » et aussi « commandement ». De là *archéologie* et *monarchie*.",
   "area": "Métaphysique",
   "tema": "Philosophie · Thème 1",
@@ -58,6 +64,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Question philosophique",
+  "id": "g-fil-pregunta-filosofica",
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
   "def": "Celle qu'une donnée ne ferme pas et qui n'est pas une simple préférence : elle admet des raisons pour et contre et cherche le fondement ultime des choses."
@@ -65,6 +72,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Savoir commun",
+  "id": "g-fil-saber-comun",
   "et": "*Savoir*, du latin *sapere*, « avoir de la saveur » et aussi « avoir du jugement ». Son antécédent grec, ce sont τὰ ἔνδοξα (*tà éndoxa*), « les opinions admises » par tous, par la majorité ou par les sages, dont part Aristote.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 1",
@@ -73,6 +81,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Savoir scientifique",
+  "id": "g-fil-saber-cientifico",
   "et": "*Science*, du latin *scientia*, de *scire*, « savoir ». Il traduit le grec ἐπιστήμη (*epistéme*), le savoir ferme que Platon oppose à l'opinion (δόξα, *dóxa*).",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 1",
@@ -81,6 +90,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Savoir philosophique",
+  "id": "g-fil-saber-filosofico",
   "et": "*Philosophie*, du grec φίλος (*phílos*) « ami » + σοφία (*sophía*) « sagesse ».",
   "area": "Métaphysique",
   "tema": "Philosophie · Thème 1",
@@ -89,6 +99,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Métaphysique",
+  "id": "g-fil-metafisica",
   "et": "Du grec μετὰ τὰ φυσικά (*metà tà physiká*), « après les livres de physique » : c'est ainsi qu'un éditeur d'Aristote a ordonné les livres venant après la *Physique*.",
   "area": "Métaphysique",
   "tema": "Philosophie · Thème 1",
@@ -97,6 +108,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Épistémologie",
+  "id": "g-fil-epistemologia",
   "et": "Du grec ἐπιστήμη (*epistéme*) « science, connaissance solide » + λόγος (*lógos*) « étude ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 1",
@@ -105,6 +117,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Éthique",
+  "id": "g-fil-etica",
   "et": "Du grec ἦθος (*êthos*), « caractère, manière d'être », apparenté à ἔθος (*éthos*), « coutume ». *Morale* vient du latin *mos, moris*, « coutume ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 1",
@@ -113,6 +126,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Esthétique",
+  "id": "g-fil-estetica",
   "et": "Du grec αἴσθησις (*aísthesis*), « sensation, perception ».",
   "area": "Esthétique",
   "tema": "Philosophie · Thème 1",
@@ -121,6 +135,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Logique",
+  "id": "g-fil-logica",
   "et": "Du grec λογική (*logiké*), de λόγος (*lógos*), « parole, raison ».",
   "area": "Logique",
   "tema": "Philosophie · Thème 1",
@@ -129,6 +144,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Philosophie politique",
+  "id": "g-fil-filosofia-politica",
   "et": "*Politique*, du grec πόλις (*pólis*), « cité ».",
   "area": "Politique",
   "tema": "Philosophie · Thème 1",
@@ -137,6 +153,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Anthropologie philosophique",
+  "id": "g-fil-antropologia-filosofica",
   "et": "*Anthropologie*, du grec ἄνθρωπος (*ánthropos*) « être humain » + λόγος (*lógos*) « étude ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 1",
@@ -145,6 +162,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Attitude critique",
+  "id": "g-fil-actitud-critica",
   "et": "*Critique*, du grec κρίνειν (*krínein*), « séparer, juger, décider ».",
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
@@ -153,6 +171,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Dogmatisme",
+  "id": "g-fil-dogmatismo",
   "et": "Du grec δόγμα (*dógma*), « opinion, décret », de δοκεῖν (*dokéin*), « sembler ».",
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
@@ -161,6 +180,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Sapere aude",
+  "id": "g-fil-sapere-aude",
   "et": "Du latin : « ose savoir ». C'est un vers d'Horace que Kant a fait devenir la devise des Lumières.",
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
@@ -172,6 +192,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Évolution",
+  "id": "g-fil-evolucion",
   "et": "Du latin *evolvere*, « dérouler », comme on déroulait un livre en forme de rouleau.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -183,6 +204,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Sélection naturelle",
+  "id": "g-fil-seleccion-natural",
   "et": "*Sélection*, du latin *seligere* (*se-* « à part » + *legere* « choisir »).",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -191,6 +213,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Hominisation",
+  "id": "g-fil-hominizacion",
   "et": "Du latin *homo, hominis*, « être humain ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -199,6 +222,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Humanisation",
+  "id": "g-fil-humanizacion",
   "et": "Du latin *humanus*. *Homo*, « être humain », est apparenté à *humus*, « terre ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -207,6 +231,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Culture",
+  "id": "g-fil-cultura",
   "et": "Du latin *cultura*, de *colere*, « cultiver » : Cicéron appelait la philosophie *cultura animi*, « culture de l'âme ». La *cultura animi* de Cicéron correspond au grec παιδεία (*paideía*), « éducation, formation ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -218,6 +243,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Socialisation",
+  "id": "g-fil-socializacion",
   "et": "Du latin *socius*, « compagnon ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -226,6 +252,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Identité personnelle",
+  "id": "g-fil-identidad-personal",
   "et": "*Identité*, du latin *idem*, « le même ». *Personne*, du latin *persona*, le masque de l'acteur de théâtre.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -234,6 +261,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Identité collective",
+  "id": "g-fil-identidad-colectiva",
   "et": "*Identité*, du latin *idem*, « le même ». *Collectif*, de *colligere*, « rassembler ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -242,6 +270,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Ethnocentrisme",
+  "id": "g-fil-etnocentrismo",
   "et": "Du grec ἔθνος (*éthnos*), « peuple ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -250,6 +279,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Relativisme culturel",
+  "id": "g-fil-relativismo-cultural",
   "et": "*Relatif*, du latin *relativus*, de *referre*, « mettre en relation ». Son antécédent grec est la phrase de Protagoras πάντων χρημάτων μέτρον ἐστὶν ἄνθρωπος (*pánton khremáton métron estìn ánthropos*), « l'être humain est la mesure de toutes choses » ; Hérodote (III 38) racontait déjà que chaque peuple tient ses coutumes pour les meilleures.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -258,6 +288,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Interculturalité",
+  "id": "g-fil-interculturalidad",
   "et": "Du latin *inter* « entre » + *cultura*, de *colere*, « cultiver ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -266,6 +297,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Dualisme",
+  "id": "g-fil-dualismo",
   "et": "Du latin *duo*, « deux ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -274,6 +306,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Monisme",
+  "id": "g-fil-monismo",
   "et": "Du grec μόνος (*mónos*), « seul, unique ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -282,6 +315,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Res cogitans / res extensa",
+  "id": "g-fil-res-cogitans",
   "et": "Du latin : « chose qui pense » et « chose étendue », qui occupe de l'espace.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -293,6 +327,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Structure psychosomatique",
+  "id": "g-fil-estructura-psicosomatica",
   "et": "Du grec ψυχή (*psykhé*) « âme, esprit » + σῶμα (*sôma*) « corps ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -301,6 +336,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Animal rationnel",
+  "id": "g-fil-animal-racional",
   "et": "*Animal*, du latin *anima*, « souffle » : l'être qui respire. Il traduit le grec ζῷον λόγον ἔχον (*zôon lógon ékhon*), « animal qui possède le lógos ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -309,6 +345,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Animal social",
+  "id": "g-fil-animal-social",
   "et": "Il traduit le grec ζῷον πολιτικόν (*zôon politikón*), « animal de la pólis », d'Aristote.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -320,6 +357,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Personne",
+  "id": "g-fil-persona",
   "et": "Du latin *persona*, le masque que portait l'acteur au théâtre, et de là, le rôle que chacun joue. *Persona* correspond au grec πρόσωπον (*prósopon*), « visage, masque » ; les Pères grecs employèrent aussi ὑπόστασις (*hypóstasis*) pour parler des personnes de la Trinité.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -328,6 +366,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Dignité",
+  "id": "g-fil-dignidad",
   "et": "Du latin *dignitas*, de *dignus*, « qui mérite ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 2",
@@ -339,6 +378,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Conscience",
+  "id": "g-fil-conciencia",
   "et": "Du latin *conscientia* : *cum* « avec » + *scire* « savoir » : « savoir avec », se rendre compte de ce que l'on sait. Son antécédent grec est la συναίσθησις (*synaísthesis*), « se percevoir soi-même », des stoïciens (Hiéroclès).",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -347,6 +387,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Conscience de soi",
+  "id": "g-fil-autoconciencia",
   "et": "Du grec αὐτός (*autós*) « soi-même » + le latin *conscientia*, « savoir avec ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -355,6 +396,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Langage symbolique",
+  "id": "g-fil-lenguaje-simbolico",
   "et": "*Symbole*, du grec σύμβολον (*sýmbolon*) : un objet brisé en deux dont les moitiés se rejoignaient pour se reconnaître, de συμβάλλειν (*symbállein*), « joindre ».",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -363,6 +405,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Identité personnelle (problème)",
+  "id": "g-fil-identidad-personal-2",
   "et": "*Identité*, du latin *idem*, « le même ». *Personne*, du latin *persona*, le masque de l'acteur de théâtre.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -371,6 +414,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Transhumanisme",
+  "id": "g-fil-transhumanismo",
   "et": "Du latin *trans* « au-delà » + *humanus*.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -379,6 +423,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Circonstance",
+  "id": "g-fil-circunstancia",
   "et": "Du latin *circumstantia* : *circum* « autour » + *stare* « se tenir » : ce qui est autour de moi.",
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
@@ -390,6 +435,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Sens de l'existence",
+  "id": "g-fil-sentido-de-la-existencia",
   "et": "*Existence*, du latin *exsistere* (*ex-* « hors de » + *sistere* « se placer ») : « sortir, surgir ».",
   "area": "Métaphysique",
   "tema": "Philosophie · Thème 2",
@@ -398,6 +444,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Connaissance",
+  "id": "g-fil-conocimiento",
   "et": "Du latin *cognoscere*, « parvenir à savoir », apparenté au grec γνῶσις (*gnôsis*), « connaissance ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -406,6 +453,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Vérité",
+  "id": "g-fil-verdad",
   "et": "Du latin *veritas*, de *verus*, « vrai ». Le grec disait ἀλήθεια (*alétheia*), « ce qui n'est pas caché ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -414,6 +462,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Croyance",
+  "id": "g-fil-creencia",
   "et": "Du latin *credere*, « faire confiance, accorder crédit ». En grec, δόξα (*dóxa*), « opinion », et πίστις (*pístis*), « confiance, foi » : c'est ainsi que Platon les appelle par opposition à la science (ἐπιστήμη, *epistéme*).",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -422,6 +471,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Justification",
+  "id": "g-fil-justificacion",
   "et": "Du latin *iustificare* : *iustus* « juste » + *facere* « faire ». Son antécédent grec est la définition discutée dans le *Théétète* (201c-d) : savoir serait δόξα ἀληθὴς μετὰ λόγου (*dóxa alethès metà lógou*), « opinion vraie accompagnée de raisons ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -430,6 +480,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Réalisme",
+  "id": "g-fil-realismo",
   "et": "Du latin *res*, « chose » : est *réel* ce qui existe comme chose, et pas seulement dans l'esprit.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -438,6 +489,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Idéalisme",
+  "id": "g-fil-idealismo",
   "et": "*Idée*, du grec ἰδέα (*idéa*), « aspect, forme visible », de ἰδεῖν (*idéin*), « voir ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -446,6 +498,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Empirisme",
+  "id": "g-fil-empirismo",
   "et": "Du grec ἐμπειρία (*empeiría*), « expérience », de πεῖρα (*peîra*), « épreuve, tentative ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -458,6 +511,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Rationalisme",
+  "id": "g-fil-racionalismo",
   "et": "Du latin *ratio*, « raison », qui a d'abord signifié « calcul, compte ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -469,6 +523,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Criticisme",
+  "id": "g-fil-criticismo",
   "et": "Du grec κρίνειν (*krínein*), « séparer, juger, décider ». La critique sépare ce que la raison peut connaître de ce qu'elle ne peut pas connaître.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -480,6 +535,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "A priori / a posteriori",
+  "id": "g-fil-a-priori",
   "et": "Du latin : « à partir de ce qui vient avant » et « à partir de ce qui vient après » l'expérience.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -488,6 +544,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Phénomène / noumène",
+  "id": "g-fil-fenomeno",
   "et": "Du grec φαινόμενον (*phainómenon*), « ce qui apparaît », et νοούμενον (*nooúmenon*), « ce qui est pensé ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -499,6 +556,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Scepticisme",
+  "id": "g-fil-escepticismo",
   "et": "Du grec σκέψις (*sképsis*), « examen, enquête », de σκέπτεσθαι (*sképtesthai*), « regarder attentivement ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -507,6 +565,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Relativisme",
+  "id": "g-fil-relativismo",
   "et": "Du latin *relativus*, de *referre*, « mettre en relation ». Son antécédent grec est la phrase de Protagoras πάντων χρημάτων μέτρον ἐστὶν ἄνθρωπος (*pánton khremáton métron estìn ánthropos*), « l'être humain est la mesure de toutes choses ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -515,6 +574,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Perception",
+  "id": "g-fil-percepcion",
   "et": "Du latin *perceptio*, de *percipere* (*per-* + *capere* « prendre ») : « saisir ». Son antécédent grec est l'αἴσθησις (*aísthesis*), « sensation, perception » : d'où *esthétique*.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -523,6 +583,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Raison",
+  "id": "g-fil-razon",
   "et": "Du latin *ratio*, « calcul, compte », de *reri*, « calculer, penser ». Il traduit le grec λόγος (*lógos*) ; pour la faculté qui saisit les principes, les Grecs disaient aussi νοῦς (*noûs*), « intellect ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -531,6 +592,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Concept",
+  "id": "g-fil-concepto",
   "et": "Du latin *conceptus*, de *concipere*, « concevoir, recueillir en soi ». Aristote appelle ὅρος (*hóros*), « terme », chacun des concepts qu'unit un syllogisme ; les stoïciens parlent d'ἔννοια (*énnoia*), « notion ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -539,6 +601,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Déduction",
+  "id": "g-fil-deduccion",
   "et": "Du latin *deducere*, « conduire depuis, tirer de ». Son antécédent grec est l'ἀπόδειξις (*apódeixis*), « démonstration », faite par συλλογισμός (*syllogismós*), chez Aristote.",
   "area": "Logique",
   "tema": "Philosophie · Thème 3",
@@ -547,6 +610,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Induction",
+  "id": "g-fil-induccion",
   "et": "Du latin *inductio*, de *inducere*, « conduire vers » : des cas à la règle. Il traduit le grec ἐπαγωγή (*epagogé*).",
   "area": "Logique",
   "tema": "Philosophie · Thème 3",
@@ -555,6 +619,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Évidence",
+  "id": "g-fil-evidencia",
   "et": "Du latin *evidentia*, de *videre*, « voir » : ce qu'on voit clairement. Il traduit le grec ἐνάργεια (*enárgeia*), « clarté », terme des épicuriens et des stoïciens.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -566,6 +631,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Biais cognitif",
+  "id": "g-fil-sesgo-cognitivo",
   "et": "*Cognitif*, du latin *cognoscere*, « connaître ».",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -574,6 +640,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Post-vérité",
+  "id": "g-fil-posverdad",
   "et": "Du latin *post* « après » + *veritas* « vérité ». Il traduit l'anglais *post-truth*.",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
@@ -582,6 +649,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Morale",
+  "id": "g-fil-moral",
   "et": "Du latin *mos, moris*, « coutume ». Cicéron a formé *moralis* pour traduire le grec ἠθικός (*ethikós*), de ἦθος (*êthos*), « caractère, coutume ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -590,6 +658,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Autonomie",
+  "id": "g-fil-autonomia",
   "et": "Du grec αὐτός (*autós*) « soi-même » + νόμος (*nómos*) « loi » : « se donner à soi-même la loi ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -598,6 +667,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Hétéronomie",
+  "id": "g-fil-heteronomia",
   "et": "Du grec ἕτερος (*héteros*) « autre » + νόμος (*nómos*) « loi » : recevoir la loi d'un autre.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -606,6 +676,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Conscience morale",
+  "id": "g-fil-conciencia-moral",
   "et": "Du latin *conscientia* : *cum* « avec » + *scire* « savoir » : « savoir avec », se rendre compte de ce que l'on sait. En grec, συνείδησις (*syneídesis*), « savoir avec soi-même », que le latin *conscientia* calque mot à mot.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -614,6 +685,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Développement moral",
+  "id": "g-fil-desarrollo-moral",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "Le processus par lequel le jugement moral mûrit ; Kohlberg le décrit en niveaux (préconventionnel, conventionnel, postconventionnel)."
@@ -621,6 +693,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Délibération",
+  "id": "g-fil-deliberacion",
   "et": "Du latin *deliberare*, que l'on rattache habituellement à *libra*, « balance » : peser les raisons. Elle correspond au grec βούλευσις (*boúleusis*) : selon Aristote, nous délibérons sur ce qui dépend de nous.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -629,6 +702,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Sophisme naturaliste",
+  "id": "g-fil-falacia-naturalista",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "L'erreur de déduire ce qui doit être de ce qui est (être/devoir-être) : que quelque chose arrive n'implique pas que ce soit bien."
@@ -636,6 +710,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Valeur",
+  "id": "g-fil-valor",
   "et": "Du latin *valere*, « être en bonne santé, avoir de la force, valoir ». Son antécédent grec est l'ἀξία (*axía*), « valeur », des stoïciens : d'où *axiologie*.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -644,6 +719,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Norme",
+  "id": "g-fil-norma",
   "et": "Du latin *norma*, « équerre », l'outil du charpentier pour tracer des angles droits. En grec, νόμος (*nómos*), « loi, coutume », et κανών (*kanón*), « règle », un autre outil du charpentier.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -652,6 +728,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Liberté",
+  "id": "g-fil-libertad",
   "et": "Du latin *libertas*, de *liber*, « libre ». Elle traduit le grec ἐλευθερία (*eleuthería*) ; pour la liberté de choisir, les Grecs parlaient de τὸ ἐφ᾽ ἡμῖν (*tò eph’ hemîn*), « ce qui dépend de nous ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -660,6 +737,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Responsabilité",
+  "id": "g-fil-responsabilidad",
   "et": "Du latin *respondere*, « répondre » : avoir à rendre compte de ce qu'on fait. Son antécédent grec est τὸ ἐφ᾽ ἡμῖν (*tò eph’ hemîn*), « ce qui dépend de nous » : Aristote ne loue ou ne blâme que ce qui est fait volontairement.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -668,6 +746,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Eudémonisme",
+  "id": "g-fil-eudemonismo",
   "et": "Du grec εὐδαιμονία (*eudaimonía*) : εὖ (*eû*) « bien » + δαίμων (*daímon*) « esprit, divinité » : « avoir un bon esprit », être heureux.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -679,6 +758,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Hédonisme",
+  "id": "g-fil-hedonismo",
   "et": "Du grec ἡδονή (*hedoné*), « plaisir ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -687,6 +767,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Vertu",
+  "id": "g-fil-virtud",
   "et": "Du latin *virtus*, « courage, force », de *vir*, « homme ». Il traduit le grec ἀρετή (*areté*).",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -698,6 +779,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Éthique du devoir",
+  "id": "g-fil-etica-del-deber",
   "et": "*Devoir*, du latin *debere* (*de-* + *habere*, « avoir ») : avoir quelque chose reçu d'un autre et être obligé de le rendre. Son antécédent grec est τὸ καθῆκον (*tò kathêkon*), « ce qui convient », des stoïciens, que Cicéron a traduit *officium*.",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -709,6 +791,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Impératif catégorique",
+  "id": "g-fil-imperativo-categorico",
   "et": "*Impératif*, du latin *imperare*, « commander ». *Catégorique*, du grec κατηγορικός (*kategorikós*), « qui affirme sans conditions ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -720,6 +803,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Utilitarisme",
+  "id": "g-fil-utilitarismo",
   "et": "Du latin *utilitas*, « utilité », de *uti*, « utiliser ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -728,6 +812,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Dilemme moral",
+  "id": "g-fil-dilema-moral",
   "et": "*Dilemme*, du grec δίλημμα (*dílemma*) : δι- (*di-*) « deux » + λῆμμα (*lêmma*) « prémisse, ce qu'on prend ».",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -736,6 +821,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Justice",
+  "id": "g-fil-justicia",
   "et": "Du latin *iustitia*, de *ius*, « droit ». Il traduit le grec δικαιοσύνη (*dikaiosýne*).",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
@@ -744,6 +830,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Éthique appliquée",
+  "id": "g-fil-etica-aplicada",
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "L'application de la réflexion éthique à des domaines concrets (bioéthique, éthique de l'environnement, éthique des médias…)."
@@ -751,6 +838,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Beauté",
+  "id": "g-fil-belleza",
   "et": "Du latin *bellus*, « joli », un diminutif de *bonus*, « bon ». Le grec disait κάλλος (*kállos*) : de là *calligraphie*, « belle écriture ».",
   "area": "Esthétique",
   "tema": "Philosophie · Thème 7",
@@ -759,6 +847,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Art",
+  "id": "g-fil-arte",
   "et": "Du latin *ars, artis*, « habileté, technique », comme le grec τέχνη (*tékhne*).",
   "area": "Esthétique",
   "tema": "Philosophie · Thème 7",
@@ -767,6 +856,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Œuvre d'art",
+  "id": "g-fil-obra-de-arte",
   "et": "*Art*, du latin *ars, artis*, « habileté, technique », comme le grec τέχνη (*tékhne*).",
   "area": "Esthétique",
   "tema": "Philosophie · Thème 7",
@@ -775,6 +865,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Jugement esthétique",
+  "id": "g-fil-juicio-estetico",
   "et": "*Esthétique*, du grec αἴσθησις (*aísthesis*), « sensation, perception ».",
   "area": "Esthétique",
   "tema": "Philosophie · Thème 7",
@@ -786,6 +877,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Sublime",
+  "id": "g-fil-sublime",
   "et": "Du latin *sublimis*, « élevé, qui se trouve en hauteur ». Il traduit le grec ὕψος (*hýpsos*), « hauteur », du traité *Du sublime* attribué à Longin.",
   "area": "Esthétique",
   "tema": "Philosophie · Thème 7",
@@ -794,6 +886,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Argument",
+  "id": "g-fil-argumento",
   "et": "Du latin *argumentum*, de *arguere*, « éclaircir, démontrer ». En grec, λόγος (*lógos*) ; l'argument dialectique s'appelait ἐπιχείρημα (*epikheírema*).",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -802,6 +895,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Prémisse",
+  "id": "g-fil-premisa",
   "et": "Du latin *praemissa*, « mise devant » (*prae* + *mittere*, « envoyer, mettre »). Elle correspond au grec πρότασις (*prótasis*), « ce qui se propose devant », terme d'Aristote.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -810,6 +904,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Conclusion",
+  "id": "g-fil-conclusion",
   "et": "Du latin *concludere*, « fermer ». Il traduit le grec συμπέρασμα (*sympérasma*), « ce qui se clôt », terme d'Aristote.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -818,6 +913,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Argument déductif",
+  "id": "g-fil-argumento-deductivo",
   "et": "*Déduction*, du latin *deducere*, « conduire depuis, tirer de ». Son antécédent grec est le συλλογισμός (*syllogismós*) d'Aristote.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -826,6 +922,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Argument inductif",
+  "id": "g-fil-argumento-inductivo",
   "et": "*Induction*, du latin *inducere*, « conduire vers » : des cas à la règle. *Induction* traduit le grec ἐπαγωγή (*epagogé*).",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -834,6 +931,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Validité",
+  "id": "g-fil-validez",
   "et": "Du latin *validus*, « fort », de *valere*, « avoir de la force ». Les stoïciens appelaient συνακτικός (*synaktikós*), « qui conclut », l'argument valide, et ἀσύνακτος (*asýnaktos*) celui qui ne l'est pas.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -842,6 +940,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Sophisme",
+  "id": "g-fil-falacia",
   "et": "Du latin *fallacia*, « tromperie », de *fallere*, « tromper ». En grec, σόφισμα (*sóphisma*) ou παραλογισμός (*paralogismós*), dans les *Réfutations sophistiques* d'Aristote.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -850,6 +949,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Ad hominem",
+  "id": "g-fil-ad-hominem",
   "et": "Du latin : « contre l'homme », c'est-à-dire contre la personne et non contre ce qu'elle dit. Aristote distingue déjà entre répondre πρὸς τὸν λόγον (*pròs tòn lógon*), « à l'argument », et πρὸς τὸν ἄνθρωπον (*pròs tòn ánthropon*), « à la personne » (*Réfutations sophistiques* 22), bien qu'il s'agisse là de s'adresser à l'interlocuteur, et non de l'attaquer.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -858,6 +958,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Homme de paille",
+  "id": "g-fil-hombre-de-paja",
   "et": "Il traduit l'anglais *straw man*, « homme de paille » : un faux adversaire, facile à terrasser.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -866,6 +967,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Appel à l'autorité",
+  "id": "g-fil-apelacion-a-la-autoridad",
   "et": "En latin, on l'appelle *ad verecundiam*, « à la pudeur » ou au respect : il est gênant de contredire quelqu'un que l'on respecte.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -874,6 +976,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Pente glissante",
+  "id": "g-fil-pendiente-resbaladiza",
   "et": "Il traduit l'anglais *slippery slope*.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -882,6 +985,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Faux dilemme",
+  "id": "g-fil-falso-dilema",
   "et": "*Dilemme*, du grec δίλημμα (*dílemma*) : δι- (*di-*) « deux » + λῆμμα (*lêmma*) « prémisse, ce qu'on prend ».",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -890,6 +994,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Généralisation hâtive",
+  "id": "g-fil-generalizacion-apresurada",
   "et": "*Généraliser*, du latin *genus, generis*, « classe, espèce ». On l'apparente habituellement au sophisme qu'Aristote appelle παρὰ τὸ ἁπλῶς ἢ μὴ ἁπλῶς (*parà tò haplôs è mè haplôs*) : prendre pour dit tout court ce qui est dit dans un cas.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -898,6 +1003,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Fausse cause",
+  "id": "g-fil-causa-falsa",
   "et": "En latin, *non causa pro causa*, « prendre pour cause ce qui n'en est pas une » ; une variante est *post hoc, ergo propter hoc*, « après cela, donc à cause de cela ». En grec, Aristote l'appelle τὸ μὴ αἴτιον ὡς αἴτιον (*tò mè aítion hos aítion*), « ce qui n'est pas cause, comme cause », et dans la *Rhétorique* (II 24) il donne l'exemple de prendre ce qui vient « après cela » pour une cause.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -906,6 +1012,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Appel à l'ignorance",
+  "id": "g-fil-apelacion-a-la-ignorancia",
   "et": "En latin, *ad ignorantiam*, « à l'ignorance ».",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -914,6 +1021,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Appel à la majorité",
+  "id": "g-fil-apelacion-a-la-mayoria",
   "et": "En latin, *ad populum*, « au peuple ».",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -922,6 +1030,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Pétition de principe",
+  "id": "g-fil-peticion-de-principio",
   "et": "Il traduit le latin *petitio principii* : « demander qu'on t'accorde le point de départ », qui est précisément ce qu'on voulait démontrer. *Petitio principii* traduit à son tour le grec τὸ ἐν ἀρχῇ αἰτεῖσθαι (*tò en arkhêi aiteîsthai*), d'Aristote.",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -930,6 +1039,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Dissertation",
+  "id": "g-fil-disertacion",
   "et": "Du latin *dissertatio*, de *disserere*, « exposer avec ordre, enchaîner des raisons ».",
   "area": "Logique",
   "tema": "Atelier d'argumentation",
@@ -938,6 +1048,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Proposition",
+  "id": "g-fil-proposicion",
   "et": "Du latin *propositio*, de *proponere*, « placer devant ». Son antécédent grec est le λόγος ἀποφαντικός (*lógos apophantikós*) d'Aristote : l'énoncé dans lequel il y a vérité ou fausseté.",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
@@ -946,6 +1057,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Jugement",
+  "id": "g-fil-juicio",
   "et": "Du latin *iudicium*, « décision, sentence », de *iudex*, « juge ». Il correspond au grec κρίσις (*krísis*), « décision, discernement », de κρίνειν (*krínein*), « séparer, juger » : de la même famille sont *critique* et *critère*.",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
@@ -954,6 +1066,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Proposition catégorique",
+  "id": "g-fil-proposicion-categorica",
   "et": "*Catégorique*, du grec κατηγορικός (*kategorikós*), de κατηγορεῖν (*kategoreîn*), « affirmer quelque chose de quelque chose ».",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
@@ -962,6 +1075,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Carré logique",
+  "id": "g-fil-cuadrado-de-oposicion",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Schéma traditionnel qui place les propositions A, E, I et O aux coins d'un carré et montre leurs relations : contradictoires (A-O, E-I : valeurs toujours opposées), contraires (A-E : elles ne peuvent pas être vraies toutes les deux), subcontraires (I-O : elles ne peuvent pas être fausses toutes les deux) et subalternes (de A découle I, et de E découle O). Dans la logique actuelle, seules les contradictoires sont conservées."
@@ -969,6 +1083,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Portée existentielle",
+  "id": "g-fil-compromiso-existencial",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Le fait qu'une proposition présuppose l'existence de ce dont elle parle. Pour Aristote, les affirmatives la présupposent ; pour la logique actuelle, les universelles non : « toutes les licornes ont une corne » est vraie même s'il n'y a pas de licornes. C'est pourquoi des syllogismes comme Darapti cessent d'être valides.",
@@ -979,6 +1094,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Classe",
+  "id": "g-fil-clase",
   "et": "Du latin *classis*, « groupe, division » (à l'origine, chacun des groupes entre lesquels on répartissait les citoyens romains).",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
@@ -987,6 +1103,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Appartenance et inclusion",
+  "id": "g-fil-pertenencia-e-inclusion",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Deux relations qui, en français, se disent avec « est ». L'appartenance (∈) relie un individu à une classe : « Socrate ∈ humains ». L'inclusion (⊆) relie deux classes : « humains ⊆ mortels ». L'inclusion s'enchaîne ; l'appartenance, non.",
@@ -997,6 +1114,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Réunion, intersection et complémentaire",
+  "id": "g-fil-union-interseccion-y-complemento",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Les opérations de base sur les classes. La réunion (A ∪ B) rassemble ce qui est dans A ou dans B ; l'intersection (A ∩ B), ce qui est dans les deux ; le complémentaire (Aᶜ), tout ce qui n'est pas dans A. Elles correspondent aux connecteurs « ou », « et » et « non »."
@@ -1004,6 +1122,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Lois de De Morgan",
+  "id": "g-fil-leyes-de-de-morgan",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Nier une disjonction équivaut à nier ses deux parties : ¬(p ∨ q) = ¬p ∧ ¬q (« ni l'un ni l'autre »). Nier une conjonction équivaut à nier au moins une partie : ¬(p ∧ q) = ¬p ∨ ¬q. Avec les classes : (A ∪ B)ᶜ = Aᶜ ∩ Bᶜ et (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ. Augustus De Morgan les a formulées au XIXe siècle.",
@@ -1014,6 +1133,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Diagramme d'Euler",
+  "id": "g-fil-diagrama-de-euler",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Dessin qui représente chaque classe par un cercle placé selon la relation affirmée : l'un à l'intérieur de l'autre (tout), séparés (aucun) ou qui se croisent (quelques). Leonhard Euler l'a fait connaître dans ses lettres de 1761. Si l'on ne sait pas comment les classes sont placées, il faut dessiner plusieurs situations.",
@@ -1024,6 +1144,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Diagramme de Venn",
+  "id": "g-fil-diagrama-de-venn",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Dessin qui représente les classes par des cercles qui se croisent toujours, de façon à faire apparaître toutes les régions possibles. On ombre les régions vides et on marque d'une ✕ celle où il y a au moins un élément. John Venn l'a proposé en 1880 ; avec trois cercles, il permet de vérifier si un syllogisme est valide.",
@@ -1034,6 +1155,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Paradoxe de Russell",
+  "id": "g-fil-paradoja-de-russell",
   "et": "*Paradoxe*, du grec παράδοξος (*parádoxos*) : παρά (*pará*) « contre » + δόξα (*dóxa*) « opinion ».",
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
@@ -1046,6 +1168,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Ontologie",
+  "id": "g-fil-ontologia",
   "et": "Du grec ὄν, ὄντος (*on, óntos*), « ce qui est », et λόγος (*lógos*), « étude ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1054,6 +1177,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Apparence",
+  "id": "g-fil-apariencia",
   "et": "Du latin *apparere*, « se montrer, apparaître ». En grec, τὸ φαινόμενον (*tò phainómenon*), « ce qui se montre » : d'où *phénomène*.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1065,6 +1189,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Physicalisme",
+  "id": "g-fil-fisicalismo",
   "et": "Du grec φύσις (*phýsis*), « nature ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1073,6 +1198,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Accident",
+  "id": "g-fil-accidente",
   "et": "Du latin *accidere* (*ad-* + *cadere* « tomber ») : « ce qui tombe dessus » à quelque chose, ce qui lui arrive sans être essentiel. Il traduit le grec τὸ συμβεβηκός (*tò symbebekós*), « ce qui lui survient », terme d'Aristote.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1084,6 +1210,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Essence",
+  "id": "g-fil-esencia",
   "et": "Du latin *essentia*, de *esse*, « être » : ce qu'une chose est. Il fut forgé pour traduire le grec οὐσία (*ousía*) ; Aristote dit aussi τὸ τί ἦν εἶναι (*tò tí ên eînai*), « ce que c'était qu'être » pour chaque chose.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1092,6 +1219,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Théorie de l'identité",
+  "id": "g-fil-teoria-de-la-identidad",
   "et": "*Identité*, du latin *idem*, « le même » : l'esprit et le cerveau seraient la même chose.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1100,6 +1228,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Fonctionnalisme",
+  "id": "g-fil-funcionalismo",
   "et": "Du latin *functio*, de *fungi*, « accomplir, s'acquitter d'une tâche ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1108,6 +1237,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Test de Turing",
+  "id": "g-fil-test-de-turing",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Test proposé par Alan Turing en 1950 : si, en conversant par écrit, nous ne distinguons pas une machine d'une personne, nous n'aurions aucune raison de lui refuser l'intelligence.",
@@ -1118,6 +1248,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Chambre chinoise",
+  "id": "g-fil-habitacion-china",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Expérience de pensée de John Searle (1980) : celui qui suit un manuel pour renvoyer des symboles chinois semble comprendre le chinois sans le comprendre ; manipuler des symboles (syntaxe) ne suffit pas pour en comprendre la signification (sémantique)."
@@ -1125,6 +1256,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Problème difficile de la conscience",
+  "id": "g-fil-problema-dificil-de-la-conciencia",
   "et": "*Problème*, du grec πρόβλημα (*próblema*), « ce qu'on met devant, obstacle ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1136,6 +1268,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Déterminisme",
+  "id": "g-fil-determinismo",
   "et": "Du latin *determinare*, « fixer les limites », de *terminus*, « borne, limite ». Son antécédent grec est l'εἱμαρμένη (*heimarméne*) des stoïciens : la chaîne nécessaire des causes.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1144,6 +1277,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Indéterminisme",
+  "id": "g-fil-indeterminismo",
   "et": "Du latin *in-* « non » + *determinare*, « fixer les limites », de *terminus*, « borne ». Son antécédent grec est la παρέγκλισις (*parénklisis*), le *clinamen* de Lucrèce : la « déviation » des atomes avec laquelle Épicure rompt la nécessité.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1152,6 +1286,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Libertarisme",
+  "id": "g-fil-libertarismo",
   "et": "Du latin *liber*, « libre ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1160,6 +1295,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Compatibilisme",
+  "id": "g-fil-compatibilismo",
   "et": "*Compatible*, du latin *compati*, « souffrir ensemble » : ce qui peut coexister avec autre chose.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1172,6 +1308,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Argument cosmologique",
+  "id": "g-fil-argumento-cosmologico",
   "et": "*Cosmologique*, du grec κόσμος (*kósmos*), « ordre, monde ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1183,6 +1320,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Argument du dessein",
+  "id": "g-fil-argumento-del-diseno",
   "et": "*Dessein*, de l'italien *disegno*, « dessin, plan », du latin *designare*, « marquer, tracer ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1195,6 +1333,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Problème du mal",
+  "id": "g-fil-problema-del-mal",
   "et": "*Problème*, du grec πρόβλημα (*próblema*), « ce qu'on met devant, obstacle ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1203,6 +1342,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Théodicée",
+  "id": "g-fil-teodicea",
   "et": "Du grec θεός (*theós*) « dieu » + δίκη (*díke*) « justice » : le mot a été inventé par Leibniz, comme titre de son livre de 1710.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1214,6 +1354,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Agnosticisme",
+  "id": "g-fil-agnosticismo",
   "et": "Du grec ἀ- (*a-*) « sans » + γνῶσις (*gnôsis*) « connaissance ». Le mot a été inventé par Thomas H. Huxley en 1869.",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
@@ -1222,6 +1363,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Fidéisme",
+  "id": "g-fil-fideismo",
   "et": "Du latin *fides*, « foi, confiance ».",
   "area": "Métaphysique",
   "tema": "Philosophie · M",
