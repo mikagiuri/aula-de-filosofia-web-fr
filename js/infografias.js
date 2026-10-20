@@ -8,9 +8,9 @@ const INFOGRAFIAS = {
   "title": "QU'EST-CE QUE LA<br><em>PHILOSOPHIE ?</em>",
   "kicker": "Philosophie · 1re Bach. · Thème 1",
   "subtitle": "De l'étonnement au logos",
-  "tagline": "φιλοσοφία",
+  "tagline": "φιλοσοφία (philosophía)",
   "author": "« amour de la sagesse »",
-  "ghost": "σοφία",
+  "ghost": "σοφία (sophía)",
   "portrait": null,
   "blocks": [
    {
@@ -491,7 +491,7 @@ const INFOGRAFIAS = {
   "subtitle": "La naissance de la philosophie",
   "tagline": "Grèce, VIe s. av. J.-C.",
   "author": "MYTHOS → LOGOS",
-  "ghost": "λόγος",
+  "ghost": "λόγος (lógos)",
   "portrait": null,
   "blocks": [
    {

@@ -73,7 +73,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Savoir scientifique",
-  "et": "*Science*, du latin *scientia*, de *scire*, « savoir ». Il traduit le grec ἐπιστήμη (*epistéme*), le savoir ferme que Platon oppose à l'opinion (δόξα).",
+  "et": "*Science*, du latin *scientia*, de *scire*, « savoir ». Il traduit le grec ἐπιστήμη (*epistéme*), le savoir ferme que Platon oppose à l'opinion (δόξα, *dóxa*).",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 1",
   "def": "Il recherche les causes prochaines des faits par l'observation et l'expérimentation ; il est partiel (chaque science étudie une parcelle de la réalité)."
@@ -414,7 +414,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Croyance",
-  "et": "Du latin *credere*, « faire confiance, accorder crédit ». En grec, δόξα (*dóxa*), « opinion », et πίστις (*pístis*), « confiance, foi » : c'est ainsi que Platon les appelle par opposition à la science (ἐπιστήμη).",
+  "et": "Du latin *credere*, « faire confiance, accorder crédit ». En grec, δόξα (*dóxa*), « opinion », et πίστις (*pístis*), « confiance, foi » : c'est ainsi que Platon les appelle par opposition à la science (ἐπιστήμη, *epistéme*).",
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "Ce qu'on accepte comme vrai sans garantie qu'il corresponde à la réalité (opinion, doxa)."
