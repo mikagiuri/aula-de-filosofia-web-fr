@@ -2730,6 +2730,94 @@ const QUIZZES = {
     ],
     "a": 1,
     "fb": "Tautologie : toujours vraie. Si elle était toujours fausse, ce serait une contradiction."
+   },
+   {
+    "q": "Combien de lignes a la table de vérité d'une formule à trois lettres (p, q, r) ?",
+    "o": [
+     "3",
+     "6",
+     "8",
+     "9"
+    ],
+    "a": 2,
+    "fb": "Chaque lettre peut être V ou F : 2 · 2 · 2 = 8 combinaisons. Avec n lettres, il y a 2ⁿ lignes ; avec 5, cela fait déjà 32, et c'est pourquoi il faut les lois et les règles du niveau 4."
+   },
+   {
+    "q": "À quelle formule p → q est-elle équivalente ?",
+    "o": [
+     "q → p",
+     "¬p ∨ q",
+     "¬p → q",
+     "p ∧ ¬q"
+    ],
+    "a": 1,
+    "fb": "p → q n’est fausse que si p est V et q est F, comme ¬p ∨ q. q → p est la réciproque, qui n’est pas équivalente à p → q. ¬p → q équivaut à p ∨ q : comme A ∨ B revient à ¬A → B, ¬p ∨ q est ¬¬p → q, c’est-à-dire p → q. Et p ∧ ¬q en est la négation."
+   },
+   {
+    "q": "Cas piège : « S'il pleut, le sol est mouillé. » Laquelle de ces phrases dit la même chose ?",
+    "o": [
+     "Si le sol est mouillé, il a plu.",
+     "S'il ne pleut pas, le sol n'est pas mouillé.",
+     "Si le sol n'est pas mouillé, il ne pleut pas.",
+     "Il pleut et le sol est mouillé."
+    ],
+    "a": 2,
+    "fb": "C’est la contraposée, ¬q → ¬p, équivalente à p → q. « Si le sol est mouillé, il a plu » (la réciproque) et « S’il ne pleut pas, le sol n’est pas mouillé » (l’inverse) semblent dire la même chose, mais non : le sol peut être mouillé parce que quelqu’un a arrosé. Et la phrase n’affirme pas qu’il pleuve."
+   },
+   {
+    "q": "La loi de De Morgan dit que ¬(p ∧ q) équivaut à…",
+    "o": [
+     "¬p ∧ ¬q",
+     "¬p ∨ ¬q",
+     "¬p ∨ q",
+     "p ∨ q"
+    ],
+    "a": 1,
+    "fb": "Que les deux choses ne se produisent pas à la fois, c’est qu’au moins l’une des deux échoue. ¬p ∧ ¬q (qui équivaut à ¬(p ∨ q)) dit que les deux échouent, ce qui est plus fort ; ¬p ∨ q oublie de nier q, et p ∨ q oublie les deux négations."
+   },
+   {
+    "q": "Qu'est-ce que la formule (p → q) ∧ p ∧ ¬q ?",
+    "o": [
+     "Une tautologie.",
+     "Une contradiction.",
+     "Une contingence.",
+     "Un modus ponens valide."
+    ],
+    "a": 1,
+    "fb": "Pour qu’elle soit vraie, il faudrait que p soit V et q F ; mais alors p → q est F. Il n’y a aucune ligne où elle soit vraie : c’est une contradiction. Autrement dit : p → q, p et ¬q ne peuvent pas être vraies à la fois ; c’est pourquoi de p → q et p on déduit q (modus ponens). La formule n’est pas un raisonnement, mais un énoncé : elle ne peut pas être « un modus ponens valide »."
+   },
+   {
+    "q": "Qu'est-ce que la formule p → q, à elle seule ?",
+    "o": [
+     "Une tautologie.",
+     "Une contradiction.",
+     "Une contingence.",
+     "Ce n'est pas une formule."
+    ],
+    "a": 2,
+    "fb": "Elle est vraie sur trois lignes et fausse sur une (p V, q F). Les formules contingentes sont celles qui parlent du monde : leur vérité dépend de la façon dont sont les choses."
+   },
+   {
+    "q": "Cas piège : en logique classique, quelle valeur a « si la Lune est en fromage, alors 2 + 2 = 5 » ?",
+    "o": [
+     "Faux, parce que les deux parties sont fausses.",
+     "Vrai, parce que l'antécédent est faux.",
+     "Ni vrai ni faux.",
+     "Faux, parce qu'il n'y a aucun rapport entre les deux parties."
+    ],
+    "a": 1,
+    "fb": "Le conditionnel matériel n'est faux qu'avec un antécédent vrai et un conséquent faux. Avec un antécédent faux, il est vrai, qu'il y ait ou non un rapport entre les parties. Que cela heurte l'usage courant de « si » est un problème connu (les « paradoxes du conditionnel matériel »)."
+   },
+   {
+    "q": "Quand une table de vérité dit-elle qu'un argument est valide ?",
+    "o": [
+     "Quand la conclusion est vraie dans toutes les lignes de la table.",
+     "Quand aucune ligne n’a des prémisses vraies et une conclusion fausse.",
+     "Quand il y a au moins une ligne où toutes les prémisses sont vraies.",
+     "Quand il y a plus de lignes vraies que de lignes fausses dans la colonne de la conclusion."
+    ],
+    "a": 1,
+    "fb": "Une seule ligne avec des prémisses vraies et une conclusion fausse suffit pour que l’argument soit invalide : c’est le contre-exemple. Que la conclusion soit vraie dans toutes les lignes décrit une conclusion tautologique, qui est un cas particulier d’argument valide, non la définition."
    }
   ]
  },
@@ -7408,6 +7496,762 @@ const QUIZZES = {
     ],
     "a": 1,
     "fb": "La classe de toutes les classes qui ne se contiennent pas elles-mêmes se contient elle-même si et seulement si elle ne se contient pas. Russell l'a écrit à Frege en 1902 ; la solution a été de fixer par des axiomes quelles collections sont des ensembles."
+   }
+  ]
+ },
+ "fil-validez-q": {
+  "name": "Validité et vérité, déduction et induction (Philosophie 1re Bach. · T4 · itinéraire, niveau 1)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "« Tous les poissons volent ; tous les chats sont des poissons ; donc tous les chats volent. » Ce raisonnement est-il valide ?",
+    "o": [
+     "Oui, même si les prémisses et la conclusion sont fausses.",
+     "Non, parce que la conclusion est fausse : les chats ne volent pas.",
+     "Non, parce que les deux prémisses sont fausses : les poissons ne volent pas.",
+     "Il ne serait valide que si les chats volaient réellement."
+    ],
+    "a": 0,
+    "fb": "La validité dépend de la forme (tout M est P ; tout S est M ; donc tout S est P), et non de la vérité de ce qui est dit : si les prémisses étaient vraies, la conclusion devrait l'être. Que la conclusion ou les prémisses soient fausses ne suffit pas à le rendre invalide."
+   },
+   {
+    "q": "Parmi ces quatre combinaisons, laquelle est impossible dans un raisonnement valide ?",
+    "o": [
+     "Prémisses fausses et conclusion fausse.",
+     "Prémisses fausses et conclusion vraie.",
+     "Prémisses vraies et conclusion fausse.",
+     "Prémisses vraies et conclusion vraie."
+    ],
+    "a": 2,
+    "fb": "C'est exactement ce que la validité interdit : que les prémisses soient vraies et la conclusion fausse. Les trois autres combinaisons peuvent se présenter dans des raisonnements valides (ce qu'ils ne garantissent pas, c'est une conclusion vraie si une prémisse est fausse)."
+   },
+   {
+    "q": "« Tous les poissons sont des mammifères ; tous les dauphins sont des poissons ; donc tous les dauphins sont des mammifères. » Qu'enseigne cet exemple ?",
+    "o": [
+     "Que si la conclusion est vraie, les deux prémisses doivent l’être aussi.",
+     "Que de prémisses fausses peut sortir, valablement, une conclusion vraie.",
+     "Qu’il n’est pas valide, parce que les dauphins ne sont pas des poissons, mais des mammifères.",
+     "Que c’est une induction, parce qu’il va des poissons aux dauphins."
+    ],
+    "a": 1,
+    "fb": "La forme est valide et la conclusion est vraie, mais les deux prémisses sont fausses. C'est pourquoi une conclusion vraie ne prouve pas que les prémisses le soient, et une prémisse fausse ne garantit pas une conclusion fausse."
+   },
+   {
+    "q": "Cas piège : « Tous les Athéniens sont grecs ; Socrate est grec ; donc Socrate est athénien. » Tout est vrai. Est-ce valide ?",
+    "o": [
+     "Oui : si les prémisses et la conclusion sont vraies, le raisonnement est valide.",
+     "Non : la même forme mène de « Aristote est grec » à « il est athénien ».",
+     "Oui, parce que Socrate était réellement athénien, né à Athènes.",
+     "Non, parce qu’une des prémisses est fausse : tous les Athéniens ne sont pas grecs."
+    ],
+    "a": 1,
+    "fb": "Aristote est né à Stagire : il était grec, mais pas athénien. Il suffit d'un cas de même forme, avec des prémisses vraies et une conclusion fausse, pour montrer que la forme n'est pas valide. La faute : « grecs » (le moyen terme) n'est jamais pris dans toute son extension."
+   },
+   {
+    "q": "« J'ai vu trois cents cygnes et tous étaient blancs ; donc tous les cygnes sont blancs. » De quel type de raisonnement s'agit-il et quel est son problème ?",
+    "o": [
+     "C’est une déduction valide, parce que les trois cents observations sont vraies.",
+     "C'est une induction : les prémisses peuvent être vraies et la conclusion fausse.",
+     "C’est une déduction invalide, parce qu’il reste encore des cygnes à voir dans le monde.",
+     "C’est un sophisme, parce qu’on ne peut jamais généraliser à partir de cas."
+    ],
+    "a": 1,
+    "fb": "Il généralise à partir de cas observés : c’est une induction. Elle peut être plus ou moins forte, mais elle n’est pas valide au sens déductif : les prémisses pourraient être vraies et la conclusion fausse (et c’est bien le cas : en Australie il y a des cygnes noirs). Induire n’est pas une erreur ; l’erreur est de confondre une induction avec une déduction."
+   },
+   {
+    "q": "Lequel de ces raisonnements est une déduction ?",
+    "o": [
+     "Tous les corbeaux que j'ai vus sont noirs ; donc tous les corbeaux sont noirs.",
+     "S'il pleut, le sol se mouille ; il pleut ; donc le sol se mouille.",
+     "La Terre et Mars se ressemblent sur beaucoup de points ; la Terre abrite la vie ; donc Mars aussi.",
+     "Le sol est mouillé ; le plus probable est qu'il a plu."
+    ],
+    "a": 1,
+    "fb": "C'est un modus ponens : si les prémisses sont vraies, la conclusion ne peut pas être fausse. Les autres sont une généralisation inductive, une analogie et une inférence à la meilleure explication : elles peuvent être raisonnables, mais elles ne garantissent pas la conclusion."
+   },
+   {
+    "q": "Cas piège : on dit souvent que déduire, c'est « aller du général au particulier ». Est-ce une bonne définition ?",
+    "o": [
+     "Oui, c’est exactement ce qui la définit, et c’est pourquoi elle s’oppose à l’induction.",
+     "Pas tout à fait : ce qui la définit, c’est que la conclusion ne peut pas être fausse si les prémisses sont vraies.",
+     "Non : déduire, c’est aller du particulier au général, et l’induction, l’inverse.",
+     "Oui, et c'est pourquoi le syllogisme « tout M est P ; tout S est M ; donc tout S est P » n'est pas une déduction."
+    ],
+    "a": 1,
+    "fb": "Il y a des déductions du général au général (ce syllogisme, qui est valide) et du particulier au particulier (« si Ana vient, Juan vient ; Ana vient ; donc Juan vient »). La marque de la déduction est la nécessité, pas la direction."
+   },
+   {
+    "q": "Dans « Tous les S sont P » (type A), quel terme est distribué, c'est-à-dire de quelle classe parle-t-on tout entière ?",
+    "o": [
+     "Seulement S.",
+     "Seulement P.",
+     "Les deux.",
+     "Aucun."
+    ],
+    "a": 0,
+    "fb": "On dit quelque chose de tous les S, mais pas de tous les P : « tous les chiens sont des mammifères » ne parle pas de tous les mammifères. Dans la E, les deux sont distribués ; dans la I, aucun ; dans la O, seulement le prédicat."
+   },
+   {
+    "q": "Dans « Quelque S n'est pas P » (type O), quel terme est distribué ?",
+    "o": [
+     "Seulement S.",
+     "Seulement P.",
+     "Les deux.",
+     "Aucun."
+    ],
+    "a": 1,
+    "fb": "En disant que quelque S est en dehors de P, ce S est en dehors de toute la classe P : on parle de P tout entier. De S, en revanche, on ne parle que d’une partie. C’est pourquoi la O ne se convertit pas : dans « quelque P n’est pas S », S serait distribué sans l’être dans la prémisse."
+   },
+   {
+    "q": "« Tout M est P ; quelque S est M ; donc tout S est P. » Pourquoi n'est-ce pas valide ?",
+    "o": [
+     "Parce qu’il a deux prémisses universelles, et cela n’est pas permis.",
+     "Parce qu’il conclut de tous les S ce qu’il sait de quelques-uns.",
+     "Parce que le moyen terme apparaît aussi dans la conclusion.",
+     "Il est valide : c’est un syllogisme de la première figure."
+    ],
+    "a": 1,
+    "fb": "Règle du syllogisme : si une prémisse est particulière, la conclusion doit être particulière. Ce qui est valide, c'est « donc quelque S est P » (Darii). Conclure pour tous ce que l'on ne sait que de quelques-uns, c'est généraliser sans droit."
+   },
+   {
+    "q": "« Aucun poisson n'est un mammifère ; aucun mammifère ne respire par des branchies. » Que s'ensuit-il sur les poissons et ce qui respire par des branchies ?",
+    "o": [
+     "Qu’aucun poisson ne respire par des branchies, comme dans Celarent.",
+     "Que tous les poissons respirent par des branchies, comme nous le savions déjà.",
+     "Rien : de deux prémisses négatives on ne déduit rien.",
+     "Que quelque poisson respire par des branchies, au moins un."
+    ],
+    "a": 2,
+    "fb": "Deux prémisses négatives disent seulement que S et P restent en dehors de M ; elles ne disent rien de la façon dont S et P se situent l’un par rapport à l’autre. « Aucun poisson ne respire par des branchies » est, en outre, faux (les poissons respirent par des branchies), et « tous les poissons respirent par des branchies », bien que vrai, ne se déduit pas des prémisses. Celarent a une prémisse affirmative."
+   },
+   {
+    "q": "Cas piège : « Quelques élèves sont sportifs ; quelques sportifs sont musiciens ; donc quelques élèves sont musiciens. » Est-ce valide ?",
+    "o": [
+     "Oui : la conclusion peut être vraie, et dans beaucoup de lycées elle l’est.",
+     "Non : les élèves sportifs et les musiciens peuvent être des personnes différentes.",
+     "Oui, par la transitivité de « être » : ce qui vaut des uns vaut des autres.",
+     "Non, parce qu’il a trois termes, et un syllogisme ne peut en avoir que deux."
+    ],
+    "a": 1,
+    "fb": "De deux prémisses particulières rien ne s'ensuit, et le moyen terme (« sportifs ») n'est distribué dans aucune. Que la conclusion puisse être vraie ne suffit pas : la forme admet des prémisses vraies et une conclusion fausse. Avoir trois termes est la norme dans un syllogisme."
+   }
+  ]
+ },
+ "fil-formalizar-q": {
+  "name": "Formaliser en logique des propositions (Philosophie 1re Bach. · T4 · itinéraire, niveau 3)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "p : « je vais à la fête » ; q : « on m'invite ». « J'irai à la fête seulement si on m'invite » se formalise…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "p ∧ q"
+    ],
+    "a": 0,
+    "fb": "« Seulement si » introduit une condition nécessaire : ce qui suit « seulement si » va dans le conséquent. Si j'y vais, c'est qu'on m'a invité (p → q). Qu'on m'invite ne suffit pas pour que j'y aille : ce serait q → p."
+   },
+   {
+    "q": "Avec les mêmes lettres, « J'irai à la fête si on m'invite » se formalise…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "q ∧ p"
+    ],
+    "a": 1,
+    "fb": "« Si » tout seul introduit l’antécédent, même s’il vient à la fin de la phrase : s’ils m’invitent, j’y vais (q → p). En la comparant à « J’irai à la fête seulement s’ils m’invitent » (p → q), on voit le piège : « si » et « seulement si » inversent le conditionnel. q ∧ p affirmerait qu’ils m’invitent et que j’y vais, et la phrase n’affirme ni l’un ni l’autre."
+   },
+   {
+    "q": "« J'irai à la fête si et seulement si on m'invite » se formalise…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "(p → q) ∨ (q → p)"
+    ],
+    "a": 2,
+    "fb": "Le biconditionnel réunit les deux conditions : être invité est nécessaire et suffisant pour que j'y aille. Il équivaut à (p → q) ∧ (q → p). Avec ∨ au lieu de ∧, ce serait une tautologie, qui ne dit rien."
+   },
+   {
+    "q": "p : « je sors » ; q : « il pleut ». Cas piège : « Je sortirai à moins qu'il ne pleuve » se formalise…",
+    "o": [
+     "¬q → p",
+     "q → ¬p",
+     "p ↔ ¬q",
+     "p ∧ ¬q"
+    ],
+    "a": 0,
+    "fb": "« À moins que » équivaut à « sinon » : s’il ne pleut pas, je sors (¬q → p), ce qui revient à p ∨ q. La phrase ne dit pas ce que je ferai s’il pleut ; la lire comme q → ¬p (« s’il pleut, je ne sors pas ») ou comme p ↔ ¬q (« je sors si et seulement s’il ne pleut pas ») ajoute quelque chose qui n’y est pas. Et p ∧ ¬q affirme que je sors et qu’il ne pleut pas."
+   },
+   {
+    "q": "p : « il étudie » ; q : « il travaille ». « Il n'étudie ni ne travaille » se formalise…",
+    "o": [
+     "¬(p ∧ q)",
+     "¬p ∧ ¬q",
+     "¬p ∧ q",
+     "¬p → q"
+    ],
+    "a": 1,
+    "fb": "« Ni… ni » nie les deux choses à la fois : ¬p ∧ ¬q, qui par De Morgan équivaut à ¬(p ∨ q). En revanche, ¬(p ∧ q) dit seulement qu’il ne fait pas les deux choses à la fois : il pourrait en faire une. ¬p ∧ q nie seulement « il étudie », et ¬p → q dit que, s’il n’étudie pas, il travaille."
+   },
+   {
+    "q": "Avec les mêmes lettres, « Il n'est pas vrai qu'il étudie et qu'il travaille » se formalise…",
+    "o": [
+     "¬p ∧ ¬q",
+     "¬(p ∧ q)",
+     "¬p ∨ q",
+     "¬p ∧ q"
+    ],
+    "a": 1,
+    "fb": "On nie la conjonction entière : il ne fait pas les deux choses à la fois. C’est compatible avec le fait qu’il étudie sans travailler, ou l’inverse. ¬p ∧ ¬q en dit plus : qu’il ne fait ni l’une ni l’autre. ¬p ∨ q et ¬p ∧ q laissent « il travaille » en dehors du « ne… pas », alors que la phrase nie tout ensemble."
+   },
+   {
+    "q": "p : « tu viens » ; q : « j'y vais ». « Ou bien tu viens, ou bien j'y vais, mais pas les deux » se formalise…",
+    "o": [
+     "p ∨ q",
+     "(p ∨ q) ∧ ¬(p ∧ q)",
+     "(p ∨ q) ∧ (¬p ∧ ¬q)",
+     "¬p ∨ ¬q"
+    ],
+    "a": 1,
+    "fb": "C’est le « ou » exclusif : au moins un des deux, et pas les deux. Il équivaut à ¬(p ↔ q). Le ∨ de la logique est inclusif et il est aussi vrai quand les deux viennent ; ¬p ∨ ¬q dit seulement qu’ils ne viennent pas tous les deux. Et (p ∨ q) ∧ (¬p ∧ ¬q) est une contradiction : « pas les deux » n’est pas « aucun des deux »."
+   },
+   {
+    "q": "p : « c'est cher » ; q : « je l'achète ». « C'est cher ; pourtant, je l'achète » se formalise…",
+    "o": [
+     "p → q",
+     "p ∧ q",
+     "¬p ∧ q",
+     "p → ¬q"
+    ],
+    "a": 1,
+    "fb": "« Pourtant », « mais » et « bien que » affirment les deux choses : ce sont une conjonction. La nuance de contraste (« on s'attendrait à ce que je ne l'achète pas ») est réelle, mais la logique des propositions ne la retient pas."
+   },
+   {
+    "q": "p : « tu étudies » ; q : « tu te laisses distraire » ; r : « tu réussis ». « Si tu étudies et que tu ne te laisses pas distraire, tu réussis » se formalise…",
+    "o": [
+     "p ∧ (¬q → r)",
+     "(p ∧ ¬q) → r",
+     "p ∧ ¬q ∧ r",
+     "(p → r) ∧ ¬q"
+    ],
+    "a": 1,
+    "fb": "L’antécédent est « tu étudies et tu ne te distrais pas » tout entier, il va donc entre parenthèses : (p ∧ ¬q) → r. p ∧ (¬q → r) affirme que tu étudies, et ne pose le « tu ne te distrais pas » que comme condition."
+   },
+   {
+    "q": "Avec les mêmes lettres, « Tu étudies, et si tu ne te laisses pas distraire, tu réussis » se formalise…",
+    "o": [
+     "(p ∧ ¬q) → r",
+     "p ∧ (¬q → r)",
+     "p → (¬q ∧ r)",
+     "p ∧ ¬q ∧ r"
+    ],
+    "a": 1,
+    "fb": "Ici on affirme que tu étudies, et en plus un conditionnel : p ∧ (¬q → r). Compare-la avec « Si tu étudies et ne te distrais pas, tu réussis », qui est (p ∧ ¬q) → r : les mêmes lettres avec d’autres parenthèses disent des choses différentes. Par exemple, si tu n’étudies pas, (p ∧ ¬q) → r est vraie et p ∧ (¬q → r) est fausse."
+   },
+   {
+    "q": "Cas piège : quelqu'un promet « si tu réussis, je t'offre le vélo » (p → q). Tu ne réussis pas et il t'offre le vélo. A-t-il manqué à sa promesse ?",
+    "o": [
+     "Oui : je devais te l’offrir seulement au cas où tu réussirais.",
+     "Non : elle ne serait violée que si tu réussissais et que je ne te l’offrais pas.",
+     "Oui, parce que la promesse était en réalité un biconditionnel.",
+     "On ne peut pas le savoir sans demander ce qu’il voulait dire."
+    ],
+    "a": 1,
+    "fb": "p → q n'est faux que lorsque p est vrai et q faux. Dans la conversation, on comprend souvent « seulement si tu réussis », c'est-à-dire un biconditionnel ; mais ce qui a été dit est un conditionnel, et la promesse est tenue."
+   },
+   {
+    "q": "p : « tu votes » ; q : « tu as 18 ans ». « Pour voter, il est nécessaire d'avoir 18 ans » se formalise…",
+    "o": [
+     "q → p",
+     "p → q",
+     "p ↔ q",
+     "p ∧ q"
+    ],
+    "a": 1,
+    "fb": "Une condition nécessaire va dans le conséquent : si tu votes, c'est que tu as 18 ans. Avoir 18 ans ne suffit pas pour voter (il faut être inscrit, par exemple), donc q → p serait faux."
+   },
+   {
+    "q": "p : « il pleut » ; q : « le match est annulé ». « Il suffit qu'il pleuve pour que le match soit annulé » se formalise…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "p ∧ q"
+    ],
+    "a": 0,
+    "fb": "« Il suffit de » introduit une condition suffisante, qui va dans l’antécédent : s’il pleut, on annule. Le match pourrait être annulé pour d’autres raisons ; on ne peut donc pas l’inverser (q → p) ni dire que la pluie est nécessaire (p ↔ q). Et la phrase n’affirme pas qu’il pleuve, comme le ferait p ∧ q."
+   },
+   {
+    "q": "p : « il pleut » ; q : « il fait froid ». « Il ne pleut pas, mais il fait froid » se formalise…",
+    "o": [
+     "¬(p ∧ q)",
+     "¬p ∧ q",
+     "¬p → q",
+     "¬(p ∨ q)"
+    ],
+    "a": 1,
+    "fb": "Le « ne… pas » ne porte que sur « il pleut », et « mais » est une conjonction. ¬(p ∧ q) nie que les deux choses arrivent à la fois, ce qui est beaucoup moins."
+   },
+   {
+    "q": "p : « il pleut » ; q : « je sors » ; r : « je vais au cinéma ». « S'il pleut, je ne sors pas et je ne vais pas au cinéma » se formalise…",
+    "o": [
+     "(p → ¬q) ∧ ¬r",
+     "p → (¬q ∧ ¬r)",
+     "p → ¬(q ∧ r)",
+     "¬p → (q ∧ r)"
+    ],
+    "a": 1,
+    "fb": "Les deux négations dépendent de la pluie : elles vont ensemble dans le conséquent. (p → ¬q) ∧ ¬r affirme que je ne vais pas au cinéma, qu’il pleuve ou non. p → ¬(q ∧ r) dit moins : seulement que je ne fais pas les deux choses."
+   }
+  ]
+ },
+ "fil-cuantif-q": {
+  "name": "Quantificateurs, carré logique et conversion (Philosophie 1re Bach. · T4 · itinéraire, niveau 6)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "« Tous les S sont P » s'écrit avec des quantificateurs…",
+    "o": [
+     "∀x (Sx ∧ Px)",
+     "∀x (Sx → Px)",
+     "∃x (Sx → Px)",
+     "∀x (Px → Sx)"
+    ],
+    "a": 1,
+    "fb": "Pour n'importe quelle chose : si elle est S, elle est P. Avec ∧, cela dirait que tout est à la fois S et P, ce qui est beaucoup plus fort ; ∀x (Px → Sx), c'est « tous les P sont S »."
+   },
+   {
+    "q": "Cas piège : « Quelque S est P » s'écrit…",
+    "o": [
+     "∃x (Sx → Px)",
+     "∃x (Sx ∧ Px)",
+     "∀x (Sx ∧ Px)",
+     "∃x Sx → ∃x Px"
+    ],
+    "a": 1,
+    "fb": "Il existe au moins une chose qui est S et P. ∃x (Sx → Px) est presque vide : elle est vraie dès qu'il existe quelque chose qui n'est pas S, parce que pour cette chose le conditionnel est vrai. Avec ∃ va ∧ ; avec ∀ va →."
+   },
+   {
+    "q": "« Aucun S n'est P » s'écrit…",
+    "o": [
+     "∀x (Sx → ¬Px)",
+     "∀x ¬(Sx → Px)",
+     "∃x (Sx ∧ ¬Px)",
+     "∀x ¬Sx"
+    ],
+    "a": 0,
+    "fb": "Pour toute chose : si elle est S, elle n’est pas P. Cela équivaut à ¬∃x (Sx ∧ Px). ∃x (Sx ∧ ¬Px) est la O (« quelque S n’est pas P »), qui dit beaucoup moins ; ∀x ¬(Sx → Px) dirait que tout est S et n’est pas P, et ∀x ¬Sx, qu’il n’y a aucun S."
+   },
+   {
+    "q": "« Quelque S n'est pas P » s'écrit…",
+    "o": [
+     "∃x (Sx ∧ ¬Px)",
+     "∃x ¬(Sx ∧ Px)",
+     "¬∃x (Sx ∧ ¬Px)",
+     "∀x (Sx → ¬Px)"
+    ],
+    "a": 0,
+    "fb": "Il y a au moins une chose qui est S et n’est pas P. ∃x ¬(Sx ∧ Px) serait vraie avec n’importe quelle chose qui ne serait pas S ; ¬∃x (Sx ∧ ¬Px) est la A (« tout S est P »), et ∀x (Sx → ¬Px), la E (« aucun S n’est P »)."
+   },
+   {
+    "q": "La négation de ∀x Px (« tout est P ») est…",
+    "o": [
+     "∀x ¬Px",
+     "∃x ¬Px",
+     "¬∃x ¬Px",
+     "∃x Px"
+    ],
+    "a": 1,
+    "fb": "Pour que tout ne soit pas P, il suffit qu’il y ait quelque chose qui ne le soit pas. ∀x ¬Px (« rien n’est P ») est la contraire, non la contradictoire : les deux peuvent être fausses à la fois. ¬∃x ¬Px équivaut à ∀x Px : elle ne la nie pas, elle la répète."
+   },
+   {
+    "q": "P : « se présente » ; A : « réussit ». « Ceux qui se présentent ne réussissent pas tous » s'écrit…",
+    "o": [
+     "∀x (Px → ¬Ax)",
+     "∃x (Px ∧ ¬Ax)",
+     "¬∀x (Px ∧ Ax)",
+     "∃x (¬Px ∧ Ax)"
+    ],
+    "a": 1,
+    "fb": "Nier une A donne une O : il y a quelqu’un qui se présente et ne réussit pas (cela équivaut à ¬∀x (Px → Ax)). ∀x (Px → ¬Ax) dirait que personne ne réussit, ce qui est beaucoup plus fort ; ¬∀x (Px ∧ Ax) serait satisfaite dès qu’il y aurait quelqu’un qui ne se présente pas."
+   },
+   {
+    "q": "Cas piège. S : « est membre » ; E : « peut entrer ». « Seuls les membres peuvent entrer » s'écrit…",
+    "o": [
+     "∀x (Sx → Ex)",
+     "∀x (Ex → Sx)",
+     "∃x (Sx ∧ Ex)",
+     "∀x (Sx ↔ Ex)"
+    ],
+    "a": 1,
+    "fb": "« Seuls les S sont E » signifie « tous les E sont S » : si quelqu’un peut entrer, c’est un membre. Cela ne dit pas que tous les membres peuvent entrer (ce serait ∀x (Sx → Ex)) : un membre sanctionné pourrait ne pas entrer."
+   },
+   {
+    "q": "Q : « aime ». Compare « ∀x ∃y Qxy » (tout le monde aime quelqu'un) et « ∃y ∀x Qxy » (il y a quelqu'un que tout le monde aime). Quelle relation y a-t-il entre elles ?",
+    "o": [
+     "Elles disent la même chose.",
+     "La seconde implique la première, mais pas l'inverse.",
+     "La première implique la seconde, mais pas l'inverse.",
+     "Aucune n'implique l'autre."
+    ],
+    "a": 1,
+    "fb": "S'il y a quelqu'un que tout le monde aime, chacun aime quelqu'un (cette personne). Mais que chacun aime quelqu'un n'oblige pas à ce que ce soit la même personne. L'ordre des quantificateurs change ce qui est dit."
+   },
+   {
+    "q": "Dans la formule ∀x (Px → Qy), quelle variable est libre ?",
+    "o": [
+     "x",
+     "et",
+     "Les deux.",
+     "Aucune."
+    ],
+    "a": 1,
+    "fb": "Le x est lié par ∀x ; le y n'est lié par aucun quantificateur. C'est pourquoi la formule n'est ni vraie ni fausse tant qu'on ne dit pas de qui parle y : c'est comme « il est grand » sans savoir qui est « il »."
+   },
+   {
+    "q": "P : « est pair » ; I : « est impair ». Laquelle de ces inférences est valide ?",
+    "o": [
+     "De ∃x Px ∧ ∃x Ix s'ensuit ∃x (Px ∧ Ix).",
+     "De ∃x (Px ∧ Ix) s'ensuit ∃x Px ∧ ∃x Ix.",
+     "Les deux.",
+     "Aucune."
+    ],
+    "a": 1,
+    "fb": "Si quelque chose est pair et impair, il y a quelque chose de pair et quelque chose d'impair. Mais pas l'inverse : il y a des nombres pairs et des nombres impairs, et aucun n'est les deux à la fois. Le ∃ se distribue sur le ∧ dans un sens, mais ne se regroupe pas dans l'autre."
+   },
+   {
+    "q": "Cas piège : « Tous les dragons crachent du feu » et « Quelque dragon crache du feu ». Pour la logique actuelle, s'il n'y a pas de dragons…",
+    "o": [
+     "Les deux sont fausses, parce qu’il n’existe aucun dragon.",
+     "La première est vraie et la seconde fausse.",
+     "Les deux sont vraies, parce que personne ne les dément.",
+     "Aucune n’est vraie ni fausse : elles parlent de quelque chose qui n’existe pas."
+    ],
+    "a": 1,
+    "fb": "∀x (Dx → Fx) est vraie s'il n'y a aucun dragon pour la contredire ; ∃x (Dx ∧ Fx) a besoin d'un dragon. C'est pourquoi, dans la logique actuelle, la I ne s'ensuit pas de la A : c'est le problème du sujet vide (la portée existentielle)."
+   },
+   {
+    "q": "Quelle relation du carré logique reste la même dans la lecture traditionnelle et dans l'actuelle ?",
+    "o": [
+     "Les contraires (A et E) : elles ne sont jamais vraies à la fois.",
+     "Les subcontraires (I et O) : elles ne sont jamais fausses à la fois.",
+     "Les subalternes : de la A on déduit la I.",
+     "Les contradictoires (A et O, E et I)."
+    ],
+    "a": 3,
+    "fb": "A et O, et E et I, ont toujours des valeurs opposées, qu'il existe ou non des choses dont on parle. Les trois autres relations dépendent de la supposition qu'il existe quelque S, et elles échouent avec le sujet vide."
+   },
+   {
+    "q": "Laquelle de ces conversions est valide sans aucune supposition supplémentaire ?",
+    "o": [
+     "« Aucun S n'est P » → « Aucun P n'est S ».",
+     "« Tous les S sont P » → « Tous les P sont S ».",
+     "« Quelque S n'est pas P » → « Quelque P n'est pas S ».",
+     "« Tous les S sont P » → « Quelque P est S »."
+    ],
+    "a": 0,
+    "fb": "La E et la I se convertissent simplement. La A, non : tous les chiens sont des mammifères, mais tous les mammifères ne sont pas des chiens. La conversion de la A « par limitation » (de « Tous les S sont P » à « Quelque P est S ») ne vaut que s’il y a quelque S."
+   },
+   {
+    "q": "Cas piège : « Quelque animal n'est pas un chien ». Peut-on la convertir en « Quelque chien n'est pas un animal » ?",
+    "o": [
+     "Oui : la O se convertit comme la I, en échangeant S et P.",
+     "Non : la O ne se convertit pas, et ici elle mène à quelque chose de faux.",
+     "Oui, pourvu qu’il y ait au moins un chien dans le monde.",
+     "Seulement dans la logique traditionnelle, qui supposait qu’il y a des chiens."
+    ],
+    "a": 1,
+    "fb": "Le contre-exemple dit tout : prémisse vraie, conclusion fausse. Dans la O, le prédicat est distribué et le sujet ne l'est pas ; en les échangeant, on parle de tous les animaux sans droit."
+   },
+   {
+    "q": "Darapti : « Tout M est P ; tout M est S ; donc quelque S est P ». Dans la logique actuelle…",
+    "o": [
+     "Il est valide purement et simplement, comme dans la logique d’Aristote.",
+     "Non ; il l’est si l’on ajoute qu’il y a quelque M.",
+     "Il n’est valide que s’il n’y a aucun M dans le monde.",
+     "Il n’est valide d’aucune manière, pas même en ajoutant des prémisses."
+    ],
+    "a": 1,
+    "fb": "Les deux prémisses universelles ne disent pas qu'il existe le moindre M, alors que la conclusion affirme bien que quelque chose existe. S'il n'y a aucun M, les prémisses sont vraies et la conclusion peut être fausse. Avec la prémisse « il existe quelque M », il redevient valide."
+   }
+  ]
+ },
+ "fil-boole-q": {
+  "name": "Classes, ensembles et algèbre de Boole : la même loi en cinq langages (Philosophie 1re Bach. · T4 · itinéraire, niveau 5)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Dans l'algèbre de Boole, le produit x · y correspond à…",
+    "o": [
+     "la conjonction (∧), l'intersection (∩) et la porte AND",
+     "la disjonction (∨), la réunion (∪) et la porte OR",
+     "la négation (¬), le complémentaire (Aᶜ) et la porte NOT",
+     "le conditionnel (→), l’inclusion (A ⊆ B) et la porte IMPLY"
+    ],
+    "a": 0,
+    "fb": "x · y vaut 1 seulement si x et y valent 1, de même que p ∧ q n'est vraie que si les deux le sont, et qu'un élément est dans A ∩ B seulement s'il est dans A et dans B."
+   },
+   {
+    "q": "Chez Boole, 1 + 1 = 1. À quel connecteur correspond cette somme ?",
+    "o": [
+     "À ∧",
+     "À ∨",
+     "À ¬",
+     "À ↔"
+    ],
+    "a": 1,
+    "fb": "La somme de Boole vaut 1 si au moins un terme vaut 1 : c'est le ∨ inclusif, la réunion et la porte OR. C'est pourquoi 1 + 1 ne fait pas 2, mais 1 (« vrai ou vrai » est vrai)."
+   },
+   {
+    "q": "Avec les nombres habituels, si x et y ne valent que 0 ou 1, quel calcul donne exactement la valeur de x ∨ y ?",
+    "o": [
+     "x + y",
+     "x · y",
+     "x + y − x · y",
+     "(x + y) · (1 − x · y)"
+    ],
+    "a": 2,
+    "fb": "Avec x = y = 1, x + y donnerait 2 ; soustraire x · y le corrige en 1, et dans les autres cas cela ne change rien. x · y est le ∧, et (x + y) · (1 − x · y) donne 0 avec x = y = 1 : c’est le « ou » exclusif, non l’inclusif."
+   },
+   {
+    "q": "Avec les nombres habituels (0 et 1), la négation de x est…",
+    "o": [
+     "−x",
+     "1 − x",
+     "x − 1",
+     "1 / x"
+    ],
+    "a": 1,
+    "fb": "Si x = 1, cela donne 0 ; si x = 0, cela donne 1. Dans les ensembles, c'est le complémentaire (Aᶜ) et dans les circuits, la porte NOT."
+   },
+   {
+    "q": "La loi de De Morgan ¬(p ∧ q) ↔ ¬p ∨ ¬q, écrite dans l'algèbre de Boole, est…",
+    "o": [
+     "(x · y)′ = x′ · y′",
+     "(x · y)′ = x′ + y′",
+     "(x + y)′ = x′ + y′",
+     "x′ · y′ = x + y"
+    ],
+    "a": 1,
+    "fb": "En dehors de « les deux à la fois », c’est « l’un échoue ou l’autre échoue ». En ensembles, (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ ; en circuits, un NAND est un OR de deux NOT. (x · y)′ = x′ · y′ est l’erreur classique : distribuer la négation sans changer l’opération."
+   },
+   {
+    "q": "À quoi correspondent la tautologie et la contradiction dans les ensembles ?",
+    "o": [
+     "À l'univers U et à l'ensemble vide ∅.",
+     "À l’ensemble vide ∅ et à l’univers U, dans cet ordre.",
+     "À la réunion et à l'intersection.",
+     "À un ensemble A et à son complémentaire Aᶜ."
+    ],
+    "a": 0,
+    "fb": "Une tautologie est vraie dans tous les cas, comme U contient tous les éléments ; une contradiction ne l'est dans aucun, comme ∅ n'en contient aucun. Chez Boole, ce sont 1 et 0, et dans un circuit, la lampe toujours allumée ou toujours éteinte."
+   },
+   {
+    "q": "Dans l'algèbre de Boole, x + x est égal à…",
+    "o": [
+     "2x",
+     "x",
+     "0",
+     "1"
+    ],
+    "a": 1,
+    "fb": "C'est l'idempotence : p ∨ p équivaut à p, et A ∪ A = A. Avec les nombres habituels, 1 + 1 = 2 : c'est pourquoi le tableau des ponts écrit le ∨ comme x + y − x · y."
+   },
+   {
+    "q": "La loi d'absorption p ∨ (p ∧ q) ↔ p, dans les ensembles, est…",
+    "o": [
+     "A ∪ (A ∩ B) = A",
+     "A ∩ (A ∪ B) = B",
+     "A ∪ B = A",
+     "(A ∩ B)ᶜ = A"
+    ],
+    "a": 0,
+    "fb": "Ce qui est dans A, ou à la fois dans A et dans B, c'est simplement ce qui est dans A : la partie commune était déjà à l'intérieur de A. La loi sœur est A ∩ (A ∪ B) = A."
+   },
+   {
+    "q": "Laquelle de ces égalités vaut dans l'algèbre de Boole, mais pas avec les nombres habituels ?",
+    "o": [
+     "x · (y + z) = x · y + x · z",
+     "x + y · z = (x + y) · (x + z)",
+     "x · (y + z + w) = x · y + x · z + x · w",
+     "x · 1 = x"
+    ],
+    "a": 1,
+    "fb": "C'est l'autre distributivité, p ∨ (q ∧ r) ↔ (p ∨ q) ∧ (p ∨ r). Avec x = y = z = 1, à gauche cela donne 1 + 1 = 2 et à droite 2 · 2 = 4 avec les nombres habituels, mais 1 chez Boole. Les autres valent des deux côtés."
+   },
+   {
+    "q": "La différence d'ensembles A − B (ce qui est dans A et pas dans B) correspond à…",
+    "o": [
+     "p → q",
+     "p ∧ ¬q",
+     "¬(p ∧ q)",
+     "p ∨ ¬q"
+    ],
+    "a": 1,
+    "fb": "Être dans A et ne pas être dans B : p ∧ ¬q, c'est-à-dire A ∩ Bᶜ. Curieusement, c'est la négation du conditionnel : ¬(p → q) ↔ p ∧ ¬q."
+   },
+   {
+    "q": "Un NAND ne donne 0 que lorsque ses deux entrées valent 1. À quelle formule correspond-il ?",
+    "o": [
+     "¬p ∧ ¬q",
+     "¬(p ∧ q)",
+     "¬(p ↔ q)",
+     "p ∧ q"
+    ],
+    "a": 1,
+    "fb": "NAND est « NOT AND » : la négation de la conjonction, qui par De Morgan est ¬p ∨ ¬q. ¬p ∧ ¬q est le NOR, qui ne donne 1 que si les deux entrées valent 0 ; ¬(p ↔ q) est le XOR, qui donne 0 avec deux uns, mais aussi avec deux zéros."
+   },
+   {
+    "q": "Le paradoxe de Russell prend la classe R de toutes les classes qui ne sont pas membres d'elles-mêmes. Que se passe-t-il quand on demande si R est membre de R ?",
+    "o": [
+     "Qu'elle l'est, et il n'y a pas de problème.",
+     "Qu'elle ne l'est pas, et il n'y a pas de problème.",
+     "Qu'elle l'est si et seulement si elle ne l'est pas : une contradiction.",
+     "Que la question n'a pas de sens en logique des propositions, mais en a chez Boole."
+    ],
+    "a": 2,
+    "fb": "Si R ∈ R, elle remplit la condition de ne pas appartenir à elle-même, donc R ∉ R ; et si R ∉ R, elle la remplit, donc R ∈ R. La solution a été de ne pas permettre à n'importe quelle propriété de définir une classe : les axiomes de la théorie des ensembles disent lesquelles existent."
+   }
+  ]
+ },
+ "fil-relaciones-q": {
+  "name": "Propriétés des relations et petits mondes (Philosophie 1re Bach. · T4 · itinéraire, niveau 8)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Quelles propriétés a « être plus grand que » ?",
+    "o": [
+     "Réflexive, symétrique et transitive.",
+     "Transitive et asymétrique ; elle n'est pas réflexive.",
+     "Symétrique et transitive, mais non réflexive.",
+     "Seulement réflexive : chacun est plus grand que lui-même."
+    ],
+    "a": 1,
+    "fb": "Si Ana est plus grande que Bea et Bea plus grande que Carla, Ana est plus grande que Carla (transitive) ; si Ana est plus grande que Bea, Bea ne l'est pas qu'Ana (asymétrique) ; et personne n'est plus grand que soi-même."
+   },
+   {
+    "q": "« Être aussi grand que » est…",
+    "o": [
+     "Réflexive, symétrique et transitive.",
+     "Symétrique, mais non transitive : elle échoue dans les chaînes.",
+     "Transitive, mais non symétrique, comme « plus grand que ».",
+     "Seulement symétrique, parce que la taille varie."
+    ],
+    "a": 0,
+    "fb": "Chacun est de la même taille que lui-même ; si a a la même taille que b, b a la même taille que a ; et si a a la même taille que b et b que c, a a la même taille que c : c’est une relation d’équivalence. Une équivalence répartit les choses en groupes (ici, par tailles)."
+   },
+   {
+    "q": "« Être ami de » est-elle transitive ?",
+    "o": [
+     "Oui, toujours : les amis de mes amis sont mes amis.",
+     "Non : l'ami d'un ami n'est pas toujours ton ami.",
+     "Oui, parce qu’elle est symétrique, et ce qui est symétrique est transitif.",
+     "Non, parce qu’elle n’est ni symétrique ni réflexive."
+    ],
+    "a": 1,
+    "fb": "Elle est symétrique (du moins si l'amitié est mutuelle), mais pas transitive : il suffit d'un cas où a est ami de b, b de c, et a n'est pas ami de c. Symétrie et transitivité sont indépendantes."
+   },
+   {
+    "q": "Cas piège : « être frère ou sœur de » est symétrique. Est-elle transitive ?",
+    "o": [
+     "Oui : les frères et sœurs de mes frères et sœurs sont mes frères et sœurs, et cela, c’est la transitivité.",
+     "Non : Ana est la sœur de Bea et Bea celle d’Ana, mais Ana ne l’est pas d’elle-même.",
+     "Oui, s’il s’agit de frères et sœurs de même père et même mère, et non de demi-frères et demi-sœurs.",
+     "On ne peut pas le savoir sans connaître la famille entière."
+    ],
+    "a": 1,
+    "fb": "La transitivité doit valoir aussi quand la chaîne revient au point de départ (a avec b, b avec a) : elle obligerait a à être sa propre sœur. Presque transitive, ce n'est pas transitive : un contre-exemple suffit."
+   },
+   {
+    "q": "Dans les entiers naturels, « être diviseur de » (3 est diviseur de 12) est réflexive et transitive. Quelle propriété n'a-t-elle pas ?",
+    "o": [
+     "Réflexive.",
+     "Transitive.",
+     "Symétrique.",
+     "Aucune : elle les a toutes."
+    ],
+    "a": 2,
+    "fb": "3 divise 12, mais 12 ne divise pas 3. Elle est antisymétrique : si a divise b et b divise a, alors a = b. Réflexive, antisymétrique et transitive : c'est un ordre (partiel)."
+   },
+   {
+    "q": "Si une relation est symétrique et transitive, est-elle aussi réflexive ?",
+    "o": [
+     "Oui : de a R b et b R a on déduit a R a, par transitivité, tout simplement.",
+     "Non : il suffit qu'il y ait quelque chose qui ne soit relié à rien.",
+     "Oui, toujours, dans n’importe quel monde que l’on essaie.",
+     "Seulement si elle est asymétrique."
+    ],
+    "a": 1,
+    "fb": "L’argument « de a R b et b R a on déduit a R a » ne vaut que pour les choses qui sont reliées à quelque chose. Dans le monde {a, b} avec R = {(a, a)}, R est symétrique et transitive, mais non réflexive : b n’est pas reliée à elle-même."
+   },
+   {
+    "q": "Si une relation est asymétrique (si a R b, alors pas b R a), que s'ensuit-il ?",
+    "o": [
+     "Qu’elle est transitive, comme « être plus grand que ».",
+     "Qu’elle est irréflexive : rien n’est relié à soi-même.",
+     "Qu’elle est réflexive : tout est relié à soi-même.",
+     "Rien : l’asymétrie ne dit rien de a R a."
+    ],
+    "a": 1,
+    "fb": "Si a R a, en prenant b = a, l'asymétrie exigerait que pas a R a : contradiction. L'inverse ne vaut pas : « être frère ou sœur de » est irréflexive et symétrique."
+   },
+   {
+    "q": "Si une relation est transitive et irréflexive, est-elle asymétrique ?",
+    "o": [
+     "Oui : si a R b et b R a, on aurait a R a, ce qui est interdit.",
+     "Non : la transitivité et l’irréflexivité ne disent rien de la symétrie.",
+     "Seulement si elle est en plus symétrique, comme l’amitié.",
+     "Seulement dans les mondes finis, où l’on peut regarder tous les couples."
+    ],
+    "a": 0,
+    "fb": "C'est une démonstration en trois étapes. C'est pourquoi « être plus grand que » est asymétrique sans qu'il soit besoin de le vérifier : il suffit de voir qu'elle est transitive et que personne n'est plus grand que soi-même."
+   },
+   {
+    "q": "Un petit monde : les choses sont a, b et c, et R = {(a, b), (b, c)}. R est-elle transitive ?",
+    "o": [
+     "Oui : de a on arrive à c en passant par b.",
+     "Non : elle a (a, b) et (b, c), mais pas (a, c).",
+     "Oui, parce qu’elle n’est ni symétrique ni réflexive.",
+     "On ne peut pas le savoir sans connaître davantage de choses du monde."
+    ],
+    "a": 1,
+    "fb": "Pour être transitive, chaque fois qu'il y a un chemin en deux étapes, il doit y avoir aussi le raccourci. Ici, il manque (a, c). Si on l'ajoute, R devient transitive."
+   },
+   {
+    "q": "Dans le même monde (a, b, c ; R = {(a, b), (b, c)}), « ∀x ∃y Rxy », « chaque chose est reliée à quelque chose », est-elle vraie ?",
+    "o": [
+     "Oui.",
+     "Non : c n'est relié à rien.",
+     "Oui, parce qu'il y a trois couples.",
+     "Non, parce que a ne reçoit aucune flèche."
+    ],
+    "a": 1,
+    "fb": "Il faut regarder chaque x : a a son y (b), b a le sien (c), mais c n'en a aucun. Que a ne reçoive pas de flèches compterait pour ∀y ∃x Rxy, pas pour cette phrase."
+   },
+   {
+    "q": "Dans le même monde, « ∃x ∀y ¬Ryx », « il y a quelque chose à quoi rien n'est relié », est-elle vraie ?",
+    "o": [
+     "Oui : rien n'est relié à a.",
+     "Non : tout reçoit une flèche.",
+     "Oui : c n'est relié à rien.",
+     "On ne peut pas savoir."
+    ],
+    "a": 0,
+    "fb": "Ryx veut dire « y est relié à x » : on cherche un x vers lequel n’arrive aucune flèche, et c’est a. La réponse « c n’est relié à rien » confond la direction : c n’a pas de flèches qui en partent, mais il en arrive une (de b)."
+   },
+   {
+    "q": "Cas piège : tu essaies beaucoup de relations symétriques et transitives dans un monde de trois choses et elles se révèlent toutes réflexives. Est-il démontré que toute relation symétrique et transitive est réflexive ?",
+    "o": [
+     "Oui, si on en a essayé beaucoup.",
+     "Non : un petit monde peut réfuter, mais non démontrer ; et en outre c’est faux.",
+     "Oui, si on essaie toutes celles de ce monde.",
+     "Non, parce que trois choses, c’est peu ; avec dix ou avec cent, ce serait déjà démontré."
+    ],
+    "a": 1,
+    "fb": "Pour démontrer, il faut valoir dans tous les mondes, et aucun nombre de cas ne l’assure. Ici, de plus, il y a un contre-exemple : dans le monde {a, b}, R = {(a, a)} est symétrique et transitive, mais non réflexive, parce que b n’est pas reliée à elle-même. C’est la limite du niveau 8."
    }
   ]
  },

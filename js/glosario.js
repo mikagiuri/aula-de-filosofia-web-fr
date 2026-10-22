@@ -1038,6 +1038,60 @@ const GLOSARIO = [
  },
  {
   "subject": "fil",
+  "t": "L'appel à l'émotion",
+  "id": "g-fil-apelacion-a-la-emocion",
+  "et": "En latin, *ad misericordiam*, « à la compassion », et *ad baculum*, « au bâton », c'est-à-dire à la menace.",
+  "area": "Logique",
+  "tema": "Atelier d'argumentation",
+  "def": "Chercher à faire accepter quelque chose en suscitant une émotion (pitié, peur, fierté) au lieu de donner des raisons."
+ },
+ {
+  "subject": "fil",
+  "t": "Tu quoque",
+  "id": "g-fil-tu-quoque",
+  "et": "Du latin : « toi aussi ». C'est une variante de l'attaque contre la personne (ad hominem).",
+  "area": "Logique",
+  "tema": "Atelier d'argumentation",
+  "def": "Rejeter une critique en faisant remarquer que celui qui la formule ne respecte pas non plus ce qu'il demande : il peut être incohérent, mais cela ne rend pas la critique fausse."
+ },
+ {
+  "subject": "fil",
+  "t": "Fausse analogie",
+  "id": "g-fil-falsa-analogia",
+  "et": "*Analogie*, du grec ἀναλογία (*analogía*), « proportion, correspondance ».",
+  "area": "Logique",
+  "tema": "Atelier d'argumentation",
+  "def": "Conclure que deux choses coïncident sur un point parce qu'elles se ressemblent sur d'autres, alors que les différences qui comptent l'emportent sur les ressemblances."
+ },
+ {
+  "subject": "fil",
+  "t": "Équivoque",
+  "id": "g-fil-equivoco",
+  "et": "Du latin *aequivocus*, « de voix égale » : un même mot pour des choses différentes. Aristote l'étudie sous le nom de παρὰ τὴν ὁμωνυμίαν (*parà tèn homonymían*), « par homonymie » (*Réfutations sophistiques* 4).",
+  "area": "Logique",
+  "tema": "Atelier d'argumentation",
+  "def": "Employer un même mot dans deux sens différents au sein d'un raisonnement, comme s'il n'en avait qu'un seul."
+ },
+ {
+  "subject": "fil",
+  "t": "Question piège",
+  "id": "g-fil-pregunta-compleja",
+  "et": "On l'appelle aussi *question captieuse*, du latin *captiosus*, « qui attrape ». Aristote parle de « faire de plusieurs questions une seule » (*Réfutations sophistiques* 5).",
+  "area": "Logique",
+  "tema": "Atelier d'argumentation",
+  "def": "Poser une question qui présuppose quelque chose de non admis, de sorte que n'importe quelle réponse l'admet (« As-tu arrêté de tricher aux examens ? »)."
+ },
+ {
+  "subject": "fil",
+  "t": "Diversion (hareng rouge)",
+  "id": "g-fil-pista-falsa",
+  "et": "Traduit l'anglais *red herring*, « hareng rouge » : selon l'explication habituelle, un poisson fumé à l'odeur forte qui détournait les chiens de chasse de la piste.",
+  "area": "Logique",
+  "tema": "Atelier d'argumentation",
+  "def": "Détourner la discussion vers un autre sujet pour ne pas répondre à celui dont on parlait."
+ },
+ {
+  "subject": "fil",
   "t": "Dissertation",
   "id": "g-fil-disertacion",
   "et": "Du latin *dissertatio*, de *disserere*, « exposer avec ordre, enchaîner des raisons ».",
