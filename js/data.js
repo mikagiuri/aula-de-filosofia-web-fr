@@ -1162,22 +1162,22 @@ const DECKS = {
    [
     "⬇️",
     "Déduction",
-    "Raisonnement dans lequel, si les prémisses sont vraies, la conclusion doit l’être aussi : il va du général au particulier."
+    "Raisonnement dans lequel, si les prémisses sont vraies, la conclusion doit l’être aussi : il va du général au particulier."
    ],
    [
     "⬆️",
     "Induction",
-    "Raisonnement qui généralise à partir de cas observés : la conclusion est probable, jamais certaine."
+    "Raisonnement qui généralise à partir de cas observés : la conclusion est probable, jamais certaine."
    ],
    [
     "🔎",
     "Abduction",
-    "Raisonnement vers la meilleure explication : à partir de certains faits, on infère l’hypothèse qui les explique le mieux."
+    "Raisonnement vers la meilleure explication : à partir de certains faits, on infère l’hypothèse qui les explique le mieux."
    ],
    [
     "🧱",
     "Argument solide",
-    "Argument valide et, en plus, aux prémisses vraies : la seule façon de garantir que la conclusion est vraie."
+    "Argument valide et, en plus, aux prémisses vraies : la seule façon de garantir que la conclusion est vraie."
    ],
    [
     "⚠️",
@@ -1202,7 +1202,7 @@ const DECKS = {
    [
     "🔁",
     "Pétition de principe",
-    "Sophisme dans lequel la conclusion est déjà supposée dans les prémisses : on tient pour prouvé ce qu’il fallait prouver."
+    "Sophisme dans lequel la conclusion est déjà supposée dans les prémisses : on tient pour prouvé ce qu’il fallait prouver."
    ]
   ]
  },
@@ -1213,12 +1213,12 @@ const DECKS = {
    [
     "🧠",
     "Intellectualisme moral",
-    "Socrate : celui qui sait ce qu’est le bien le fait ; le mal naît de l’ignorance."
+    "Socrate : celui qui sait ce qu’est le bien le fait ; le mal naît de l’ignorance."
    ],
    [
     "🌍",
     "Relativisme moral",
-    "Les sophistes : le bon et le juste dépendent de chaque personne ou de chaque société ; il n’y a pas de normes valables pour tous."
+    "Les sophistes : le bon et le juste dépendent de chaque personne ou de chaque société ; il n’y a pas de normes valables pour tous."
    ],
    [
     "🤝",
@@ -1228,32 +1228,32 @@ const DECKS = {
    [
     "❓",
     "Impératif hypothétique",
-    "Kant : commandement soumis à une fin (« si tu veux réussir, étudie ») ; il n’oblige pas celui qui ne veut pas cette fin."
+    "Kant : commandement soumis à une fin (« si tu veux réussir, étudie ») ; il n’oblige pas celui qui ne veut pas cette fin."
    ],
    [
     "📏",
     "Impératif catégorique",
-    "Kant : commandement inconditionné. « Agis uniquement d’après la maxime qui fait que tu peux vouloir en même temps qu’elle devienne une loi universelle »."
+    "Kant : commandement inconditionné. « Agis uniquement d’après la maxime qui fait que tu peux vouloir en même temps qu’elle devienne une loi universelle »."
    ],
    [
     "🫶",
     "Éthique du care",
-    "Gilligan : la morale naît aussi des relations, de la responsabilité et de l’attention à qui est vulnérable, et pas seulement de normes abstraites."
+    "Gilligan : la morale naît aussi des relations, de la responsabilité et de l’attention à qui est vulnérable, et pas seulement de normes abstraites."
    ],
    [
     "💬",
     "Éthique de la discussion",
-    "Habermas et Cortina : une norme est juste si tous ceux qu’elle concerne pouvaient l’accepter après un dialogue libre."
+    "Habermas et Cortina : une norme est juste si tous ceux qu’elle concerne pouvaient l’accepter après un dialogue libre."
    ],
    [
     "🏛️",
     "Stoïcisme",
-    "Épictète et Sénèque : distinguer ce qui dépend de nous de ce qui n’en dépend pas, et vivre en accord avec la raison."
+    "Épictète et Sénèque : distinguer ce qui dépend de nous de ce qui n’en dépend pas, et vivre en accord avec la raison."
    ],
    [
     "🧭",
     "Prudence",
-    "Aristote : la φρόνησις (phrónesis), la sagesse pratique qui permet d’appliquer la vertu à chaque situation concrète."
+    "Aristote : la φρόνησις (phrónesis), la sagesse pratique qui permet d’appliquer la vertu à chaque situation concrète."
    ],
    [
     "⚖️",
@@ -1274,17 +1274,17 @@ const DECKS = {
    [
     "🎖️",
     "Autorité",
-    "Pouvoir accepté comme légitime : on lui obéit parce qu’on le reconnaît, et pas seulement par la force."
+    "Pouvoir accepté comme légitime : on lui obéit parce qu’on le reconnaît, et pas seulement par la force."
    ],
    [
     "✅",
     "Légitimité",
-    "Weber : le pouvoir est accepté par tradition, par le charisme d’un chef ou par des lois rationnelles."
+    "Weber : le pouvoir est accepté par tradition, par le charisme d’un chef ou par des lois rationnelles."
    ],
    [
     "👑",
     "Souveraineté",
-    "Pouvoir suprême d’un État, sans autre au-dessus de lui ; en démocratie, il appartient au peuple."
+    "Pouvoir suprême d’un État, sans autre au-dessus de lui ; en démocratie, il appartient au peuple."
    ],
    [
     "🪪",
@@ -1294,7 +1294,7 @@ const DECKS = {
    [
     "🏗️",
     "Séparation des pouvoirs",
-    "Montesquieu : séparer le pouvoir législatif, l’exécutif et le judiciaire pour que le pouvoir arrête le pouvoir."
+    "Montesquieu : séparer le pouvoir législatif, l’exécutif et le judiciaire pour que le pouvoir arrête le pouvoir."
    ],
    [
     "🗽",
@@ -1314,7 +1314,7 @@ const DECKS = {
    [
     "✋",
     "Désobéissance civile",
-    "Thoreau : enfreindre publiquement et pacifiquement une loi injuste, en acceptant la sanction, pour la faire changer."
+    "Thoreau : enfreindre publiquement et pacifiquement une loi injuste, en acceptant la sanction, pour la faire changer."
    ]
   ]
  },
@@ -1325,32 +1325,32 @@ const DECKS = {
    [
     "🎭",
     "Catharsis",
-    "Aristote : la purification des émotions (pitié et crainte) que la tragédie produit chez le spectateur."
+    "Aristote : la purification des émotions (pitié et crainte) que la tragédie produit chez le spectateur."
    ],
    [
     "🏔️",
     "Le sublime",
-    "Burke et Kant : l’émotion devant l’immense ou le terrible (une tempête, la mer), qui nous dépasse et nous attire à la fois."
+    "Burke et Kant : l’émotion devant l’immense ou le terrible (une tempête, la mer), qui nous dépasse et nous attire à la fois."
    ],
    [
     "✨",
     "Génie",
-    "Kant : le talent qui donne sa règle à l’art ; il crée des œuvres originales qui servent de modèle et ne s’apprennent pas avec une recette."
+    "Kant : le talent qui donne sa règle à l’art ; il crée des œuvres originales qui servent de modèle et ne s’apprennent pas avec une recette."
    ],
    [
     "🎨",
     "Goût",
-    "Capacité de juger du beau ; Hume cherchait une « norme du goût » qui s’éduque par la pratique et la comparaison."
+    "Capacité de juger du beau ; Hume cherchait une « norme du goût » qui s’éduque par la pratique et la comparaison."
    ],
    [
     "🖨️",
     "Reproductibilité technique",
-    "Benjamin : la photographie et le cinéma permettent de copier l’œuvre à l’infini, et l’œuvre perd son « aura » de pièce unique."
+    "Benjamin : la photographie et le cinéma permettent de copier l’œuvre à l’infini, et l’œuvre perd son « aura » de pièce unique."
    ],
    [
     "🏭",
     "Industrie culturelle",
-    "Adorno et Horkheimer : la culture produite en série comme marchandise, qui divertit mais n’invite pas à penser."
+    "Adorno et Horkheimer : la culture produite en série comme marchandise, qui divertit mais n’invite pas à penser."
    ],
    [
     "🚀",
@@ -1360,7 +1360,7 @@ const DECKS = {
    [
     "🚽",
     "Ready-made",
-    "Duchamp : un objet courant que l’artiste choisit et expose comme œuvre, comme la Fontaine (1917)."
+    "Duchamp : un objet courant que l’artiste choisit et expose comme œuvre, comme la Fontaine (1917)."
    ],
    [
     "💡",
