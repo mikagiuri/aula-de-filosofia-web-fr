@@ -485,6 +485,16 @@ const CITAS = [
   "uso": "Pour expliquer l'état de nature et les droits naturels chez Locke, ou pour le comparer à Hobbes et à Rousseau."
  },
  {
+  "c": "Beaucoup se sont imaginé des républiques et des principautés qui n'ont jamais existé ni n'ont été réellement connues ; car il y a si loin de la façon dont on vit à celle dont on devrait vivre, que celui qui laisse ce qui se fait pour ce qui devrait se faire apprend plutôt sa ruine que sa préservation.",
+  "a": "Machiavel",
+  "o": "Le Prince (1513) XV",
+  "e": "moderne",
+  "id": "maquiavelo",
+  "img": "media/retratos/museo2/maquiavelo.jpg",
+  "sen": "Machiavel sépare la politique de la morale : celui qui gouverne doit tenir compte de la manière dont les hommes agissent réellement, et non de républiques idéales, s'il veut conserver le pouvoir.",
+  "uso": "Pour expliquer le réalisme politique de Machiavel et le passage à la politique moderne, ou dans des débats sur l'éthique et la politique."
+ },
+ {
   "c": "Le chrétien est maître de toutes choses et n'est assujetti à personne. Le chrétien est serviteur de toutes choses et assujetti à tous.",
   "a": "Martin Luther",
   "o": "De la liberté du chrétien (1520), § 1",
@@ -1359,6 +1369,17 @@ const CITAS = [
   "img": "media/retratos/museo/rousseau.jpg",
   "sen": "Dans l'Émile, Rousseau propose pour Sophie, la future épouse d'Émile, une éducation conçue pour plaire aux hommes et les servir, très différente de l'éducation dans la liberté qu'il conçoit pour lui.",
   "uso": "Pour expliquer la contradiction entre égalité et exclusion des femmes dans les Lumières, ou en présentant la critique de Rousseau par Mary Wollstonecraft."
+ },
+ {
+  "c": "On voudrait être l'un et l'autre ; mais, comme il est difficile de les réunir, il est beaucoup plus sûr d'être craint que d'être aimé, quand l'un des deux doit manquer.",
+  "a": "Machiavel",
+  "o": "Le Prince (1513) XVII",
+  "e": "moderne",
+  "id": "maquiavelo",
+  "img": "media/retratos/museo2/maquiavelo.jpg",
+  "sen": "Pour Machiavel, le gouvernant doit partir de ce que sont les hommes, et non de ce qu'ils devraient être : comme l'amour est instable, la crainte assure un contrôle plus sûr, sans aller toutefois jusqu'à se faire haïr.",
+  "uso": "Pour expliquer le réalisme politique de Machiavel et la séparation entre politique et morale, ou dans des débats sur le pouvoir.",
+  "trampa": "On attribue à Machiavel « la fin justifie les moyens », mais cette phrase n'apparaît pas dans Le Prince."
  },
  {
   "c": "Nous sommes tous de lopins, et d'une contexture si informe et diverse, que chaque pièce, chaque moment, fait son jeu. Et se trouve autant de différence de nous à nous-mêmes, que de nous à autrui.",
