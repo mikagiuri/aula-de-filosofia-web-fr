@@ -958,6 +958,16 @@ const CITAS = [
   "uso": "Pour présenter la pensée d'Unamuno et le sentiment tragique de la vie, ou dans une dissertation sur la raison et la foi face à la mort."
  },
  {
+  "c": "Est liquide ce qui ne conserve pas longtemps sa forme.",
+  "a": "Zygmunt Bauman",
+  "o": "Modernité liquide (2000), Prologue",
+  "e": "contemporaine",
+  "id": "bauman",
+  "img": "media/retratos/ilustres/bauman.jpg",
+  "sen": "Bauman utilise l'image des liquides pour décrire notre époque : le travail, les relations et les identités ne sont plus solides ni durables, mais changent sans cesse de forme.",
+  "uso": "Pour expliquer la modernité liquide de Bauman, ou dans des débats sur la précarité, la consommation et les relations dans la société actuelle."
+ },
+ {
   "c": "Les pensées sans contenu sont vides ; les intuitions sans concepts, aveugles.",
   "a": "Emmanuel Kant",
   "o": "Critique de la raison pure (1781), Logique transcendantale, Introduction, I (A 51 / B 75)",
