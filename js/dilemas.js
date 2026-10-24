@@ -49,7 +49,7 @@ const DILEMAS = [
     "quien": "Descartes (rationalisme)",
     "elige": "A",
     "porque": "Lui aussi a imaginé un malin génie qui le trompait en tout, et il a trouvé un sol ferme : je peux douter de tout sauf du fait que je suis en train de douter ; et à partir de ce « je pense », il a reconstruit le monde. Le doute est une méthode, pas une fatalité.",
-    "ilustre": "descartes"
+    "biografia": "descartes"
    },
    {
     "quien": "Pyrrhon (scepticisme)",
@@ -60,13 +60,13 @@ const DILEMAS = [
     "quien": "Hume (empirisme)",
     "elige": "A",
     "porque": "Il reconnaît que la raison ne peut pas démontrer que le monde extérieur existe, mais la nature est plus forte que le scepticisme : dès que tu sors du cabinet, tu joues, tu dînes et tu crois au monde. La croyance ne se démontre pas, elle se vit.",
-    "ilustre": "hume"
+    "biografia": "hume"
    },
    {
     "quien": "Kant",
     "elige": "A",
     "porque": "Nous connaissons des phénomènes, pas la chose en soi ; mais ce n'est pas une illusion, c'est la condition de toute connaissance. Le monde tel que nous l'expérimentons est objectif pour tous les êtres rationnels, et cela suffit.",
-    "ilustre": "kant"
+    "biografia": "kant"
    }
   ],
   "debate": {
@@ -100,7 +100,7 @@ const DILEMAS = [
     "quien": "Aristote",
     "elige": "A",
     "porque": "L'expérience (*empeiria*) de celui qui a vu beaucoup de cas est l'origine du savoir pratique ; le médecin prudent connaît le particulier, que les principes généraux n'atteignent pas.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Bacon et la science moderne",
@@ -111,7 +111,7 @@ const DILEMAS = [
     "quien": "Hume",
     "elige": "B",
     "porque": "L'habitude nous fait attendre que ce que nous avons vu se répète ; trente ans d'habitude ne sont pas une preuve, ce sont trente ans d'accoutumance. Un sage proportionne sa croyance à la preuve.",
-    "ilustre": "hume"
+    "biografia": "hume"
    },
    {
     "quien": "Popper (XXe siècle)",
@@ -160,13 +160,13 @@ const DILEMAS = [
     "quien": "Platon",
     "elige": "B",
     "porque": "Le vrai moi est l'âme, pas le corps ni ses fonctions ; si le processus ne copie que des fonctions, il copie le corps, et l'âme ne se fabrique pas.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Hume",
     "elige": "B",
     "porque": "Quand je me cherche moi-même, je ne trouve que des perceptions éparses ; le « moi » est un faisceau, une fiction utile. La question de savoir si tu « seras toujours toi » n'a pas de réponse parce qu'il n'y a pas de tel moi.",
-    "ilustre": "hume"
+    "biografia": "hume"
    }
   ],
   "debate": {
@@ -200,19 +200,19 @@ const DILEMAS = [
     "quien": "Aristote",
     "elige": "A",
     "porque": "L'être humain est par nature un animal qui parle et vit dans la *polis* ; celui qui vit hors de la communauté « est soit une bête, soit un dieu ». L'éduquer, c'est l'aider à être ce qu'il est déjà en puissance.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Rousseau",
     "elige": "B",
     "porque": "L'homme naît bon et libre, et la société l'enchaîne ; l'enfant de la forêt n'est pas un défaut d'humanité mais un échantillon de ce que nous sommes avant qu'on nous déforme.",
-    "ilustre": "rousseau"
+    "biografia": "rousseau"
    },
    {
     "quien": "Kant",
     "elige": "A",
     "porque": "L'homme est la seule créature qui doive être éduquée ; ce n'est que par l'éducation qu'il peut devenir homme. Il n'y a pas d'humanité sans discipline et sans culture.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Marx et l'anthropologie culturelle",
@@ -251,25 +251,25 @@ const DILEMAS = [
     "quien": "Épicure (hédonisme)",
     "elige": "A",
     "porque": "Sous conditions : le plaisir qui compte est l'absence de douleur et de crainte (*ataraxie*) ; une machine sans douleur réalise son idéal, pourvu qu'on n'ait pas peur qu'elle tombe en panne.",
-    "ilustre": "epicuro"
+    "biografia": "epicuro"
    },
    {
     "quien": "Bentham et Mill (utilitarisme)",
     "elige": "A",
     "porque": "Bentham mesurerait la quantité de plaisir et dirait oui ; Mill distingue les plaisirs supérieurs et inférieurs (« mieux vaut être Socrate insatisfait qu'un imbécile satisfait ») et hésiterait.",
-    "ilustre": "mill"
+    "biografia": "mill"
    },
    {
     "quien": "Aristote (*eudaimonia*)",
     "elige": "B",
     "porque": "Le bonheur n'est pas une sensation mais une activité de l'âme conforme à la vertu ; celui qui n'agit pas ne vit pas bien.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Kant",
     "elige": "B",
     "porque": "Une vie programmée renonce à l'autonomie ; la dignité consiste à se donner soi-même la loi, non à être un récepteur de stimuli.",
-    "ilustre": "kant"
+    "biografia": "kant"
    }
   ],
   "debate": {
@@ -303,31 +303,31 @@ const DILEMAS = [
     "quien": "Bentham (utilitarisme)",
     "elige": "A",
     "porque": "Cinq vies valent plus qu'une dans n'importe quel calcul ; la manière de les sauver est un détail. Les émotions qui nous freinent sont des restes de superstition morale.",
-    "ilustre": "bentham"
+    "biografia": "bentham"
    },
    {
     "quien": "Kant",
     "elige": "B",
     "porque": "Pousser l'homme, c'est le traiter uniquement comme un moyen, et cela est interdit par l'impératif catégorique. Dévier le tramway ne l'utilise pas : sa mort est un effet, non l'instrument.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Thomas d'Aquin (doctrine du double effet)",
     "elige": "B",
     "porque": "Une action ayant un effet mauvais peut être licite si le mal n'est ni le moyen ni la fin, mais un effet collatéral proportionné. Le levier respecte la règle ; la poussée, non.",
-    "ilustre": "tomas"
+    "biografia": "tomas"
    },
    {
     "quien": "Aristote",
     "elige": "B",
     "porque": "La personne vertueuse ne décide pas avec une formule mais avec son caractère : il y a des actions qu'un homme bon n'accomplit pas, et pousser un innocent en fait partie, même si le résultat est meilleur.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Spinoza",
     "elige": "—",
     "porque": "Avant de choisir, trois questions : que sais-je vraiment, qui a construit la situation et sous l'effet de quel affect j'agis. La raison choisit le moindre de deux maux (Éthique, IV, 65), mais sans connaître les personnes ni les circonstances, « cinq contre un » est un calcul de l'imagination. Les deux issues peuvent être choisies par peur ou par ambition, ou bien par fermeté et générosité : ce qui rend l'action libre, ce n'est pas le résultat, mais le fait de comprendre pourquoi on agit.",
-    "ilustre": "spinoza"
+    "biografia": "spinoza"
    }
   ],
   "debate": {
@@ -361,25 +361,25 @@ const DILEMAS = [
     "quien": "Kant",
     "elige": "B",
     "porque": "Le mensonge est toujours contraire au devoir parce qu'il détruit la source de tout droit : la confiance dans la parole. Mais Kant n'oblige pas à dire toute la vérité, seulement à ne pas affirmer le faux : se taire ou détourner la conversation est licite.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Mill (utilitarisme)",
     "elige": "A",
     "porque": "Si la vérité ne produit que de la souffrance et ne peut rien changer, le mensonge est l'action juste. Mill ajoute pourtant : la règle de véracité est si utile que les exceptions doivent être très rares.",
-    "ilustre": "mill"
+    "biografia": "mill"
    },
    {
     "quien": "Aristote (éthique de la vertu)",
     "elige": "B",
     "porque": "La personne prudente ne mentirait pas, mais elle ne lâcherait pas non plus la vérité comme une pierre : elle trouverait la manière juste, au moment juste, d'être auprès de son grand-père. La vertu ne réside pas dans la règle mais dans le tact.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Augustin d'Hippone",
     "elige": "B",
     "porque": "Il écrivit deux traités contre le mensonge : aucun mensonge n'est licite, pas même celui qui sauve une vie, car celui qui ment perd quelque chose qui vaut plus que ce qu'il protège.",
-    "ilustre": "agustin"
+    "biografia": "agustin"
    }
   ],
   "debate": {
@@ -418,19 +418,19 @@ const DILEMAS = [
     "quien": "Platon (Socrate)",
     "elige": "B",
     "porque": "Toute La République est la réponse : la justice est l'harmonie de l'âme, et l'injuste, même avec l'anneau, vit avec une âme tyrannisée par ses désirs. Aucun anneau ne l'en sauve.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Hobbes",
     "elige": "A",
     "porque": "À l'état de nature, chacun a droit à tout ; les lois obligent parce qu'une épée les soutient. « Les pactes sans l'épée ne sont que des paroles ».",
-    "ilustre": "hobbes"
+    "biografia": "hobbes"
    },
    {
     "quien": "Kant",
     "elige": "B",
     "porque": "La morale ne dépend ni des conséquences ni d'être vu : une action est bonne si sa maxime peut devenir loi universelle, et « je volerai quand personne ne me verra » ne le peut pas.",
-    "ilustre": "kant"
+    "biografia": "kant"
    }
   ],
   "debate": {
@@ -464,7 +464,7 @@ const DILEMAS = [
     "quien": "Rawls (libéralisme égalitaire)",
     "elige": "B",
     "porque": "Sous le voile d'ignorance, un être rationnel choisit la stratégie du maximin : que la pire place possible soit la meilleure possible. De là ses deux principes : des libertés de base pour tous et des inégalités seulement si elles favorisent les plus défavorisés.",
-    "ilustre": "rawls"
+    "biografia": "rawls"
    },
    {
     "quien": "Nozick (libertarisme)",
@@ -475,7 +475,7 @@ const DILEMAS = [
     "quien": "Aristote",
     "elige": "B",
     "porque": "La justice consiste à donner à chacun le sien selon son mérite, mais la cité existe pour la vie bonne de tous, et une polis d'extrêmes, de très riches et de très pauvres, n'est pas une cité mais deux cités en guerre.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Marx",
@@ -514,25 +514,25 @@ const DILEMAS = [
     "quien": "Platon",
     "elige": "A",
     "porque": "La cité est comme un navire : celui qui ne sait pas naviguer ne doit pas tenir le gouvernail. La démocratie remet le pouvoir à celui qui flatte le mieux la masse, et de là naît le tyran. Doivent gouverner ceux qui savent, les philosophes.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Aristote",
     "elige": "B",
     "porque": "Beaucoup de gens qui, individuellement, ne sont pas sages peuvent, une fois réunis, juger mieux que quelques-uns, comme un banquet où chacun apporte un plat. De plus, celui qui porte les souliers sait mieux que le cordonnier où ils blessent.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Rousseau",
     "elige": "B",
     "porque": "La souveraineté appartient au peuple et ne peut être déléguée : la loi est juste parce que la volonté générale la veut, non parce qu'un expert la dicte. Un peuple qui laisse d'autres décider n'est plus libre.",
-    "ilustre": "rousseau"
+    "biografia": "rousseau"
    },
    {
     "quien": "Mill",
     "elige": "A",
     "porque": "À moitié : il défendait le suffrage universel, mais proposait que les plus instruits aient plus d'une voix. Il craignait la « tyrannie de la majorité » autant que celle d'un roi.",
-    "ilustre": "mill"
+    "biografia": "mill"
    }
   ],
   "debate": {
@@ -566,13 +566,13 @@ const DILEMAS = [
     "quien": "Platon",
     "elige": "A",
     "porque": "Avec ironie : pour Platon, tout tableau est déjà une copie de copie, à trois degrés de la vérité ; la falsification ajoute seulement un degré de plus de tromperie à ce qui était déjà tromperie.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Kant (jugement esthétique)",
     "elige": "B",
     "porque": "Le jugement de goût est désintéressé : le beau nous plaît sans que comptent l'existence, l'origine ni l'utilité de l'objet. Si le tableau était beau lundi, il l'est encore mardi.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Hegel et l'esthétique romantique",
@@ -616,7 +616,7 @@ const DILEMAS = [
     "quien": "Locke (empirisme)",
     "elige": "A",
     "porque": "Oui, mais avec un problème : l'identité personnelle est la continuité de la conscience et de la mémoire, et les deux corps conservent ta conscience. Son critère dit que les deux sont toi, et une personne ne peut pas être deux : c'est un cas que Locke ne s'était pas posé.",
-    "ilustre": "locke"
+    "biografia": "locke"
    },
    {
     "quien": "Parfit (XXe siècle)",
@@ -632,7 +632,7 @@ const DILEMAS = [
     "quien": "Descartes (rationalisme)",
     "elige": "B",
     "porque": "Pour une autre raison : l'esprit, la chose qui pense, est indivisible, à la différence du corps ; on ne peut pas le couper en deux avec les hémisphères. Ce que divise le chirurgien, c'est le corps, pas le moi.",
-    "ilustre": "descartes"
+    "biografia": "descartes"
    }
   ],
   "debate": {
@@ -666,25 +666,25 @@ const DILEMAS = [
     "quien": "Kant (Lumières)",
     "elige": "A",
     "porque": "S'éclairer, c'est oser se servir de son propre entendement. Une peur héritée qui ne résiste pas à l'examen de la raison ne doit pas te guider : la laisser décider, c'est rester dans la minorité.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Descartes (rationalisme)",
     "elige": "A",
     "porque": "Sa première règle de la méthode : ne jamais admettre comme vrai rien que l'on ne connaisse avec évidence. Un préjugé ne gagne pas en autorité parce qu'il est très enraciné.",
-    "ilustre": "descartes"
+    "biografia": "descartes"
    },
    {
     "quien": "Épicure",
     "elige": "A",
     "porque": "Connaître le fonctionnement de la nature sert à se libérer des peurs sans fondement. Le tissu, ce sont des atomes, comme tout le reste ; le craindre, c'est laisser une peur vide t'enlever la sérénité.",
-    "ilustre": "epicuro"
+    "biografia": "epicuro"
    },
    {
     "quien": "Hume (empirisme)",
     "elige": "B",
     "porque": "Avec des nuances : la raison seule ne pousse pas à agir ; les sentiments et l'habitude décident presque tout ce que nous faisons, et un rejet sans argument n'est pas une folie, c'est quelque chose d'humain. Ce qu'il ne doit pas faire, c'est devenir une croyance sur la laine.",
-    "ilustre": "hume"
+    "biografia": "hume"
    }
   ],
   "debate": {
@@ -718,25 +718,25 @@ const DILEMAS = [
     "quien": "Aristote",
     "elige": "A",
     "porque": "Ce qui est réel en premier lieu, ce sont les substances concrètes, qui existent par elles-mêmes : ces personnes. Spider-Man n'existe que dans autre chose, dans les bandes dessinées et dans les esprits : il est, mais d'une manière dérivée. L'être se dit en plusieurs sens.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Thomas d'Aquin",
     "elige": "A",
     "porque": "Tu peux très bien savoir ce qu'est Spider-Man, son essence, sans qu'il existe. Connaître l'essence d'une chose ne lui donne pas l'existence, et le village a justement ce qui manque à Spider-Man : il existe.",
-    "ilustre": "tomas"
+    "biografia": "tomas"
    },
    {
     "quien": "Berkeley (idéalisme)",
     "elige": "A",
     "porque": "Être, c'est être perçu, mais tout ce qui est perçu n'a pas la même valeur : les idées des sens, vives et ordonnées, qui ne dépendent pas de ma volonté, sont les choses réelles ; celles que fabrique l'imagination, comme Spider-Man, sont plus faibles et dépendent de moi.",
-    "ilustre": "berkeley"
+    "biografia": "berkeley"
    },
    {
     "quien": "Nietzsche",
     "elige": "B",
     "porque": "Il se méfie de celui qui sépare un « monde vrai » du monde que nous vivons : dans Le Crépuscule des idoles, il raconte comment ce « monde vrai » a fini par devenir une fable. Ce qui compte, c'est ce qui agit dans une vie, et ce que Spider-Man fait dans la tienne est réel.",
-    "ilustre": "nietzsche"
+    "biografia": "nietzsche"
    }
   ],
   "debate": {
@@ -770,19 +770,19 @@ const DILEMAS = [
     "quien": "Thomas d'Aquin",
     "elige": "A",
     "porque": "En cas de nécessité extrême, toutes les choses sont communes : prendre le bien d'autrui pour sauver une vie, la sienne ou celle d'un autre, ce n'est pas proprement voler. La propriété existe pour servir la vie, et non l'inverse.",
-    "ilustre": "tomas"
+    "biografia": "tomas"
    },
    {
     "quien": "Mill (utilitarisme)",
     "elige": "A",
     "porque": "Il compte les conséquences : une vie sauvée pèse beaucoup plus que le préjudice causé à un laboratoire qui continuera à gagner de l'argent. Il ajouterait cependant un avertissement : une habitude générale de voler quand on se croit dans son droit aurait de mauvaises conséquences pour tous.",
-    "ilustre": "mill"
+    "biografia": "mill"
    },
    {
     "quien": "Kant (éthique du devoir)",
     "elige": "B",
     "porque": "Mets ta maxime à l'épreuve : « je volerai quand je croirai en avoir besoin » ; érigée en loi universelle, elle détruit la propriété et la confiance. Le devoir d'aider existe, mais il n'autorise pas à violer le droit d'autrui ; Kant est allé jusqu'à dire que, dans un cas de nécessité, l'acte peut rester impuni, mais qu'il n'en est pas pour autant juste.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Gilligan (éthique du care)",

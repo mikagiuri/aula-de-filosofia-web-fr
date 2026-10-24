@@ -1,5 +1,5 @@
-// Generado por web_i18n/i18n_rebuild.js (fr) a partir de web/js/glosario.js. No editar a mano: editar la memoria tm/fr.json y regenerar.
-const GLOSARIO = [
+// Generado por web_i18n/i18n_rebuild.js (fr) a partir de web/js/diccionario.js. No editar a mano: editar la memoria tm/fr.json y regenerar.
+const DICCIONARIO = [
  {
   "subject": "fil",
   "t": "Philosophie",
@@ -17,7 +17,7 @@ const GLOSARIO = [
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
   "def": "La capacité de s'étonner devant ce qui semble évident aux autres. Pour Platon et Aristote, c'est l'origine de la philosophie.",
-  "ilustre": [
+  "biografia": [
    "platon",
    "aristoteles"
   ]
@@ -57,7 +57,7 @@ const GLOSARIO = [
   "area": "Métaphysique",
   "tema": "Philosophie · Thème 1",
   "def": "Le principe ou élément originel dont tout procède. Thalès de Milet l'a identifié à l'eau.",
-  "ilustre": [
+  "biografia": [
    "tales"
   ]
  },
@@ -185,7 +185,7 @@ const GLOSARIO = [
   "area": "Méthode",
   "tema": "Philosophie · Thème 1",
   "def": "« Ose savoir » : mot d'ordre de Kant ; aie le courage de te servir de ta propre raison.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -197,7 +197,7 @@ const GLOSARIO = [
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
   "def": "Le processus par lequel les espèces changent avec le temps ; Darwin l'a expliqué par la sélection naturelle et l'origine commune.",
-  "ilustre": [
+  "biografia": [
    "darwin"
   ]
  },
@@ -236,7 +236,7 @@ const GLOSARIO = [
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
   "def": "Ensemble de connaissances, de croyances, d'art, de morale, de droit, de coutumes et d'habitudes qu'on acquiert en tant que membre d'une société (Tylor).",
-  "ilustre": [
+  "biografia": [
    "tylor"
   ]
  },
@@ -320,7 +320,7 @@ const GLOSARIO = [
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
   "def": "Chez Descartes : la « chose pensante » (l'esprit) et la « chose étendue » (le corps, la matière).",
-  "ilustre": [
+  "biografia": [
    "descartes"
   ]
  },
@@ -350,7 +350,7 @@ const GLOSARIO = [
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
   "def": "Trait qu'Aristote ajoute : nous avons besoin de vivre en communauté pour nous développer et être pleinement humains.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -371,7 +371,7 @@ const GLOSARIO = [
   "area": "Éthique",
   "tema": "Philosophie · Thème 2",
   "def": "La valeur absolue de la personne, qui fait d'elle une fin en soi et jamais un simple moyen (Kant).",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -428,7 +428,7 @@ const GLOSARIO = [
   "area": "Anthropologie",
   "tema": "Philosophie · Thème 2",
   "def": "L'environnement concret (époque, corps, société) avec lequel le moi se construit : « je suis moi et ma circonstance » (Ortega).",
-  "ilustre": [
+  "biografia": [
    "ortega"
   ]
  },
@@ -503,7 +503,7 @@ const GLOSARIO = [
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "Courant qui affirme que toute connaissance procède de l'expérience sensible (Locke, Hume).",
-  "ilustre": [
+  "biografia": [
    "locke",
    "hume"
   ]
@@ -516,7 +516,7 @@ const GLOSARIO = [
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "Courant qui fait avant tout confiance à la raison comme source de connaissance (Descartes).",
-  "ilustre": [
+  "biografia": [
    "descartes"
   ]
  },
@@ -528,7 +528,7 @@ const GLOSARIO = [
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "Synthèse de Kant (apriorisme) : la connaissance naît de l'expérience, mais l'ordonne avec des structures a priori du sujet.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -549,7 +549,7 @@ const GLOSARIO = [
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "Chez Kant : le phénomène est ce qui nous apparaît (le connaissable) ; le noumène, la chose en soi (inconnaissable).",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -624,7 +624,7 @@ const GLOSARIO = [
   "area": "Épistémologie",
   "tema": "Philosophie · Thème 3",
   "def": "L'état dans lequel une vérité se présente avec clarté et distinction, sans doute possible (Descartes).",
-  "ilustre": [
+  "biografia": [
    "descartes"
   ]
  },
@@ -751,7 +751,7 @@ const GLOSARIO = [
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "Éthique qui identifie le bien au bonheur (Aristote).",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -772,7 +772,7 @@ const GLOSARIO = [
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "Chez Aristote, l'habitude de choisir le juste milieu entre deux extrêmes ; l'excellence du caractère.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -784,7 +784,7 @@ const GLOSARIO = [
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "Éthique (déontologie) qui juge l'action par sa conformité au devoir, et non par ses conséquences (Kant).",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -796,7 +796,7 @@ const GLOSARIO = [
   "area": "Éthique",
   "tema": "Philosophie · Thème 5",
   "def": "Le commandement inconditionné de Kant : agis seulement selon la maxime dont tu peux vouloir qu'elle devienne loi universelle.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -870,7 +870,7 @@ const GLOSARIO = [
   "area": "Esthétique",
   "tema": "Philosophie · Thème 7",
   "def": "Le jugement par lequel nous estimons quelque chose beau ou laid ; pour Kant, il est subjectif mais prétend à une validité universelle.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -1141,7 +1141,7 @@ const GLOSARIO = [
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Le fait qu'une proposition présuppose l'existence de ce dont elle parle. Pour Aristote, les affirmatives la présupposent ; pour la logique actuelle, les universelles non : « toutes les licornes ont une corne » est vraie même s'il n'y a pas de licornes. C'est pourquoi des syllogismes comme Darapti cessent d'être valides.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -1161,7 +1161,7 @@ const GLOSARIO = [
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Deux relations qui, en français, se disent avec « est ». L'appartenance (∈) relie un individu à une classe : « Socrate ∈ humains ». L'inclusion (⊆) relie deux classes : « humains ⊆ mortels ». L'inclusion s'enchaîne ; l'appartenance, non.",
-  "ilustre": [
+  "biografia": [
    "socrates"
   ]
  },
@@ -1180,7 +1180,7 @@ const GLOSARIO = [
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Nier une disjonction équivaut à nier ses deux parties : ¬(p ∨ q) = ¬p ∧ ¬q (« ni l'un ni l'autre »). Nier une conjonction équivaut à nier au moins une partie : ¬(p ∧ q) = ¬p ∨ ¬q. Avec les classes : (A ∪ B)ᶜ = Aᶜ ∩ Bᶜ et (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ. Augustus De Morgan les a formulées au XIXe siècle.",
-  "ilustre": [
+  "biografia": [
    "de_morgan"
   ]
  },
@@ -1191,7 +1191,7 @@ const GLOSARIO = [
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Dessin qui représente chaque classe par un cercle placé selon la relation affirmée : l'un à l'intérieur de l'autre (tout), séparés (aucun) ou qui se croisent (quelques). Leonhard Euler l'a fait connaître dans ses lettres de 1761. Si l'on ne sait pas comment les classes sont placées, il faut dessiner plusieurs situations.",
-  "ilustre": [
+  "biografia": [
    "euler"
   ]
  },
@@ -1202,7 +1202,7 @@ const GLOSARIO = [
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "Dessin qui représente les classes par des cercles qui se croisent toujours, de façon à faire apparaître toutes les régions possibles. On ombre les régions vides et on marque d'une ✕ celle où il y a au moins un élément. John Venn l'a proposé en 1880 ; avec trois cercles, il permet de vérifier si un syllogisme est valide.",
-  "ilustre": [
+  "biografia": [
    "venn"
   ]
  },
@@ -1214,7 +1214,7 @@ const GLOSARIO = [
   "area": "Logique",
   "tema": "Philosophie · Thème 4",
   "def": "La classe de toutes les classes qui ne sont pas membres d'elles-mêmes est-elle membre d'elle-même ? Si elle l'est, elle ne l'est pas ; si elle ne l'est pas, elle l'est. Bertrand Russell l'a communiqué à Frege en 1902 et a montré que toute propriété ne peut pas définir une classe.",
-  "ilustre": [
+  "biografia": [
    "frege",
    "russell"
   ]
@@ -1236,7 +1236,7 @@ const GLOSARIO = [
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Ce que les choses paraissent être, par opposition à ce qu'elles sont réellement. Pour Parménide, le changement et la multiplicité que nous voyons ne sont que pure apparence.",
-  "ilustre": [
+  "biografia": [
    "parmenides"
   ]
  },
@@ -1257,7 +1257,7 @@ const GLOSARIO = [
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Pour Aristote, qualité qui n'existe que dans une substance et peut changer, comme la couleur, la taille ou le lieu.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -1295,7 +1295,7 @@ const GLOSARIO = [
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Test proposé par Alan Turing en 1950 : si, en conversant par écrit, nous ne distinguons pas une machine d'une personne, nous n'aurions aucune raison de lui refuser l'intelligence.",
-  "ilustre": [
+  "biografia": [
    "turing"
   ]
  },
@@ -1315,7 +1315,7 @@ const GLOSARIO = [
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Expression de David Chalmers (1995) : expliquer pourquoi existe l'expérience subjective, ce que l'on ressent en voyant du rouge.",
-  "ilustre": [
+  "biografia": [
    "chalmers"
   ]
  },
@@ -1354,7 +1354,7 @@ const GLOSARIO = [
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Position de Hobbes et de Hume : liberté et déterminisme peuvent coexister, car être libre n'est pas agir sans causes, mais agir selon ses propres désirs et raisons, sans contrainte.",
-  "ilustre": [
+  "biografia": [
    "hobbes",
    "hume"
   ]
@@ -1367,7 +1367,7 @@ const GLOSARIO = [
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Raisonnement qui part du monde : la chaîne des moteurs et des causes ne peut se prolonger indéfiniment, elle exige donc un premier moteur, une première cause, un être nécessaire (cinq voies de Thomas d'Aquin).",
-  "ilustre": [
+  "biografia": [
    "tomas"
   ]
  },
@@ -1379,7 +1379,7 @@ const GLOSARIO = [
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Raisonnement téléologique : l'ordre de la nature, comme celui d'une horloge, exige un concepteur (Paley). Il a été critiqué par Hume et, avec la sélection naturelle, par Darwin.",
-  "ilustre": [
+  "biografia": [
    "hume",
    "darwin"
   ]
@@ -1401,7 +1401,7 @@ const GLOSARIO = [
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Nom que Leibniz (1710) a donné aux réponses du croyant au problème du mal ; l'une des plus connues soutient que le mal est le prix de la liberté humaine.",
-  "ilustre": [
+  "biografia": [
    "leibniz"
   ]
  },
@@ -1422,12 +1422,12 @@ const GLOSARIO = [
   "area": "Métaphysique",
   "tema": "Philosophie · M",
   "def": "Position selon laquelle on parvient à Dieu par la foi et non par la raison, de sorte que les arguments ne sont pas le chemin ; on cite souvent Kierkegaard.",
-  "ilustre": [
+  "biografia": [
    "kierkegaard"
   ]
  }
 ];
-const GLOSARIO_TRAMPAS = {
+const DICCIONARIO_TRAMPAS = {
  "fil": [
   [
    "Mythe",
