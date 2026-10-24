@@ -605,153 +605,150 @@ const DILEMAS = [
   "id": "fil-fision",
   "emoji": "👥",
   "etiqueta": "Identité et survie",
-  "titulo": "Les deux qui se réveillent",
-  "situacion": "Après un accident, ton corps n'est plus réparable, mais ton cerveau, lui, l'est. Les chirurgiens n'ont qu'une façon de te sauver : séparer les deux hémisphères et greffer chacun dans un corps différent. L'opération est imaginaire, même si elle part de quelque chose de réel : il y a des personnes qui vivent avec un seul hémisphère et d'autres chez qui on a coupé la connexion entre les deux. Suppose que chaque moitié conserve toute ta vie mentale. Les deux corps se réveillent. Tous deux se souviennent de ton enfance, reconnaissent ta famille, ont tes manies et tes projets, et tous deux affirment être toi avec la même conviction. Avant de signer l'autorisation, on te demande ce que tu t'attends à voir arriver.",
-  "a": "Je survivrai, même en deux exemplaires : ce qui compte pour moi — mes souvenirs, mon caractère, mes projets — continuera à vivre dans les deux, et c'est tout ce que je demandais à la survie.",
-  "b": "Je ne survivrai pas : une personne ne peut pas être deux ; si les deux ont le même droit d'être moi, aucun ne l'est, et ce qui se réveille, ce sont deux personnes nouvelles qui me ressemblent.",
-  "pregunta": "Qu'est-ce qui fait qu'une personne reste la même au fil du temps ? Et si l'identité peut se briser en deux, est-ce vraiment l'identité qui nous importe quand nous survivons ?",
-  "enjuego": "Les critères de l'identité personnelle (la mémoire, le corps, le récit) poussés à la limite, et la différence entre être le même individu (identité numérique) et être pareil (identité qualitative).",
+  "titulo": "Le scanner de Tokyo",
+  "situacion": "Année 2090. Pour aller de Bilbao à Tokyo, plus personne ne prend l'avion : tu entres dans une cabine, un scanner enregistre la position de chaque atome de ton corps, la cabine défait l'original et, à Tokyo, une machine te reconstruit, identique, en quelques secondes. Tu l'as fait vingt fois et tu es toujours sorti de la cabine d'arrivée avec tes souvenirs, tes manies et tes projets. Aujourd'hui, quelque chose ne marche pas : le scanner t'enregistre, mais la cabine de Bilbao ne te défait pas. Tu es toujours assis là, le cœur battant, quand un technicien t'apprend qu'à Tokyo quelqu'un vient de sortir en affirmant être toi et qu'il vient d'appeler ta mère. L'entreprise te présente ses excuses et t'offre un billet pour le prochain voyage. Tu dois décider si tu l'acceptes.",
+  "a": "Je voyagerai : si à l'arrivée apparaît quelqu'un qui a ma mémoire, mon caractère et mes projets, c'est tout ce que je peux demander au fait de rester en vie ; la panne d'aujourd'hui prouve seulement que je peux continuer à deux endroits à la fois.",
+  "b": "Je ne voyagerai pas : la panne a montré que ce qui sort à Tokyo est une copie ; si l'original peut rester là à regarder, à chaque voyage précédent quelqu'un est mort à Bilbao et un autre est né à Tokyo.",
+  "pregunta": "Qu'est-ce qui fait que tu restes toi d'un jour à l'autre : ton corps, ta mémoire ou autre chose ? S'il existait une copie parfaite de toi, laquelle des deux serais-tu, et est-ce que cela devrait t'importer ?",
+  "enjuego": "Les critères de l'identité personnelle (le corps, la mémoire et la continuité psychologique) mis à l'épreuve par une copie, et la différence entre être le même individu (identité numérique) et être exactement pareil (identité qualitative).",
   "escuelas": [
    {
     "quien": "Locke (empirisme)",
     "elige": "A",
-    "porque": "Oui, mais avec un problème : l'identité personnelle est la continuité de la conscience et de la mémoire, et les deux corps conservent ta conscience. Son critère dit que les deux sont toi, et une personne ne peut pas être deux : c'est un cas que Locke ne s'était pas posé.",
+    "porque": "Tu es la même personne aussi loin que s'étend ta conscience : celui qui se souvient de tes actes et les ressent comme les siens, c'est toi, quels que soient les atomes dont il est fait. Le problème, c'est que son critère donne le même résultat pour celui de Bilbao et pour celui de Tokyo, et Locke n'a jamais pensé à une personne en double.",
     "biografia": "locke"
    },
    {
     "quien": "Parfit (XXe siècle)",
     "elige": "A",
-    "porque": "De la fission il a tiré une conclusion surprenante : ce qui nous importe quand nous survivons, ce n'est pas l'identité, mais la continuité psychologique (souvenirs, caractère, projets). Se dédoubler ne ressemble pas à mourir : cela ressemble beaucoup à survivre."
+    "porque": "Il a imaginé une telle machine dans Reasons and Persons et en a tiré une conclusion troublante : il se peut que la question « lequel des deux suis-je ? » n'ait pas de réponse, et ce n'est pas grave, car ce qui compte n'est pas l'identité, mais que se poursuivent ta mémoire, ton caractère et tes projets. Voyager dans la cabine serait presque aussi bien que voyager en avion."
    },
    {
     "quien": "Thomas Reid",
     "elige": "B",
-    "porque": "Une personne est quelque chose d'indivisible : on ne peut pas être une demi-personne ni deux à la fois. La mémoire montre l'identité, mais ne la crée pas ; que les deux aient tes souvenirs ne les rend pas identiques à toi."
+    "porque": "Une personne ne peut ni se diviser ni se répéter : ou c'est toi, ou ce n'est pas toi. Te souvenir de ta vie ne fait pas de toi ce que tu es, c'est seulement un signe que tu l'es. Celui de Tokyo a tes souvenirs comme une photocopie a le texte de l'original."
    },
    {
     "quien": "Descartes (rationalisme)",
     "elige": "B",
-    "porque": "Pour une autre raison : l'esprit, la chose qui pense, est indivisible, à la différence du corps ; on ne peut pas le couper en deux avec les hémisphères. Ce que divise le chirurgien, c'est le corps, pas le moi.",
+    "porque": "Tu es une chose qui pense, distincte du corps. La machine mesure et reproduit de la matière : elle copie un corps qui a ton apparence et ton cerveau, mais rien ne garantit qu'avec lui voyage l'esprit que tu es.",
     "biografia": "descartes"
    }
   ],
   "debate": {
    "epoca": "Siglos XVII y XX",
-   "texto": "« Aussi loin que cette conscience peut s'étendre en arrière, à toute action ou pensée passée, jusque-là va l'identité de cette personne. »",
-   "fuente": "Locke, Essai sur l'entendement humain, II, 27, 9 (chapitre ajouté dans la 2e édition, 1694). Le cas de la fission a été rendu célèbre par Derek Parfit (« Personal Identity », 1971 ; Raisons et personnes, 1984).",
+   "texto": "« [Une personne est] un être pensant et intelligent, doué de raison et de réflexion, capable de se considérer soi-même comme soi-même, la même chose pensante, en différents temps et lieux. »",
+   "fuente": "Locke, au livre II (chapitre 27, § 9) de son Essai sur l'entendement humain, 2e édition (1694). Le télétransporteur qui laisse une copie a été imaginé par Derek Parfit dans Reasons and Persons (1984), chapitre 10.",
    "unidad": "fil-t2"
   },
   "preguntas": [
-   "Si les deux sont toi, à qui appartiennent ta maison, ton portable, ta place au lycée ? Et si l'un commet un délit, punit-on aussi l'autre ?",
-   "Thomas Reid disait que la mémoire ne crée pas l'identité, elle ne fait que la montrer : le bébé que tu as été, c'était toi, même si tu ne t'en souviens pas. Qu'y a-t-il donc, en plus de la mémoire, qui fait que tu es toi ?",
-   "Si l'on te disait que seul l'un des deux va se réveiller, trouverais-tu la nouvelle meilleure ou pire ? Pourquoi est-il étrange qu'« un » sonne mieux que « deux » ?"
+   "Si vous êtes toi tous les deux, qui dort ce soir dans ton lit et qui va demain au lycée ? Et si celui de Tokyo signe un contrat, est-ce qu'il t'engage, toi ?",
+   "Avant la panne, tu as voyagé vingt fois sans t'inquiéter. Quelque chose a-t-il changé dans ces voyages, ou seulement ce que tu en sais ?",
+   "Avec les années, beaucoup des atomes de ton corps sont remplacés par d'autres. En quoi est-ce différent de la cabine, à part la vitesse ?"
   ],
-  "ysi": "Et si l'un des deux corps ne se réveillait jamais ? Presque tout le monde dirait que tu as survécu dans l'autre. Mais alors, que le second se réveille ne peut pas transformer ta survie en ta mort. Si c'est le cas, ton identité dépend de quelque chose qui ne t'arrive même pas à toi.",
-  "dato": "Les opérations qui inspirent ce cas existent : à certaines personnes atteintes d'épilepsie grave, on a coupé la connexion entre les hémisphères (le corps calleux), et à certains enfants on a retiré ou déconnecté un hémisphère entier ; beaucoup mènent une vie normale. Roger Sperry a reçu le prix Nobel en 1981 pour avoir étudié des patients au cerveau divisé. Ce qui n'existe pas, c'est la greffe : cette partie-là est l'expérience de pensée."
+  "ysi": "Et si la cabine de Bilbao fonctionnait bien, mais avec une minute de retard ? Pendant cette minute, les deux existeraient, et ensuite seulement celui de Tokyo. Si c'est cela voyager, une minute ne devrait pas en faire une mort ; et si c'est mourir, pourquoi ne l'était-ce pas quand le retard était d'un millième de seconde ?",
+  "dato": "La téléportation existe, mais pas pour des personnes ni des objets : ce que l'on envoie, c'est l'état quantique d'une particule. En 2017, une équipe chinoise l'a réalisée depuis le Tibet jusqu'au satellite Micius, à des distances allant jusqu'à 1 400 km. Et il y a un détail curieux : les lois de la physique quantique empêchent de copier un état inconnu (le théorème de non-clonage, de 1982), si bien que dans cette téléportation l'état original est toujours détruit au point de départ."
  },
  {
   "subject": "fil",
   "grupo": "fil-conocer",
   "id": "fil-jersey",
-  "emoji": "🧶",
+  "emoji": "🖋️",
   "etiqueta": "Croyance et raison",
-  "titulo": "Le pull de l'assassin",
-  "situacion": "Dans une friperie, tu trouves un pull en belle laine, propre, à ta taille et à très bon prix. La vendeuse, qui est honnête, te raconte d'où il vient : il a appartenu à un homme condamné pour plusieurs meurtres, qui le portait souvent. Il est passé par une blanchisserie industrielle et personne d'autre ne le sait. Tu sais que la laine ne garde rien et que la méchanceté n'est pas une substance qui s'accroche aux vêtements. Pourtant, tu hésites. Tu dois décider si tu l'emportes ou si tu le laisses sur son cintre.",
-  "a": "Je l'emporte : je sais que le tissu ne garde rien, et une croyance que je ne peux pas défendre ne devrait pas décider à ma place.",
-  "b": "Je le laisse : même si je ne sais pas l'expliquer, ce rejet dit quelque chose de moi, et tout ce que je ressens n'a pas à passer l'examen de la raison pour avoir le droit d'exister.",
-  "pregunta": "Faut-il croire seulement ce que l'on peut justifier ? Que faire des croyances que nous savons sans fondement mais que nous n'arrivons pas à cesser de ressentir ?",
-  "enjuego": "La différence entre savoir et croire, le passage du mythe au logos en miniature (à l'intérieur de chacun) et un soupçon désagréable : combien de tes croyances fonctionnent comme le pull sans que tu le remarques.",
+  "titulo": "Le stylo du juge",
+  "situacion": "Dans un marché aux puces, tu vois un magnifique stylo-plume : plume en or, corps noir ; il écrit à merveille et coûte moins cher qu'un stylo à bille de marque. Cela fait des mois que tu en cherches un pour prendre des notes. Le vendeur, qui connaît bien ce qu'il vend, te raconte son histoire : il a appartenu à un juge d'une dictature européenne, qui s'en est servi pendant des années pour signer des condamnations à mort. On l'a nettoyé et restauré, et en dehors de ce stand personne ne connaît ce détail. Tu sais que le métal et l'encre ne gardent rien de celui qui s'en est servi. Pourtant, quand tu l'as en main, quelque chose te retient. Tu dois décider si tu l'achètes.",
+  "a": "Je l'achète : un stylo n'a ni mémoire ni culpabilité, et je ne veux pas laisser décider à ma place une sensation dont je sais moi-même qu'elle n'a pas de fondement.",
+  "b": "Je ne l'achète pas : même si je ne peux rien prouver, ce que je ressens en le prenant dit quelque chose de ma façon de voir le monde, et toutes mes décisions n'ont pas à passer devant un tribunal d'arguments.",
+  "pregunta": "Devons-nous croire et agir seulement selon ce que nous pouvons justifier ? Que faire d'une sensation que nous savons sans fondement et qui, pourtant, ne s'en va pas ?",
+  "enjuego": "La différence entre savoir et croire, le passage du mythe au logos à l'intérieur de chacun et la pensée magique qui continue de fonctionner chez des personnes qui se considèrent rationnelles.",
   "escuelas": [
    {
     "quien": "Kant (Lumières)",
     "elige": "A",
-    "porque": "S'éclairer, c'est oser se servir de son propre entendement. Une peur héritée qui ne résiste pas à l'examen de la raison ne doit pas te guider : la laisser décider, c'est rester dans la minorité.",
+    "porque": "Accéder aux Lumières, c'est oser se servir de son propre entendement sans que personne, pas même une peur héritée, te tienne par la main. Si ta raison dit que le stylo n'est qu'un stylo, obéir à la sensation, c'est renoncer à penser par toi-même.",
     "biografia": "kant"
    },
    {
-    "quien": "Descartes (rationalisme)",
+    "quien": "William K. Clifford (XIXe siècle)",
     "elige": "A",
-    "porque": "Sa première règle de la méthode : ne jamais admettre comme vrai rien que l'on ne connaisse avec évidence. Un préjugé ne gagne pas en autorité parce qu'il est très enraciné.",
-    "biografia": "descartes"
-   },
-   {
-    "quien": "Épicure",
-    "elige": "A",
-    "porque": "Connaître le fonctionnement de la nature sert à se libérer des peurs sans fondement. Le tissu, ce sont des atomes, comme tout le reste ; le craindre, c'est laisser une peur vide t'enlever la sérénité.",
-    "biografia": "epicuro"
+    "porque": "Dans « L'éthique de la croyance », il a soutenu que croire sans preuves suffisantes est toujours mal, parce que chaque croyance sans fondement nous habitue à être crédules. Agir comme si le stylo était souillé, c'est croire, par ses actes, quelque chose qu'on ne peut pas soutenir."
    },
    {
     "quien": "Hume (empirisme)",
     "elige": "B",
-    "porque": "Avec des nuances : la raison seule ne pousse pas à agir ; les sentiments et l'habitude décident presque tout ce que nous faisons, et un rejet sans argument n'est pas une folie, c'est quelque chose d'humain. Ce qu'il ne doit pas faire, c'est devenir une croyance sur la laine.",
+    "porque": "La raison seule ne nous pousse pas à agir : ce sont les sentiments et l'habitude qui décident. Que quelque chose te retienne sans argument n'est pas une folie, c'est la nature humaine ; l'absurde serait de penser que le métal a changé.",
     "biografia": "hume"
+   },
+   {
+    "quien": "Pascal (XVIIe siècle)",
+    "elige": "B",
+    "porque": "Le cœur a ses raisons que la raison ne connaît point. Il y a des choses que nous saisissons par le sentiment avant de les saisir par la démonstration, et elles n'en sont pas moins nôtres."
    }
   ],
   "debate": {
-   "epoca": "Siglo XVIII (Ilustración)",
-   "texto": "« Aie le courage de te servir de ton propre entendement ! Voilà la devise des Lumières. »",
-   "fuente": "Kant, Réponse à la question : Qu'est-ce que les Lumières ? (1784). La règle de ne rien accepter sans évidence est la première du Discours de la méthode de Descartes (1637).",
+   "epoca": "Siglos XVIII y XIX",
+   "texto": "« Il est mal, toujours, partout et pour quiconque, de croire quoi que ce soit sur la base de preuves insuffisantes. »",
+   "fuente": "William K. Clifford, « L'éthique de la croyance » (1877). L'invitation à se servir de son propre entendement vient de Kant, Réponse à la question : Qu'est-ce que les Lumières ? (1784).",
    "unidad": "fil-t3"
   },
   "preguntas": [
-   "Essaie d'écrire la raison pour laquelle tu ne le mettrais pas. Est-ce une raison ou un sentiment qui a pris la forme d'une raison ?",
-   "Mettrais-tu un sweat qu'a porté ton chanteur préféré lors d'un concert ? Si oui, ne crois-tu pas la même chose, mais à l'envers ?",
-   "Comment distingues-tu, de l'intérieur, une croyance que tu pourrais défendre d'une croyance que tu ne pourrais pas défendre ? Se ressentent-elles différemment ?"
+   "Écris en une phrase pourquoi tu ne t'en servirais pas. Ensuite relis-la : est-ce un argument ou un sentiment déguisé en argument ?",
+   "Si le stylo avait appartenu à une écrivaine que tu admires, tu le paierais plus cher. Est-ce la même croyance, mais à l'envers ?",
+   "Y a-t-il une différence entre refuser le stylo par peur qu'il te « transmette » quelque chose et le refuser par respect pour les victimes ? Laquelle des deux raisons résiste le mieux à un examen ?"
   ],
-  "ysi": "Et si personne ne t'avait dit à qui il appartenait ? Tu le mettrais sans y penser. La seule chose qui a changé, c'est une phrase que tu as entendue : qu'est-ce qui te touche la peau, la laine ou l'histoire ?",
-  "dato": "Le psychologue Paul Rozin et ses collaborateurs étudient depuis les années 1980 cette « contagion magique » : la croyance que les choses gardent quelque chose de celui qui les a touchées. Beaucoup de gens refusent de mettre un pull propre qu'a porté une personne malfaisante ou malade, même s'ils reconnaissent qu'il n'y a aucun risque."
+  "ysi": "Et si le vendeur s'était trompé et que le stylo appartenait à un autre juge, un juge qui n'a jamais condamné personne ? Tu aurais en main exactement le même stylo. Si ta sensation change, elle ne venait pas du stylo, mais de l'histoire qu'on t'a racontée.",
+  "dato": "L'anthropologue James Frazer, dans Le Rameau d'or (1890-1915), a appelé « magie contagieuse » la croyance selon laquelle les choses qui ont été en contact restent liées après avoir été séparées. L'idée est toujours vivante : dans une étude de 2011, George Newman, Gil Diesendruck et Paul Bloom ont constaté que les gens paieraient moins cher un vêtement d'une célébrité qu'ils admirent si on leur dit qu'il a été lavé et désinfecté avant d'être vendu, comme si le nettoyage avait emporté quelque chose de la personne."
  },
  {
   "subject": "fil",
   "grupo": "fil-conocer",
   "id": "fil-existir",
-  "emoji": "🕸️",
+  "emoji": "🧵",
   "etiqueta": "Être et exister",
-  "titulo": "Le village et le super-héros",
-  "situacion": "Pense à un village d'Ouganda : environ trois cents personnes qui cultivent, élèvent du bétail, se connaissent et s'entraident ; chacune a un nom, un visage et une histoire, et se réveille chaque matin comme toi. Il y a un instant, tu ne savais pas qu'elles existaient, et dans un moment tu les auras oubliées. Pense maintenant à Spider-Man : tu sais qui se cache sous le masque, pourquoi son oncle est mort et tu pourrais discuter tout un après-midi pour savoir s'il a eu raison ou non dans une décision. Spider-Man n'existe pas ; les trois cents personnes, si. Un ami te demande lequel des deux est le plus réel pour toi.",
-  "a": "Le village : exister ne dépend pas de ce que je le sache ni de ce qu'il m'importe ; ces personnes sont réelles même si personne ne pense à elles, et Spider-Man ne l'est pas, même si la moitié du monde pense à lui.",
-  "b": "En un certain sens, Spider-Man : il agit dans mes idées, dans mes décisions et dans mes conversations ; ce qui existe mais ne me touche en rien est, pour moi, presque comme s'il n'existait pas.",
-  "pregunta": "Qu'est-ce qu'être réel ? Exister, est-ce la même chose qu'être présent dans la vie de quelqu'un ? De quelle manière « sont » les choses qui n'existent que dans l'imagination ?",
-  "enjuego": "La distinction entre essence et existence (savoir ce qu'est une chose ne garantit pas qu'elle existe), les différents modes d'être et la vieille question de la métaphysique : qu'y a-t-il vraiment, indépendamment de la façon dont cela nous affecte.",
+  "titulo": "La couturière et le personnage",
+  "situacion": "Regarde l'étiquette du t-shirt que tu portes : « Made in Bangladesh ». Quelqu'un l'a coupé et cousu, peut-être une femme de ton âge ou de celui de ta mère, dans un atelier de Dacca, avec les mêmes mains avec lesquelles elle a préparé le dîner ce soir-là. Elle a touché quelque chose qui touche maintenant ta peau, mais tu ne connais pas son nom et tu n'avais jamais pensé à elle. Pense maintenant au protagoniste du jeu vidéo auquel tu as consacré le plus d'heures : tu connais son passé, sa voix et ses peurs, tu as décidé pour lui des centaines de fois et tu as même rêvé de lui. Lui n'existe pas ; elle, si. Une amie te demande lequel des deux occupe le plus de place dans ta vie, et si cela rend l'un d'eux plus réel que l'autre.",
+  "a": "La couturière : exister ne dépend pas du fait que je la connaisse ni que je pense à elle ; elle est réelle même si personne ne se souvient d'elle, et le personnage ne l'est pas même si des millions de personnes y jouent.",
+  "b": "En un certain sens, le personnage : il est dans mes souvenirs, dans mes conversations et dans ce que je ressens ; ce qui existe mais ne laisse aucune trace dans ma vie est, pour moi, presque comme s'il n'existait pas.",
+  "pregunta": "Qu'est-ce que cela signifie que quelque chose soit réel ? Est-ce la même chose d'exister et d'être présent dans la vie de quelqu'un ? De quelle manière « sont » les choses qui n'existent que dans une histoire ?",
+  "enjuego": "La distinction entre essence et existence (savoir comment est une chose ne garantit pas qu'elle existe), les différents modes d'être et la question fondamentale de la métaphysique : ce qu'il y a vraiment, indépendamment de combien cela nous touche.",
   "escuelas": [
    {
     "quien": "Aristote",
     "elige": "A",
-    "porque": "Ce qui est réel en premier lieu, ce sont les substances concrètes, qui existent par elles-mêmes : ces personnes. Spider-Man n'existe que dans autre chose, dans les bandes dessinées et dans les esprits : il est, mais d'une manière dérivée. L'être se dit en plusieurs sens.",
+    "porque": "Ce qui existe au sens plein, ce sont les substances concrètes, comme cette femme, qui est par elle-même. Le personnage n'est que dans autre chose : dans un programme, sur un écran et dans la tête de ceux qui jouent. Lui aussi est, mais d'une manière secondaire.",
     "biografia": "aristoteles"
    },
    {
-    "quien": "Thomas d'Aquin",
+    "quien": "Kant (Lumières)",
     "elige": "A",
-    "porque": "Tu peux très bien savoir ce qu'est Spider-Man, son essence, sans qu'il existe. Connaître l'essence d'une chose ne lui donne pas l'existence, et le village a justement ce qui manque à Spider-Man : il existe.",
-    "biografia": "tomas"
+    "porque": "Tu peux décrire le personnage dans le moindre détail sans lui avoir ajouté d'existence : exister n'est pas une caractéristique de plus d'une chose. Cent thalers (des pièces de son époque) pensés ont les mêmes propriétés que cent thalers réels ; ce qui leur manque, c'est d'être dans le monde.",
+    "biografia": "kant"
    },
    {
-    "quien": "Berkeley (idéalisme)",
-    "elige": "A",
-    "porque": "Être, c'est être perçu, mais tout ce qui est perçu n'a pas la même valeur : les idées des sens, vives et ordonnées, qui ne dépendent pas de ma volonté, sont les choses réelles ; celles que fabrique l'imagination, comme Spider-Man, sont plus faibles et dépendent de moi.",
-    "biografia": "berkeley"
+    "quien": "Meinong (XXe siècle)",
+    "elige": "B",
+    "porque": "Avec des nuances : il y a des objets qui n'existent pas et qui ont pourtant des propriétés vraies ; il est vrai que ton personnage est courageux et qu'il a une cicatrice. Ne pas exister ne fait pas de lui un rien : il a sa propre manière d'être."
    },
    {
     "quien": "Nietzsche",
     "elige": "B",
-    "porque": "Il se méfie de celui qui sépare un « monde vrai » du monde que nous vivons : dans Le Crépuscule des idoles, il raconte comment ce « monde vrai » a fini par devenir une fable. Ce qui compte, c'est ce qui agit dans une vie, et ce que Spider-Man fait dans la tienne est réel.",
+    "porque": "Méfie-toi de ceux qui séparent un « monde vrai » du monde que nous vivons ; ce qui compte, c'est ce qui agit dans une vie et la rend plus intense. Ce que le personnage te fait ressentir et décider fait partie de ta réalité.",
     "biografia": "nietzsche"
    }
   ],
   "debate": {
-   "epoca": "Siglo IV a. C. y siglo XIII",
-   "texto": "« L'être se dit en plusieurs sens, mais par rapport à une seule chose et à une seule nature. »",
-   "fuente": "Aristote, Métaphysique, IV, 2, 1003a33. Des siècles plus tard, Thomas d'Aquin a distingué l'essence d'une chose et son existence dans De l'être et de l'essence (vers 1252-1256).",
+   "epoca": "Siglo IV a. C. y siglo XVIII",
+   "texto": "« “Être” n'est évidemment pas un prédicat réel, c'est-à-dire le concept de quelque chose qui puisse s'ajouter au concept d'une chose. »",
+   "fuente": "Kant, Critique de la raison pure (1781), A 598 / B 626, où il donne l'exemple des cent thalers. Que l'être se dit de multiples façons, Aristote l'avait soutenu dans la Métaphysique (IV, 2).",
    "unidad": "fil-metafisica"
   },
   "preguntas": [
-   "Que fait aujourd'hui dans ta vie l'existence de ces trois cents personnes que ne fait pas Spider-Man ? Si la réponse est « rien », cela signifie-t-il qu'exister n'a pas d'importance ?",
-   "Les nombres, les lois ou les promesses ne se touchent pas non plus. Existent-ils comme le village, comme Spider-Man ou d'une troisième manière ?",
-   "Si un jour tu voyageais jusqu'à ce village et rencontrais ses habitants, qu'est-ce qui changerait : eux ou ta relation avec eux ?"
+   "Qu'est-ce qui changerait aujourd'hui dans ta vie si la couturière n'existait pas ? Et si le personnage disparaissait ? Si la seconde perte te fait plus mal, est-ce que cela prouve quelque chose sur ce qui existe ou seulement sur ce qui t'importe ?",
+   "On peut dire avec vérité que ton personnage a une cicatrice au sourcil. De quoi cette phrase est-elle vraie, s'il n'y a personne avec ce sourcil ?",
+   "Les nombres, les règles d'un jeu ou les promesses ne peuvent pas non plus se toucher. Existent-ils comme la couturière, comme le personnage ou d'une troisième manière ?"
   ],
-  "ysi": "Et si tu apprenais que dans ce village il y a une petite fille qui peut mourir d'une maladie qui se soigne avec très peu d'argent, et que tu pourrais le payer ? Spider-Man pèserait-il encore plus lourd ? Si ta réponse change, ce qui t'importait n'était pas le réel, mais ce qui peut te demander quelque chose.",
-  "dato": "« Exister » vient du latin exsistere, « sortir, apparaître, se dresser » : existe ce qui est là dehors, pas seulement dans un esprit. La distinction entre savoir ce qu'est une chose et savoir qu'elle existe a été développée par Avicenne et Thomas d'Aquin : tu peux parfaitement savoir ce qu'est un dragon sans qu'il en existe un seul."
+  "ysi": "Et si l'étiquette portait son nom, sa photo et une phrase écrite par elle ? En elle, rien n'aurait changé : elle existait déjà. Seule changerait la place qu'elle occupe dans ta tête. Si cela change ta réponse, peut-être ne parlais-tu pas de ce qui existe, mais de ce que tu as devant toi.",
+  "dato": "Le 24 avril 2013 s'est effondré le Rana Plaza, un immeuble de huit étages rempli d'ateliers de couture dans la banlieue de Dacca, au Bangladesh : plus de 1 100 personnes qui cousaient des vêtements pour des marques vendues en Europe y sont mortes. Aujourd'hui, le Bangladesh reste parmi les plus grands exportateurs de vêtements du monde."
  },
  {
   "subject": "fil",
