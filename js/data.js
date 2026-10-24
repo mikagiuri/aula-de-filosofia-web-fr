@@ -5845,7 +5845,7 @@ const QUIZZES = {
     "fb": "C'est Hannah Arendt qui a analysé le totalitarisme comme le pouvoir qui anéantit la liberté, la pluralité et la vie publique."
    },
    {
-    "q": "La phrase « l'homme est un loup pour l'homme » résume l'état de nature selon…",
+    "q": "La phrase de Plaute « l'homme est un loup pour l'homme », devenue célèbre au XVIIe siècle, résume l'état de nature selon…",
     "o": [
      "Hobbes",
      "Locke",
@@ -5853,7 +5853,7 @@ const QUIZZES = {
      "Aristote"
     ],
     "a": 0,
-    "fb": "Hobbes décrit l'état de nature comme une guerre de tous contre tous, dans laquelle « l'homme est un loup pour l'homme »."
+    "fb": "Hobbes, qui a rendu célèbre cette phrase de Plaute, décrit l'état de nature comme une guerre de tous contre tous, dans laquelle « l'homme est un loup pour l'homme »."
    },
    {
     "q": "L'idée d'une cité juste où chaque partie remplit sa fonction en harmonie vient de…",

@@ -1091,7 +1091,7 @@ const ESQUEMAS_FIL = {
       {
        "rel": "pour sortir de la",
        "t": "Guerre de tous contre tous",
-       "d": "« L'homme est un loup pour l'homme » : la peur et l'insécurité dominent."
+       "d": "« L'homme est un loup pour l'homme » (phrase de Plaute popularisée par Hobbes) : la peur et l'insécurité dominent."
       }
      ]
     },

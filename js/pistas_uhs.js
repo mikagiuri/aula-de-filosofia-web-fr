@@ -4360,7 +4360,7 @@ const PISTAS = [
       "etiqueta": "Trois contractualistes",
       "titulo": "De l'état de nature à l'État",
       "definicion": [
-       "<strong>Hobbes</strong> : « guerre de tous contre tous » (« l'homme est un loup pour l'homme ») → par peur, tous cèdent leur pouvoir à un souverain → monarchie absolue (le Léviathan).",
+       "<strong>Hobbes</strong> : « guerre de tous contre tous » (« l'homme est un loup pour l'homme », phrase de Plaute qu'il a rendue célèbre) → par peur, tous cèdent leur pouvoir à un souverain → monarchie absolue (le Léviathan).",
        "<strong>Locke</strong> : paix précaire, avec des droits naturels (vie, liberté, propriété) → pacte limité → État libéral, avec séparation des pouvoirs et droit de se rebeller contre le tyran.",
        "<strong>Rousseau</strong> : le « bon sauvage » est libre et égal ; la société le corrompt → pacte dans lequel chacun se soumet à la volonté générale → démocratie."
       ],

@@ -798,6 +798,15 @@ const CITAS = [
   "uso": "Pour expliquer la distinction des qualités de plaisir chez Mill et sa différence avec Bentham, ou dans des débats sur le bonheur."
  },
  {
+  "c": "Agis de telle sorte que les effets de ton action soient compatibles avec la permanence d'une vie humaine authentique sur Terre.",
+  "a": "Jonas",
+  "o": "Le Principe responsabilité (1979), chap. 1, V",
+  "e": "contemporaine",
+  "img": "media/retratos/citas/jonas.jpg",
+  "sen": "Jonas formule un nouvel impératif pour l'ère technologique : comme notre pouvoir peut détruire l'avenir, nous devons agir en pensant aux générations futures.",
+  "uso": "Pour expliquer l'éthique de la responsabilité et sa comparaison avec Kant, ou dans des débats sur l'écologie et la technologie."
+ },
+ {
   "c": "Je suis moi et ma circonstance, et si je ne la sauve pas, je ne me sauve pas moi-même.",
   "a": "José Ortega y Gasset",
   "o": "Méditations du Quichotte (1914), « Lecteur… »",
