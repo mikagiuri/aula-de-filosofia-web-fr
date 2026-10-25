@@ -1595,6 +1595,834 @@ const DECKS = {
  }
 };
 const QUIZZES = {
+ "fil-t2-ampliacion": {
+  "name": "Coexistence entre cultures et émotions (Philosophie 1re Bach. · T2 · approfondissement)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Quel modèle de coexistence demande aux minorités de laisser derrière elles leur culture d'origine pour être des citoyens égaux ?",
+    "o": [
+     "L'intégration.",
+     "L'assimilation.",
+     "Le multiculturalisme.",
+     "Le pluralisme interculturel."
+    ],
+    "a": 1,
+    "fb": "L'assimilation demande d'adopter la culture majoritaire ; l'exemple est le modèle républicain français."
+   },
+   {
+    "q": "Quel exemple historique illustre le modèle de la ségrégation ?",
+    "o": [
+     "L'apartheid en Afrique du Sud (1948-1994).",
+     "La politique officielle du Canada depuis 1971.",
+     "Le rapport Bouchard-Taylor au Québec (2008).",
+     "Les principes de base communs de l'UE en matière d'intégration (2004)."
+    ],
+    "a": 0,
+    "fb": "La ségrégation fait vivre chaque groupe à part, avec des quartiers, des écoles et des droits différents."
+   },
+   {
+    "q": "Que distingue Will Kymlicka pour défendre des droits différents selon chaque cas ?",
+    "o": [
+     "Les cultures anciennes et les cultures modernes.",
+     "Les minorités nationales et les groupes immigrés.",
+     "Les religions et les langues.",
+     "Les villes et la campagne."
+    ],
+    "a": 1,
+    "fb": "Les minorités nationales vivaient déjà sur un territoire avant de faire partie d'un État plus grand ; les groupes immigrés sont arrivés après."
+   },
+   {
+    "q": "Qu'a demandé Susan Moller Okin en 1999 à propos du multiculturalisme ?",
+    "o": [
+     "S'il coûtait trop cher aux États.",
+     "S'il était mauvais pour les femmes, car reconnaître un groupe peut protéger des coutumes qui oppriment celles et ceux qui vivent en son sein.",
+     "S'il devait s'appliquer seulement aux immigrés.",
+     "Si les langues minoritaires devaient disparaître."
+    ],
+    "a": 1,
+    "fb": "Okin a souligné que la reconnaissance d'un groupe peut renforcer des coutumes qui oppriment ses propres femmes."
+   },
+   {
+    "q": "Quel modèle propose un dialogue dans lequel toutes les cultures, y compris celle de la majorité, changent en vivant ensemble ?",
+    "o": [
+     "L'assimilation.",
+     "La ségrégation.",
+     "Le pluralisme interculturel.",
+     "L'intégration."
+    ],
+    "a": 2,
+    "fb": "C'est l'interculturalisme, avec l'exemple du Québec (rapport Bouchard-Taylor, 2008)."
+   },
+   {
+    "q": "Qu'est-ce qui distingue une émotion d'une humeur ?",
+    "o": [
+     "L'émotion est brève, intense et elle a un objet ; l'humeur dure plus longtemps, elle est diffuse et nous ne savons pas toujours à quoi elle est due.",
+     "Il n'y a pas de différence : ce sont des synonymes.",
+     "L'émotion dure des années et l'humeur, des secondes.",
+     "L'humeur a toujours un objet clair."
+    ],
+    "a": 0,
+    "fb": "Je me fâche contre quelqu'un (émotion) ; il y a des jours où je suis irritable sans raison claire (humeur)."
+   },
+   {
+    "q": "Qu'a soutenu William James en 1884 à propos de la peur ?",
+    "o": [
+     "Que nous tremblons parce que nous avons peur.",
+     "Que nous avons peur parce que nous remarquons que nous tremblons.",
+     "Que la peur est un jugement erroné.",
+     "Que la peur n'a aucun rapport avec le corps."
+    ],
+    "a": 1,
+    "fb": "Pour James, l'émotion est la perception des changements du corps."
+   },
+   {
+    "q": "Qu'a objecté Walter Cannon à James en 1927 ?",
+    "o": [
+     "Que toutes les émotions sont apprises.",
+     "Que des changements corporels très semblables accompagnent des émotions différentes, comme la peur et la colère.",
+     "Que seuls les animaux ont des émotions.",
+     "Que les émotions ne peuvent pas s'éduquer."
+    ],
+    "a": 1,
+    "fb": "Si le corps change presque de la même façon avec la peur et avec la colère, le corps seul ne suffit pas à les distinguer."
+   },
+   {
+    "q": "Qu'a défendu Paul Ekman après avoir montré des photographies de visages à des personnes de nombreuses cultures ?",
+    "o": [
+     "Que chaque culture a des émotions complètement différentes.",
+     "Qu'il existe des émotions de base universelles : la joie, la tristesse, la peur, la colère, le dégoût et la surprise.",
+     "Que le cerveau construit les émotions avec les concepts de chaque langue.",
+     "Que les visages n'expriment pas d'émotions."
+    ],
+    "a": 1,
+    "fb": "Presque tous reconnaissaient les mêmes expressions, y compris les Fore de Papouasie-Nouvelle-Guinée. Lisa Feldman Barrett défend le contraire."
+   },
+   {
+    "q": "Si les émotions contiennent des évaluations, comme le soutient Martha Nussbaum, qu'en découle-t-il ?",
+    "o": [
+     "Qu'elles ne se trompent jamais.",
+     "Qu'elles peuvent être justes ou erronées, et qu'on peut les corriger et les éduquer.",
+     "Qu'elles ne dépendent pas de ce que nous pensons.",
+     "Que seuls les adultes en ont."
+    ],
+    "a": 1,
+    "fb": "C'est pourquoi Aristote parlait de ressentir la peur ou la colère quand il le faut et dans la juste mesure."
+   }
+  ]
+ },
+ "fil-t3-ampliacion": {
+  "name": "Perception, mémoire, post-vérité et femmes dans la science (Philosophie 1re Bach. · T3 · approfondissement)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Qu'a montré l'expérience du gorille de Simons et Chabris (1999) ?",
+    "o": [
+     "Que l'attention est sélective : à peu près la moitié n'a pas vu le gorille.",
+     "Que nous voyons tous la même chose quand nous regardons.",
+     "Que les gorilles sont difficiles à reconnaître dans une vidéo.",
+     "Que la mémoire est une archive parfaite."
+    ],
+    "a": 0,
+    "fb": "C'est la cécité d'inattention : regarder n'est pas voir."
+   },
+   {
+    "q": "Dans l'expérience de Loftus et Palmer (1974), qu'est-ce qui a changé quand on posait la question avec « se sont fracassées » au lieu de « se sont heurtées » ?",
+    "o": [
+     "Rien : tous se sont souvenus de la même chose.",
+     "Ils ont estimé une vitesse plus élevée, et plus de deux fois plus nombreux « se souvenaient » de verre brisé qui n'apparaissait pas dans la vidéo.",
+     "Ils ont complètement oublié la vidéo.",
+     "Ils ont refusé de répondre."
+    ],
+    "a": 1,
+    "fb": "Un mot dans la question a changé le souvenir : la mémoire reconstruit."
+   },
+   {
+    "q": "Qu'a étudié Frederic Bartlett avec le récit « La guerre des fantômes » ?",
+    "o": [
+     "Que nous nous souvenons à travers des schémas : chaque version était plus courte et plus proche de ce qui était familier.",
+     "Que les récits indigènes sont impossibles à retenir.",
+     "Que la mémoire s'améliore avec le temps.",
+     "Que les étudiants anglais ne lisent pas."
+    ],
+    "a": 0,
+    "fb": "Ce que nous savons déjà comble ce que nous n'avons pas retenu (Remembering, 1932)."
+   },
+   {
+    "q": "Que soutient le réalisme critique face aux défaillances de la perception et de la mémoire ?",
+    "o": [
+     "Que nous ne pouvons rien connaître.",
+     "Que notre accès à la réalité est partiel et corrigible, et qu'il faut une vérification externe.",
+     "Qu'il suffit que le témoin soit très sûr de lui.",
+     "Que seule la mémoire est fiable, pas la perception."
+    ],
+    "a": 1,
+    "fb": "D'autres témoins, des documents, des instruments : l'assurance du souvenir ne garantit pas son exactitude."
+   },
+   {
+    "q": "Pourquoi l'expression « faits alternatifs » est-elle un oxymore ?",
+    "o": [
+     "Parce qu'il peut y avoir des interprétations alternatives d'un fait, mais pas des faits alternatifs.",
+     "Parce que les faits n'existent pas.",
+     "Parce que c'est un journaliste qui l'a inventée.",
+     "Parce que tous les faits sont faux."
+    ],
+    "a": 0,
+    "fb": "Si chaque groupe a « ses » faits, il manque le terrain commun sur lequel être en désaccord."
+   },
+   {
+    "q": "De quoi Herbert Simon a-t-il averti en 1971 à propos de l'information ?",
+    "o": [
+     "Que l'abondance d'information produit une rareté de l'attention.",
+     "Qu'il n'y a jamais assez d'information.",
+     "Que l'information est toujours vraie.",
+     "Qu'internet en finirait avec la presse."
+    ],
+    "a": 0,
+    "fb": "Avec des centaines de titres par jour, on n'a le temps de rien vérifier : c'est la surinformation, ou infobésité."
+   },
+   {
+    "q": "Selon Harry Frankfurt, qu'est-ce qui distingue le baratineur du menteur ?",
+    "o": [
+     "Que le baratineur dit toujours des choses fausses.",
+     "Que la vérité est indifférente au baratineur ; le menteur en tient encore compte pour la cacher.",
+     "Que le menteur est plus dangereux.",
+     "Que le baratineur ne parle pas en public."
+    ],
+    "a": 1,
+    "fb": "Pour Frankfurt, le baratin est un ennemi de la vérité plus grand que le mensonge (On Bullshit, 1986)."
+   },
+   {
+    "q": "Qu'est-ce qui distingue une bulle de filtres d'une chambre d'écho ?",
+    "o": [
+     "La bulle, c'est nous qui la construisons ; la chambre d'écho, un algorithme.",
+     "La bulle, c'est un algorithme qui nous la met et nous ne savons pas ce qu'il laisse dehors ; la chambre d'écho, c'est nous et notre groupe qui la dressons.",
+     "C'est la même chose.",
+     "La chambre d'écho n'existe qu'à la radio."
+    ],
+    "a": 1,
+    "fb": "Eli Pariser a appelé bulle de filtres l'effet des algorithmes qui personnalisent ce que nous voyons (2011)."
+   },
+   {
+    "q": "Qu'a trouvé une vaste méta-analyse (Ditto et d'autres, 2019) sur le raisonnement motivé ?",
+    "o": [
+     "Qu'il n'existe qu'à gauche.",
+     "Qu'il n'existe qu'à droite.",
+     "Qu'il existe à un degré semblable à gauche et à droite.",
+     "Qu'il n'existe pas."
+    ],
+    "a": 2,
+    "fb": "Ce n'est pas l'affaire d'une idéologie : nous raisonnons comme des avocats de tous les côtés."
+   },
+   {
+    "q": "Qu'a changé en Espagne l'ordonnance royale (Real Orden) du 8 mars 1910 ?",
+    "o": [
+     "Les femmes ont pu s'inscrire à l'université sans demander la permission.",
+     "On a interdit aux femmes d'étudier la médecine.",
+     "On a créé la première université féminine.",
+     "On a admis la première femme à l'Académie royale des sciences."
+    ],
+    "a": 0,
+    "fb": "Jusque-là, chaque inscription féminine devait être soumise aux autorités supérieures."
+   },
+   {
+    "q": "Qui a été la première docteure en physique d'Espagne (1926) ?",
+    "o": [
+     "Margarita Salas.",
+     "Concepción Arenal.",
+     "Felisa Martín Bravo, née à Donostia.",
+     "María Elena Maseras."
+    ],
+    "a": 2,
+    "fb": "Felisa Martín Bravo a aussi été la première femme du corps national de météorologie (1929)."
+   },
+   {
+    "q": "Que décrit l'effet Matilda, nommé par Margaret W. Rossiter en 1993 ?",
+    "o": [
+     "Que les contributions des femmes sont ignorées ou attribuées à des collègues masculins.",
+     "Que les femmes reçoivent plus de prix que les hommes.",
+     "Que les jeunes scientifiques publient davantage.",
+     "Que les femmes préfèrent ne pas faire de recherche."
+    ],
+    "a": 0,
+    "fb": "Il porte le nom de la suffragiste Matilda Joslyn Gage, qui le dénonçait déjà en 1870 à propos des inventions."
+   },
+   {
+    "q": "Qu'a montré l'expérience de Moss-Racusin (2012) avec le CV de « John » et de « Jennifer » ?",
+    "o": [
+     "Que les deux ont été évalués de la même façon.",
+     "Que « John » a été jugé plus compétent et s'est vu proposer un salaire plus élevé, alors que le CV était identique.",
+     "Que seuls les professeurs hommes discriminaient.",
+     "Que « Jennifer » a reçu plus d'offres."
+    ],
+    "a": 1,
+    "fb": "Comme tout le reste était identique, ici on peut bien parler de cause. Les professeurs l'ont fait comme les professeures."
+   },
+   {
+    "q": "« Dans la R&D des entreprises basques, il y a moins de femmes qu'à l'université. » Qu'est-ce que cette phrase ?",
+    "o": [
+     "Une explication de la discrimination.",
+     "Une donnée, compatible avec plusieurs explications.",
+     "Une preuve que l'industrie n'intéresse pas les femmes.",
+     "Une loi."
+    ],
+    "a": 1,
+    "fb": "Une donnée dit ce qui se passe ; une explication, pourquoi. Une corrélation ne démontre pas une cause."
+   }
+  ]
+ },
+ "fil-metafisica-ampliacion": {
+  "name": "L'intelligence artificielle (Philosophie 1re Bach. · thème M · approfondissement)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Où et quand considère-t-on que l'intelligence artificielle est née comme discipline ?",
+    "o": [
+     "Au Dartmouth College, lors d'une rencontre tenue en 1956.",
+     "À Cambridge, avec Turing, en 1936.",
+     "Dans la Silicon Valley, en 1997.",
+     "Dans la Grèce classique."
+    ],
+    "a": 0,
+    "fb": "John McCarthy a proposé le nom en 1955 en convoquant la rencontre avec Minsky, Rochester et Shannon."
+   },
+   {
+    "q": "En quoi l'apprentissage automatique se distingue-t-il de l'IA symbolique ?",
+    "o": [
+     "L'apprentissage automatique écrit les règles à la main.",
+     "L'IA symbolique écrit les règles à la main ; l'apprentissage automatique ajuste ses paramètres à partir d'exemples.",
+     "C'est la même chose sous deux noms.",
+     "L'IA symbolique ne fait que jouer aux échecs."
+    ],
+    "a": 1,
+    "fb": "La voie symbolique est transparente mais rigide ; celle de l'apprentissage, souple mais opaque."
+   },
+   {
+    "q": "Qu'est-ce qu'une IA faible ou étroite ?",
+    "o": [
+     "Une IA qui fonctionne mal.",
+     "Un système qui résout une tâche précise, parfois mieux que n'importe quelle personne.",
+     "Une IA capable de n'importe quelle tâche intellectuelle humaine.",
+     "Un petit robot."
+    ],
+    "a": 1,
+    "fb": "Selon la plupart des spécialistes, toute l'IA qui existe est étroite."
+   },
+   {
+    "q": "Qu'est-ce que Vernor Vinge a appelé « singularité technologique » (1993) ?",
+    "o": [
+     "Le point où, après une explosion d'intelligence, nos prévisions cesseraient de servir.",
+     "Le premier ordinateur personnel.",
+     "Une erreur de programmation unique.",
+     "L'interdiction de l'IA."
+    ],
+    "a": 0,
+    "fb": "Il partait du raisonnement d'I. J. Good (1965) ; Kurzweil lui a donné une date : vers 2045."
+   },
+   {
+    "q": "Que veut illustrer l'exemple de Nick Bostrom de l'IA qui fabrique des trombones ?",
+    "o": [
+     "Que les machines haïssent les humains.",
+     "Que le danger serait une IA très capable dont les objectifs ne coïncideraient pas avec les nôtres.",
+     "Que les trombones sont dangereux.",
+     "Que l'IA ne pourra jamais rien fabriquer."
+    ],
+    "a": 1,
+    "fb": "C'est le problème du contrôle ou de l'alignement (Superintelligence, 2014)."
+   }
+  ]
+ },
+ "fil-t4-ampliacion": {
+  "name": "Les biais cognitifs (Philosophie 1re Bach. · T4 · approfondissement)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Qu'est-ce qu'un biais cognitif ?",
+    "o": [
+     "Une distraction occasionnelle.",
+     "Une déviation systématique du jugement que presque tous nous commettons dans la même direction et dans les mêmes conditions.",
+     "Un argument mal construit.",
+     "Une maladie mentale."
+    ],
+    "a": 1,
+    "fb": "Ce n'est pas une erreur au hasard : elle se répète toujours dans le même sens."
+   },
+   {
+    "q": "Une batte et une balle coûtent 1,10 euro, et la batte coûte un euro de plus que la balle. Combien coûte la balle ?",
+    "o": [
+     "10 centimes.",
+     "5 centimes.",
+     "1 euro.",
+     "55 centimes."
+    ],
+    "a": 1,
+    "fb": "Si la balle coûtait 10 centimes, la batte coûterait 1,10 et le total, 1,20. La réponse rapide (Système 1) se trompe."
+   },
+   {
+    "q": "Quelle heuristique agit quand, après avoir vu des informations sur des accidents d'avion, l'avion nous semble plus dangereux que la voiture ?",
+    "o": [
+     "L'ancrage.",
+     "La représentativité.",
+     "La disponibilité.",
+     "L'angle mort."
+    ],
+    "a": 2,
+    "fb": "Nous jugeons la fréquence d'une chose d'après la facilité avec laquelle des exemples nous viennent à l'esprit."
+   },
+   {
+    "q": "Quelle est la différence entre un biais et un sophisme ?",
+    "o": [
+     "Le sophisme est un défaut d'un argument ; le biais, une tendance de l'esprit qui agit avant qu'il y ait un argument.",
+     "C'est la même chose.",
+     "Le biais est dans le texte et le sophisme chez celui qui le lit.",
+     "Le sophisme est toujours inconscient et le biais, intentionnel."
+    ],
+    "a": 0,
+    "fb": "En bref : le sophisme est dans le texte ; le biais, chez celui qui l'écrit ou qui le lit."
+   },
+   {
+    "q": "Qu'a montré Peter Wason (1960) avec la série 2-4-6 ?",
+    "o": [
+     "Que presque tous essayaient des séries qui confirmaient leur hypothèse et presque personne une série qui pût la démentir.",
+     "Que personne ne sait compter de deux en deux.",
+     "Que la règle était « des nombres pairs ».",
+     "Que les mathématiques n'ont pas de biais."
+    ],
+    "a": 0,
+    "fb": "C'est le biais de confirmation. La règle était « n'importe quelle série croissante »."
+   },
+   {
+    "q": "Que défend Gerd Gigerenzer à propos des heuristiques ?",
+    "o": [
+     "Qu'elles sont toujours irrationnelles.",
+     "Que beaucoup sont rationnelles dans leur environnement : des règles rapides et frugales qui tombent juste autant ou plus qu'un calcul compliqué.",
+     "Qu'il faut les éliminer complètement.",
+     "Que seuls les enfants les utilisent."
+    ],
+    "a": 1,
+    "fb": "Le problème apparaît quand le raccourci est utilisé hors du terrain où il sert."
+   }
+  ]
+ },
+ "fil-t5-ampliacion": {
+  "name": "Vertu, stoïcisme, devoir et éthique appliquée (Philosophie 1re Bach. · T5 · approfondissement)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Que répond Rosalind Hursthouse à l'objection selon laquelle l'éthique de la vertu ne dit pas quoi faire ?",
+    "o": [
+     "Que chaque vertu et chaque vice donnent déjà une règle de conduite, et que les autres théories ont aussi besoin de jugement pour s'appliquer.",
+     "Que l'éthique de la vertu n'a pas à dire quoi faire.",
+     "Qu'il suffit de suivre l'impératif de Kant.",
+     "Qu'il faut obéir à la majorité."
+    ],
+    "a": 0,
+    "fb": "Sois honnête, ne sois pas cruel, ne sois pas lâche : chaque vertu oriente."
+   },
+   {
+    "q": "Que soutient l'objection situationniste contre l'éthique de la vertu ?",
+    "o": [
+     "Que les vertus changent selon la culture.",
+     "Que le caractère stable n'existe peut-être pas et que c'est la situation qui nous fait agir.",
+     "Que la vertu ne donne pas de règles de conduite.",
+     "Que les vertus entrent en conflit entre elles."
+    ],
+    "a": 1,
+    "fb": "Elle s'appuie sur des expériences comme celle de la pièce d'Isen et Levin (1972) ou celle de Milgram."
+   },
+   {
+    "q": "Comment Martha Nussbaum répond-elle à l'objection de la relativité culturelle des vertus ?",
+    "o": [
+     "Que toutes les cultures ont les mêmes coutumes.",
+     "Que, même si les noms changent, toutes les cultures doivent faire face aux mêmes expériences, et que la vertu est la manière juste d'affronter chacune d'elles.",
+     "Que seules les vertus grecques sont valables.",
+     "Que la vertu n'existe pas."
+    ],
+    "a": 1,
+    "fb": "La peur de la mort, le partage des biens, le rapport aux plaisirs."
+   },
+   {
+    "q": "Qu'ont constaté Alice Isen et Paula Levin dans une expérience de 1972 ?",
+    "o": [
+     "Que ceux qui venaient de trouver une pièce dans une cabine téléphonique aidaient beaucoup plus à ramasser des papiers tombés.",
+     "Que les personnes vertueuses aident toujours, quoi qu'il arrive.",
+     "Que personne n'aide un inconnu.",
+     "Que l'argent rend les gens plus égoïstes."
+    ],
+    "a": 0,
+    "fb": "C'est l'une des expériences sur lesquelles s'appuie le situationnisme : un détail de la situation change la conduite."
+   },
+   {
+    "q": "Pour les stoïciens, quel est le seul vrai bien ?",
+    "o": [
+     "La santé.",
+     "L'argent.",
+     "Avoir un caractère excellent, la vertu.",
+     "Le plaisir."
+    ],
+    "a": 2,
+    "fb": "Tout le reste (la santé, l'argent, le succès) est indifférent : cela ne nous rend ni meilleurs ni pires."
+   },
+   {
+    "q": "Quels sont les quatre visages de la vertu stoïcienne ?",
+    "o": [
+     "La sagesse pratique, le courage, la justice et la tempérance.",
+     "La foi, l'espérance, la charité et la prudence.",
+     "La richesse, la santé, la gloire et le pouvoir.",
+     "Le plaisir, l'amitié, la science et l'art."
+    ],
+    "a": 0,
+    "fb": "Phrónēsis, andreía, dikaiosýnē et sōphrosýnē."
+   },
+   {
+    "q": "Qu'est-ce qu'une passion pour Chrysippe ?",
+    "o": [
+     "Un jugement, et de surcroît erroné.",
+     "Un tremblement du corps sans contenu.",
+     "Un cadeau des dieux.",
+     "Une vertu."
+    ],
+    "a": 0,
+    "fb": "La colère, par exemple, c'est croire que quelqu'un m'a fait un tort injuste et qu'il mérite de le payer."
+   },
+   {
+    "q": "Que propose William Irvine face à la division stoïcienne entre ce que je contrôle et ce que je ne contrôle pas ?",
+    "o": [
+     "Une troisième case : ce que nous contrôlons en partie.",
+     "Supprimer la division.",
+     "Tout contrôler.",
+     "Ne se soucier de rien."
+    ],
+    "a": 0,
+    "fb": "La note d'un examen ne dépend pas que de moi, mais elle n'est pas non plus étrangère à ce que j'étudie."
+   },
+   {
+    "q": "Un commerçant fait payer le juste prix à un enfant seulement parce qu'il lui convient d'avoir une réputation d'honnêteté. Selon Kant, comment agit-il ?",
+    "o": [
+     "Par devoir, et son action a une valeur morale.",
+     "Conformément au devoir, mais son action n'a pas de valeur morale.",
+     "Contre le devoir.",
+     "Par inclination, et c'est pourquoi elle a plus de valeur morale."
+    ],
+    "a": 1,
+    "fb": "Seule l'action accomplie par devoir, parce que c'est ce qu'il faut faire, a une valeur morale."
+   },
+   {
+    "q": "Que montre le cas du juge de McCloskey (1957) ?",
+    "o": [
+     "Qu'il faut condamner l'innocent pour sauver des vies.",
+     "Que les normes du devoir sont des limites à ce que nous pouvons faire, et non des objectifs à maximiser.",
+     "Que les juges doivent obéir à la foule.",
+     "Que la justice n'existe pas."
+    ],
+    "a": 1,
+    "fb": "Le compte des vies semble favoriser la condamnation, mais presque tous nous sentons que le juge ne peut pas le faire."
+   },
+   {
+    "q": "Lequel de ces traits appartient à la structure des éthiques du devoir ?",
+    "o": [
+     "Il faut toujours maximiser le bien de tous.",
+     "La différence entre faire un mal et ne pas l'empêcher compte.",
+     "Seules les conséquences comptent.",
+     "Il n'existe pas de permissions de s'occuper de sa propre vie."
+    ],
+    "a": 1,
+    "fb": "En outre, il existe des permissions pour sa propre vie, et certains admettent que, face à une catastrophe, la limite peut céder."
+   },
+   {
+    "q": "Pour Kant, où se trouve ce qui rend une action bonne ?",
+    "o": [
+     "Dans ses conséquences, qui se voient de l'extérieur.",
+     "Dans la maxime selon laquelle on l'accomplit : cela ne se voit pas de l'extérieur.",
+     "Dans l'opinion des autres.",
+     "Dans le fait qu'elle réussisse."
+    ],
+    "a": 1,
+    "fb": "C'est pourquoi le commerçant honnête par intérêt agit conformément au devoir, mais non par devoir."
+   },
+   {
+    "q": "Que faut-il pour qu'un problème relève de l'éthique appliquée ?",
+    "o": [
+     "Qu'il fasse la une du journal.",
+     "Un désaccord raisonnable entre des personnes informées et de bonne foi, qu'il ne suffit pas de regarder la loi pour résoudre.",
+     "Qu'il soit illégal.",
+     "Qu'il ne concerne que des scientifiques."
+    ],
+    "a": 1,
+    "fb": "Quelque chose peut être légal et moralement discutable, ou illégal et défendable."
+   },
+   {
+    "q": "Quelle position environnementale étend la considération morale à la communauté entière des sols, des eaux, des plantes et des animaux ?",
+    "o": [
+     "L'anthropocentrisme.",
+     "Le biocentrisme de Paul Taylor.",
+     "L'écocentrisme d'Aldo Leopold.",
+     "L'utilitarisme."
+    ],
+    "a": 2,
+    "fb": "Pour Leopold, une action est bonne si elle protège l'équilibre de cette communauté (Almanach d'un comté des sables, 1949)."
+   },
+   {
+    "q": "Quel impératif nouveau a proposé Hans Jonas (Le Principe responsabilité, 1979) ?",
+    "o": [
+     "Agir de façon que la vie humaine puisse continuer d'exister sur Terre.",
+     "Agir toujours selon son propre intérêt.",
+     "Obéir à la loi sans exception.",
+     "Maximiser la croissance économique."
+    ],
+    "a": 0,
+    "fb": "La technique moderne peut nuire à ceux qui ne sont pas encore nés."
+   },
+   {
+    "q": "Selon Milton Friedman (1970), quelle est la seule responsabilité sociale d'une entreprise ?",
+    "o": [
+     "Répondre à toutes les parties prenantes.",
+     "Gagner de l'argent dans le respect de la loi.",
+     "Donner ses bénéfices.",
+     "Créer de la confiance."
+    ],
+    "a": 1,
+    "fb": "Face à lui, R. Edward Freeman (1984) a défendu qu'elle doit rendre des comptes à toutes les parties prenantes qu'elle affecte."
+   },
+   {
+    "q": "Que conclut Peter Singer (1972) du cas de l'enfant qui se noie dans un étang ?",
+    "o": [
+     "Que nous n'avons de devoirs qu'envers ceux qui sont proches.",
+     "Que nous devrions aussi donner une partie de notre argent pour sauver des enfants lointains, car la distance ne change rien moralement.",
+     "Que les vêtements comptent plus qu'une vie.",
+     "Que la pauvreté n'est pas un problème moral."
+    ],
+    "a": 1,
+    "fb": "Ses critiques répondent de côtés différents ; Thomas Pogge vise les règles du commerce international."
+   }
+  ]
+ },
+ "fil-t6-ampliacion": {
+  "name": "État et nation, démocratie, droits de l'homme et mouvements sociaux (Philosophie 1re Bach. · T6 · approfondissement)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Lequel de ces termes désigne une réalité juridique : un pouvoir souverain sur un territoire et une population, avec ses institutions ?",
+    "o": [
+     "La nation.",
+     "La patrie.",
+     "L'État.",
+     "Le pays."
+    ],
+    "a": 2,
+    "fb": "La nation est culturelle ; la patrie, émotionnelle ; le pays, avant tout territorial."
+   },
+   {
+    "q": "Que désigne la patrie ?",
+    "o": [
+     "Une institution de l'État.",
+     "Le lien affectif avec une communauté, le sentiment d'être d'un lieu.",
+     "Un territoire sur la carte.",
+     "Une loi fondamentale."
+    ],
+    "a": 1,
+    "fb": "C'est le plan émotionnel, distinct du juridique, du territorial et du culturel."
+   },
+   {
+    "q": "Que supposait l'État-nation moderne ?",
+    "o": [
+     "Qu'à chaque nation devait correspondre un État.",
+     "Que les États ne doivent pas avoir de frontières.",
+     "Que les nations n'existent pas.",
+     "Que chaque ville est un État."
+    ],
+    "a": 0,
+    "fb": "La réalité ne s'y ajuste presque jamais : il y a des États plurinationaux et des nations réparties entre plusieurs États ou sans État propre."
+   },
+   {
+    "q": "Que montre le cas de la culture basque de part et d'autre de la frontière franco-espagnole ?",
+    "o": [
+     "Que les limites culturelles et les limites politiques n'ont pas à aller de pair.",
+     "Que toute nation a déjà son propre État.",
+     "Que les frontières suivent toujours les langues.",
+     "Que la culture basque n'existe pas en France."
+    ],
+    "a": 0,
+    "fb": "Séparer les plans aide à discuter plus sereinement d'un débat politique ouvert et légitime de tous ses côtés."
+   },
+   {
+    "q": "Quel trait de la démocratie libérale s'oppose à l'impunité ?",
+    "o": [
+     "Le pluralisme.",
+     "La reddition de comptes.",
+     "La représentation.",
+     "Les élections périodiques."
+    ],
+    "a": 1,
+    "fb": "Celui qui commande répond de ce qu'il fait."
+   },
+   {
+    "q": "Que signifie « majorité avec des droits pour les minorités » ?",
+    "o": [
+     "Que la minorité gouverne.",
+     "Que celui qui gagne gouverne, mais sans écraser celui qui perd.",
+     "Que la majorité peut décider n'importe quoi.",
+     "Qu'on ne vote pas."
+    ],
+    "a": 1,
+    "fb": "C'est l'un des traits qui distinguent une démocratie libérale."
+   },
+   {
+    "q": "Quel trait de la démocratie libérale s'oppose au parti unique ?",
+    "o": [
+     "Le pluralisme.",
+     "La primauté du droit.",
+     "La société civile.",
+     "La reddition de comptes."
+    ],
+    "a": 0,
+    "fb": "Le pluralisme : de nombreux partis et opinions rivalisent."
+   },
+   {
+    "q": "Quel trait de la démocratie libérale s'oppose à la charge à vie ou héritée ?",
+    "o": [
+     "Les élections libres et périodiques.",
+     "La primauté du droit.",
+     "Le pluralisme.",
+     "La société civile active."
+    ],
+    "a": 0,
+    "fb": "Et avec la représentation, les citoyens choisissent ceux qui décident et peuvent les changer."
+   },
+   {
+    "q": "Que proclame l'article 1 de la Déclaration universelle des droits de l'homme ?",
+    "o": [
+     "Que nous naissons tous libres et égaux en dignité et en droits.",
+     "Le droit au travail.",
+     "L'interdiction de la guerre.",
+     "La souveraineté de chaque État."
+    ],
+    "a": 0,
+    "fb": "L'article 2 interdit la discrimination."
+   },
+   {
+    "q": "Que recueillent les articles 22 à 27 de la Déclaration ?",
+    "o": [
+     "Les droits civils et politiques.",
+     "Les droits économiques, sociaux et culturels.",
+     "Les devoirs des États.",
+     "Le préambule."
+    ],
+    "a": 1,
+    "fb": "Travail, éducation, santé, vie culturelle. Les articles 3 à 21 recueillent les droits civils et politiques."
+   },
+   {
+    "q": "Pourquoi la Déclaration de 1948 n'oblige-t-elle pas juridiquement les États à elle seule ?",
+    "o": [
+     "Parce que c'est une résolution de l'Assemblée générale, non un traité.",
+     "Parce que personne ne l'a votée.",
+     "Parce qu'elle a expiré en 1966.",
+     "Parce qu'elle n'est valable qu'en Europe."
+    ],
+    "a": 0,
+    "fb": "La Déclaration inspire et les pactes obligent."
+   },
+   {
+    "q": "Qu'a-t-on adopté en 1966 pour que les droits obligent les États qui les ratifient ?",
+    "o": [
+     "Une nouvelle Déclaration universelle.",
+     "Deux pactes : l'un sur les droits civils et politiques, l'autre sur les droits économiques, sociaux et culturels.",
+     "Une constitution mondiale.",
+     "Un tribunal européen."
+    ],
+    "a": 1,
+    "fb": "Les pactes, eux, sont des traités."
+   },
+   {
+    "q": "Qu'a proposé la Déclaration du Caire (1990) ?",
+    "o": [
+     "Lire les droits de l'homme à la lumière de la loi islamique.",
+     "Abolir les droits de l'homme.",
+     "Réaffirmer leur universalité sans nuances.",
+     "Souligner les valeurs asiatiques."
+    ],
+    "a": 0,
+    "fb": "La Déclaration de Bangkok (1993) a souligné les dites valeurs asiatiques et la souveraineté de chaque État."
+   },
+   {
+    "q": "Qu'a réaffirmé la Conférence de Vienne en 1993 ?",
+    "o": [
+     "Que les droits sont universels, même s'il faut les appliquer en tenant compte de chaque contexte.",
+     "Que chaque État choisit ses droits.",
+     "Que la Déclaration de 1948 était annulée.",
+     "Que seuls les droits civils sont valables."
+    ],
+    "a": 0,
+    "fb": "Ce fut la réponse aux déclarations du Caire et de Bangkok."
+   },
+   {
+    "q": "Quelle question philosophique bat en dessous du débat sur l'universalité des droits ?",
+    "o": [
+     "Sur quoi les droits se fondent-ils, et quelque chose peut-il obliger tout le monde sans un fondement partagé.",
+     "Combien d'articles doit avoir une déclaration.",
+     "Quelle est la langue officielle de l'ONU.",
+     "Qui a gagné la Seconde Guerre mondiale."
+    ],
+    "a": 0,
+    "fb": "Sur la nature humaine, sur un accord, sur la dignité ? Cela rejoint le relativisme moral du thème 5."
+   },
+   {
+    "q": "Qu'a souligné la Déclaration de Bangkok (1993) ?",
+    "o": [
+     "Les dites valeurs asiatiques et la souveraineté de chaque État face à une liste commune.",
+     "La lecture des droits selon la loi islamique.",
+     "L'universalité des droits sans nuances.",
+     "L'abolition de la peine de mort."
+    ],
+    "a": 0,
+    "fb": "La lecture selon la loi islamique était celle du Caire (1990) ; Vienne (1993) a réaffirmé l'universalité."
+   },
+   {
+    "q": "Que sont les mouvements sociaux ?",
+    "o": [
+     "Des partis politiques représentés au parlement.",
+     "Des organisations de personnes, en dehors des institutions, pour changer les lois et les mœurs.",
+     "Des services du gouvernement.",
+     "Des entreprises à but non lucratif."
+    ],
+    "a": 1,
+    "fb": "Le suffragisme, les droits civiques, l'écologisme, le féminisme, le mouvement ouvrier."
+   },
+   {
+    "q": "Quels traits a la désobéissance civile ?",
+    "o": [
+     "Elle est secrète, violente et cherche le profit personnel.",
+     "Elle est publique, non violente et délibérée, et celui qui la pratique accepte la sanction.",
+     "Seuls les gouvernements la pratiquent.",
+     "Elle consiste à ne pas voter."
+    ],
+    "a": 1,
+    "fb": "Elle cherche à interpeller la conscience de la majorité pour changer une loi jugée injuste."
+   },
+   {
+    "q": "Pourquoi Thoreau a-t-il refusé de payer un impôt ?",
+    "o": [
+     "Parce qu'il soutenait l'esclavage et la guerre.",
+     "Parce qu'il n'avait pas d'argent.",
+     "Parce qu'il voulait le garder pour lui.",
+     "Parce qu'il n'aimait pas le maire."
+    ],
+    "a": 0,
+    "fb": "Gandhi et Martin Luther King ont ensuite fait de la désobéissance civile une stratégie de masse."
+   },
+   {
+    "q": "Qu'est-ce qui distingue la désobéissance civile du délit ordinaire ?",
+    "o": [
+     "Qu'elle ne cherche ni le profit personnel ni à se cacher, mais à changer une norme en faisant appel à des principes partagés.",
+     "Qu'elle n'a pas de conséquences.",
+     "Qu'elle triomphe toujours.",
+     "Que seuls les jeunes la pratiquent."
+    ],
+    "a": 0,
+    "fb": "Faut-il toujours obéir à la loi, ou quand est-il légitime de lui désobéir : c'est un débat ouvert."
+   }
+  ]
+ },
  "fil-t7": {
   "name": "Qu'est-ce que l'art ? · Esthétique (Philosophie 1re Bach. · T7)",
   "subject": "fil",

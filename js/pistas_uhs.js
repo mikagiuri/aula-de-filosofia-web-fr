@@ -947,6 +947,224 @@ const PISTAS = [
   }
  },
  {
+  "id": "fil-emociones",
+  "subject": "fil",
+  "tema": "Thème 2 · Qu'est-ce que l'être humain ?",
+  "unidad": "fil-t2",
+  "materia": "Philosophie 1re Bach. · Anthropologie",
+  "titulo": "Qu'est-ce qu'une émotion ?",
+  "lede": "Un bruit la nuit dans la cuisine, et ce qui se passe dans cette seconde dans le corps et dans la tête. Ne demande que les indices dont tu as besoin.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Rappel",
+    "etiqueta": "Question de départ",
+    "pregunta": "Quelles pièces forment une émotion ?",
+    "intro": [
+     "Tu marches dans une rue sombre et quelqu'un se met à courir derrière toi. Avant que tu penses quoi que ce soit, ton pouls s'emballe. Puis tu vois qu'il courait seulement pour attraper le bus. Que t'est-il arrivé, exactement ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : dans cette frayeur, il y a quelque chose qui se passe dans le <em>corps</em> (le pouls, la respiration, les muscles tendus) et quelque chose que tu <em>ressens</em> de l'intérieur.",
+     "Mais ce n'est pas qu'un tremblement : la frayeur <em>dit quelque chose</em> de la situation. C'est comme si le corps avait conclu « c'est dangereux » avant que tu le penses.",
+     "Et elle te pousse à faire quelque chose : fuir, rester immobile, te retourner. Les émotions viennent avec une tendance à agir.",
+     "Une <strong>émotion</strong> réunit quatre pièces : un changement corporel, un vécu, une <strong>évaluation</strong> de la situation et une tendance à agir. C'est pourquoi elle est le meilleur exemple du fait que nous sommes une unité de corps et d'esprit (psychosomatique)."
+    ],
+    "comprobacion": {
+     "pregunta": "Laquelle de ces pièces NE fait PAS partie d'une émotion, selon la section ?",
+     "opciones": [
+      [
+       "Une décision prise après y avoir réfléchi calmement.",
+       true
+      ],
+      [
+       "Un changement dans le corps.",
+       false,
+       "Le pouls ou la respiration changent : c'est une pièce centrale."
+      ],
+      [
+       "Une évaluation de la situation.",
+       false,
+       "L'émotion « juge » la situation : danger, offense, perte."
+      ],
+      [
+       "Une tendance à agir.",
+       false,
+       "La peur pousse à fuir ou à rester immobile : cela fait aussi partie de l'émotion."
+      ]
+     ],
+     "ok": "Bien : l'émotion arrive avant la délibération tranquille.",
+     "mal": "Pas encore."
+    },
+    "rescate": [
+     {
+      "boton": "J'ai besoin de voir des exemples",
+      "etiqueta": "Exemples",
+      "titulo": "Émotion, humeur et sentiment",
+      "definicion": [
+       "Tu te fâches parce que quelqu'un passe devant toi dans la file. → <strong>Émotion</strong> : brève, intense et avec un objet clair.",
+       "Tu es de mauvaise humeur toute la journée et tu ne sais pas pourquoi. → <strong>Humeur</strong> : plus longue, diffuse, sans objet clair.",
+       "Tu as de l'affection pour ta grand-mère depuis toujours. → <strong>Sentiment</strong> : l'émotion devenue consciente, durable et nommée."
+      ],
+      "parrafos": [
+       "Antonio Damasio l'ordonne ainsi : l'émotion se produit d'abord dans le corps, et le sentiment est la perception que l'esprit se forme de cet état."
+      ],
+      "comprobacion": {
+       "etiqueta": "Vérification des exemples",
+       "pregunta": "Aujourd'hui, tu es éteint et tu ne saurais pas dire pourquoi. Qu'est-ce que c'est ?",
+       "opciones": [
+        [
+         "Une humeur.",
+         true
+        ],
+        [
+         "Une émotion.",
+         false,
+         "L'émotion a un objet clair ; ici, tu ne sais pas à quoi c'est dû."
+        ],
+        [
+         "Un sentiment.",
+         false,
+         "Le sentiment est pensé et nommé, et il s'adresse d'habitude à quelqu'un ou à quelque chose."
+        ],
+        [
+         "Un jugement moral.",
+         false,
+         "Tu n'es pas en train de juger si quelque chose est bien ou mal."
+        ]
+       ],
+       "ok": "Correct : diffuse et sans objet clair.",
+       "mal": "Regarde de nouveau les exemples.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Définition et explication",
+      "titulo": "Ce qu'est une émotion",
+      "definicion": [
+       "Une <strong>émotion</strong> est une réponse brève qui unit un changement corporel, un vécu, une évaluation de la situation et une tendance à agir.",
+       "Darwin (1872) a vu dans beaucoup d'émotions des réponses héritées qui ont aidé à survivre et qui, en outre, <strong>communiquent</strong> aux autres ce qui nous arrive.",
+       "Elle se distingue de l'<strong>humeur</strong> (diffuse et durable) et du <strong>sentiment</strong> (l'émotion consciente et prolongée)."
+      ],
+      "comprobacion": {
+       "boton": "Vérifier ma compréhension",
+       "etiqueta": "Vérification finale",
+       "pregunta": "Selon Darwin, à quoi servent beaucoup d'émotions ?",
+       "opciones": [
+        [
+         "À survivre et à communiquer aux autres ce qui nous arrive.",
+         true
+        ],
+        [
+         "À rien : ce sont des restes sans fonction.",
+         false,
+         "Darwin leur a vu une fonction claire dans la survie."
+        ],
+        [
+         "Seulement à faire de l'art.",
+         false,
+         "L'art les exprime, mais leur origine est bien plus ancienne."
+        ],
+        [
+         "Seulement à tromper d'autres animaux.",
+         false,
+         "C'est plutôt l'inverse : une grimace de dégoût avertit sincèrement le groupe."
+        ]
+       ],
+       "ok": "Correct : survie et communication.",
+       "mal": "Pas encore."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Approfondissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Les émotions sont-elles des réactions du corps ou des jugements ? Et peut-on les éduquer ?",
+    "intro": [
+     "Tu sais que l'avion est plus sûr que la voiture et pourtant, ton estomac se serre au décollage. Qui commande là : ton corps ou ta tête ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : William James (1884) a renversé l'ordre habituel : nous ne tremblons pas parce que nous avons peur ; nous avons peur parce que nous remarquons que nous tremblons. L'émotion serait la perception des changements du corps.",
+     "Walter Cannon lui a objecté que des changements corporels presque identiques accompagnent des émotions différentes, comme la peur et la colère : le corps seul ne suffit pas pour savoir ce que nous ressentons.",
+     "L'autre tradition, qui vient des stoïciens et que défend aujourd'hui Martha Nussbaum, voit dans l'émotion un <em>jugement</em> : avoir du chagrin pour quelqu'un, c'est juger qu'il était important pour ta vie. S'il en est ainsi, une émotion peut être juste ou se tromper.",
+     "Et ce qui peut se tromper peut se <strong>corriger</strong>. Aristote pensait déjà qu'on apprend à ressentir la peur ou la colère quand il le faut et dans la juste mesure. La peur de l'avion montre la limite : il y a des évaluations plus rapides que le jugement que nous faisons à tête reposée."
+    ],
+    "comprobacion": {
+     "pregunta": "Si une émotion contient un jugement, qu'en découle-t-il ?",
+     "opciones": [
+      [
+       "Qu'elle peut être juste ou erronée, et que par conséquent on peut la corriger et l'éduquer.",
+       true
+      ],
+      [
+       "Qu'elle ne se trompe jamais, parce que chacun ressent ce qu'il ressent.",
+       false,
+       "Si elle contient un jugement, elle peut échouer comme échoue n'importe quel jugement."
+      ],
+      [
+       "Que le corps n'intervient en rien.",
+       false,
+       "Les théories du jugement ne nient pas le corps ; elles disent que la clé est l'évaluation."
+      ],
+      [
+       "Que seules les personnes qui réfléchissent beaucoup en ont.",
+       false,
+       "Nous évaluons tous ce qui nous arrive, même si c'est en un instant."
+      ]
+     ],
+     "ok": "Exact : si elle juge, elle peut apprendre à mieux juger.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Deux familles de théories",
+      "titulo": "Corps, jugement et éducation",
+      "definicion": [
+       "<strong>Théories physiologiques</strong> (James) : l'émotion est la perception des changements du corps. Objection de Cannon : des corps semblables, des émotions différentes.",
+       "<strong>Théories du jugement</strong> (stoïciens, Nussbaum) : l'émotion est une évaluation de ce qui importe. Objection : il y a des émotions qui résistent à ce que nous savons.",
+       "Innées ou construites ? Paul Ekman a trouvé des visages reconnaissables dans de nombreuses cultures (joie, tristesse, peur, colère, dégoût, surprise) ; Lisa Feldman Barrett soutient que le cerveau construit chaque émotion avec les concepts appris."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Qu'a objecté Walter Cannon à William James ?",
+       "opciones": [
+        [
+         "Que des émotions différentes, comme la peur et la colère, s'accompagnent de changements corporels très semblables.",
+         true
+        ],
+        [
+         "Que les émotions n'ont rien à voir avec le corps.",
+         false,
+         "Cannon ne niait pas le corps ; il disait qu'il ne suffit pas à distinguer les émotions."
+        ],
+        [
+         "Que seuls les animaux ont des émotions.",
+         false,
+         "La discussion portait sur les émotions humaines."
+        ],
+        [
+         "Que toutes les émotions sont apprises.",
+         false,
+         "C'est plutôt la position de Barrett, un siècle plus tard."
+        ]
+       ],
+       "ok": "Correct : le corps seul ne suffit pas.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Tu sais maintenant ce qu'est une émotion",
+   "parrafos": [
+    "Une émotion unit le corps, le vécu, l'évaluation et la tendance à agir. James la place dans le corps ; les stoïciens et Nussbaum, dans un jugement. Si elle contient un jugement, on peut l'éduquer, comme le pensait Aristote.",
+    "Tu l'as développé dans la section <a href=\"#teoria/fil-t2/4\">« Le corps et l'esprit »</a> du thème 2, dans « Les émotions : le corps qui évalue ». Pour continuer : « Sommes-nous nature ou culture ? »."
+   ],
+   "siguiente": "fil-naturaleza-cultura"
+  }
+ },
+ {
   "id": "fil-naturaleza-cultura",
   "subject": "fil",
   "tema": "Thème 2 · Qu'est-ce que l'être humain ?",
@@ -1153,13 +1371,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Élargissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Comment un État peut-il organiser la coexistence entre cultures ?",
+    "intro": [
+     "Dans ton lycée, il y a des élèves de nombreuses origines. Qu'est-ce qui doit être pareil pour tous et qu'est-ce qui peut changer selon chaque famille : le calendrier des fêtes, le menu de la cantine, les vêtements, la langue des cours ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : les attitudes face à celui qui est différent sont personnelles, mais quand des communautés de langues, de religions et de coutumes différentes vivent dans un même pays, l'<em>État</em> doit aussi trancher : dans quelle langue on enseigne, quelles fêtes sont des jours ouvrables, qui décide du menu.",
+     "Les réponses se regroupent en cinq modèles selon ce qu'ils demandent aux minorités : la <em>ségrégation</em> (vivre à part, comme sous l'apartheid), l'<em>assimilation</em> (laisser derrière soi la culture d'origine) et l'<em>intégration</em> (des règles publiques communes et, dans la sphère privée, sa propre culture).",
+     "Les deux autres : le <em>multiculturalisme</em> (l'État reconnaît les groupes et leur accorde certains droits propres, comme l'a fait le Canada depuis 1971) et le <em>pluralisme interculturel</em> (un dialogue dans lequel toutes les cultures, y compris celle de la majorité, changent en vivant ensemble).",
+     "Le plus discuté est le <strong>multiculturalisme</strong>. Will Kymlicka le défend en distinguant minorités nationales et groupes immigrés ; Brian Barry répond que la loi doit être la même pour tous ; Susan Moller Okin a demandé si protéger un groupe ne peut pas protéger des coutumes qui oppriment les femmes en son sein. Le débat reste ouvert."
+    ],
+    "comprobacion": {
+     "pregunta": "Que demande aux minorités le modèle de l'intégration ?",
+     "opciones": [
+      [
+       "Accepter des règles publiques communes, tout en conservant sa propre culture dans la sphère privée.",
+       true
+      ],
+      [
+       "Laisser complètement derrière soi sa culture d'origine.",
+       false,
+       "Cela, c'est l'assimilation."
+      ],
+      [
+       "Vivre à part, avec des écoles et des droits différents.",
+       false,
+       "Cela, c'est la ségrégation."
+      ],
+      [
+       "Rien : l'État leur accorde des droits propres en tant que groupe.",
+       false,
+       "Cela se rapproche du multiculturalisme."
+      ]
+     ],
+     "ok": "Bien : le commun dans la sphère publique, le propre dans la sphère privée.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Cinq modèles",
+      "titulo": "Modèles de coexistence",
+      "definicion": [
+       "<strong>Ségrégation</strong> : vivre à part. <strong>Assimilation</strong> : adopter la culture majoritaire. <strong>Intégration</strong> : des règles publiques communes et sa propre culture dans la sphère privée.",
+       "<strong>Multiculturalisme</strong> : reconnaissance et droits de groupe. <strong>Pluralisme interculturel</strong> : un dialogue dans lequel toutes les cultures changent.",
+       "En faveur du multiculturalisme : Kymlicka et Charles Taylor (refuser la reconnaissance nuit aussi). Contre : Barry (la même loi pour tous) et la question d'Okin sur les femmes au sein de chaque groupe."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Que distingue Will Kymlicka pour défendre des droits différents ?",
+       "opciones": [
+        [
+         "Les minorités nationales, qui vivaient déjà sur un territoire, et les groupes immigrés.",
+         true
+        ],
+        [
+         "Les riches et les pauvres.",
+         false,
+         "Sa distinction n'est pas économique ; elle porte sur des types de minorités."
+        ],
+        [
+         "Les bonnes cultures et les mauvaises.",
+         false,
+         "Kymlicka ne classe pas les cultures selon leur valeur."
+        ],
+        [
+         "Les jeunes et les personnes âgées.",
+         false,
+         "Il ne parle pas d'âges."
+        ]
+       ],
+       "ok": "Correct : deux types de minorités, des droits différents.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Tu sais maintenant ce qui relève de la nature et ce qui relève de la culture",
    "parrafos": [
     "La nature nous donne des capacités et la culture les développe : sans relation avec les autres, comme ce fut le cas pour Victor de l'Aveyron, ces capacités ne parviennent pas à se réaliser.",
-    "Et comme l'instinct ne nous fixe pas une seule manière de vivre, nous nous faisons peu à peu : Pic l'a appelé dignité, et Ortega, histoire. Pour continuer : « Sommes-nous libres ou tout est-il déterminé ? »."
+    "Et comme l'instinct ne nous fixe pas une seule manière de vivre, nous nous faisons peu à peu : Pic l'a appelé dignité, et Ortega, histoire. Pour continuer : « Sommes-nous libres ou tout est-il déterminé ? ».",
+    "Les cinq modèles de coexistence, tu les as dans la section <a href=\"#teoria/fil-t2/3\">« Culture, identité et diversité »</a> du thème 2."
    ],
    "siguiente": "fil-libertad"
   }
@@ -1586,15 +1884,309 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Élargissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Pouvons-nous nous fier à ce que nous percevons et à ce dont nous nous souvenons ?",
+    "intro": [
+     "Tu as un souvenir très vif de quand tu avais quatre ans. T'en souviens-tu toi-même, ou te souviens-tu de ce qu'on t'a raconté et des photos que tu as vues ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : la perception n'est pas une caméra qui enregistre, mais un filtre. Dans une expérience de 1999, la moitié de ceux qui comptaient des passes dans une vidéo n'ont pas vu quelqu'un déguisé en gorille qui traversait le terrain : regarder n'est pas voir.",
+     "De plus, le cerveau complète ce qu'il reçoit : dans l'illusion de Müller-Lyer, deux lignes égales paraissent différentes même après les avoir mesurées. Et certaines qualités, comme la couleur, c'est en partie notre système visuel qui les apporte.",
+     "La mémoire n'est pas non plus une archive : elle <em>reconstruit</em>. Elizabeth Loftus a montré qu'un mot dans la question (« se sont fracassées » au lieu de « se sont heurtées ») change ce dont on se souvient d'un accident, et qu'on peut en arriver à « se souvenir » d'un faux épisode de l'enfance.",
+     "Il n'en découle pas que nous ne connaissons rien : les sens et la mémoire fonctionnent bien au quotidien. Ce qui en découle, c'est ce que défend le <strong>réalisme critique</strong> : notre accès à la réalité est partiel et corrigible, et il faut une <strong>vérification externe</strong> (d'autres témoins, des documents, des instruments). Un souvenir dont on est très sûr n'est pas pour autant un souvenir exact."
+    ],
+    "comprobacion": {
+     "pregunta": "Que montrent les expériences d'Elizabeth Loftus sur la mémoire ?",
+     "opciones": [
+      [
+       "Que la mémoire reconstruit : un souvenir peut changer avec ce que nous entendons ensuite et même être implanté.",
+       true
+      ],
+      [
+       "Que la mémoire garde les faits exactement comme ils se sont passés.",
+       false,
+       "C'est justement ce que ses expériences mettent en doute."
+      ],
+      [
+       "Que seuls les enfants ont de faux souvenirs.",
+       false,
+       "Ses participants étaient des adultes."
+      ],
+      [
+       "Que nous ne pouvons jamais rien connaître du passé.",
+       false,
+       "Ce qu'elles demandent, c'est de vérifier les souvenirs, non d'y renoncer."
+      ]
+     ],
+     "ok": "Exact : se souvenir, c'est refaire.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Des sources faillibles",
+      "titulo": "Perception et mémoire",
+      "definicion": [
+       "<strong>Perception</strong> : l'attention sélective (le gorille invisible), le cerveau qui complète (Müller-Lyer), des qualités qu'apporte le sujet (la couleur).",
+       "<strong>Mémoire reconstructive</strong> : Bartlett (1932) et Loftus ; les souvenirs se refont avec des schémas et avec ce que nous entendons ensuite.",
+       "<strong>Réalisme critique</strong> : nous connaissons, mais de façon partielle et corrigible ; l'assurance d'un témoin ne garantit pas l'exactitude de ce dont il se souvient."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Que propose le réalisme critique face à ces défaillances ?",
+       "opciones": [
+        [
+         "Que nous connaissons de façon partielle et corrigible, et qu'il faut une vérification externe.",
+         true
+        ],
+        [
+         "Que nous ne pouvons absolument rien connaître.",
+         false,
+         "Ce serait le scepticisme radical ; le réalisme critique ne va pas jusque-là."
+        ],
+        [
+         "Qu'il suffit d'être très sûr de ce dont on se souvient.",
+         false,
+         "L'assurance ne garantit pas l'exactitude."
+        ],
+        [
+         "Que seul vaut ce que dit la majorité.",
+         false,
+         "Il demande une vérification par des témoins, des documents et des instruments, non un vote."
+        ]
+       ],
+       "ok": "Correct : corrigible et vérifiable.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Tu sais maintenant ce qu'est savoir",
    "parrafos": [
     "Selon la définition classique, qui vient de Platon, savoir, c'est avoir une croyance vraie et justifiée : croire quelque chose, que ce soit vrai et avoir de bonnes raisons.",
-    "Gettier a montré qu'on peut remplir tout cela et tomber juste par chance, comme avec l'horloge arrêtée. Pour continuer : « Qu'est-ce qui rend une théorie scientifique ? »."
+    "Gettier a montré qu'on peut remplir tout cela et tomber juste par chance, comme avec l'horloge arrêtée. Pour continuer : « Qu'est-ce qui rend une théorie scientifique ? ».",
+    "La perception et la mémoire comme sources faillibles, tu les as dans la section <a href=\"#teoria/fil-t3/1\">« Que pouvons-nous connaître ? La connaissance humaine »</a> du thème 3."
    ],
    "siguiente": "fil-ciencia"
+  }
+ },
+ {
+  "id": "fil-posverdad",
+  "subject": "fil",
+  "tema": "Thème 3 · Que pouvons-nous connaître ?",
+  "unidad": "fil-t3",
+  "materia": "Philosophie 1re Bach. · Théorie de la connaissance",
+  "titulo": "Pourquoi croyons-nous des choses fausses à l'ère de l'information ?",
+  "lede": "Des faits alternatifs, l'équipe de chacun, ceux qui trompent pour de l'argent et la différence entre une chambre d'écho et une bulle de filtres. Ne demande que les indices dont tu as besoin.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Rappel",
+    "etiqueta": "Question de départ",
+    "pregunta": "Qu'y a-t-il d'étrange à parler de « faits alternatifs » ?",
+    "intro": [
+     "Deux personnes discutent du nombre de gens venus à un concert. L'une dit « dix mille » ; l'autre, « trois mille ». À la fin, la première tranche : « Bon, moi j'ai mes faits et toi les tiens. » Peut-on continuer à discuter ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : un <em>fait</em>, c'est ce qui s'est passé ; une <em>interprétation</em>, ce que nous pensons de ce qui s'est passé. Sur un même fait, il peut y avoir des interprétations différentes.",
+     "S'il y avait trois mille personnes, on peut discuter pour savoir si c'était un succès ou un échec. Ce qui n'est pas possible, c'est qu'il y en ait eu trois mille et dix mille à la fois.",
+     "C'est pourquoi « faits alternatifs », l'expression employée en 2017 par une conseillère de la Maison-Blanche pour défendre un chiffre faux, est presque un oxymore, une contradiction dans les termes.",
+     "Si chaque groupe a « ses » faits, on perd le <strong>terrain commun</strong> sur lequel être en désaccord : on ne discute plus de ce que signifie ce qui s'est passé, mais de ce qui s'est passé. C'est ce qu'on appelle la <strong>post-vérité</strong>."
+    ],
+    "comprobacion": {
+     "pregunta": "Pourquoi les « faits alternatifs » rendent-ils la discussion impossible ?",
+     "opciones": [
+      [
+       "Parce que disparaît le terrain commun de faits sur lequel on peut être en désaccord.",
+       true
+      ],
+      [
+       "Parce que personne n'a le droit d'interpréter les faits.",
+       false,
+       "Interpréter est légitime : ce qui n'est pas possible, ce sont des faits incompatibles."
+      ],
+      [
+       "Parce que les faits sont toujours ennuyeux.",
+       false,
+       "Le problème n'est pas l'intérêt, mais que sans faits partagés il n'y a pas de discussion."
+      ],
+      [
+       "Parce que tous les chiffres sont faux.",
+       false,
+       "Il y a des chiffres qu'on peut vérifier : c'est justement cela qu'on perd."
+      ]
+     ],
+     "ok": "Bien : sans faits communs, pas de désaccord raisonnable.",
+     "mal": "Pas encore."
+    },
+    "rescate": [
+     {
+      "boton": "J'ai besoin de voir des exemples",
+      "etiqueta": "Exemples",
+      "titulo": "Pourquoi nous préférons une version",
+      "definicion": [
+       "<strong>Surinformation</strong> : tant de titres par jour qu'on n'a le temps de rien vérifier ; Herbert Simon (1971) a averti que l'abondance d'information crée une rareté de l'attention.",
+       "<strong>Identité de groupe</strong> : en 1954, des étudiants de deux universités ont vu le même match violent et chaque groupe a « vu » beaucoup plus de fautes de l'adversaire.",
+       "<strong>Raisonnement motivé</strong> : nous raisonnons comme un avocat qui sait déjà quelle conclusion il veut, non comme un juge impartial."
+      ],
+      "comprobacion": {
+       "etiqueta": "Vérification des exemples",
+       "pregunta": "Que montre l'expérience du match de 1954 ?",
+       "opciones": [
+        [
+         "Que l'appartenance à un groupe influe sur ce que nous croyons avoir vu.",
+         true
+        ],
+        [
+         "Que le football américain est très violent.",
+         false,
+         "Le match était violent, mais ce qui est intéressant, c'est la façon dont chaque camp l'a vu."
+        ],
+        [
+         "Que les arbitres se trompent toujours.",
+         false,
+         "L'étude n'évaluait pas l'arbitre, mais les spectateurs."
+        ],
+        [
+         "Que les gens d'une université mentent plus que ceux de l'autre.",
+         false,
+         "C'est arrivé aux deux groupes de la même façon."
+        ]
+       ],
+       "ok": "Correct : l'équipe de chacun colore ce qu'il voit.",
+       "mal": "Regarde de nouveau les exemples.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Définition et explication",
+      "titulo": "Post-vérité",
+      "definicion": [
+       "<strong>Post-vérité</strong> : situation dans laquelle les faits pèsent moins que les émotions et les croyances préalables dans la formation de l'opinion. L'usage du mot a explosé en 2016.",
+       "Un <strong>fait</strong>, c'est ce qui s'est passé ; une <strong>interprétation</strong>, ce que nous en pensons. Il peut y avoir des interprétations alternatives, pas des faits alternatifs.",
+       "Outre la fatigue due à la surinformation, l'<strong>identité de groupe</strong> joue : changer de croyance peut être ressenti comme trahir les nôtres."
+      ],
+      "comprobacion": {
+       "boton": "Vérifier ma compréhension",
+       "etiqueta": "Vérification finale",
+       "pregunta": "Selon une vaste méta-analyse de 2019, où trouve-t-on le raisonnement motivé ?",
+       "opciones": [
+        [
+         "À un degré semblable à gauche et à droite.",
+         true
+        ],
+        [
+         "Seulement à gauche.",
+         false,
+         "L'étude l'a trouvé à un degré semblable des deux côtés."
+        ],
+        [
+         "Seulement à droite.",
+         false,
+         "L'étude l'a trouvé à un degré semblable des deux côtés."
+        ],
+        [
+         "Seulement chez les personnes peu instruites.",
+         false,
+         "Ce n'est pas une question d'études : c'est une tendance générale de l'esprit."
+        ]
+       ],
+       "ok": "Correct : ce n'est pas l'affaire d'une idéologie.",
+       "mal": "Pas encore."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Approfondissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Qui trompe, dans quel but, et comment nous enfermons-nous dans ce que nous pensons déjà ?",
+    "intro": [
+     "En 2016, des jeunes d'une petite ville des Balkans passaient leur temps à inventer des nouvelles sur les élections aux États-Unis. Peu leur importait qui gagnait. Pourquoi le faisaient-ils ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : on trompe par <em>pouvoir</em> (des voix, couler un rival, cacher une erreur) et par <em>argent</em> : à ces jeunes, chaque clic rapportait des revenus publicitaires.",
+     "Harry Frankfurt a distingué le menteur du baratineur : le menteur tient encore compte de la vérité, même si c'est pour la cacher ; au baratineur, la vérité est égale, il dit ce qui l'arrange. C'est pourquoi il lui semblait un ennemi de la vérité pire que le mensonge.",
+     "Ensuite, il y a la manière dont nous nous enfermons. Une <em>chambre d'écho</em>, c'est nous qui la dressons : nous choisissons qui suivre et qui faire taire, jusqu'à n'entendre que des voix semblables à la nôtre.",
+     "Une <strong>bulle de filtres</strong>, en revanche, on nous la met : c'est l'effet des algorithmes qui personnalisent ce que nous voyons selon ce sur quoi nous avons cliqué avant. Nous ne la choisissons pas et nous ne voyons pas ce qu'elle laisse dehors. On sort de l'une en écoutant ceux qui pensent autrement ; de l'autre, en variant les sources."
+    ],
+    "comprobacion": {
+     "pregunta": "Qu'est-ce qui distingue une chambre d'écho d'une bulle de filtres ?",
+     "opciones": [
+      [
+       "La chambre d'écho, c'est nous qui la construisons ; la bulle, c'est un algorithme qui la crée sans que nous la voyions.",
+       true
+      ],
+      [
+       "C'est la même chose sous deux noms.",
+       false,
+       "Elles se ressemblent par l'effet, mais pas par qui les dresse."
+      ],
+      [
+       "La bulle, c'est nous qui la construisons ; la chambre d'écho, c'est un algorithme qui la crée.",
+       false,
+       "C'est l'inverse."
+      ],
+      [
+       "La chambre d'écho n'existe qu'en dehors d'internet.",
+       false,
+       "Elle peut se produire dans un groupe de messagerie ou sur un réseau social."
+      ]
+     ],
+     "ok": "Exact : l'une se choisit, l'autre, on nous la met.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Tromperie et enfermement",
+      "titulo": "Le baratineur, la chambre et la bulle",
+      "definicion": [
+       "Harry Frankfurt (<em>On Bullshit</em>, 1986) : le <strong>baratineur</strong> est indifférent à la vérité, et c'est pourquoi il est plus dangereux que le menteur.",
+       "Hannah Arendt (« Vérité et politique », 1967) : le mensonge systématique ne fait pas tant croire le faux qu'il fait cesser de croire en quoi que ce soit.",
+       "<strong>Chambre d'écho</strong> (C. Thi Nguyen) : c'est nous qui excluons et discréditons les autres voix. <strong>Bulle de filtres</strong> (Eli Pariser, 2011) : l'algorithme fait qu'elles n'arrivent pas. Certains nuancent le diagnostic (Hugo Mercier) : nous sommes moins crédules qu'on ne le craint."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Selon Frankfurt, pourquoi le baratineur est-il pire que le menteur ?",
+       "opciones": [
+        [
+         "Parce que la vérité est indifférente au baratineur ; le menteur, au moins, en tient compte pour la cacher.",
+         true
+        ],
+        [
+         "Parce que le baratineur dit toujours des choses fausses.",
+         false,
+         "Il peut dire des choses vraies : il lui est égal qu'elles le soient ou non."
+        ],
+        [
+         "Parce que le baratineur parle plus fort.",
+         false,
+         "Ce n'est pas une question de volume, mais de son rapport à la vérité."
+        ],
+        [
+         "Parce que le menteur ne fait jamais de mal.",
+         false,
+         "Le mensonge fait du mal ; Frankfurt dit que l'indifférence en fait davantage."
+        ]
+       ],
+       "ok": "Correct : l'indifférence à la vérité.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Tu sais maintenant comment fonctionne la post-vérité",
+   "parrafos": [
+    "Il peut y avoir des interprétations alternatives, pas des faits alternatifs. Nous croyons le faux par fatigue, à cause de l'équipe à laquelle nous appartenons et parce que nous raisonnons comme des avocats ; celui qui cherche le pouvoir ou l'argent trompe, et le baratineur ne regarde même pas la vérité.",
+    "Tu l'as dans la section <a href=\"#teoria/fil-t3/5\">« La post-vérité et les fake news »</a> du thème 3. Pour continuer : « Pouvons-nous nous fier à ce que nous percevons et à ce dont nous nous souvenons ? », dans les Indices « Qu'est-ce que savoir quelque chose, et pas seulement le croire ? »."
+   ]
   }
  },
  {
@@ -1808,6 +2400,221 @@ const PISTAS = [
    "parrafos": [
     "L'induction ne peut pas prouver complètement une loi générale, mais un seul cas contraire suffit à la réfuter. Popper a fait de cette asymétrie son critère : est scientifique la théorie falsifiable, celle qui prend le risque d'échouer.",
     "La science avance par des hypothèses que l'on met à l'épreuve, comme l'a fait Semmelweis. Pour continuer : l'exploration « La méthode hypothético-déductive : le cas Semmelweis »."
+   ]
+  }
+ },
+ {
+  "id": "fil-mujer-ciencia",
+  "subject": "fil",
+  "tema": "Thème 3 · Que pouvons-nous connaître ?",
+  "unidad": "fil-t3",
+  "materia": "Philosophie 1re Bach. · Théorie de la connaissance",
+  "titulo": "Pourquoi y a-t-il peu de femmes dans l'histoire de la science ?",
+  "lede": "Des barrières datées, des mérites que d'autres ont emportés et la différence entre une donnée et une explication. Ne demande que les indices dont tu as besoin.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Rappel",
+    "etiqueta": "Question de départ",
+    "pregunta": "Le fait qu'il y ait peu de femmes dans les livres d'histoire de la science prouve-t-il quelque chose ?",
+    "intro": [
+     "Feuillette un livre d'histoire de la science et compte les noms de femmes. Il y en aura peu. Quelqu'un conclut : « C'est sans doute qu'elles étaient moins douées. » Est-ce une bonne conclusion ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : avant de chercher la cause dans la capacité, il faut se demander qui <em>pouvait</em> étudier, faire de la recherche et publier à chaque époque.",
+     "Il y a eu des <em>barrières formelles</em>, écrites dans une loi ou des statuts, que l'on peut dater : en Espagne, jusqu'à l'ordonnance royale (Real Orden) du 8 mars 1910, chaque inscription d'une femme à l'université devait être soumise aux autorités supérieures.",
+     "Et il y a eu des <em>barrières informelles</em>, qui ne figurent sur aucun papier : manque de financement, de postes, d'une équipe qui t'accueille, préjugés sur ce qui est « propre » à une femme. Celles-là, il faut les mesurer avec des données.",
+     "Ainsi, de « peu de femmes dans les livres », il ne découle pas « moins de capacités » : il en découle qu'il y avait des <strong>barrières</strong>. Certaines existent encore aujourd'hui : depuis décembre 2022, en Afghanistan, il est interdit aux femmes d'étudier à l'université."
+    ],
+    "comprobacion": {
+     "pregunta": "Qu'est-ce qu'une barrière formelle ?",
+     "opciones": [
+      [
+       "Une interdiction ou une limite écrite dans une norme, que l'on peut dater.",
+       true
+      ],
+      [
+       "Un préjugé que personne ne dit à voix haute.",
+       false,
+       "Ce serait une barrière informelle : elle n'est pas écrite."
+      ],
+      [
+       "Le manque d'intérêt des femmes pour la science.",
+       false,
+       "Ce n'est pas une barrière, et c'est en plus justement ce qu'il faudrait prouver."
+      ],
+      [
+       "Une règle vestimentaire au laboratoire.",
+       false,
+       "Une barrière formelle empêche ou limite l'accès : étudier, faire de la recherche, entrer dans une académie."
+      ]
+     ],
+     "ok": "Bien : écrite et datée.",
+     "mal": "Pas encore."
+    },
+    "rescate": [
+     {
+      "boton": "J'ai besoin de voir des exemples",
+      "etiqueta": "Exemples",
+      "titulo": "Des barrières datées",
+      "definicion": [
+       "1872 : María Elena Maseras s'inscrit en médecine à Barcelone avec une autorisation expresse, la première dans une université espagnole.",
+       "1911 : l'Académie des sciences de Paris refuse Marie Curie, qui avait déjà un Nobel.",
+       "1945 : la Royal Society admet ses deux premières membres ; 1988 : Margarita Salas, première femme à la Real Academia de Ciencias Exactas, Físicas y Naturales.",
+       "1926 : Felisa Martín Bravo, née à Donostia, première docteure en physique d'Espagne."
+      ],
+      "comprobacion": {
+       "etiqueta": "Vérification des exemples",
+       "pregunta": "Qu'est-il arrivé à Marie Curie en 1911 avec l'Académie des sciences ?",
+       "opciones": [
+        [
+         "Elle a été refusée, alors qu'elle avait déjà un prix Nobel.",
+         true
+        ],
+        [
+         "Elle a été nommée présidente.",
+         false,
+         "Ce fut le contraire : elle a été refusée."
+        ],
+        [
+         "On lui a décerné son premier Nobel.",
+         false,
+         "Elle avait déjà le Nobel ; l'Académie l'a refusée."
+        ],
+        [
+         "Elle a été la première femme admise.",
+         false,
+         "La première élue est arrivée bien plus tard, en 1962."
+        ]
+       ],
+       "ok": "Correct : même avec un Nobel.",
+       "mal": "Regarde de nouveau les dates.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Définition et explication",
+      "titulo": "L'effet Matilda",
+      "definicion": [
+       "Robert K. Merton a appelé <strong>effet Matthieu</strong> (1968) le fait d'attribuer le mérite à celui qui est déjà célèbre, même si le travail est partagé.",
+       "Margaret W. Rossiter a montré (1993) que cette répartition injuste désavantage surtout les femmes, et elle l'a appelée <strong>effet Matilda</strong>, d'après la suffragiste Matilda Joslyn Gage.",
+       "Des cas très cités : Nettie Stevens et les chromosomes sexuels ; Lise Meitner et la fission nucléaire ; Rosalind Franklin et la « photo 51 » de l'ADN ; Jocelyn Bell et le premier pulsar."
+      ],
+      "comprobacion": {
+       "boton": "Vérifier ma compréhension",
+       "etiqueta": "Vérification finale",
+       "pregunta": "Que décrit l'effet Matilda ?",
+       "opciones": [
+        [
+         "Que les contributions des femmes sont ignorées ou attribuées à des collègues masculins.",
+         true
+        ],
+        [
+         "Que les femmes reçoivent plus de prix qu'elles n'en méritent.",
+         false,
+         "C'est exactement le contraire."
+        ],
+        [
+         "Que les scientifiques célèbres travaillent moins.",
+         false,
+         "L'effet parle de la répartition du mérite, non de la quantité de travail."
+        ],
+        [
+         "Que les femmes préfèrent ne pas publier.",
+         false,
+         "Il parle de la manière dont on reconnaît ce qui est publié, non de préférences."
+        ]
+       ],
+       "ok": "Correct : le mérite qui va à un autre.",
+       "mal": "Pas encore."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Approfondissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Comment passe-t-on d'une donnée à une explication sans tricher ?",
+    "intro": [
+     "Au Pays basque (Euskadi), en 2024, les femmes représentaient 58,7 % du personnel de R&D dans l'administration publique et 31,2 % dans les entreprises. Pourquoi ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : une <em>donnée</em> dit ce qui se passe ; une <em>explication</em>, pourquoi. La même donnée peut s'accorder avec plusieurs explications.",
+     "Ici, il y en a au moins trois possibles : que ces entreprises se consacrent surtout à l'ingénierie, où peu de femmes obtiennent leur diplôme ; que les stéréotypes découragent les filles dès l'enfance ; ou que l'on embauche moins bien les femmes. Chacune demande des données différentes pour être vérifiée.",
+     "Attention au saut facile : que deux choses aillent ensemble (une <em>corrélation</em>) ne démontre pas que l'une cause l'autre. Pour parler de cause, il faut davantage : l'idéal, une expérience où une seule chose change.",
+     "C'est ce qu'ont fait Corinne Moss-Racusin et son équipe (2012) : ils ont envoyé le <strong>même</strong> CV, signé tantôt « John », tantôt « Jennifer ». « John » a été jugé plus compétent et s'est vu proposer un salaire plus élevé. Comme tout le reste était identique, ici on peut bien parler de cause : un <strong>biais</strong> qui discrimine sans que personne ne le veuille."
+    ],
+    "comprobacion": {
+     "pregunta": "Pourquoi l'expérience de « John » et « Jennifer » permet-elle de parler de cause ?",
+     "opciones": [
+      [
+       "Parce que les CV étaient identiques et que seul le nom changeait.",
+       true
+      ],
+      [
+       "Parce que beaucoup d'universités y ont participé.",
+       false,
+       "Le nombre aide, mais la clé est qu'une seule chose changeait."
+      ],
+      [
+       "Parce qu'une revue célèbre l'a publiée.",
+       false,
+       "Ce n'est pas la revue qui établit la cause : c'est le plan de l'expérience."
+      ],
+      [
+       "Parce que seuls des hommes évaluaient.",
+       false,
+       "Des professeurs et des professeures évaluaient, et les deux groupes ont fait la même chose."
+      ]
+     ],
+     "ok": "Exact : une seule différence, celle du nom.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Données et causes",
+      "titulo": "Donnée, explication, biais et discrimination",
+      "definicion": [
+       "Une <strong>donnée</strong> décrit ; une <strong>explication</strong> dit pourquoi. Une <strong>corrélation</strong> (deux choses qui vont ensemble) ne prouve pas une cause.",
+       "Un <strong>biais</strong> est une tendance, souvent inconsciente, qui fait pencher un jugement ; la <strong>discrimination</strong> est un traitement inégal et injuste. Un biais peut discriminer sans intention, et cela peut se vérifier.",
+       "Et l'effet Matilda décrit une tendance : chaque cas se discute avec des documents. Jocelyn Bell elle-même a dit qu'il lui avait paru raisonnable que le Nobel aille à son directeur."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "« Dans la filière technologique de mon lycée, il y a moins de filles. » Qu'est-ce que cette phrase ?",
+       "opciones": [
+        [
+         "Une donnée, compatible avec plusieurs explications qu'il faudrait vérifier.",
+         true
+        ],
+        [
+         "Une explication de la raison pour laquelle il y a moins de filles.",
+         false,
+         "Elle dit ce qui se passe, non pourquoi."
+        ],
+        [
+         "Une preuve de discrimination.",
+         false,
+         "Il peut y en avoir ou non : avec cette seule donnée, on ne le sait pas."
+        ],
+        [
+         "Une preuve que la technologie n'intéresse pas les filles.",
+         false,
+         "C'est l'une des explications possibles, non une chose démontrée."
+        ]
+       ],
+       "ok": "Correct : une donnée appelle des explications.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Tu sais maintenant lire l'histoire de la science avec des données",
+   "parrafos": [
+    "Qu'il y ait peu de femmes dans l'histoire de la science s'explique par des barrières, formelles et informelles, et par l'effet Matilda, non par un manque de capacités.",
+    "Une donnée n'est pas une explication : pour parler de causes, il faut plus de données ou une expérience. Tu l'as dans la section <a href=\"#teoria/fil-t3/7\">« Science, technologie, art et société »</a> du thème 3."
    ]
   }
  },
@@ -2449,13 +3256,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Élargissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Qu'est-ce que l'intelligence artificielle aujourd'hui, et quels risques discute-t-on ?",
+    "intro": [
+     "Tu demandes à un chatbot de te résumer un livre et il le fait très bien. A-t-il compris le livre ? Et quel rapport avec la machine de Turing d'il y a soixante-dix ans ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : l'IA n'est pas seulement une expérience de pensée : c'est une discipline réelle, née lors d'une rencontre au Dartmouth College en 1956. Elle a suivi deux voies : l'IA <em>symbolique</em>, qui écrit les règles à la main, et l'<em>apprentissage automatique</em>, qui ajuste ses paramètres à partir de millions d'exemples.",
+     "C'est de cette seconde voie que sortent les grands modèles de langage : ils calculent quel mot a le plus de chances de venir ensuite, comme la saisie prédictive du portable, à une échelle gigantesque. Ils écrivent correctement sans que personne leur ait appris la grammaire ; la question de Searle revient : savent-ils ce qu'ils disent ?",
+     "Il convient de distinguer l'IA <em>faible ou étroite</em>, qui résout une tâche précise (traduire, prédire des protéines), de l'IA <em>générale</em>, qui pourrait affronter n'importe quelle tâche intellectuelle humaine. Selon la plupart des spécialistes, toute celle qui existe est étroite. (Attention : Searle employait « faible » et « forte » dans un autre sens.)",
+     "Sur l'avenir, le débat est ouvert : certains parlent d'une <strong>singularité</strong> où une machine en améliorerait d'autres sans fin, et du problème que ses objectifs ne coïncident pas avec les nôtres (Bostrom) ; d'autres, comme Melanie Mitchell ou Emily Bender, rappellent que ces systèmes manquent de sens commun et qu'il y a des dommages qui existent déjà : biais, désinformation, dépense d'énergie et pouvoir concentré. Et reste une question urgente : <strong>qui répond</strong> quand une machine décide ?"
+    ],
+    "comprobacion": {
+     "pregunta": "Qu'est-ce qui distingue l'IA étroite de l'IA générale ?",
+     "opciones": [
+      [
+       "L'étroite résout une tâche précise ; la générale pourrait affronter n'importe quelle tâche intellectuelle humaine.",
+       true
+      ],
+      [
+       "L'étroite est moins bonne en tout qu'une personne.",
+       false,
+       "Dans sa tâche précise, elle peut être meilleure que n'importe quelle personne."
+      ],
+      [
+       "La générale existe déjà et nous l'utilisons tous les jours.",
+       false,
+       "Selon la plupart des spécialistes, toute l'IA qui existe est étroite."
+      ],
+      [
+       "L'étroite utilise des règles et la générale des exemples.",
+       false,
+       "C'est une autre distinction : celle des deux voies, symbolique et par apprentissage."
+      ]
+     ],
+     "ok": "Exact : une tâche face à n'importe quelle tâche.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "IA",
+      "titulo": "L'IA comme objet d'étude",
+      "definicion": [
+       "<strong>Deux voies</strong> : l'IA symbolique (des règles écrites à la main : transparente mais rigide) et l'apprentissage automatique (il apprend à partir d'exemples : souple mais opaque).",
+       "<strong>Deux objectifs</strong> : l'IA étroite (une tâche) et l'IA générale (n'importe quelle tâche). La singularité serait le point où une IA générale s'améliorerait elle-même sans fin.",
+       "<strong>Les risques</strong>, en débat : le problème du contrôle ou de l'alignement (Bostrom) face à ceux qui demandent de s'occuper des dommages présents (Mitchell, Bender). Trois questions : comprend-elle ? a-t-elle un esprit ? qui en répond ?"
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Qu'est-ce que le problème du contrôle ou de l'alignement ?",
+       "opciones": [
+        [
+         "Comment garantir qu'un système plus capable que nous poursuive ce que nous voulons vraiment.",
+         true
+        ],
+        [
+         "Comment éviter qu'une machine devienne malveillante.",
+         false,
+         "Bostrom insiste sur le fait que le danger ne serait pas la malveillance, mais des objectifs mal alignés."
+        ],
+        [
+         "Comment faire pour que les ordinateurs consomment moins d'électricité.",
+         false,
+         "La dépense d'énergie est une autre préoccupation, distincte."
+        ],
+        [
+         "Comment aligner le texte dans un document.",
+         false,
+         "Ici, « aligner » signifie que les objectifs de l'IA coïncident avec les nôtres."
+        ]
+       ],
+       "ok": "Correct : qu'elle veuille ce que nous voulons.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Tu peux maintenant discuter si une machine pense",
    "parrafos": [
     "Turing a proposé de juger d'après la conduite : si nous ne distinguons pas la machine d'une personne, il n'y a aucune raison de lui refuser l'intelligence. Searle a objecté avec la chambre chinoise que manipuler des symboles n'est pas les comprendre. La réplique la plus connue dit que ce qui comprendrait le chinois, c'est le système entier (la personne, le manuel et la pièce), et il resterait alors ce que Chalmers a appelé en 1995 le problème difficile de la conscience.",
-    "Pour réfléchir : un chatbot actuel réussirait-il le test de Turing ? Et s'il le réussissait, te convaincrait-il qu'il comprend ce qu'il dit ?"
+    "Pour réfléchir : un chatbot actuel réussirait-il le test de Turing ? Et s'il le réussissait, te convaincrait-il qu'il comprend ce qu'il dit ?",
+    "L'IA comme objet d'étude, tu l'as dans la section <a href=\"#teoria/fil-metafisica/5\">« L'esprit et le corps aujourd'hui : une intelligence artificielle peut-elle penser ? »</a> du thème de métaphysique."
    ]
   }
  },
@@ -3098,13 +3985,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Élargissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Pourquoi raisonnons-nous mal, et en quoi un biais se distingue-t-il d'un sophisme ?",
+    "intro": [
+     "Une batte et une balle coûtent ensemble 1,10 euro. La batte coûte un euro de plus que la balle. Combien coûte la balle ? Réponds vite."
+    ],
+    "pistas": [
+     "Pour y voir clair : presque tout le monde dit « 10 centimes », et c'est faux : la batte coûterait alors 1,10 et le total, 1,20. La balle coûte 5 centimes. La réponse rapide est sortie toute seule et personne ne l'a vérifiée.",
+     "Daniel Kahneman l'explique par deux manières de penser : un <em>Système 1</em>, rapide et automatique, qui donne des impressions, et un <em>Système 2</em>, lent et coûteux, qui vérifie. Les erreurs apparaissent quand le second, par hâte ou par paresse, tient pour bonne la réponse du premier.",
+     "Ces raccourcis s'appellent des <em>heuristiques</em> : des règles simples qui tombent juste presque toujours et qui, dans certains cas, échouent toujours de la même façon. Amos Tversky et Kahneman en ont décrit trois en 1974 : la représentativité, la disponibilité et l'ancrage. Un <em>biais cognitif</em> est cette erreur systématique.",
+     "La différence avec le sophisme : le <strong>sophisme</strong> est un défaut d'un argument, il est visible dans ce que quelqu'un dit ; le <strong>biais</strong> est une tendance de l'esprit qui agit avant qu'il y ait un argument, et on ne le corrige pas seulement en sachant la logique. En bref : le sophisme est dans le texte ; le biais, chez celui qui l'écrit ou qui le lit."
+    ],
+    "comprobacion": {
+     "pregunta": "Quelle est la différence entre un biais et un sophisme ?",
+     "opciones": [
+      [
+       "Le sophisme est un défaut d'un argument ; le biais, une tendance de l'esprit qui agit avant qu'on argumente.",
+       true
+      ],
+      [
+       "C'est la même chose sous deux noms.",
+       false,
+       "Ils sont parents, mais l'un est dans l'argument et l'autre dans l'esprit."
+      ],
+      [
+       "Le biais est toujours intentionnel et le sophisme jamais.",
+       false,
+       "Les biais sont d'habitude inconscients."
+      ],
+      [
+       "Le sophisme n'apparaît qu'en mathématiques.",
+       false,
+       "Il apparaît dans n'importe quelle discussion."
+      ]
+     ],
+     "ok": "Exact : le texte face à l'esprit.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Biais",
+      "titulo": "Heuristiques et biais",
+      "definicion": [
+       "<strong>Représentativité</strong> : juger du probable d'après la ressemblance avec un cas typique. <strong>Disponibilité</strong> : juger du fréquent d'après la facilité avec laquelle un exemple vient à l'esprit. <strong>Ancrage</strong> : un chiffre quelconque tire notre estimation.",
+       "<strong>Biais de confirmation</strong> : chercher et retenir ce qui nous donne raison. Bacon l'avait déjà vu en 1620, parmi les « idoles de la tribu ».",
+       "Il est utile d'envisager le contraire, de chercher la donnée qui pourrait nous réfuter et de penser avec d'autres : les biais de chacun se voient mieux de l'extérieur."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Après avoir vu plusieurs informations sur des accidents d'avion, l'avion te semble plus dangereux que la voiture. Quelle heuristique agit ?",
+       "opciones": [
+        [
+         "La disponibilité : tu juges du fréquent d'après les exemples qui te viennent à l'esprit.",
+         true
+        ],
+        [
+         "L'ancrage.",
+         false,
+         "Il n'y a aucun chiffre qui tire ton estimation."
+        ],
+        [
+         "La représentativité.",
+         false,
+         "Tu ne compares pas avec un cas typique ; tu te laisses porter par les exemples récents."
+        ],
+        [
+         "Aucune : l'avion est plus dangereux.",
+         false,
+         "Par kilomètre parcouru, beaucoup plus de gens meurent sur la route."
+        ]
+       ],
+       "ok": "Correct : ce dont tu te souviens semble plus fréquent.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Tu sais maintenant reconnaître un sophisme",
    "parrafos": [
     "Un sophisme est un argument qui paraît bon mais dont les raisons n'appuient pas la conclusion. Les sophismes informels détournent l'attention (ad hominem, homme de paille, faux dilemme) ; les formels échouent par leur structure, comme l'affirmation du conséquent.",
-    "La question qui les démasque est toujours la même : ces raisons appuient-elles vraiment cette conclusion ? Pour continuer : « Qu'est-ce qui rend un argument valide ? »."
+    "La question qui les démasque est toujours la même : ces raisons appuient-elles vraiment cette conclusion ? Pour continuer : « Qu'est-ce qui rend un argument valide ? ».",
+    "Les biais cognitifs, tu les as dans la section <a href=\"#teoria/fil-t4/12\">« Les sophismes »</a> du thème 4, dans « Pourquoi nous raisonnons mal »."
    ]
   }
  },
@@ -3528,14 +4495,309 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Élargissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Les droits de l'homme sont-ils universels ?",
+    "intro": [
+     "Quelqu'un dit : « Les droits de l'homme sont une invention occidentale ; chaque culture a ses valeurs. » Un autre répond : « Alors personne ne pourrait se plaindre de la torture nulle part. » Qui a raison ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : c'est le débat du relativisme porté sur les droits. La Déclaration de 1948 se présente comme <em>universelle</em>, valable pour tout être humain.",
+     "Certains États l'ont contestée. La <em>Déclaration du Caire</em> (1990) a proposé de lire les droits à la lumière de la loi islamique, et la <em>Déclaration de Bangkok</em> (1993) a souligné les dites valeurs asiatiques et la souveraineté de chaque État face à une liste commune.",
+     "Cette même année 1993, la <em>Conférence de Vienne</em> a réaffirmé que les droits sont universels, même s'il faut les appliquer en tenant compte de chaque contexte.",
+     "En dessous bat une question philosophique : sur quoi les droits se <strong>fondent</strong>-ils —sur la nature humaine, sur un accord, sur la dignité— et quelque chose peut-il obliger tout le monde sans un fondement partagé ? C'est un débat ouvert, et l'<strong>universalisme minimal</strong> que tu as vu plus haut est l'une des réponses."
+    ],
+    "comprobacion": {
+     "pregunta": "Qu'a réaffirmé la Conférence de Vienne de 1993 ?",
+     "opciones": [
+      [
+       "Que les droits de l'homme sont universels, même s'ils s'appliquent en tenant compte de chaque contexte.",
+       true
+      ],
+      [
+       "Que chaque État décide quels droits il reconnaît.",
+       false,
+       "Cela se rapproche plutôt de la Déclaration de Bangkok, à laquelle Vienne a répondu."
+      ],
+      [
+       "Que les droits doivent être lus à la lumière d'une religion.",
+       false,
+       "C'était la proposition du Caire (1990)."
+      ],
+      [
+       "Que la Déclaration de 1948 était annulée.",
+       false,
+       "Au contraire : elle a réaffirmé leur universalité."
+      ]
+     ],
+     "ok": "Exact : universels, en tenant compte du contexte.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Universalité",
+      "titulo": "Universels ou relatifs",
+      "definicion": [
+       "<strong>Le Caire (1990)</strong> : les droits, lus à la lumière de la loi islamique. <strong>Bangkok (1993)</strong> : valeurs asiatiques et souveraineté de chaque État.",
+       "<strong>Vienne (1993)</strong> : les droits sont universels, appliqués en tenant compte du contexte.",
+       "La question de fond est le <strong>fondement</strong> : la nature humaine, un accord ou la dignité. Cela rejoint le débat entre relativisme et universalisme de ce thème."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Qu'est-ce que soulignait la Déclaration de Bangkok de 1993 ?",
+       "opciones": [
+        [
+         "Les dites valeurs asiatiques et la souveraineté de chaque État face à une liste commune.",
+         true
+        ],
+        [
+         "La lecture des droits selon la loi islamique.",
+         false,
+         "C'était la Déclaration du Caire."
+        ],
+        [
+         "L'universalité sans nuances des droits.",
+         false,
+         "C'est Vienne qui l'a réaffirmée."
+        ],
+        [
+         "L'abolition des droits sociaux.",
+         false,
+         "Elle ne portait pas là-dessus."
+        ]
+       ],
+       "ok": "Correct : valeurs asiatiques et souveraineté.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Tu connais maintenant le débat sur le relativisme",
    "parrafos": [
     "La diversité des coutumes est un fait, mais elle ne démontre pas que toutes les morales se valent. Et le relativisme a des problèmes : le réformateur aurait toujours tort et il n'y aurait pas de progrès moral.",
-    "L'universalisme minimal cherche quelques valeurs communes qui permettent de critiquer sans cesser de respecter la diversité. Pour continuer : l'activité « Éthique minimale ou maximale ? »."
+    "L'universalisme minimal cherche quelques valeurs communes qui permettent de critiquer sans cesser de respecter la diversité. Pour continuer : l'activité « Éthique minimale ou maximale ? ».",
+    "Le débat sur l'universalité des droits, tu l'as dans la section <a href=\"#teoria/fil-t6/6\">« Les droits de l'homme et l'État de droit »</a> du thème 6."
    ]
+  }
+ },
+ {
+  "id": "fil-etica-aplicada",
+  "subject": "fil",
+  "tema": "Thème 5 · Les questions de l'éthique",
+  "unidad": "fil-t5",
+  "materia": "Philosophie 1re année · Éthique",
+  "titulo": "Que devons-nous à la nature, à ceux qui viendront et à ceux qui sont loin ?",
+  "lede": "Ce qui fait qu'un problème relève de l'éthique appliquée, et trois terrains où l'on en discute : l'environnement, l'entreprise et la pauvreté lointaine. Ne demande que les indices dont tu as besoin.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Rappel",
+    "etiqueta": "Question de départ",
+    "pregunta": "Quand un problème relève-t-il de l'éthique appliquée, et à qui devons-nous de la considération ?",
+    "intro": [
+     "Au conseil municipal, on discute de l'abattage d'une forêt pour construire une zone industrielle qui donnera du travail à deux cents personnes. C'est légal. La discussion s'arrête-t-elle là ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : tout problème qui fait la une du journal ne relève pas de l'éthique appliquée. Pour cela, il faut qu'il y ait un <em>désaccord raisonnable</em> entre des personnes informées et de bonne foi, et il ne doit pas suffire de regarder la loi : quelque chose peut être légal et moralement discutable.",
+     "La première question de l'éthique environnementale est de savoir <em>à qui</em> nous devons de la considération. Pour l'<em>anthropocentrisme</em>, seulement aux êtres humains : la forêt compte parce que nous en avons besoin.",
+     "Le <em>biocentrisme</em> de Paul Taylor l'étend à tout être vivant ; l'<em>écocentrisme</em> d'Aldo Leopold, à la communauté entière des sols, des eaux, des plantes et des animaux : est bon ce qui protège l'équilibre de cette communauté.",
+     "La deuxième question regarde le temps : Hans Jonas a averti que la technique peut nuire à ceux qui ne sont pas encore nés, et il a proposé d'agir de façon que la vie humaine puisse continuer sur Terre. Le <strong>développement durable</strong> (rapport Brundtland, 1987) l'a traduit en politique : répondre aux besoins d'aujourd'hui sans ôter aux <strong>générations futures</strong> la possibilité de répondre aux leurs."
+    ],
+    "comprobacion": {
+     "pregunta": "Pour l'écocentrisme de Leopold, quand une action est-elle bonne ?",
+     "opciones": [
+      [
+       "Quand elle protège l'équilibre de la communauté entière des sols, des eaux, des plantes et des animaux.",
+       true
+      ],
+      [
+       "Quand elle profite aux êtres humains, même si elle nuit au reste.",
+       false,
+       "Cela se rapproche de l'anthropocentrisme."
+      ],
+      [
+       "Quand elle respecte chaque être vivant un par un.",
+       false,
+       "C'est plutôt le biocentrisme de Taylor ; Leopold regarde la communauté entière."
+      ],
+      [
+       "Quand elle est légale.",
+       false,
+       "L'éthique appliquée commence justement là où la loi ne suffit pas."
+      ]
+     ],
+     "ok": "Bien : le tout, et pas seulement chaque être vivant.",
+     "mal": "Pas encore."
+    },
+    "rescate": [
+     {
+      "boton": "J'ai besoin de voir des exemples",
+      "etiqueta": "Exemples",
+      "titulo": "Trois réponses face à la forêt",
+      "definicion": [
+       "« Il faut la conserver parce qu'elle nous donne de l'eau, de l'air et des promenades. » → <strong>Anthropocentrisme</strong>.",
+       "« Chaque arbre et chaque animal de la forêt compte pour lui-même. » → <strong>Biocentrisme</strong> (Taylor).",
+       "« Ce qui importe, c'est que l'écosystème continue de fonctionner comme un tout. » → <strong>Écocentrisme</strong> (Leopold)."
+      ],
+      "comprobacion": {
+       "etiqueta": "Vérification des exemples",
+       "pregunta": "« Il faut protéger la rivière parce que nous en avons besoin pour boire. » De quelle position s'agit-il ?",
+       "opciones": [
+        [
+         "L'anthropocentrisme.",
+         true
+        ],
+        [
+         "Le biocentrisme.",
+         false,
+         "L'argument ne regarde que ce dont nous, les humains, avons besoin."
+        ],
+        [
+         "L'écocentrisme.",
+         false,
+         "Il ne parle pas de l'équilibre de l'écosystème, mais de notre besoin."
+        ],
+        [
+         "Aucune : ce n'est pas un argument moral.",
+         false,
+         "Si, c'en est un : il donne une raison de protéger quelque chose."
+        ]
+       ],
+       "ok": "Correct : la rivière compte à cause de nous.",
+       "mal": "Regarde de nouveau les exemples.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Définition et explication",
+      "titulo": "Éthique appliquée et environnementale",
+      "definicion": [
+       "Un problème relève de l'<strong>éthique appliquée</strong> s'il y a un désaccord raisonnable et que la loi ne le résout pas.",
+       "L'<strong>anthropocentrisme</strong>, le <strong>biocentrisme</strong> et l'<strong>écocentrisme</strong> répondent de façon différente à la question de savoir à qui nous devons de la considération.",
+       "Hans Jonas (<em>Le Principe responsabilité</em>, 1979) a ajouté les devoirs envers les générations futures ; le rapport Brundtland les a traduits en <strong>développement durable</strong>."
+      ],
+      "comprobacion": {
+       "boton": "Vérifier ma compréhension",
+       "etiqueta": "Vérification finale",
+       "pregunta": "Qu'est-ce que le développement durable selon le rapport Brundtland ?",
+       "opciones": [
+        [
+         "Répondre aux besoins d'aujourd'hui sans ôter aux générations futures la possibilité de répondre aux leurs.",
+         true
+        ],
+        [
+         "Cesser de produire pour ne pas nuire à la nature.",
+         false,
+         "Il ne demande pas d'arrêter le développement, mais de le faire sans hypothéquer l'avenir."
+        ],
+        [
+         "Croître le plus possible maintenant.",
+         false,
+         "Cela oublie justement les générations futures."
+        ],
+        [
+         "Protéger seulement les espaces naturels.",
+         false,
+         "Il parle de besoins humains, d'aujourd'hui et de demain."
+        ]
+       ],
+       "ok": "Correct : aujourd'hui sans prendre à demain.",
+       "mal": "Pas encore."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Approfondissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Quelle responsabilité ont les entreprises, et que devons-nous à ceux qui ont faim au loin ?",
+    "intro": [
+     "Tu vois un enfant se noyer dans un étang peu profond. Si tu y entres, tes baskets neuves seront abîmées. Dois-tu y aller ? Pense maintenant à un enfant qui meurt de faim à des milliers de kilomètres. La distance change-t-elle quelque chose ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : presque tout le monde dirait qu'il faut sortir l'enfant de l'étang. Peter Singer (1972) en a tiré une conclusion dérangeante : s'il en est ainsi, tu devrais aussi donner une partie de ton argent pour sauver des enfants lointains, car la distance ne change rien moralement.",
+     "Ses critiques répondent de côtés différents : les uns, qu'aider est généreux mais pas obligatoire et que personne n'est obligé de sacrifier ses projets ; d'autres, comme Thomas Pogge, que le problème n'est pas la charité de chacun, mais des règles du commerce international qui nuisent aux pays pauvres.",
+     "Dans l'entreprise, deux idées s'affrontent : pour Milton Friedman (1970), sa seule responsabilité sociale est de gagner de l'argent dans le respect de la loi ; pour R. Edward Freeman (1984), elle doit rendre des comptes à toutes les <em>parties prenantes</em> qu'elle affecte : travailleurs, clients, fournisseurs, voisins.",
+     "L'effondrement du Rana Plaza au Bangladesh (2013), où plus de mille cent ouvriers d'ateliers qui cousaient pour des marques européennes ont trouvé la mort, a mis la question à la une : jusqu'où va la responsabilité de celui qui achète à un fournisseur lointain ? L'éthique appliquée met ainsi les théories à l'épreuve : Singer raisonne en <strong>utilitariste</strong> ; ses critiques, avec les idées de <strong>devoir</strong>, de permission et de justice."
+    ],
+    "comprobacion": {
+     "pregunta": "Que conclut Peter Singer du cas de l'étang ?",
+     "opciones": [
+      [
+       "Que, si tu dois sauver l'enfant proche, tu dois aussi aider ceux qui sont loin : la distance ne change rien moralement.",
+       true
+      ],
+      [
+       "Que nous n'avons de devoirs qu'envers ceux qui sont proches.",
+       false,
+       "C'est justement ce que Singer nie."
+      ],
+      [
+       "Que les baskets valent plus qu'une vie.",
+       false,
+       "Au contraire : personne ne le penserait, et c'est de là que part son argument."
+      ],
+      [
+       "Que la pauvreté est la faute des pauvres.",
+       false,
+       "Singer ne parle pas de fautes, mais de ce que nous devons faire."
+      ]
+     ],
+     "ok": "Exact : la distance n'est pas une raison morale.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Entreprise et pauvreté",
+      "titulo": "Deux terrains de l'éthique appliquée",
+      "definicion": [
+       "<strong>Éthique de l'entreprise</strong> : Friedman (seulement gagner de l'argent dans le respect de la loi) face à Freeman (rendre des comptes à toutes les parties prenantes). Adela Cortina ajoute qu'une entreprise produit ou détruit aussi de la confiance.",
+       "<strong>Pauvreté lointaine</strong> : Singer (le devoir d'aider, comme avec l'enfant de l'étang) face à ceux qui voient l'aide comme une générosité et non comme un devoir, et face à Pogge (changer les règles injustes du commerce).",
+       "Dans chaque cas, on voit comment les théories éthiques (conséquences, devoirs, justice) donnent des réponses différentes à un problème concret."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Que défend Freeman face à Friedman ?",
+       "opciones": [
+        [
+         "Qu'une entreprise doit rendre des comptes à tous les groupes qu'elle affecte, et pas seulement à ses actionnaires.",
+         true
+        ],
+        [
+         "Que les entreprises ne doivent pas gagner d'argent.",
+         false,
+         "Freeman ne nie pas le profit ; il élargit le cercle de ceux à qui l'on rend des comptes."
+        ],
+        [
+         "Que seul compte le respect de la loi.",
+         false,
+         "C'est plutôt la position de Friedman."
+        ],
+        [
+         "Que les entreprises doivent donner tout leur bénéfice à des causes sociales.",
+         false,
+         "Il ne demande pas cela : il demande de tenir compte de tous les concernés."
+        ]
+       ],
+       "ok": "Correct : les parties prenantes.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Tu connais maintenant quelques terrains de l'éthique appliquée",
+   "parrafos": [
+    "Un problème relève de l'éthique appliquée quand il y a un désaccord raisonnable et que la loi ne suffit pas. Dans l'environnement, on discute de savoir à qui nous devons de la considération et ce que nous devons à ceux qui viendront ; dans l'entreprise, à qui elle rend des comptes ; et dans la pauvreté lointaine, si aider est un devoir.",
+    "Tu l'as dans la section <a href=\"#teoria/fil-t5/11\">« Éthique du care et éthique appliquée aujourd'hui »</a> du thème 5. Pour continuer : « Ce qui compte, ce sont les conséquences ou les intentions ? »."
+   ],
+   "siguiente": "fil-consecuencias"
   }
  },
  {
@@ -3742,13 +5004,309 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Élargissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Pourquoi les éthiques du devoir posent-elles des limites et non des objectifs ?",
+    "intro": [
+     "Une foule menace de provoquer des émeutes qui feront plusieurs morts si un juge ne condamne pas quelqu'un pour un crime. Le juge sait que l'accusé est innocent. Doit-il le condamner pour sauver plus de vies ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : si seules les conséquences comptaient, le compte des vies semblerait favoriser la condamnation. Mais presque tous nous sentons que le juge ne peut pas le faire. Le cas a été posé par H. J. McCloskey en 1957.",
+     "La raison se trouve dans la structure des éthiques du devoir : leurs normes ne sont pas des <em>objectifs</em> à atteindre le plus souvent possible, mais des <em>limites</em> à ce que chacun peut faire. « Ne punis pas un innocent » ne se respecte pas davantage en en punissant un pour éviter d'autres punitions.",
+     "De là sortent trois traits. La différence entre <em>faire</em> un mal et <em>ne pas l'empêcher</em> compte. Il existe des <em>permissions</em> de s'occuper de sa propre vie sans devoir maximiser le bien de tous.",
+     "Et certains admettent un <strong>seuil</strong> : face à une catastrophe, la limite pourrait céder. Ainsi, l'éthique du devoir n'est pas aveugle aux conséquences : elle dit qu'elles ne sont pas tout. En 2e, tu le verras développé face à l'utilitarisme."
+    ],
+    "comprobacion": {
+     "pregunta": "Pour une éthique du devoir, qu'est-ce que la norme « ne punis pas un innocent » ?",
+     "opciones": [
+      [
+       "Une limite à ce que je peux faire, non un objectif à maximiser.",
+       true
+      ],
+      [
+       "Un objectif : il faut obtenir qu'il y ait le moins possible d'innocents punis, par n'importe quel moyen.",
+       false,
+       "C'est ainsi que l'entendrait un conséquentialiste ; l'éthique du devoir la voit comme une limite."
+      ],
+      [
+       "Une recommandation qu'on peut ignorer quand cela convient.",
+       false,
+       "C'est une limite, même si certains admettent un seuil face aux catastrophes."
+      ],
+      [
+       "Une norme réservée aux juges.",
+       false,
+       "La structure vaut pour n'importe quel devoir : ne pas mentir, ne pas tuer…"
+      ]
+     ],
+     "ok": "Exact : une limite, non un objectif.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Structure du devoir",
+      "titulo": "Limites, permissions et seuils",
+      "definicion": [
+       "<strong>Des limites, non des objectifs</strong> : les devoirs restreignent ce que je peux faire ; ce ne sont pas des objectifs à maximiser.",
+       "<strong>Faire et ne pas empêcher</strong> : causer un mal n'est pas la même chose que ne pas l'empêcher. <strong>Permissions</strong> : je peux me consacrer à mes projets sans devoir maximiser le bien de tous.",
+       "<strong>Seuil</strong> : certains admettent que la limite cède face à une catastrophe. En outre, Kant distingue agir <em>par</em> devoir et agir <em>conformément</em> au devoir (le commerçant honnête par intérêt)."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Que montre le cas du juge de McCloskey ?",
+       "opciones": [
+        [
+         "Qu'il y a des choses qu'on ne doit pas faire même si les conséquences semblent meilleures.",
+         true
+        ],
+        [
+         "Qu'il faut toujours sauver le plus grand nombre de vies.",
+         false,
+         "Ce serait la réponse utilitariste que le cas met en doute."
+        ],
+        [
+         "Que les juges ne doivent pas écouter la foule.",
+         false,
+         "C'est vrai, mais le cas enseigne quelque chose de plus général : les limites du devoir."
+        ],
+        [
+         "Que la justice n'existe pas.",
+         false,
+         "Il montre le contraire : que la justice pose des limites."
+        ]
+       ],
+       "ok": "Correct : il y a des limites qu'on ne franchit pas.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Tu connais maintenant le débat entre conséquences et intentions",
    "parrafos": [
     "L'utilitarisme juge les actions d'après leurs conséquences : le plus grand bonheur du plus grand nombre. L'éthique du devoir, avec Kant, soutient qu'il y a des choses qui ne se font pas même si elles tournent bien, et que la valeur morale réside dans la bonne volonté.",
-    "Le dilemme du tramway montre que nous utilisons les deux regards. Pour continuer : « Qu'est-ce que la vertu pour Aristote ? », une troisième réponse, centrée sur le caractère."
+    "Le dilemme du tramway montre que nous utilisons les deux regards. Pour continuer : « Qu'est-ce que la vertu pour Aristote ? », une troisième réponse, centrée sur le caractère.",
+    "La structure de l'éthique du devoir, tu l'as dans la section <a href=\"#teoria/fil-t5/5\">« L'éthique formelle de Kant »</a> du thème 5."
+   ],
+   "siguiente": "fil-virtud"
+  }
+ },
+ {
+  "id": "fil-estoicismo",
+  "subject": "fil",
+  "tema": "Thème 5 · Les questions de l'éthique",
+  "unidad": "fil-t5",
+  "materia": "Philosophie 1re année · Éthique",
+  "titulo": "Qu'enseignaient les stoïciens sur la vertu et les émotions ?",
+  "lede": "Un portique peint d'Athènes, quatre vertus, la colère comme jugement erroné et un entraînement quotidien. Ne demande que les indices dont tu as besoin.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Rappel",
+    "etiqueta": "Question de départ",
+    "pregunta": "Quel est le seul bien pour un stoïcien ?",
+    "intro": [
+     "Une personne a tout : la santé, l'argent, le succès… et elle est mesquine avec tout le monde. Une autre est malade et sans un sou, et elle est juste et courageuse. Laquelle des deux vit le mieux ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : l'école a été fondée par Zénon de Kition vers 300 av. J.-C. sous un portique peint d'Athènes, la <em>Stoà poikílē</em> ; d'où son nom.",
+     "Pour les stoïciens, le seul vrai bien est d'avoir un caractère excellent, la <em>vertu</em>. La santé, l'argent ou le succès sont <em>indifférents</em> : non parce qu'il serait égal de les avoir ou non, mais parce qu'ils ne nous rendent ni meilleurs ni pires.",
+     "Il est préférable d'être en bonne santé, bien sûr ; mais un malade peut bien vivre et un bien-portant, mal. C'est pourquoi la deuxième personne de l'exemple vit mieux, même si elle a moins.",
+     "Cette vertu a quatre visages : la <strong>sagesse pratique</strong> (<em>phrónēsis</em>), qui guide les autres ; le <strong>courage</strong> (<em>andreía</em>) ; la <strong>justice</strong> (<em>dikaiosýnē</em>), qui voit les autres comme membres d'une même communauté humaine ; et la <strong>tempérance</strong> (<em>sōphrosýnē</em>), qui se contente du suffisant."
+    ],
+    "comprobacion": {
+     "pregunta": "Que signifie, pour un stoïcien, que la santé soit « indifférente » ?",
+     "opciones": [
+      [
+       "Qu'il est préférable de l'avoir, mais qu'elle ne nous rend ni meilleurs ni pires.",
+       true
+      ],
+      [
+       "Qu'il est exactement égal d'être en bonne santé ou malade.",
+       false,
+       "Il est préférable d'être en bonne santé ; ce qu'elle ne fait pas, c'est décider si nous vivons bien."
+      ],
+      [
+       "Qu'elle est mauvaise et qu'il faut l'éviter.",
+       false,
+       "Elle n'est pas mauvaise : elle n'est simplement pas le vrai bien."
+      ],
+      [
+       "Qu'elle n'importe qu'aux médecins.",
+       false,
+       "Elle importe à tous, mais ce n'est pas ce qui nous rend bons."
+      ]
+     ],
+     "ok": "Bien : préférable, mais pas bonne au sens strict.",
+     "mal": "Pas encore."
+    },
+    "rescate": [
+     {
+      "boton": "J'ai besoin de voir des exemples",
+      "etiqueta": "Exemples",
+      "titulo": "Les quatre vertus dans la vie quotidienne",
+      "definicion": [
+       "Savoir ce qu'il convient de faire quand un ami te demande de copier pendant un examen. → <strong>Sagesse pratique</strong>.",
+       "Surmonter sa peur pour défendre quelqu'un qu'on harcèle. → <strong>Courage</strong>.",
+       "Traiter le camarade qui t'est antipathique comme celui qui t'est sympathique. → <strong>Justice</strong>.",
+       "Ne pas demander plus que ce dont tu as besoin, même si tu le pourrais. → <strong>Tempérance</strong>."
+      ],
+      "comprobacion": {
+       "etiqueta": "Vérification des exemples",
+       "pregunta": "Pour les stoïciens, quelle vertu guide toutes les autres ?",
+       "opciones": [
+        [
+         "La sagesse pratique (<em>phrónēsis</em>).",
+         true
+        ],
+        [
+         "Le courage.",
+         false,
+         "C'est l'une des quatre, mais pas celle qui guide les autres."
+        ],
+        [
+         "La richesse.",
+         false,
+         "La richesse est un indifférent, non une vertu."
+        ],
+        [
+         "La gloire.",
+         false,
+         "La gloire n'est pas non plus une vertu : c'est un autre indifférent."
+        ]
+       ],
+       "ok": "Correct : elle sait ce qui convient dans chaque cas.",
+       "mal": "Regarde de nouveau les exemples.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Définition et explication",
+      "titulo": "L'éthique stoïcienne",
+      "definicion": [
+       "Le <strong>stoïcisme</strong> est une éthique de la vertu : le seul bien est le caractère excellent.",
+       "Tout le reste (la santé, la richesse, le succès) est <strong>indifférent</strong>, même s'il y a des indifférents préférables.",
+       "La vertu a quatre visages : la sagesse pratique, le courage, la justice et la tempérance."
+      ],
+      "comprobacion": {
+       "boton": "Vérifier ma compréhension",
+       "etiqueta": "Vérification finale",
+       "pregunta": "D'où vient le nom « stoïcisme » ?",
+       "opciones": [
+        [
+         "Du portique peint d'Athènes (<em>Stoà poikílē</em>) où enseignait Zénon.",
+         true
+        ],
+        [
+         "D'un mot grec qui signifie « supporter la douleur ».",
+         false,
+         "C'est une confusion fréquente : le nom vient d'un lieu, le portique."
+        ],
+        [
+         "Du nom de son fondateur.",
+         false,
+         "Le fondateur était Zénon de Kition."
+        ],
+        [
+         "De la ville de Stagire.",
+         false,
+         "Stagire est la ville natale d'Aristote."
+        ]
+       ],
+       "ok": "Correct : du portique, la <em>stoá</em>.",
+       "mal": "Pas encore."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Approfondissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Que sont les passions pour les stoïciens, et que peut-on leur reprocher ?",
+    "intro": [
+     "Un camarade te bouscule dans le couloir et tu t'enflammes. Puis tu apprends qu'il avait trébuché. La colère te passe d'un coup. Qu'est-ce qui a changé : ce qui s'est passé ou ce que tu pensais qui s'était passé ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : Chrysippe a soutenu qu'une passion est un <em>jugement</em>, et de surcroît erroné. La colère, par exemple, c'est croire que quelqu'un t'a fait un tort injuste et qu'il mérite de le payer. Change le jugement et l'émotion change, comme cela t'est arrivé dans le couloir.",
+     "Sénèque, dans <em>De la colère</em>, nuance : il y a des réactions que nous ne choisissons pas, comme sursauter au bruit du tonnerre, et ce ne sont pas encore des passions. La passion commence quand nous donnons notre <em>assentiment</em> à cette première impression.",
+     "C'est pourquoi le but, l'<em>apátheia</em>, n'est pas d'être froid, mais de ne pas se laisser emporter ; et la philosophie se pratique comme un entraînement : Marc Aurèle revoyait chaque soir sa journée, et au XXe siècle les thérapies cognitives ont reconnu cet héritage.",
+     "Les critiques : sa base est un cosmos ordonné par une raison divine (<em>lógos</em>) que tous ne partagent pas ; séparer ce que je contrôle de ce que je ne contrôle pas est trop tranché (William Irvine ajoute une troisième case : ce que je contrôle <strong>en partie</strong>) ; et dois-je accepter calmement une injustice ? Ses défenseurs rappellent que la <strong>justice</strong> est l'une des quatre vertus."
+    ],
+    "comprobacion": {
+     "pregunta": "Qu'est-ce que l'<em>apátheia</em> stoïcienne ?",
+     "opciones": [
+      [
+       "Ne pas se laisser emporter par les passions, et non l'absence de toute émotion.",
+       true
+      ],
+      [
+       "Ne jamais rien ressentir, comme une pierre.",
+       false,
+       "Le sage stoïcien connaît aussi de bonnes émotions, comme la joie sereine."
+      ],
+      [
+       "Se désintéresser des autres.",
+       false,
+       "La justice, l'une des quatre vertus, l'empêche."
+      ],
+      [
+       "Supporter n'importe quelle injustice sans protester.",
+       false,
+       "C'est justement la version que critiquent ses défenseurs."
+      ]
+     ],
+     "ok": "Exact : ne pas être emporté.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Passions et critiques",
+      "titulo": "Les passions comme jugements",
+      "definicion": [
+       "<strong>Chrysippe</strong> : une passion est un jugement erroné. <strong>Sénèque</strong> : la passion commence quand on donne son assentiment à une première impression que nous ne choisissons pas.",
+       "L'<strong>apátheia</strong>, c'est ne pas se laisser emporter ; le sage a de bonnes émotions, comme la joie sereine.",
+       "Critiques : le cosmos du <em>lógos</em> ; la dichotomie de ce qui est contrôlable, trop tranchée (Irvine) ; et le risque politique d'accepter l'injustice, auquel répondent la vertu de justice et le cosmopolitisme stoïcien."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Que propose William Irvine face à la division entre ce que je contrôle et ce que je ne contrôle pas ?",
+       "opciones": [
+        [
+         "Une troisième case : ce que je contrôle en partie, comme la note d'un examen.",
+         true
+        ],
+        [
+         "Supprimer la division et ne se soucier de rien.",
+         false,
+         "Irvine ne la supprime pas : il la nuance."
+        ],
+        [
+         "Tout laisser entre les mains du destin.",
+         false,
+         "Ce serait se désintéresser de ce qui, lui, dépend de nous."
+        ],
+        [
+         "Tout contrôler avec beaucoup de discipline.",
+         false,
+         "Il part justement du fait que tout ne peut pas se contrôler."
+        ]
+       ],
+       "ok": "Correct : ce qui dépend en partie de moi.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Tu connais maintenant l'éthique stoïcienne",
+   "parrafos": [
+    "Pour les stoïciens, le seul bien est la vertu, avec ses quatre visages ; tout le reste est indifférent. Les passions sont des jugements erronés, et le but est de ne pas se laisser emporter, en s'entraînant chaque jour.",
+    "Tu l'as dans la section <a href=\"#teoria/fil-t5/4\">« Les grandes éthiques matérielles »</a> du thème 5. Pour continuer : « Qu'est-ce que la vertu pour Aristote ? »."
    ],
    "siguiente": "fil-virtud"
   }
@@ -3960,14 +5518,310 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Élargissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Qu'objecte-t-on à l'éthique de la vertu, et comment répond-elle ?",
+    "intro": [
+     "Un ami te fait écouter la chanson qu'il a composée et tu la trouves mauvaise. Être sincère demande de le lui dire ; être gentil, de ne pas le blesser. Que ferait ici une « personne vertueuse » ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : l'objection la plus répétée est que l'éthique de la vertu <em>ne dit pas quoi faire</em> : « agis comme le ferait une personne vertueuse » semble vide si je ne sais pas ce qu'elle ferait. Rosalind Hursthouse répond que chaque vertu donne déjà une règle de conduite (sois honnête, ne sois pas cruel) et que les autres théories ont aussi besoin de jugement pour s'appliquer.",
+     "La deuxième est le <em>conflit entre vertus</em>, comme avec la chanson de ton ami. La réponse aristotélicienne est la <em>prudence</em> : elle n'applique pas une règle, mais cherche dans chaque cas comment être sincère sans être cruel.",
+     "La troisième est la <em>relativité culturelle</em> : chaque époque admire des vertus différentes. Martha Nussbaum répond que toutes les cultures doivent faire face aux mêmes expériences (la peur de la mort, le partage des biens, les plaisirs) et que la vertu est la manière juste d'affronter chacune d'elles.",
+     "La quatrième, le <strong>situationnisme</strong>, vient de la psychologie : des expériences comme celle de Milgram montrent que la situation pèse beaucoup sur ce que nous faisons, et certains philosophes doutent qu'il existe un caractère stable. Les défenseurs de la vertu répliquent que cela confirme ce qu'Aristote savait déjà : la vertu pleine est <strong>rare et difficile</strong>, non impossible."
+    ],
+    "comprobacion": {
+     "pregunta": "Que soutient l'objection situationniste ?",
+     "opciones": [
+      [
+       "Que la situation pèse tant sur ce que nous faisons qu'il n'existe peut-être pas de caractère stable.",
+       true
+      ],
+      [
+       "Que l'éthique de la vertu ne dit pas quoi faire.",
+       false,
+       "C'est une autre objection, la première."
+      ],
+      [
+       "Que chaque culture a ses vertus.",
+       false,
+       "C'est l'objection de la relativité culturelle."
+      ],
+      [
+       "Que les vertus entrent en conflit entre elles.",
+       false,
+       "C'est l'objection du conflit entre vertus."
+      ]
+     ],
+     "ok": "Exact : la situation face au caractère.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Objections et répliques",
+      "titulo": "Quatre objections",
+      "definicion": [
+       "<strong>Elle ne donne pas de règles de conduite</strong> → Hursthouse : chaque vertu et chaque vice donnent une règle de conduite.",
+       "<strong>Conflit entre vertus</strong> → la prudence cherche, dans chaque cas, la manière de satisfaire les deux.",
+       "<strong>Relativité culturelle</strong> → Nussbaum : des expériences humaines communes. <strong>Situationnisme</strong> (Harman, Doris) → la vertu pleine est rare, non impossible."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Que répond un aristotélicien au conflit entre sincérité et gentillesse ?",
+       "opciones": [
+        [
+         "Que la prudence cherche dans chaque cas comment être sincère sans être cruel.",
+         true
+        ],
+        [
+         "Que la sincérité l'emporte toujours.",
+         false,
+         "Il n'y a pas de règle fixe : c'est la prudence qui décide dans chaque cas."
+        ],
+        [
+         "Que la gentillesse l'emporte toujours.",
+         false,
+         "Non plus : il s'agit de chercher comment satisfaire les deux."
+        ],
+        [
+         "Que les vertus n'existent pas.",
+         false,
+         "Au contraire : le conflit se résout par une autre vertu, la prudence."
+        ]
+       ],
+       "ok": "Correct : la prudence.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Tu connais maintenant l'éthique d'Aristote",
    "parrafos": [
     "La vertu est une habitude de choisir le juste milieu entre deux vices, guidée par la raison pratique. Vivre ainsi, c'est le bonheur : une vie réussie dans son ensemble.",
-    "Pour continuer : compare-la avec Épicure (le plaisir comme absence de douleur) et avec Kant (le devoir)."
+    "Pour continuer : compare-la avec Épicure (le plaisir comme absence de douleur) et avec Kant (le devoir).",
+    "Les objections à l'éthique de la vertu, tu les as dans la section <a href=\"#teoria/fil-t5/4\">« Les grandes éthiques matérielles »</a> du thème 5."
    ]
+  }
+ },
+ {
+  "id": "fil-estado-nacion",
+  "subject": "fil",
+  "tema": "Thème 6 · La vie en société",
+  "unidad": "fil-t6",
+  "materia": "Philosophie 1re année · Politique",
+  "titulo": "Un État et une nation, est-ce la même chose ?",
+  "lede": "Quatre mots que le langage courant mêle —État, pays, nation et patrie— et pourquoi les séparer aide à discuter sereinement. Ne demande que les indices dont tu as besoin.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Rappel",
+    "etiqueta": "Question de départ",
+    "pregunta": "Que désigne chacun de ces mots : État, pays, nation et patrie ?",
+    "intro": [
+     "Quelqu'un dit dans la même phrase : « Ce pays a un État efficace, c'est une nation ancienne et c'est ma patrie. » Dit-il quatre fois la même chose ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : l'<em>État</em> est une réalité <em>juridique</em> : un pouvoir souverain sur un territoire et une population, avec ses institutions (gouvernement, parlement, tribunaux).",
+     "Le <em>pays</em> est avant tout un territoire, avec sa géographie et son administration : c'est ce qu'on voit sur une carte.",
+     "La <em>nation</em> est une communauté qui se sent unie par une histoire, une langue ou une culture partagées. Et la <em>patrie</em> désigne le lien affectif avec elle : le sentiment d'être d'un lieu.",
+     "Ce sont quatre plans distincts —le <strong>juridique</strong>, le <strong>territorial</strong>, le <strong>culturel</strong> et l'<strong>émotionnel</strong>— qui peuvent coïncider ou non. La phrase de l'exemple dit quatre choses, pas une."
+    ],
+    "comprobacion": {
+     "pregunta": "Lequel de ces mots désigne une réalité juridique ?",
+     "opciones": [
+      [
+       "État.",
+       true
+      ],
+      [
+       "Nation.",
+       false,
+       "La nation est une communauté culturelle : elle peut exister sans institutions propres."
+      ],
+      [
+       "Patrie.",
+       false,
+       "La patrie est un lien affectif, non une institution."
+      ],
+      [
+       "Pays.",
+       false,
+       "Le pays est avant tout un territoire."
+      ]
+     ],
+     "ok": "Bien : l'État est un pouvoir doté d'institutions.",
+     "mal": "Pas encore."
+    },
+    "rescate": [
+     {
+      "boton": "J'ai besoin de voir des exemples",
+      "etiqueta": "Exemples",
+      "titulo": "Chaque mot sur son plan",
+      "definicion": [
+       "« L'État a adopté une loi sur l'éducation. » → Plan <strong>juridique</strong>.",
+       "« Ce pays a beaucoup de montagnes. » → Plan <strong>territorial</strong>.",
+       "« Nous sommes une nation avec une langue propre. » → Plan <strong>culturel</strong>.",
+       "« Ma terre me manque quand je suis loin. » → Plan <strong>émotionnel</strong> (la patrie)."
+      ],
+      "comprobacion": {
+       "etiqueta": "Vérification des exemples",
+       "pregunta": "« J'ai la gorge serrée quand j'entends la musique de mon village. » À quel plan cela appartient-il ?",
+       "opciones": [
+        [
+         "À l'émotionnel : la patrie comme lien affectif.",
+         true
+        ],
+        [
+         "Au juridique : l'État.",
+         false,
+         "Cela ne parle ni de lois ni d'institutions."
+        ],
+        [
+         "Au territorial : le pays.",
+         false,
+         "Cela ne décrit pas un territoire, mais un sentiment."
+        ],
+        [
+         "À aucun : c'est seulement de la musique.",
+         false,
+         "Cela exprime un lien avec un lieu et une communauté."
+        ]
+       ],
+       "ok": "Correct : le plan émotionnel.",
+       "mal": "Regarde de nouveau les exemples.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Définition et explication",
+      "titulo": "Quatre plans",
+      "definicion": [
+       "<strong>État</strong> : pouvoir souverain sur un territoire et une population, avec des institutions (plan juridique).",
+       "<strong>Pays</strong> : territoire, avec sa géographie et son administration (plan territorial).",
+       "<strong>Nation</strong> : communauté unie par une histoire, une langue ou une culture (plan culturel). <strong>Patrie</strong> : lien affectif avec elle (plan émotionnel)."
+      ],
+      "comprobacion": {
+       "boton": "Vérifier ma compréhension",
+       "etiqueta": "Vérification finale",
+       "pregunta": "Une nation peut-elle exister sans État propre ?",
+       "opciones": [
+        [
+         "Oui : la nation est une communauté culturelle, et elle n'a pas à coïncider avec un État.",
+         true
+        ],
+        [
+         "Non : une nation est, par définition, un État.",
+         false,
+         "C'est justement la confusion que la section veut éviter."
+        ],
+        [
+         "Seulement si elle est très petite.",
+         false,
+         "La taille ne décide rien : cela dépend de la coïncidence ou non des plans."
+        ],
+        [
+         "Seulement dans l'Antiquité.",
+         false,
+         "Aujourd'hui aussi, il y a des nations sans État et des nations réparties entre plusieurs États."
+        ]
+       ],
+       "ok": "Correct : des plans distincts.",
+       "mal": "Pas encore."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Approfondissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "À chaque nation doit-il correspondre un État ?",
+    "intro": [
+     "Regarde une carte de l'Europe avec ses frontières et une autre avec ses langues. Les lignes coïncident-elles ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : l'<em>État-nation</em> moderne s'est construit sur une idée : à chaque nation correspond un État, et à chaque État, une nation.",
+     "Mais la réalité ne s'y ajuste presque jamais : il y a des <em>États plurinationaux</em>, qui réunissent plusieurs nations, et il y a des nations réparties entre plusieurs États ou sans État propre.",
+     "Un exemple proche : la culture basque vit de part et d'autre de la frontière entre l'Espagne et la France. Les limites culturelles et les limites politiques n'ont pas à aller de pair.",
+     "Séparer les quatre plans ne tranche pas le débat sur l'identité, l'appartenance et l'autogouvernement, qui est <strong>politique et légitime de tous ses côtés</strong> ; mais cela aide à en discuter plus sereinement, parce que chacun sait de quel plan il parle."
+    ],
+    "comprobacion": {
+     "pregunta": "Que supposait l'idéal de l'État-nation ?",
+     "opciones": [
+      [
+       "Qu'à chaque nation devait correspondre un État, et à chaque État, une nation.",
+       true
+      ],
+      [
+       "Que les États ne doivent pas avoir de frontières.",
+       false,
+       "Au contraire : il supposait des frontières qui coïncident avec les nations."
+      ],
+      [
+       "Que les nations n'existent pas.",
+       false,
+       "Il partait du principe qu'elles existent et devaient avoir leur État."
+      ],
+      [
+       "Que chaque ville doit être un État.",
+       false,
+       "Cela ressemble plutôt à la cité-État grecque."
+      ]
+     ],
+     "ok": "Exact : une nation, un État.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "État-nation",
+      "titulo": "Quand les plans ne coïncident pas",
+      "definicion": [
+       "<strong>État-nation</strong> : l'idéal selon lequel nation et État coïncident.",
+       "<strong>État plurinational</strong> : un État qui réunit plusieurs nations. Il y a aussi des nations réparties entre plusieurs États ou sans État propre.",
+       "La manière dont ces réalités doivent s'organiser est un débat politique ouvert, avec des raisons dans plusieurs sens ; distinguer les plans sert à mieux en discuter, non à le clore."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "À quoi sert-il de distinguer État, pays, nation et patrie dans le débat sur l'autogouvernement ?",
+       "opciones": [
+        [
+         "À discuter plus clairement, en sachant de quel plan parle chacun, sans considérer le débat comme tranché.",
+         true
+        ],
+        [
+         "À démontrer qui a raison.",
+         false,
+         "La distinction clarifie la discussion ; elle ne donne raison à personne."
+        ],
+        [
+         "À cesser de parler de politique.",
+         false,
+         "Au contraire : elle permet d'en parler mieux."
+        ],
+        [
+         "À supprimer les sentiments d'appartenance.",
+         false,
+         "La patrie est un plan légitime : il s'agit de ne pas la confondre avec les autres."
+        ]
+       ],
+       "ok": "Correct : de la clarté, pas un verdict.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Tu distingues maintenant État, pays, nation et patrie",
+   "parrafos": [
+    "L'État est juridique, le pays territorial, la nation culturelle et la patrie émotionnelle. L'idéal de l'État-nation voulait les faire coïncider, mais il y a des États plurinationaux et des nations réparties ou sans État.",
+    "Tu l'as dans la section <a href=\"#teoria/fil-t6/3\">« Le pouvoir et sa légitimité »</a> du thème 6. Pour continuer : « Qu'est-ce qui rend le pouvoir légitime ? »."
+   ],
+   "siguiente": "fil-legitimidad"
   }
  },
  {
@@ -4175,13 +6029,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "Phase 3 · Élargissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Comment les mouvements sociaux changent-ils la politique ?",
+    "intro": [
+     "Il y a un siècle, les femmes ne pouvaient pas voter dans la plupart des pays. Cela a-t-il changé parce qu'un parlement l'a décidé un jour, ou s'est-il passé quelque chose avant ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : toute la politique ne passe pas par les partis et les urnes. Les <em>mouvements sociaux</em> organisent les gens en dehors des institutions pour changer les lois et les mœurs.",
+     "Exemples : le suffragisme, le mouvement pour les droits civiques, le mouvement ouvrier, le féminisme, l'écologisme. Beaucoup de droits qui semblent aujourd'hui évidents ont été conquis par une pression sociale soutenue avant d'arriver aux parlements.",
+     "L'un de leurs outils est la <em>désobéissance civile</em>. Henry David Thoreau l'a défendue au XIXe siècle en refusant de payer un impôt qui soutenait l'esclavage et la guerre ; Gandhi et Martin Luther King en ont fait une stratégie de masse.",
+     "Ce qui la sépare du <strong>délit ordinaire</strong> : elle ne cherche ni le profit personnel ni à se cacher, mais à changer une norme en faisant appel à des <strong>principes partagés</strong>. Faut-il toujours obéir à la loi, ou quand est-il légitime de lui désobéir : cela reste un débat ouvert."
+    ],
+    "comprobacion": {
+     "pregunta": "Qu'est-ce qui distingue la désobéissance civile d'un délit ordinaire ?",
+     "opciones": [
+      [
+       "Qu'elle ne cherche ni le profit personnel ni à se cacher, mais à changer une norme en faisant appel à des principes partagés.",
+       true
+      ],
+      [
+       "Qu'elle n'a jamais de conséquences juridiques.",
+       false,
+       "Celui qui la pratique accepte la sanction."
+      ],
+      [
+       "Que seuls les partis politiques peuvent la pratiquer.",
+       false,
+       "Elle naît presque toujours hors des partis, dans des mouvements sociaux."
+      ],
+      [
+       "Qu'elle est toujours violente.",
+       false,
+       "Par définition, elle est non violente."
+      ]
+     ],
+     "ok": "Exact : publique et fondée sur des principes.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "Mouvements sociaux",
+      "titulo": "La politique en dehors des institutions",
+      "definicion": [
+       "<strong>Mouvements sociaux</strong> : le suffragisme, les droits civiques, le mouvement ouvrier, le féminisme, l'écologisme ; une pression soutenue pour changer les lois et les mœurs.",
+       "<strong>Désobéissance civile</strong> : enfreindre de façon publique, non violente et délibérée une loi jugée injuste, en acceptant la sanction. Thoreau, Gandhi, Martin Luther King.",
+       "Le débat reste ouvert : certains défendent d'obéir toujours à la loi et d'autres de lui désobéir dans les cas graves d'injustice."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Pourquoi Thoreau a-t-il refusé de payer un impôt ?",
+       "opciones": [
+        [
+         "Parce qu'il soutenait l'esclavage et la guerre.",
+         true
+        ],
+        [
+         "Parce qu'il n'avait pas d'argent.",
+         false,
+         "Ce fut une décision de principe, non un manque d'argent."
+        ],
+        [
+         "Parce qu'il voulait garder l'argent pour lui.",
+         false,
+         "Il ne cherchait pas son profit personnel : c'est ce qui le distinguerait d'un délit ordinaire."
+        ],
+        [
+         "Parce que l'impôt était nouveau.",
+         false,
+         "La raison était morale : ce que l'impôt finançait."
+        ]
+       ],
+       "ok": "Correct : à cause de ce qu'il finançait.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Tu sais maintenant ce qui rend le pouvoir légitime",
    "parrafos": [
     "Le pouvoir est la capacité de commander ; la légitimité, le droit reconnu de le faire. Weber a distingué trois sources : la tradition, le charisme et la loi.",
-    "Mais ce qui est légal n'est pas toujours juste, comme l'a montré Antigone. La désobéissance civile est une réponse aux lois injustes, discutée en raison de ses risques. Pour continuer : « Qu'est-ce que le contrat social ? »."
+    "Mais ce qui est légal n'est pas toujours juste, comme l'a montré Antigone. La désobéissance civile est une réponse aux lois injustes, discutée en raison de ses risques. Pour continuer : « Qu'est-ce que le contrat social ? ».",
+    "Les mouvements sociaux, tu les as dans la section <a href=\"#teoria/fil-t6/7\">« Idéologies et défis d'aujourd'hui »</a> du thème 6."
    ],
    "siguiente": "fil-contrato"
   }
@@ -4697,6 +6631,223 @@ const PISTAS = [
     "Le voile d'ignorance est l'expérience de pensée de Rawls : choisir les règles sans savoir quelle place tu occuperas. De là naissent la règle du maximin et deux principes : des libertés égales pour tous et des inégalités seulement si elles profitent aux plus défavorisés. Nozick lui répond que ce qui est juste dépend de la manière dont chaque chose a été acquise.",
     "Pour réfléchir : compare ce que tu choisirais derrière le voile avec la société dans laquelle tu vis. Si elles ne se ressemblent pas, pourquoi défends-tu dans la vie réelle des choses que tu n'oserais pas écrire sans savoir quelle place te reviendra ?"
    ]
+  }
+ },
+ {
+  "id": "fil-democracia-derechos",
+  "subject": "fil",
+  "tema": "Thème 6 · La vie en société",
+  "unidad": "fil-t6",
+  "materia": "Philosophie 1re année · Politique",
+  "titulo": "Que faut-il pour qu'une démocratie en soit vraiment une ?",
+  "lede": "Voter ne suffit pas : les traits d'une démocratie libérale, et ce que dit et quelle force a la Déclaration universelle des droits de l'homme. Ne demande que les indices dont tu as besoin.",
+  "ciclos": [
+   {
+    "fase": "Phase 1 · Rappel",
+    "etiqueta": "Question de départ",
+    "pregunta": "Suffit-il qu'il y ait des élections pour qu'un pays soit une démocratie libérale ?",
+    "intro": [
+     "Dans un pays imaginaire, on vote tous les quatre ans. Mais on ne peut voter que pour un seul parti, les journaux sont contrôlés par le gouvernement et les juges sont nommés par le président. Est-ce une démocratie ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : il y a des élections, oui, mais il manque le <em>pluralisme</em> : que de nombreux partis et opinions rivalisent. Avec un seul parti, voter ne choisit rien.",
+     "Il manque aussi la <em>primauté du droit</em> : que celui qui gouverne y soit soumis comme n'importe qui, et la <em>reddition de comptes</em> : qu'il réponde de ce qu'il fait devant des juges indépendants et devant les citoyens.",
+     "Et il manque une <em>société civile</em> active : une presse, des associations et des syndicats qui ne dépendent pas de l'État.",
+     "Une <strong>démocratie libérale</strong> réunit plusieurs traits à la fois : pluralisme, primauté du droit, reddition de comptes, élections libres et périodiques, société civile active, gouvernement de la majorité avec des <strong>droits pour les minorités</strong> et représentation. Les élections sont l'un de ces traits, pas tous."
+    ],
+    "comprobacion": {
+     "pregunta": "Que signifie « majorité avec des droits pour les minorités » ?",
+     "opciones": [
+      [
+       "Que celui qui gagne les élections gouverne, mais sans écraser les droits de celui qui perd.",
+       true
+      ],
+      [
+       "Que la majorité peut décider n'importe quoi au sujet de la minorité.",
+       false,
+       "Ce serait une tyrannie de la majorité, justement ce que ce trait évite."
+      ],
+      [
+       "Que c'est toujours la minorité qui gouverne.",
+       false,
+       "C'est la majorité qui gouverne, avec des limites."
+      ],
+      [
+       "Qu'on ne vote jamais pour ne déranger personne.",
+       false,
+       "On vote ; ce qu'il y a, ce sont des droits que le vote ne peut pas retirer."
+      ]
+     ],
+     "ok": "Bien : gagner ne donne pas droit à tout.",
+     "mal": "Pas encore."
+    },
+    "rescate": [
+     {
+      "boton": "J'ai besoin de voir des exemples",
+      "etiqueta": "Exemples",
+      "titulo": "Chaque trait, avec son contraire",
+      "definicion": [
+       "Pluralisme ↔ parti unique.",
+       "Primauté du droit ↔ pouvoir arbitraire.",
+       "Reddition de comptes ↔ impunité.",
+       "Élections libres et périodiques ↔ charge à vie ou héritée.",
+       "Société civile active ↔ contrôle de la vie publique par l'État."
+      ],
+      "comprobacion": {
+       "etiqueta": "Vérification des exemples",
+       "pregunta": "Un ministre qui ne peut pas être jugé, quoi qu'il fasse. Quel trait manque ?",
+       "opciones": [
+        [
+         "La reddition de comptes (et la primauté du droit).",
+         true
+        ],
+        [
+         "Le pluralisme.",
+         false,
+         "Le problème n'est pas le nombre de partis en compétition, mais que personne ne lui demande de comptes."
+        ],
+        [
+         "La représentation.",
+         false,
+         "Il peut avoir été élu ; ce qui fait défaut, c'est qu'il ne répond pas de ses actes."
+        ],
+        [
+         "La société civile.",
+         false,
+         "Elle peut exister ; le défaut est que le pouvoir échappe à la loi."
+        ]
+       ],
+       "ok": "Correct : l'impunité face à la reddition de comptes.",
+       "mal": "Regarde de nouveau les contraires.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Définition et explication",
+      "titulo": "La démocratie libérale",
+      "definicion": [
+       "Une <strong>démocratie libérale</strong> combine le gouvernement de la majorité avec des limites qui protègent les droits de tous.",
+       "Ses traits : pluralisme, primauté du droit, reddition de comptes, élections libres et périodiques, société civile active, majorité avec des droits pour les minorités et représentation.",
+       "Chaque trait se comprend mieux par son contraire : parti unique, pouvoir arbitraire, impunité, charge héritée, contrôle étatique, tyrannie de la majorité."
+      ],
+      "comprobacion": {
+       "boton": "Vérifier ma compréhension",
+       "etiqueta": "Vérification finale",
+       "pregunta": "Que signifie la « primauté du droit » ?",
+       "opciones": [
+        [
+         "Que celui qui gouverne est lui aussi soumis à la loi.",
+         true
+        ],
+        [
+         "Qu'il y a beaucoup de lois.",
+         false,
+         "Ce n'est pas une question de quantité, mais du fait que personne ne soit au-dessus."
+        ],
+        [
+         "Que le gouvernement peut changer la loi quand il veut, sans limites.",
+         false,
+         "Ce serait un pouvoir arbitraire."
+        ],
+        [
+         "Que la loi est faite par un empereur.",
+         false,
+         "« Primauté » signifie ici que c'est le droit qui domine, et non une personne."
+        ]
+       ],
+       "ok": "Correct : personne au-dessus de la loi.",
+       "mal": "Pas encore."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "Phase 2 · Approfondissement",
+    "etiqueta": "Nouvelle question",
+    "pregunta": "Que dit la Déclaration universelle des droits de l'homme, et oblige-t-elle les États ?",
+    "intro": [
+     "Un pays a voté pour la Déclaration universelle de 1948 et, pourtant, il emprisonne des journalistes. Enfreint-il une loi internationale ?"
+    ],
+    "pistas": [
+     "Pour y voir clair : l'Assemblée générale de l'ONU a adopté la Déclaration en 1948, après la Seconde Guerre mondiale. Son préambule part de la <em>dignité</em> de tout être humain.",
+     "L'article 1 proclame que nous naissons tous libres et égaux en dignité et en droits ; l'article 2 interdit la discrimination. Les articles 3 à 21 recueillent des droits <em>civils et politiques</em> (vie, liberté, procès équitable, expression, participation), et les articles 22 à 27, des droits <em>économiques, sociaux et culturels</em> (travail, éducation, santé).",
+     "Mais attention à sa force : la Déclaration est une <em>résolution</em> de l'Assemblée, non un traité. Elle fixe un idéal commun, mais à elle seule elle n'oblige pas juridiquement.",
+     "C'est pourquoi en 1966 on a adopté deux <strong>pactes</strong> —l'un sur les droits civils et politiques, l'autre sur les droits économiques, sociaux et culturels— qui, eux, sont des traités et obligent les États qui les ratifient. En bref : <strong>la Déclaration inspire et les pactes obligent</strong>."
+    ],
+    "comprobacion": {
+     "pregunta": "Pourquoi la Déclaration de 1948 n'oblige-t-elle pas les États à elle seule ?",
+     "opciones": [
+      [
+       "Parce que c'est une résolution de l'Assemblée générale, non un traité.",
+       true
+      ],
+      [
+       "Parce qu'aucun pays ne l'a signée.",
+       false,
+       "Elle a été adoptée par l'Assemblée générale de l'ONU."
+      ],
+      [
+       "Parce qu'elle ne parle que de droits économiques.",
+       false,
+       "Elle recueille des droits civils et politiques, et aussi des droits économiques, sociaux et culturels."
+      ],
+      [
+       "Parce qu'elle a expiré en 1966.",
+       false,
+       "Elle n'a pas expiré : en 1966, on a ajouté les pactes, qui, eux, obligent."
+      ]
+     ],
+     "ok": "Exact : une résolution, non un traité.",
+     "mal": "Pas tout à fait."
+    },
+    "rescate": [
+     {
+      "boton": "Afficher l'explication",
+      "etiqueta": "La Déclaration vue de l'intérieur",
+      "titulo": "Contenu et force",
+      "definicion": [
+       "<strong>Préambule</strong> : la dignité de tout être humain. <strong>Art. 1</strong> : libres et égaux en dignité et en droits. <strong>Art. 2</strong> : non-discrimination.",
+       "<strong>Art. 3-21</strong> : droits civils et politiques. <strong>Art. 22-27</strong> : droits économiques, sociaux et culturels.",
+       "<strong>Force</strong> : la Déclaration (1948) est une résolution ; les deux <strong>pactes</strong> de 1966 sont des traités et obligent ceux qui les ratifient."
+      ],
+      "comprobacion": {
+       "boton": "Terminer par une vérification",
+       "pregunta": "Dans quels articles de la Déclaration se trouvent les droits économiques, sociaux et culturels ?",
+       "opciones": [
+        [
+         "Du 22 au 27.",
+         true
+        ],
+        [
+         "Du 3 au 21.",
+         false,
+         "Ce sont les droits civils et politiques."
+        ],
+        [
+         "Seulement dans le préambule.",
+         false,
+         "Le préambule fonde la dignité ; les droits sont énumérés ensuite."
+        ],
+        [
+         "Ils n'apparaissent pas dans la Déclaration.",
+         false,
+         "Si, ils apparaissent : travail, éducation, santé, vie culturelle."
+        ]
+       ],
+       "ok": "Correct : du 22 au 27.",
+       "mal": "Relis l'explication."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Tu sais maintenant ce qu'est une démocratie libérale et quelle force ont les droits de l'homme",
+   "parrafos": [
+    "Une démocratie libérale ne se réduit pas au vote : elle exige le pluralisme, la primauté du droit, la reddition de comptes, une société civile et des droits pour les minorités. La Déclaration de 1948 inspire ; les pactes de 1966 obligent.",
+    "Tu l'as dans les sections <a href=\"#teoria/fil-t6/5\">« Les formes de gouvernement et la démocratie »</a> et <a href=\"#teoria/fil-t6/6\">« Les droits de l'homme et l'État de droit »</a> du thème 6. Pour continuer : « Tout est-il relatif en morale ? », avec le débat sur l'universalité des droits."
+   ],
+   "siguiente": "fil-relativismo"
   }
  },
  {
