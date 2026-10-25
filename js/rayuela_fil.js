@@ -439,8 +439,8 @@ const RAYUELA_FIL = {
     9.6,
     11.6
    ],
-   "titulo": "L'homme, mesure de toutes choses",
-   "texto": "Protagoras, le sophiste le plus célèbre d'Athènes, soutenait que « l'homme est la mesure de toutes choses » : le même vent est froid pour qui grelotte et agréable pour qui vient de courir. Cela vaut-il aussi pour la vérité ?",
+   "titulo": "L'être humain, mesure de toutes choses",
+   "texto": "Protagoras, le sophiste le plus célèbre d'Athènes, soutenait que « l'être humain est la mesure de toutes choses » : le même vent est froid pour qui grelotte et agréable pour qui vient de courir. Cela vaut-il aussi pour la vérité ?",
    "pregunta": "Y a-t-il des vérités valables pour tous ?",
    "opciones": [
     {

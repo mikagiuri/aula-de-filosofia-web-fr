@@ -379,7 +379,7 @@ const RESUMENES_FIL = [
       "d": "corps et esprit, biologie et culture, individu et société, conditionnement et liberté ; aucune réponse n'a clos le débat"
      },
      {
-      "t": "« L'homme est la mesure de toutes choses »",
+      "t": "« L'être humain est la mesure de toutes choses »",
       "d": "aujourd'hui on la lit dans une optique humaniste, mais c'est une lecture moderne : elle parlait de la vérité et c'est une thèse relativiste",
       "a": "Protagoras"
      }

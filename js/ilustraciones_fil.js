@@ -1089,7 +1089,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/retratos/museo2/boecio.jpg",
   "t": "Boèce et la roue de la Fortune",
-  "pie": "Miniature d'une édition française de La Consolation de la philosophie : Boèce converse avec deux figures féminines près de la roue de la Fortune, qui fait monter et descendre les hommes. L'œuvre se demande comment la liberté humaine s'accorde avec le destin et avec un Dieu qui sait tout.",
+  "pie": "Miniature d'une édition française de La Consolation de la philosophie : Boèce converse avec deux figures féminines près de la roue de la Fortune, qui fait monter et descendre les êtres humains. L'œuvre se demande comment la liberté humaine s'accorde avec le destin et avec un Dieu qui sait tout.",
   "tema": "fil-metafisica",
   "license": "Domaine public",
   "artist": ""

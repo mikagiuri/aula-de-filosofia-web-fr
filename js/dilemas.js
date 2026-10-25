@@ -205,13 +205,13 @@ const DILEMAS = [
    {
     "quien": "Rousseau",
     "elige": "B",
-    "porque": "L'homme naît bon et libre, et la société l'enchaîne ; l'enfant de la forêt n'est pas un défaut d'humanité mais un échantillon de ce que nous sommes avant qu'on nous déforme.",
+    "porque": "L'être humain naît bon et libre, et la société l'enchaîne ; l'enfant de la forêt n'est pas un défaut d'humanité mais un échantillon de ce que nous sommes avant qu'on nous déforme.",
     "biografia": "rousseau"
    },
    {
     "quien": "Kant",
     "elige": "A",
-    "porque": "L'homme est la seule créature qui doive être éduquée ; ce n'est que par l'éducation qu'il peut devenir homme. Il n'y a pas d'humanité sans discipline et sans culture.",
+    "porque": "L'être humain est la seule créature qui doive être éduquée ; ce n'est que par l'éducation qu'il peut devenir un être humain. Il n'y a pas d'humanité sans discipline et sans culture.",
     "biografia": "kant"
    },
    {
@@ -320,7 +320,7 @@ const DILEMAS = [
    {
     "quien": "Aristote",
     "elige": "B",
-    "porque": "La personne vertueuse ne décide pas avec une formule mais avec son caractère : il y a des actions qu'un homme bon n'accomplit pas, et pousser un innocent en fait partie, même si le résultat est meilleur.",
+    "porque": "La personne vertueuse ne décide pas avec une formule mais avec son caractère : il y a des actions qu'un être humain bon n'accomplit pas, et pousser un innocent en fait partie, même si le résultat est meilleur.",
     "biografia": "aristoteles"
    },
    {

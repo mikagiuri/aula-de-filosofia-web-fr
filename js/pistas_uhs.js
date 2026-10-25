@@ -829,7 +829,7 @@ const PISTAS = [
       ],
       "comprobacion": {
        "boton": "Terminer par une vérification",
-       "pregunta": "Un homme atteint d'amnésie totale ne se souvient de rien de sa vie. Quel problème cela pose-t-il au critère de la mémoire ?",
+       "pregunta": "Un être humain atteint d'amnésie totale ne se souvient de rien de sa vie. Quel problème cela pose-t-il au critère de la mémoire ?",
        "opciones": [
         [
          "Il semblerait qu'il ne soit plus la personne qui a vécu cette vie, et cela paraît absurde.",
@@ -1516,7 +1516,7 @@ const PISTAS = [
       "etiqueta": "Exemples",
       "titulo": "Trois réponses au problème",
       "definicion": [
-       "<strong>Déterminisme dur</strong> : tout est déterminé, et c'est pourquoi la liberté est une illusion. Spinoza disait que les hommes se croient libres parce qu'ils connaissent leurs actions mais ignorent leurs causes (<em>Éthique</em> I, appendice).",
+       "<strong>Déterminisme dur</strong> : tout est déterminé, et c'est pourquoi la liberté est une illusion. Spinoza disait que les êtres humains se croient libres parce qu'ils connaissent leurs actions mais ignorent leurs causes (<em>Éthique</em> I, appendice).",
        "<strong>Libertarisme</strong> : les décisions humaines ne sont pas entièrement déterminées ; il y a en elles quelque chose qui ne se réduit pas à des causes antérieures.",
        "<strong>Compatibilisme</strong> : tout a des causes, et pourtant nous sommes libres, car être libre, ce n'est pas agir sans cause, mais agir sans contrainte."
       ],
@@ -2757,7 +2757,7 @@ const PISTAS = [
     "pistas": [
      "Pour y voir clair : certaines phrases parlent de <em>nos goûts ou de nos sensations</em> (« elle est très salée »). Pour celles-là, que chacun ait sa vérité est raisonnable : en réalité, elles parlent de chacun.",
      "D'autres parlent de <em>la façon dont est le monde</em> (« l'eau bout à 100 °C au niveau de la mer »). Celles-là ne changent pas selon qui les dit : ou bien l'eau bout à cette température, ou bien non.",
-     "Le sophiste Protagoras disait que « l'homme est la mesure de toutes choses ». Dans le <em>Théétète</em>, Platon lui tend un piège : si tout ce que chacun croit est vrai pour lui, alors la croyance de celui qui pense que Protagoras se trompe est vraie aussi.",
+     "Le sophiste Protagoras disait que « l'être humain est la mesure de toutes choses ». Dans le <em>Théétète</em>, Platon lui tend un piège : si tout ce que chacun croit est vrai pour lui, alors la croyance de celui qui pense que Protagoras se trompe est vraie aussi.",
      "C'est le problème du <strong>relativisme</strong> radical : la phrase « toute vérité est relative » veut être vraie pour tous, et ainsi elle <strong>se contredit elle-même</strong>. Cela ne rend pas certaines toutes nos opinions, mais cela montre que tout n'est pas une question de point de vue."
     ],
     "comprobacion": {

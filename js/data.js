@@ -4705,7 +4705,7 @@ const QUIZZES = {
     "o": [
      "Avec celle de Thalès : demander des raisons et ne pas accepter l'autorité.",
      "Avec celle du Scribe : le savoir est ordre à l'imitation du ciel.",
-     "Avec celle du Scribe : l'égalité des hommes est une fausseté.",
+     "Avec celle du Scribe : l'égalité des êtres humains est une fausseté.",
      "Avec celle des Égyptiens : le mythe dicté par un pouvoir suprême."
     ],
     "a": 0,
@@ -4720,7 +4720,7 @@ const QUIZZES = {
      "En ce que leurs dieux sont plus puissants que le Dieu de la Lumière d'Égypte."
     ],
     "a": 1,
-    "fb": "Thalès dit qu'ils ne se croient supérieurs qu'en ne croyant pas à des civilisations supérieures : le Logos est unique en tous les hommes."
+    "fb": "Thalès dit qu'ils ne se croient supérieurs qu'en ne croyant pas à des civilisations supérieures : le Logos est unique en tous les êtres humains."
    }
   ]
  },
@@ -4751,7 +4751,7 @@ const QUIZZES = {
     "fb": "L'anthropologie culturelle décrit des peuples et des coutumes par l'observation ; la philosophique cherche, avec des concepts et des arguments, ce qui nous définit comme humains."
    },
    {
-    "q": "Qui a affirmé que « l'homme est la mesure de toutes choses » ?",
+    "q": "Qui a affirmé que « l'être humain est la mesure de toutes choses » ?",
     "o": [
      "Aristote",
      "Kant",
@@ -4762,7 +4762,7 @@ const QUIZZES = {
     "fb": "La phrase est du sophiste Protagoras, qui plaça l'être humain au centre de la réflexion dès l'Antiquité."
    },
    {
-    "q": "Que veut dire la phrase « l'homme est la mesure de toutes choses » ?",
+    "q": "Que veut dire la phrase « l'être humain est la mesure de toutes choses » ?",
     "o": [
      "Que l'être humain est l'être vivant le plus grand et le plus parfait de toute la nature",
      "Qu'il n'y a pas de critère absolu de vérité : les choses sont telles qu'elles paraissent à chacun, ou à chaque communauté",
@@ -5072,7 +5072,7 @@ const QUIZZES = {
    {
     "q": "Une entreprise teste un médicament sur ses employés sans les en informer, uniquement pour économiser des coûts. Quelle idée du thème explique le mieux pourquoi c'est inacceptable ?",
     "o": [
-     "Que l'homme est la mesure de toutes choses, comme le disait Protagoras",
+     "Que l'être humain est la mesure de toutes choses, comme le disait Protagoras",
      "Que la culture est une seconde matrice dans laquelle l'être humain se forme",
      "Que la personne est une fin en soi, jamais un simple moyen",
      "Que chez l'être humain l'existence précède toujours l'essence"
@@ -5351,7 +5351,7 @@ const QUIZZES = {
     "fb": "Celui qui affirme qu'on ne peut rien connaître affirme quelque chose de très sûr sur la connaissance, précisément ce qu'il dit être impossible."
    },
    {
-    "q": "La phrase « L'homme est la mesure de toutes choses » est de…",
+    "q": "La phrase « L'être humain est la mesure de toutes choses » est de…",
     "o": [
      "Platon, et elle exprime le dogmatisme",
      "Pyrrhon d'Élis, et elle exprime le scepticisme",
