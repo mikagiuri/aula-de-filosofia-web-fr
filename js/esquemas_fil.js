@@ -93,6 +93,142 @@ const ESQUEMAS_FIL = {
     }
    ],
    "idea": "« Sapere aude (ose savoir) : aie le courage de te servir de ta propre raison » (Kant). Philosopher, c'est chercher la vérité avec des arguments, sans perdre l'étonnement."
+  },
+  "v3": {
+   "pregunta": "Quel type de savoir est la philosophie, comment est-elle arrivée jusqu'à nous et comment la pratique-t-on ?",
+   "raiz": "LA PHILOSOPHIE",
+   "raiz_d": "Philía (amour) + sophía (sagesse) : amour de la sagesse. Celui qui philosophe ne possède pas la vérité : il la désire et la cherche.",
+   "ramas": [
+    {
+     "rel": "naît de l'étonnement avec le passage",
+     "t": "Du mythe au logos",
+     "k": true,
+     "a": "Thalès de Milet",
+     "d": "Grèce, VIe s. av. J.-C. : des récits sur les dieux aux explications par des raisons.",
+     "c": [
+      {
+       "rel": "laisse derrière elle",
+       "t": "Le mythe",
+       "d": "Récit traditionnel que l'on accepte sans discuter : tout dépend de la volonté des dieux."
+      },
+      {
+       "rel": "adopte",
+       "t": "Le logos",
+       "d": "Cherche le principe (arkhé) de la nature avec des arguments que chacun peut examiner."
+      }
+     ]
+    },
+    {
+     "rel": "parmi les types de savoir",
+     "t": "Un savoir des causes dernières",
+     "k": true,
+     "d": "Les trois savoirs ne s'excluent pas : ils se complètent.",
+     "c": [
+      {
+       "rel": "ce n'est pas le",
+       "t": "Savoir commun",
+       "d": "Spontané et utile dans la vie quotidienne, mais peu réfléchi : il tend au préjugé. « Le feu brûle »."
+      },
+      {
+       "rel": "ni le",
+       "t": "Savoir scientifique",
+       "d": "Cherche les causes prochaines en observant et en expérimentant, mais dans une parcelle de la réalité. « L'eau est H₂O »."
+      },
+      {
+       "rel": "mais le",
+       "t": "Savoir philosophique",
+       "k": true,
+       "d": "Cherche les premiers principes et une vision de la réalité dans son ensemble (vision du monde).",
+       "c": [
+        {
+         "rel": "par sa méthode",
+         "t": "Rationnel et critique",
+         "d": "Il argumente au lieu d'invoquer l'autorité et examine tout, y compris ses propres idées."
+        },
+        {
+         "rel": "par sa portée",
+         "t": "Radicale et universelle",
+         "d": "Il va à la racine des problèmes et s'interroge sur toute la réalité."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "rel": "se divise en branches et dialogue",
+     "t": "Avec les autres savoirs",
+     "d": "Les branches figurent dans le schéma « Les branches de la philosophie ».",
+     "c": [
+      {
+       "rel": "avec la science",
+       "t": "Décrire n'est pas prescrire",
+       "d": "La science dit comment sont les choses ; la philosophie s'interroge sur les concepts et sur ce qu'elles doivent être."
+      },
+      {
+       "rel": "avec la religion",
+       "t": "Les mêmes questions, une autre méthode",
+       "d": "Elles partagent les grandes questions, mais la religion répond depuis la foi et la philosophie depuis la raison."
+      }
+     ]
+    },
+    {
+     "rel": "au fil de l'histoire",
+     "t": "Quatre grandes périodes",
+     "k": true,
+     "d": "Une période n'efface pas les précédentes.",
+     "c": [
+      {
+       "rel": "VIe s. av. J.-C. – Ve s.",
+       "t": "Antiquité : la nature et l'être humain",
+       "a": "Socrate, Platon, Aristote"
+      },
+      {
+       "rel": "Ve – XVe s.",
+       "t": "Moyen Âge : raison et foi",
+       "a": "Augustin d'Hippone, Thomas d'Aquin"
+      },
+      {
+       "rel": "XVe – XVIIIe s.",
+       "t": "Modernité : la connaissance",
+       "a": "Descartes, Hume, Kant"
+      },
+      {
+       "rel": "XIXe – XXIe s.",
+       "t": "Époque contemporaine : de nombreux courants",
+       "a": "Marx, Nietzsche, Arendt, Zambrano"
+      }
+     ]
+    },
+    {
+     "rel": "sert aujourd'hui et se pratique",
+     "t": "Fonctions et méthode",
+     "c": [
+      {
+       "rel": "elle en remplit trois",
+       "t": "Fonctions",
+       "d": "Critique (penser par soi-même), d'orientation (ce que pourrait être le monde) et de recherche du sens."
+      },
+      {
+       "rel": "elle s'apprend en",
+       "t": "Commenter un texte",
+       "d": "Thème, thèse, arguments et opinion argumentée."
+      },
+      {
+       "rel": "et dans le",
+       "t": "Dialogue argumentatif",
+       "d": "C'est la meilleure raison qui l'emporte, pas celui qui crie le plus fort ni celui qui commande le plus."
+      }
+     ]
+    }
+   ],
+   "cruces": [
+    {
+     "de": "Le logos",
+     "rel": "s'exerce aujourd'hui dans le",
+     "a": "Dialogue argumentatif"
+    }
+   ],
+   "idea": "La philosophie cherche les causes dernières avec des raisons : née de l'étonnement en Grèce, elle dialogue avec la science et la religion et s'apprend en philosophant, en commentant des textes et en discutant avec des arguments."
   }
  },
  "FIL-T1-02": {
