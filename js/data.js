@@ -79,9 +79,9 @@ const WEEK = [
 const SUBJECTS = {
  "fil": {
   "name": "Philosophie",
-  "kick": "1re année de Bachillerato · Thèmes 1-3",
+  "kick": "1re année de Bachillerato",
   "color": "var(--fil)",
-  "intro": "« Qu'est-ce que la philosophie ? » : l'étonnement, du mythe au logos, caractéristiques, branches, la philosophie et les autres savoirs, et la méthode (lire et argumenter). Trois séances que reçoivent à l'identique les groupes C, D et G.",
+  "intro": "",
   "mats": [],
   "tools": [
    [
