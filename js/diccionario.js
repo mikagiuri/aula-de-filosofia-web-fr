@@ -837,6 +837,51 @@ const DICCIONARIO = [
  },
  {
   "subject": "fil",
+  "t": "État",
+  "id": "g-fil-estado",
+  "et": "Du latin *status*, « situation, manière d’être », de *stare*, « se tenir debout ». Machiavel commença à employer *lo stato* pour le pouvoir organisé d’une cité ou d’un royaume.",
+  "area": "Politique",
+  "tema": "Philosophie · Thème 6",
+  "def": "Organisation politique qui, sur un territoire et sa population, édicte les lois qui obligent tout le monde et se réserve l’usage légitime de la force. Max Weber l’a défini par ce monopole."
+ },
+ {
+  "subject": "fil",
+  "t": "Pouvoir",
+  "id": "g-fil-poder",
+  "et": "Du latin vulgaire *potere*, qui remplaça le classique *posse*, « être capable ».",
+  "area": "Politique",
+  "tema": "Philosophie · Thème 6",
+  "def": "Capacité d’obtenir que d’autres agissent comme on le veut, même contre leur volonté. Ce n’est pas la même chose que l’autorité, à laquelle on obéit parce qu’on la reconnaît comme valable."
+ },
+ {
+  "subject": "fil",
+  "t": "Légitimité",
+  "id": "g-fil-legitimidad",
+  "et": "Du latin *legitimus*, « conforme à la loi », de *lex, legis*, « loi ».",
+  "area": "Politique",
+  "tema": "Philosophie · Thème 6",
+  "def": "Qualité du pouvoir que l’on accepte comme juste ou dû, et pas seulement comme imposé par la force. Weber en distingua trois sources : la tradition, le charisme de celui qui commande et les normes légales."
+ },
+ {
+  "subject": "fil",
+  "t": "Contrat social",
+  "id": "g-fil-contrato-social",
+  "et": "*Contrat*, du latin *contractus*, « accord », de *contrahere*, « réunir, resserrer ». L’expression devint célèbre avec *Du contrat social* (1762), de Rousseau.",
+  "area": "Politique",
+  "tema": "Philosophie · Thème 6",
+  "def": "Théorie selon laquelle la société politique naît d’un accord entre des individus qui, pour sortir de l’état de nature, cèdent une partie de leur liberté en échange de la sécurité et de droits. Hobbes, Locke et Rousseau l’ont soutenue, chacun à sa manière."
+ },
+ {
+  "subject": "fil",
+  "t": "Démocratie",
+  "id": "g-fil-democracia",
+  "et": "Du grec δημοκρατία (*demokratía*) : δῆμος (*dêmos*), « peuple », et κράτος (*krátos*), « pouvoir ».",
+  "area": "Politique",
+  "tema": "Philosophie · Thème 6",
+  "def": "Forme de gouvernement dans laquelle le pouvoir appartient aux citoyens, qui décident directement ou élisent ceux qui les représentent. La démocratie libérale y ajoute la séparation des pouvoirs, le respect des minorités et les droits fondamentaux."
+ },
+ {
+  "subject": "fil",
   "t": "Beauté",
   "id": "g-fil-belleza",
   "et": "Du latin *bellus*, « joli », un diminutif de *bonus*, « bon ». Le grec disait κάλλος (*kállos*) : de là *calligraphie*, « belle écriture ».",
@@ -889,7 +934,7 @@ const DICCIONARIO = [
   "id": "g-fil-argumento",
   "et": "Du latin *argumentum*, de *arguere*, « éclaircir, démontrer ». En grec, λόγος (*lógos*) ; l'argument dialectique s'appelait ἐπιχείρημα (*epikheírema*).",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Un ensemble de raisons (prémisses) avancées pour appuyer une conclusion."
  },
  {
@@ -898,7 +943,7 @@ const DICCIONARIO = [
   "id": "g-fil-premisa",
   "et": "Du latin *praemissa*, « mise devant » (*prae* + *mittere*, « envoyer, mettre »). Elle correspond au grec πρότασις (*prótasis*), « ce qui se propose devant », terme d'Aristote.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Chacune des raisons ou affirmations dont part un argument."
  },
  {
@@ -907,7 +952,7 @@ const DICCIONARIO = [
   "id": "g-fil-conclusion",
   "et": "Du latin *concludere*, « fermer ». Il traduit le grec συμπέρασμα (*sympérasma*), « ce qui se clôt », terme d'Aristote.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "L'affirmation qu'on prétend soutenir avec les prémisses."
  },
  {
@@ -916,7 +961,7 @@ const DICCIONARIO = [
   "id": "g-fil-argumento-deductivo",
   "et": "*Déduction*, du latin *deducere*, « conduire depuis, tirer de ». Son antécédent grec est le συλλογισμός (*syllogismós*) d'Aristote.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Celui qui, si les prémisses sont vraies, garantit la vérité de la conclusion."
  },
  {
@@ -925,7 +970,7 @@ const DICCIONARIO = [
   "id": "g-fil-argumento-inductivo",
   "et": "*Induction*, du latin *inducere*, « conduire vers » : des cas à la règle. *Induction* traduit le grec ἐπαγωγή (*epagogé*).",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Celui qui appuie la conclusion avec une certaine probabilité, sans la garantir."
  },
  {
@@ -934,7 +979,7 @@ const DICCIONARIO = [
   "id": "g-fil-validez",
   "et": "Du latin *validus*, « fort », de *valere*, « avoir de la force ». Les stoïciens appelaient συνακτικός (*synaktikós*), « qui conclut », l'argument valide, et ἀσύνακτος (*asýnaktos*) celui qui ne l'est pas.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Propriété formelle de l'argument déductif : si les prémisses sont vraies, la conclusion ne peut pas être fausse."
  },
  {
@@ -943,7 +988,7 @@ const DICCIONARIO = [
   "id": "g-fil-falacia",
   "et": "Du latin *fallacia*, « tromperie », de *fallere*, « tromper ». En grec, σόφισμα (*sóphisma*) ou παραλογισμός (*paralogismós*), dans les *Réfutations sophistiques* d'Aristote.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Un raisonnement qui semble valide mais ne l'est pas ; une erreur d'argumentation qui peut tromper."
  },
  {
@@ -952,7 +997,7 @@ const DICCIONARIO = [
   "id": "g-fil-ad-hominem",
   "et": "Du latin : « contre l'être humain », c'est-à-dire contre la personne et non contre ce qu'elle dit. Aristote distingue déjà entre répondre πρὸς τὸν λόγον (*pròs tòn lógon*), « à l'argument », et πρὸς τὸν ἄνθρωπον (*pròs tòn ánthropon*), « à la personne » (*Réfutations sophistiques* 22), bien qu'il s'agisse là de s'adresser à l'interlocuteur, et non de l'attaquer.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Attaquer la personne qui argumente au lieu de réfuter ses raisons."
  },
  {
@@ -961,7 +1006,7 @@ const DICCIONARIO = [
   "id": "g-fil-hombre-de-paja",
   "et": "Il traduit l'anglais *straw man*, « homme de paille » : un faux adversaire, facile à terrasser.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Déformer la position de l'adversaire pour attaquer une version affaiblie de celle-ci."
  },
  {
@@ -970,7 +1015,7 @@ const DICCIONARIO = [
   "id": "g-fil-apelacion-a-la-autoridad",
   "et": "En latin, on l'appelle *ad verecundiam*, « à la pudeur » ou au respect : il est gênant de contredire quelqu'un que l'on respecte.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Tenir quelque chose pour vrai uniquement parce qu'une autorité le dit, sans examiner les raisons."
  },
  {
@@ -979,7 +1024,7 @@ const DICCIONARIO = [
   "id": "g-fil-pendiente-resbaladiza",
   "et": "Il traduit l'anglais *slippery slope*.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Affirmer qu'un pas mènera inévitablement à une chaîne de conséquences extrêmes, sans le justifier."
  },
  {
@@ -988,7 +1033,7 @@ const DICCIONARIO = [
   "id": "g-fil-falso-dilema",
   "et": "*Dilemme*, du grec δίλημμα (*dílemma*) : δι- (*di-*) « deux » + λῆμμα (*lêmma*) « prémisse, ce qu'on prend ».",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Présenter seulement deux options alors qu'en réalité il y en a davantage."
  },
  {
@@ -997,7 +1042,7 @@ const DICCIONARIO = [
   "id": "g-fil-generalizacion-apresurada",
   "et": "*Généraliser*, du latin *genus, generis*, « classe, espèce ». On l'apparente habituellement au sophisme qu'Aristote appelle παρὰ τὸ ἁπλῶς ἢ μὴ ἁπλῶς (*parà tò haplôs è mè haplôs*) : prendre pour dit tout court ce qui est dit dans un cas.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Conclure à une règle générale à partir de très peu de cas."
  },
  {
@@ -1006,7 +1051,7 @@ const DICCIONARIO = [
   "id": "g-fil-causa-falsa",
   "et": "En latin, *non causa pro causa*, « prendre pour cause ce qui n'en est pas une » ; une variante est *post hoc, ergo propter hoc*, « après cela, donc à cause de cela ». En grec, Aristote l'appelle τὸ μὴ αἴτιον ὡς αἴτιον (*tò mè aítion hos aítion*), « ce qui n'est pas cause, comme cause », et dans la *Rhétorique* (II 24) il donne l'exemple de prendre ce qui vient « après cela » pour une cause.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Prendre la succession temporelle pour de la causalité (post hoc) : « après cela, donc à cause de cela »."
  },
  {
@@ -1015,7 +1060,7 @@ const DICCIONARIO = [
   "id": "g-fil-apelacion-a-la-ignorancia",
   "et": "En latin, *ad ignorantiam*, « à l'ignorance ».",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Affirmer que quelque chose est vrai parce que le contraire n'a pas été démontré."
  },
  {
@@ -1024,7 +1069,7 @@ const DICCIONARIO = [
   "id": "g-fil-apelacion-a-la-mayoria",
   "et": "En latin, *ad populum*, « au peuple ».",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Tenir quelque chose pour vrai parce que la majorité le croit (ad populum)."
  },
  {
@@ -1033,7 +1078,7 @@ const DICCIONARIO = [
   "id": "g-fil-peticion-de-principio",
   "et": "Il traduit le latin *petitio principii* : « demander qu'on t'accorde le point de départ », qui est précisément ce qu'on voulait démontrer. *Petitio principii* traduit à son tour le grec τὸ ἐν ἀρχῇ αἰτεῖσθαι (*tò en arkhêi aiteîsthai*), d'Aristote.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Supposer dans les prémisses la conclusion même qu'on veut démontrer (circularité)."
  },
  {
@@ -1042,7 +1087,7 @@ const DICCIONARIO = [
   "id": "g-fil-apelacion-a-la-emocion",
   "et": "En latin, *ad misericordiam*, « à la compassion », et *ad baculum*, « au bâton », c'est-à-dire à la menace.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Chercher à faire accepter quelque chose en suscitant une émotion (pitié, peur, fierté) au lieu de donner des raisons."
  },
  {
@@ -1051,7 +1096,7 @@ const DICCIONARIO = [
   "id": "g-fil-tu-quoque",
   "et": "Du latin : « toi aussi ». C'est une variante de l'attaque contre la personne (ad hominem).",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Rejeter une critique en faisant remarquer que celui qui la formule ne respecte pas non plus ce qu'il demande : il peut être incohérent, mais cela ne rend pas la critique fausse."
  },
  {
@@ -1060,7 +1105,7 @@ const DICCIONARIO = [
   "id": "g-fil-falsa-analogia",
   "et": "*Analogie*, du grec ἀναλογία (*analogía*), « proportion, correspondance ».",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Conclure que deux choses coïncident sur un point parce qu'elles se ressemblent sur d'autres, alors que les différences qui comptent l'emportent sur les ressemblances."
  },
  {
@@ -1069,7 +1114,7 @@ const DICCIONARIO = [
   "id": "g-fil-equivoco",
   "et": "Du latin *aequivocus*, « de voix égale » : un même mot pour des choses différentes. Aristote l'étudie sous le nom de παρὰ τὴν ὁμωνυμίαν (*parà tèn homonymían*), « par homonymie » (*Réfutations sophistiques* 4).",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Employer un même mot dans deux sens différents au sein d'un raisonnement, comme s'il n'en avait qu'un seul."
  },
  {
@@ -1078,7 +1123,7 @@ const DICCIONARIO = [
   "id": "g-fil-pregunta-compleja",
   "et": "On l'appelle aussi *question captieuse*, du latin *captiosus*, « qui attrape ». Aristote parle de « faire de plusieurs questions une seule » (*Réfutations sophistiques* 5).",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Poser une question qui présuppose quelque chose de non admis, de sorte que n'importe quelle réponse l'admet (« As-tu arrêté de tricher aux examens ? »)."
  },
  {
@@ -1087,7 +1132,7 @@ const DICCIONARIO = [
   "id": "g-fil-pista-falsa",
   "et": "Traduit l'anglais *red herring*, « hareng rouge » : selon l'explication habituelle, un poisson fumé à l'odeur forte qui détournait les chiens de chasse de la piste.",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Détourner la discussion vers un autre sujet pour ne pas répondre à celui dont on parlait."
  },
  {
@@ -1096,7 +1141,7 @@ const DICCIONARIO = [
   "id": "g-fil-disertacion",
   "et": "Du latin *dissertatio*, de *disserere*, « exposer avec ordre, enchaîner des raisons ».",
   "area": "Logique",
-  "tema": "Atelier d'argumentation",
+  "tema": "Philosophie · Thème 4",
   "def": "Texte argumentatif qui défend une thèse avec des raisons, une structure (introduction, développement, conclusion) et une appréciation personnelle."
  },
  {

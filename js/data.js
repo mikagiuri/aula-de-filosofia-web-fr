@@ -129,7 +129,7 @@ const SUBJECTS = {
 };
 const DECKS = {
  "fil-que-es": {
-  "name": "Philosophie 1re Bach. · Qu'est-ce que la philosophie ? (T1)",
+  "name": "Qu'est-ce que la philosophie ? (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -185,7 +185,7 @@ const DECKS = {
   ]
  },
  "fil-ramas": {
-  "name": "Philosophie 1re Bach. · Les branches de la philosophie",
+  "name": "Les branches de la philosophie",
   "subject": "fil",
   "cards": [
    [
@@ -226,7 +226,7 @@ const DECKS = {
   ]
  },
  "fil-ser-humano": {
-  "name": "Philosophie 1re Bach. · Qu'est-ce que l'être humain ? (T2)",
+  "name": "Qu'est-ce que l'être humain ? (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -287,7 +287,7 @@ const DECKS = {
   ]
  },
  "fil-metafisica": {
-  "name": "Philosophie 1re Bach. · La réalité : métaphysique (M)",
+  "name": "La réalité : métaphysique (M)",
   "subject": "fil",
   "cards": [
    [
@@ -413,7 +413,7 @@ const DECKS = {
   ]
  },
  "fil-conocer": {
-  "name": "Philosophie 1re Bach. · Connaissance, vérité et science (T3)",
+  "name": "Connaissance, vérité et science (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -479,7 +479,7 @@ const DECKS = {
   ]
  },
  "fil-caracteristicas": {
-  "name": "Philosophie 1re Bach. · Caractéristiques du savoir philosophique (T1)",
+  "name": "Caractéristiques du savoir philosophique (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -535,7 +535,7 @@ const DECKS = {
   ]
  },
  "fil-mente": {
-  "name": "Philosophie 1re Bach. · Le corps et l'esprit (T2)",
+  "name": "Le corps et l'esprit (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -591,7 +591,7 @@ const DECKS = {
   ]
  },
  "fil-concepciones": {
-  "name": "Philosophie 1re Bach. · Conceptions de l'être humain (T2)",
+  "name": "Conceptions de l'être humain (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -647,7 +647,7 @@ const DECKS = {
   ]
  },
  "fil-verdad": {
-  "name": "Philosophie 1re Bach. · Pouvons-nous atteindre la vérité ? (T3)",
+  "name": "Pouvons-nous atteindre la vérité ? (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -703,7 +703,7 @@ const DECKS = {
   ]
  },
  "fil-metodo": {
-  "name": "Philosophie 1re Bach. · La méthode : lire et argumenter (T1)",
+  "name": "La méthode : lire et argumenter (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -759,7 +759,7 @@ const DECKS = {
   ]
  },
  "fil-saberes": {
-  "name": "Philosophie 1re Bach. · Les types de savoir (T1)",
+  "name": "Les types de savoir (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -815,7 +815,7 @@ const DECKS = {
   ]
  },
  "fil-identidad": {
-  "name": "Philosophie 1re Bach. · Personne, identité et sens (T2)",
+  "name": "Personne, identité et sens (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -871,7 +871,7 @@ const DECKS = {
   ]
  },
  "fil-ciencia": {
-  "name": "Philosophie 1re Bach. · Le savoir scientifique (T3)",
+  "name": "Le savoir scientifique (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -927,7 +927,7 @@ const DECKS = {
   ]
  },
  "fil-posverdad": {
-  "name": "Philosophie 1re Bach. · Post-vérité et fake news (T3)",
+  "name": "Post-vérité et fake news (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -983,7 +983,7 @@ const DECKS = {
   ]
  },
  "fil-etica": {
-  "name": "Philosophie 1re Bach. · Les questions de l'éthique (T5)",
+  "name": "Les questions de l'éthique (T5)",
   "subject": "fil",
   "cards": [
    [
@@ -1039,7 +1039,7 @@ const DECKS = {
   ]
  },
  "fil-t5-cuidado-cortina": {
-  "name": "Philosophie 1re · Le jugement moral, l'éthique du care et Cortina (T5)",
+  "name": "Le jugement moral, l'éthique du care et Cortina (T5)",
   "subject": "fil",
   "cards": [
    [
@@ -1100,7 +1100,7 @@ const DECKS = {
   ]
  },
  "fil-arte": {
-  "name": "Philosophie 1re Bach. · La beauté et l'art (T7)",
+  "name": "La beauté et l'art (T7)",
   "subject": "fil",
   "cards": [
    [
@@ -1151,7 +1151,7 @@ const DECKS = {
   ]
  },
  "fil-argumentacion": {
-  "name": "Philosophie 1re Bach. · Argumenter et repérer les sophismes (T4)",
+  "name": "Argumenter et repérer les sophismes (T4)",
   "subject": "fil",
   "cards": [
    [
@@ -1207,7 +1207,7 @@ const DECKS = {
   ]
  },
  "fil-etica-teorias": {
-  "name": "Philosophie 1re Bach. · Débats de l’éthique (T5)",
+  "name": "Débats de l’éthique (T5)",
   "subject": "fil",
   "cards": [
    [
@@ -1263,7 +1263,7 @@ const DECKS = {
   ]
  },
  "fil-poder": {
-  "name": "Philosophie 1re Bach. · Pouvoir, État et citoyenneté (T6)",
+  "name": "Pouvoir, État et citoyenneté (T6)",
   "subject": "fil",
   "cards": [
    [
@@ -1319,7 +1319,7 @@ const DECKS = {
   ]
  },
  "fil-arte-sociedad": {
-  "name": "Philosophie 1re Bach. · Art, beauté et société (T7)",
+  "name": "Art, beauté et société (T7)",
   "subject": "fil",
   "cards": [
    [
@@ -1375,7 +1375,7 @@ const DECKS = {
   ]
  },
  "fil-logica": {
-  "name": "Philosophie 1re Bach. · Logique : connecteurs, Boole et portes (T4)",
+  "name": "Logique : connecteurs, Boole et portes (T4)",
   "subject": "fil",
   "cards": [
    [
@@ -1431,7 +1431,7 @@ const DECKS = {
   ]
  },
  "fil-politica": {
-  "name": "Philosophie 1re Bach. · La vie en société : politique (T6)",
+  "name": "La vie en société : politique (T6)",
   "subject": "fil",
   "cards": [
    [
@@ -1487,7 +1487,7 @@ const DECKS = {
   ]
  },
  "fil-presocraticos": {
-  "name": "Philosophie 1re Bach. · Les présocratiques : la recherche de l'arkhé",
+  "name": "Les présocratiques : la quête de l'arkhé",
   "subject": "fil",
   "cards": [
    [
@@ -1543,7 +1543,7 @@ const DECKS = {
   ]
  },
  "fil-helenismo": {
-  "name": "Philosophie 1re Bach. · Les écoles hellénistiques : chemins vers le bonheur",
+  "name": "Les écoles hellénistiques : chemins vers le bonheur",
   "subject": "fil",
   "cards": [
    [
@@ -1596,7 +1596,7 @@ const DECKS = {
 };
 const QUIZZES = {
  "fil-t2-ampliacion": {
-  "name": "Coexistence entre cultures et émotions (Philosophie 1re Bach. · T2 · approfondissement)",
+  "name": "Coexistence entre cultures et émotions (T2 · approfondissement)",
   "subject": "fil",
   "items": [
    {
@@ -1712,7 +1712,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3-ampliacion": {
-  "name": "Perception, mémoire, post-vérité et femmes dans la science (Philosophie 1re Bach. · T3 · approfondissement)",
+  "name": "Perception, mémoire, post-vérité et femmes dans la science (T3 · approfondissement)",
   "subject": "fil",
   "items": [
    {
@@ -1872,7 +1872,7 @@ const QUIZZES = {
   ]
  },
  "fil-metafisica-ampliacion": {
-  "name": "L'intelligence artificielle (Philosophie 1re Bach. · thème M · approfondissement)",
+  "name": "L'intelligence artificielle (thème M · approfondissement)",
   "subject": "fil",
   "items": [
    {
@@ -1933,7 +1933,7 @@ const QUIZZES = {
   ]
  },
  "fil-t4-ampliacion": {
-  "name": "Les biais cognitifs (Philosophie 1re Bach. · T4 · approfondissement)",
+  "name": "Les biais cognitifs (T4 · approfondissement)",
   "subject": "fil",
   "items": [
    {
@@ -2005,7 +2005,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-ampliacion": {
-  "name": "Vertu, stoïcisme, devoir et éthique appliquée (Philosophie 1re Bach. · T5 · approfondissement)",
+  "name": "Vertu, stoïcisme, devoir et éthique appliquée (T5 · approfondissement)",
   "subject": "fil",
   "items": [
    {
@@ -2198,7 +2198,7 @@ const QUIZZES = {
   ]
  },
  "fil-t6-ampliacion": {
-  "name": "État et nation, démocratie, droits de l'homme et mouvements sociaux (Philosophie 1re Bach. · T6 · approfondissement)",
+  "name": "État et nation, démocratie, droits de l'homme et mouvements sociaux (T6 · approfondissement)",
   "subject": "fil",
   "items": [
    {
@@ -2424,7 +2424,7 @@ const QUIZZES = {
   ]
  },
  "fil-t7": {
-  "name": "Qu'est-ce que l'art ? · Esthétique (Philosophie 1re Bach. · T7)",
+  "name": "Qu'est-ce que l'art ? · Esthétique (T7)",
   "subject": "fil",
   "items": [
    {
@@ -2595,7 +2595,7 @@ const QUIZZES = {
   ]
  },
  "fil-t1": {
-  "name": "Qu'est-ce que la philosophie ? (Philosophie 1re Bach. · T1)",
+  "name": "Qu'est-ce que la philosophie ? (T1)",
   "subject": "fil",
   "items": [
    {
@@ -2711,7 +2711,7 @@ const QUIZZES = {
   ]
  },
  "fil-t2": {
-  "name": "L'être humain (Philosophie 1re Bach. · T2)",
+  "name": "L'être humain (T2)",
   "subject": "fil",
   "items": [
    {
@@ -2816,7 +2816,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3": {
-  "name": "Connaissance et vérité (Philosophie 1re Bach. · T3)",
+  "name": "Connaissance et vérité (T3)",
   "subject": "fil",
   "items": [
    {
@@ -2921,7 +2921,7 @@ const QUIZZES = {
   ]
  },
  "fil-metodo-q": {
-  "name": "La méthode et les types de savoir (Philosophie 1re Bach. · T1)",
+  "name": "La méthode et les types de savoir (T1)",
   "subject": "fil",
   "items": [
    {
@@ -3037,7 +3037,7 @@ const QUIZZES = {
   ]
  },
  "fil-mente-q": {
-  "name": "Corps, esprit et conceptions de l'être humain (Philosophie 1re Bach. · T2)",
+  "name": "Corps, esprit et conceptions de l'être humain (T2)",
   "subject": "fil",
   "items": [
    {
@@ -3153,7 +3153,7 @@ const QUIZZES = {
   ]
  },
  "fil-ciencia-q": {
-  "name": "Science, méthode et post-vérité (Philosophie 1re Bach. · T3)",
+  "name": "Science, méthode et post-vérité (T3)",
   "subject": "fil",
   "items": [
    {
@@ -3269,7 +3269,7 @@ const QUIZZES = {
   ]
  },
  "fil-ramas-q": {
-  "name": "Les branches de la philosophie (Philosophie 1re Bach. · T1)",
+  "name": "Les branches de la philosophie (T1)",
   "subject": "fil",
   "items": [
    {
@@ -3407,7 +3407,7 @@ const QUIZZES = {
   ]
  },
  "fil-etica-q": {
-  "name": "Philosophie 1re Bach. · Éthique : théories (T5)",
+  "name": "Éthique : théories (T5)",
   "subject": "fil",
   "items": [
    {
@@ -3479,7 +3479,7 @@ const QUIZZES = {
   ]
  },
  "fil-logica-q": {
-  "name": "Philosophie 1re Bach. · Tables de vérité et logique (T4)",
+  "name": "Tables de vérité et logique (T4)",
   "subject": "fil",
   "items": [
    {
@@ -3650,7 +3650,7 @@ const QUIZZES = {
   ]
  },
  "fil-politica-q": {
-  "name": "Philosophie 1re Bach. · La vie en société : politique (T6)",
+  "name": "La vie en société : politique (T6)",
   "subject": "fil",
   "items": [
    {
@@ -3733,7 +3733,7 @@ const QUIZZES = {
   ]
  },
  "fil-presocraticos-q": {
-  "name": "Philosophie 1re Bach. · Les présocratiques",
+  "name": "Les présocratiques",
   "subject": "fil",
   "items": [
    {
@@ -3816,7 +3816,7 @@ const QUIZZES = {
   ]
  },
  "fil-helenismo-q": {
-  "name": "Philosophie 1re Bach. · Les écoles hellénistiques",
+  "name": "Les écoles hellénistiques",
   "subject": "fil",
   "items": [
    {
@@ -3888,7 +3888,7 @@ const QUIZZES = {
   ]
  },
  "fil-t1-banco": {
-  "name": "Qu'est-ce que la philosophie ? (Philosophie 1re Bach. · T1 · banque élargie)",
+  "name": "Qu'est-ce que la philosophie ?",
   "subject": "fil",
   "items": [
    {
@@ -4334,7 +4334,7 @@ const QUIZZES = {
   ]
  },
  "fil-presocraticos-banco": {
-  "name": "Les origines de la philosophie : les présocratiques (Philosophie 1re Bach. · T1 · banque élargie)",
+  "name": "Les origines de la philosophie : les présocratiques",
   "subject": "fil",
   "items": [
    {
@@ -4725,7 +4725,7 @@ const QUIZZES = {
   ]
  },
  "fil-t2-banco": {
-  "name": "Qu'est-ce que l'être humain ? (Philosophie 1re Bach. · T2 · banque élargie)",
+  "name": "Qu'est-ce que l'être humain ?",
   "subject": "fil",
   "items": [
    {
@@ -5171,7 +5171,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3-banco": {
-  "name": "Que pouvons-nous connaître ? (Philosophie 1re année · T3 · banque élargie)",
+  "name": "Que pouvons-nous connaître ?",
   "subject": "fil",
   "items": [
    {
@@ -5617,7 +5617,7 @@ const QUIZZES = {
   ]
  },
  "fil-t4-banco": {
-  "name": "Logique et argumentation (Philosophie 1re année · T4 · banque élargie)",
+  "name": "Logique et argumentation",
   "subject": "fil",
   "items": [
    {
@@ -5953,7 +5953,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-banco": {
-  "name": "Les questions de l'éthique (Philosophie 1re année · T5 · banque élargie)",
+  "name": "Les questions de l'éthique",
   "subject": "fil",
   "items": [
    {
@@ -6289,7 +6289,7 @@ const QUIZZES = {
   ]
  },
  "fil-helenismo-banco": {
-  "name": "Les écoles hellénistiques : comment atteint-on le bonheur ? (Philosophie 1re année · T5 · banque élargie)",
+  "name": "Les écoles hellénistiques : comment atteint-on le bonheur ?",
   "subject": "fil",
   "items": [
    {
@@ -6493,7 +6493,7 @@ const QUIZZES = {
   ]
  },
  "fil-t6-banco": {
-  "name": "La vie en société (Philosophie politique) (Philosophie 1re année · T6 · banque élargie)",
+  "name": "La vie en société (Philosophie politique)",
   "subject": "fil",
   "items": [
    {
@@ -6829,7 +6829,7 @@ const QUIZZES = {
   ]
  },
  "fil-t7-banco": {
-  "name": "Qu'est-ce que l'art ? (Esthétique) (Philosophie 1re année · T7 · banque élargie)",
+  "name": "Qu'est-ce que l'art ? (Esthétique)",
   "subject": "fil",
   "items": [
    {
@@ -7286,7 +7286,7 @@ const QUIZZES = {
   ]
  },
  "fil-t1-repaso": {
-  "name": "Qu'est-ce que la philosophie ? (Philosophie 1re année · T1 · révision)",
+  "name": "Qu'est-ce que la philosophie ? (T1 · révision)",
   "subject": "fil",
   "items": [
    {
@@ -7468,7 +7468,7 @@ const QUIZZES = {
   ]
  },
  "fil-t2-repaso": {
-  "name": "L'être humain (Philosophie 1re année · T2 · révision)",
+  "name": "L'être humain (T2 · révision)",
   "subject": "fil",
   "items": [
    {
@@ -7683,7 +7683,7 @@ const QUIZZES = {
   ]
  },
  "fil-metafisica": {
-  "name": "La réalité : qu'y a-t-il et comment est-ce ? (Philosophie 1re année · M)",
+  "name": "La réalité : qu'y a-t-il et comment est-ce ? (M)",
   "subject": "fil",
   "items": [
    {
@@ -7964,7 +7964,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3-repaso": {
-  "name": "Connaissance et vérité (Philosophie 1re année · T3 · révision)",
+  "name": "Connaissance et vérité (T3 · révision)",
   "subject": "fil",
   "items": [
    {
@@ -8179,7 +8179,7 @@ const QUIZZES = {
   ]
  },
  "fil-venn-q": {
-  "name": "Propositions, classes et diagrammes d'Euler et de Venn (Philosophie 1re Bach. · T4)",
+  "name": "Propositions, classes et diagrammes d'Euler et de Venn (T4)",
   "subject": "fil",
   "items": [
    {
@@ -8328,7 +8328,7 @@ const QUIZZES = {
   ]
  },
  "fil-validez-q": {
-  "name": "Validité et vérité, déduction et induction (Philosophie 1re Bach. · T4 · itinéraire, niveau 1)",
+  "name": "Validité et vérité, déduction et induction (T4 · itinéraire, niveau 1)",
   "subject": "fil",
   "items": [
    {
@@ -8466,7 +8466,7 @@ const QUIZZES = {
   ]
  },
  "fil-formalizar-q": {
-  "name": "Formaliser en logique des propositions (Philosophie 1re Bach. · T4 · itinéraire, niveau 3)",
+  "name": "Formaliser en logique des propositions (T4 · itinéraire, niveau 3)",
   "subject": "fil",
   "items": [
    {
@@ -8637,7 +8637,7 @@ const QUIZZES = {
   ]
  },
  "fil-cuantif-q": {
-  "name": "Quantificateurs, carré logique et conversion (Philosophie 1re Bach. · T4 · itinéraire, niveau 6)",
+  "name": "Quantificateurs, carré logique et conversion (T4 · itinéraire, niveau 6)",
   "subject": "fil",
   "items": [
    {
@@ -8808,7 +8808,7 @@ const QUIZZES = {
   ]
  },
  "fil-boole-q": {
-  "name": "Classes, ensembles et algèbre de Boole : la même loi en cinq langages (Philosophie 1re Bach. · T4 · itinéraire, niveau 5)",
+  "name": "Classes, ensembles et algèbre de Boole : la même loi en cinq langages (T4 · itinéraire, niveau 5)",
   "subject": "fil",
   "items": [
    {
@@ -8946,7 +8946,7 @@ const QUIZZES = {
   ]
  },
  "fil-relaciones-q": {
-  "name": "Propriétés des relations et petits mondes (Philosophie 1re Bach. · T4 · itinéraire, niveau 8)",
+  "name": "Propriétés des relations et petits mondes (T4 · itinéraire, niveau 8)",
   "subject": "fil",
   "items": [
    {
@@ -9084,7 +9084,7 @@ const QUIZZES = {
   ]
  },
  "fil-t4-repaso": {
-  "name": "Logique et argumentation (Philosophie 1re année · T4 · révision)",
+  "name": "Logique et argumentation (T4 · révision)",
   "subject": "fil",
   "items": [
    {
@@ -9266,7 +9266,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-repaso": {
-  "name": "Éthique (Philosophie 1re année · T5 · révision)",
+  "name": "Éthique (T5 · révision)",
   "subject": "fil",
   "items": [
    {
@@ -9481,7 +9481,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-cuidado-cortina": {
-  "name": "Le jugement moral, l'éthique du care et Cortina (Philosophie 1re · T5 · révision)",
+  "name": "Le jugement moral, l'éthique du care et Cortina (T5 · révision)",
   "subject": "fil",
   "items": [
    {
@@ -9597,7 +9597,7 @@ const QUIZZES = {
   ]
  },
  "fil-t6-repaso": {
-  "name": "La vie en société : politique (Philosophie 1re année · T6 · révision)",
+  "name": "La vie en société : politique (T6 · révision)",
   "subject": "fil",
   "items": [
    {
@@ -9779,7 +9779,7 @@ const QUIZZES = {
   ]
  },
  "fil-t7-repaso": {
-  "name": "Esthétique : qu'est-ce que l'art ? (Philosophie 1re année · T7 · révision)",
+  "name": "Esthétique : qu'est-ce que l'art ? (T7 · révision)",
   "subject": "fil",
   "items": [
    {
